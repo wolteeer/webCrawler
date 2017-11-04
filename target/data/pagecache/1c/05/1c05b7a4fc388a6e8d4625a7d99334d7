@@ -1,0 +1,226 @@
+<!doctype html>
+<html id="en" lang="en">
+ <head> 
+  <meta charset="utf-8"> 
+  <title>
+      Google Ad Traffic Quality
+    </title> 
+  <meta content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" lang="en" rel="stylesheet"> 
+  <link href="https://fonts.googleapis.com/css?family=Material+Icons" rel="stylesheet"> 
+  <link href="/ads/adtrafficquality/dist/css/global.min.css" rel="stylesheet"> 
+  <script src="//www.google.com/js/gweb/analytics/autotrack-ads.js"></script> 
+  <script>
+    var gadsTracker = new gweb.analytics.AutoTrack({profile: 'UA-18008-20'});
+    </script> 
+  <script src="/ads/adtrafficquality/dist/js/detect.min.js"></script> 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script> 
+  <script src="https://www.gstatic.com/external_hosted/createjs/createjs-2015.11.26.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.11/angular.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.11/angular-animate.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.11/angular-touch.min.js"></script> 
+  <script async defer src="https://apis.google.com/js/platform.js"></script> 
+ </head> 
+ <body class="page-global page-invalid-activity"> 
+  <header class="page-header"> 
+   <div class="header-row"> 
+    <a href="/ads/adtrafficquality/"><img alt="Google" src="./dist/svg/google-logo.svg" width="115"></a> 
+   </div> 
+   <div class="nav-row"> 
+    <a href="/ads/adtrafficquality/"><img alt="Traffic Quality" src="./dist/svg/traffic-quality.svg" width="136"></a> 
+    <nav class="page-header__links" role="navigation"> 
+     <a class="link-index h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/">Overview</a> 
+     <a class="link-invalid-activity active h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/invalid-activity.html">Invalid activity</a> 
+     <a class="link-how-we-prevent-it h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/how-we-prevent-it.html">How we prevent it</a> 
+     <a class="link-what-you-can-do h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/what-you-can-do.html">What you can do</a> 
+     <a class="link-latest-news h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/latest-news.html">Latest news</a> 
+    </nav> 
+    <div mobile-menu-btn=""></div> 
+   </div> 
+   <div class="page-header__third-tier"> 
+    <a class="link-tag-taxonomy h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/tag-taxonomy.html">TAG Taxonomy</a> 
+   </div> 
+  </header> 
+  <aside class="mobile-menu"> 
+   <nav role="navigation"> 
+    <div accordion="" class="mobile-menu__link"> 
+     <a class="link-index h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/index.html"><span>Overview</span></a> 
+    </div> 
+    <div accordion="" class="mobile-menu__link"> 
+     <a class="link-invalid-activity active h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/invalid-activity.html"><span>Invalid activity</span></a> 
+     <span class="accordion__btn" ng-click="openPanel()">&nbsp;<i class="material-icons">keyboard_arrow_down</i></span> 
+     <div class="mobile-menu__sub-links accordion__panel"> 
+      <a class="link-tag-taxonomy h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/tag-taxonomy.html">TAG Taxonomy</a> 
+     </div> 
+    </div> 
+    <div accordion="" class="mobile-menu__link"> 
+     <a class="link-how-we-prevent-it h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/how-we-prevent-it.html"><span>How we prevent it</span></a> 
+    </div> 
+    <div accordion="" class="mobile-menu__link"> 
+     <a class="link-what-you-can-do h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/what-you-can-do.html"><span>What you can do</span></a> 
+    </div> 
+    <div accordion="" class="mobile-menu__link"> 
+     <a class="link-latest-news h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/latest-news.html"><span>Latest news</span></a> 
+    </div> 
+   </nav> 
+  </aside> 
+  <div class="fade-content-in"> 
+   <section class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div class="h-o-grid__col h-o-grid__col-l--6 grid-center"> 
+      <h3 class="h-c-headline h-c-headline--three h-u-font-weight-light" id="what-is-invalid-traffic"> What is invalid traffic? </h3> 
+      <div animation-name="homepage02" canvas-animations=""></div> 
+      <p> Invalid traffic is any activity that doesn't come from a real user with genuine interest. It can include accidental clicks caused by intrusive ad implementations, fraudulent clicking by competing advertisers, advertising botnets and more. </p> 
+      <p> Our Ad Traffic Quality team is dedicated to stopping all types of invalid traffic so that advertisers don't have to pay for it and the people who cause it don't profit from it. We also work closely with industry groups like the <a href="http://www.iab.com/" target="_blank">Interactive Advertising Bureau</a> , <a href="http://mediaratingcouncil.org/" target="_blank">Media Rating Council</a>, <a href="https://www.tagtoday.net/" target="_blank">Trustworthy Accountability Group</a>, among others to develop industry standards for advertising traffic worldwide. </p> 
+     </div> 
+    </div> 
+   </section> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="invalid-activity" ng-click="openPanel()">What is invalid user activity? <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <div animation-name="ia07" canvas-animations="" ng-if="accordionCtr.panelIsOpen"> 
+       </div> 
+       <p> Invalid user activity is when a real person interacts with an ad, but not out of actual interest. </p> 
+       <p> Some actions are accidental, like when a mobile user reaches for a link and taps an ad instead. Others are intentional and sometimes downright fraudulent. For example, publishers might ask (or even pay) users to click on ads, watch videos, or view content they wouldnt normally engage with to increase their impression counts. </p> 
+       <p> Traffic caused by deceptive tactics like these creates bad user experiences and provides little or no value to advertisers, which is why were committed to stamping it out. </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="ad-fraud" ng-click="openPanel()">What is advertising fraud? <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <div animation-name="ia13" canvas-animations="" ng-if="accordionCtr.panelIsOpen"> 
+       </div> 
+       <p> Simply put, it's any invalid activity designed to increase ad traffic while pretending to be genuine. The most common methods include: </p> 
+       <ul> 
+        <li>Click farms (hiring people to manually click ads) </li> 
+        <li>Automated browsing (running a hidden browser on a user's computer to automatically visit ad sites) </li> 
+        <li>Session hijacking and botnets (hijacked computers used to create non-human traffic and clicks) </li> 
+        <li>Falsely represented inventory (traffic falsely portrayed as coming from high-value users or a site claiming it is a different site) </li> 
+       </ul> 
+       <p> Below, we'll describe a few common ways people use these tricks to commit advertising fraud. </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="imp-fraud" ng-click="openPanel()">What is display impression fraud? <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <div animation-name="ia11" canvas-animations="" ng-if="accordionCtr.panelIsOpen"> 
+       </div> 
+       <p> Display impression fraud is any fraudulent or malicious activity used to increase the number or value of image-based ad impressions or video views. Impression fraud uses many of the tactics described in the section above to mislead advertisers into believing the traffic is genuine. To cover their tracks, fraudsters often mix the fraudulent traffic in with with real user traffic, making it more difficult to detect. </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="click-fraud" ng-click="openPanel()">What is click fraud? <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <div animation-name="ia09" canvas-animations="" ng-if="accordionCtr.panelIsOpen"> 
+       </div> 
+       <p> Any click on an ad, web page element, or content for the sole purpose of increasing click revenue constitutes click fraud. Most people who commit click fraud either want to sabotage their competitors by exhausting their ad budgets, or boost their own revenue by driving up the number of ad clicks on their websites. Here are some of the most common methods: </p> 
+       <ul> 
+        <li>Click farms: teams of people who can be hired to manually click on ads </li> 
+        <li>Click bots: software that that can be purchased or programmed to automate click activity </li> 
+        <li>Clickjacking: hiding invisible ads on a website or manipulating their position to cause users to click them unintentionally </li> 
+        <li>Botnets: networks of hijacked computers that generate huge numbers of clicks while registering as human. </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="botnets" ng-click="openPanel()">What are advertising botnets? <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <div animation-name="ia10" canvas-animations="" ng-if="accordionCtr.panelIsOpen"> 
+       </div> 
+       <p> Botnets are automated software programs that run on Internet servers or hijacked computers. When used for ad fraud, botnets can be programmed to create a large volume of invalid impressions, clicks, and traffic. Unfortunately, they can also be programed to act like real users, which makes their traffic difficult to spot. So in addition to our automated filters and manual reviews, we also deploy specialized research teams to hunt out and stop botnets harming advertisers, publishers and users. </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="industry-groups" ng-click="openPanel()">Working with industry groups to prevent invalid activity. <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <img alt="Invalid activity" class="section-image" src="./dist/img/taxonomy/hero-taxonomy.png" srcset="./dist/img/taxonomy/hero-taxonomy-x2.png"> 
+       <p> We work hard to keep our own network free from fraud, but to prevent invalid activity across the web we all need to work together. Recently, we worked with the Trustworthy Accountability Group (TAG) to create a glossary of common ad fraud tactics, including session hijacking, crawler traffic, and cookie-stuffing (its not as fun as it sounds!). </p>
+       <a class="h-c-link h-c-link--internal learn-more-btn" href="/ads/adtrafficquality/tag-taxonomy.html">LEARN MORE 
+        <svg class="h-c-icon h-c-icon--18px h-c-icon--arrow-forward" viewbox="0 0 18 18" xmlns="http://www.w3.org/2000/svg"> 
+         <path d="M9,1.5C4.8,1.5,1.5,4.8,1.5,9s3.3,7.5,7.5,7.5s7.5-3.3,7.5-7.5S13.2,1.5,9,1.5z M9,14.5l-1-1 l3.8-3.8H3.5V8.3h8.4L8.1,4.5L9,3.5L14.5,9L9,14.5z"> 
+         </path>
+        </svg></a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="sub-footer"> 
+    <div class="h-site-width"> 
+     <div class="h-o-grid"> 
+      <div class="h-o-grid__col h-o-grid__col-l--6 grid-center"> 
+       <h3 class="h-c-headline h-c-headline--three"> Continue reading </h3>
+       <a class="h-c-link h-c-link--internal" href="/ads/adtrafficquality/how-we-prevent-it.html">How does Google prevent invalid activity? 
+        <svg class="h-c-icon h-c-icon--18px h-c-icon--arrow-forward" viewbox="0 0 18 18" xmlns="http://www.w3.org/2000/svg"> 
+         <path d="M9,1.5C4.8,1.5,1.5,4.8,1.5,9s3.3,7.5,7.5,7.5s7.5-3.3,7.5-7.5S13.2,1.5,9,1.5z M9,14.5l-1-1 l3.8-3.8H3.5V8.3h8.4L8.1,4.5L9,3.5L14.5,9L9,14.5z"> 
+         </path>
+        </svg></a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <script src="/ads/adtrafficquality/dist/canvas/invalid-activity.min.js"></script> 
+  </div> 
+  <footer class="page-footer"> 
+   <div class="page-footer__container"> 
+    <div class="h-site-width"> 
+     <div class="h-o-grid page-footer__social"> 
+      <div class="share"> 
+       <span class="h-u-font-weight-regular" data-action="share">SHARE</span> 
+       <a href="https://plus.google.com/+GoogleAds" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"> <img alt="google" src="./dist/svg/googlePlus.svg"></a> 
+      </div> 
+      <div class="follow"> 
+       <span class="h-u-font-weight-regular">FOLLOW US</span> 
+       <div class="share-icons"> 
+        <a href="https://plus.google.com/+GoogleAds" target="_blank"><img alt="google" src="./dist/svg/googlePlus.svg"></a> 
+        <a href="https://adwords.googleblog.com/" target="_blank"><img alt="google" src="./dist/svg/blogger.svg"></a> 
+        <a href="https://twitter.com/adwords" target="_blank"><img alt="google" src="./dist/svg/twitter.svg"></a> 
+        <a href="https://www.youtube.com/user/learnwithgoogle" target="_blank"><img alt="google" src="./dist/svg/youtube.svg"></a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="h-o-grid page-footer__external-links top-border-line"> 
+      <div class="footer-logo"> 
+       <a href="//www.google.com" target="_blank"><img alt="Google" height="28" src="./dist/img/footer-google.png" srcset="./dist/img/footer-google-x2.png 2x" width="86"></a> 
+      </div> 
+      <div class="external-link"> 
+       <a class="h-c-link--muted" href="//privacy.google.com/" target="_blank">Privacy</a> 
+       <a class="h-c-link--muted" href="//www.google.com/intl/en/policies/terms/" target="_blank">Terms</a> 
+       <a class="h-c-link--muted" href="//www.google.com/intl/en/about/" target="_blank">About Google</a> 
+       <a class="h-c-link--muted" href="//www.google.com/intl/en/about/products/" target="_blank">Google Products</a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <script src="/ads/adtrafficquality/dist/js/app.min.js"></script> 
+  <script src="/ads/adtrafficquality/dist/canvas/invalid-activity.min.js"></script> 
+  <script src="//www.google.com/js/gweb/uri/updatelinks.js"></script> 
+  <script>
+    gweb.uri.updateLinks({
+    'paramlinker' : ['subid', 'utm_source', 'utm_campaign', 'utm_medium']
+  }, true);
+    </script>  
+ </body>
+</html>

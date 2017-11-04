@@ -1,0 +1,333 @@
+<!doctype html>
+<html class="google mmfb" dir="ltr" lang="nl">
+ <head> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script> 
+  <meta charset="utf-8"> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <title>
+      Kosten van adverteren op Google: betalen per klik | Google AdWords – Google
+    </title> 
+  <meta content="Meer informatie over de kosten van adverteren op Google. De advertentiekosten van Google AdWords worden afgestemd op uw budget en u betaalt alleen per klik of wanneer u resultaten boekt." name="description"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;lang=nl" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto+Slab:300,400,500&amp;lang=nl" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Product+Sans:400&amp;lang=nl" rel="stylesheet"> 
+  <link href="../../home/css/adwords.min.css" rel="stylesheet"> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/v2_8_3/basic.js"></script> 
+  <link href="/home/images/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://adwords.google.com/intl/nl_nl/home/pricing/" rel="canonical"> 
+  <script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "brand": {
+      "@type": "Thing",
+      "name": "AdWords"
+    },
+    "name": "Cost of Advertising on Google: Pay Per Click | Google AdWords",
+    "description": "Learn about the cost of advertising on Google. Google AdWords keeps advertising costs in line with your budget, so you only pay per click or when you get results.",
+    "url": "https://adwords.google.com/intl/nl_nl/home/pricing/",
+    "logo": "https://lh3.googleusercontent.com/-uNZ_qMhKvZA/Vd5W1dmYTLI/AAAAAAAAQ5U/a5AyNN5FQiA6uL8XtMpVsCsEbA0Tiw_awCHM/s251/AdWords.png",
+    "sameAs": [
+      "https://twitter.com/adwords",
+      "https://plus.google.com/+GoogleAds",
+      "https://adwords.googleblog.com/",
+      "https://www.youtube.com/user/learnwithgoogle"
+    ],
+    "telephone": "0800-265 9292"
+  }
+    </script> 
+ </head> 
+ <body class="long-l10n" data-ng-app="rs.adwords"> 
+  <header class="header" role="banner"> 
+   <h1 class="product-logo"> <a href="../../home/"><img alt="Google" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" srcset="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png 2x"> <span class="site-name">AdWords</span></a> </h1> 
+   <nav class="main-navigation" data-ng-controller="rs.navigation.NavCtrl as navCtrl"> 
+    <h1> AdWords </h1> 
+    <ul class="outer-nav"> 
+     <li> <a href="../../home/">Startpagina</a> </li> 
+     <li> <a href="../../home/how-it-works/">Hoe het werkt</a> </li> 
+     <li class="active">Prijzen </li> 
+     <li> <a href="../../home/tools/">Tools</a> </li> 
+     <li> <a href="../../home/resources/learning/">Bronnen</a> </li> 
+    </ul> 
+    <div class="cta cta-wrapper"> 
+     <a class="cta-signin" href="/um/signin?hl=nl&amp;sourceid=awo&amp;subid=nl-ww-di-g-aw-a-awhp_1!o2" rel="nofollow">Inloggen</a> 
+     <a class="cta-call" href="tel:0800-2659292">
+      <svg class="icon-phone-green" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+       <path d="M6.4,13.9c2.6,5,6.7,9.1,11.7,11.7l3.9-3.9c0.5-0.5,1.2-0.6,1.8-0.4c2,0.7,4.1,1,6.4,1c1,0,1.8,0.8,1.8,1.8v6.2 c0,1-0.8,1.8-1.8,1.8C13.5,32,0,18.5,0,1.8C0,0.8,0.8,0,1.8,0H8c1,0,1.8,0.8,1.8,1.8c0,2.2,0.4,4.4,1,6.4c0.2,0.6,0.1,1.3-0.4,1.8 L6.4,13.9z"> 
+       </path>
+      </svg> <img alt="phone icon" class="icon-phone-green" height="16" src="//www.google.com/ads/images/icons/icon-ui-phone.png" width="16"> Bel ons</a> 
+     <a class="cta-signup" href="/um/StartNow?hl=nl&amp;sourceid=awo&amp;subid=nl-ww-di-g-aw-a-awhp_1!o2" rel="nofollow">Nu beginnen</a> 
+     <div class="cta-expand"> 
+      <div class="cta-expand-top"> 
+       <p class="font-large"> Doe het zelf. </p> 
+       <p> <a class="cta-signup" href="/um/StartNow?hl=nl&amp;sourceid=awo&amp;subid=nl-ww-di-g-aw-a-awhp_1!o2" rel="nofollow">NU STARTEN</a> </p> 
+      </div> 
+      <div class="cta-expand-botm"> 
+       <p class="font-large"> Overleg met een expert. </p> 
+       <p class="phone-number font-medium"> <a href="tel:0800-2659292">
+         <svg class="icon-phone-green" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M6.4,13.9c2.6,5,6.7,9.1,11.7,11.7l3.9-3.9c0.5-0.5,1.2-0.6,1.8-0.4c2,0.7,4.1,1,6.4,1c1,0,1.8,0.8,1.8,1.8v6.2 c0,1-0.8,1.8-1.8,1.8C13.5,32,0,18.5,0,1.8C0,0.8,0.8,0,1.8,0H8c1,0,1.8,0.8,1.8,1.8c0,2.2,0.4,4.4,1,6.4c0.2,0.6,0.1,1.3-0.4,1.8 L6.4,13.9z"> 
+          </path>
+         </svg> <img alt="phone icon" class="icon-phone-green" height="16" src="//www.google.com/ads/images/icons/icon-ui-phone.png" width="16"> 0800-265 9292<sup>*</sup></a> </p> 
+       <p class="font-small"> * Ma-vr: 09 -19 uur </p> 
+      </div> 
+     </div> 
+    </div> 
+   </nav>
+   <button class="nav-toggle-button"><span class="icon-menu-els"><span class="menu-bar"></span> <span class="menu-bar"></span> <span class="menu-bar"></span></span></button> 
+  </header> 
+  <div class="main" role="main"> 
+   <section class="section section-dark light-blue"> 
+    <div class="site-width"> 
+     <div class="col-5-fixed"> 
+      <h1> Blijf binnen uw budget. </h1> 
+      <p class="font-large"> Aanmelden voor AdWords is gratis. U kunt zelf bepalen hoeveel u per dag wilt besteden. </p> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-pricing-results"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-5"> 
+       <h4 class="section-sub-heading border-light-blue"> Behaal resultaat </h4> 
+       <h2> Betaal alleen voor advertenties die iets opleveren. </h2> 
+       <p class="font-large"> AdWords brengt geen kosten in rekening voor het weergeven van advertenties. U betaalt alleen wanneer iemand op uw advertentie klikt, uw video bekijkt op YouTube of uw bedrijf belt. </p> 
+       <p class="font-large"> U bepaalt uw budget bovendien helemaal zelf. Sommige bedrijven besteden tienduizenden euro's per maand, andere een paar honderd. </p> 
+      </div> 
+      <div class="col-7 position-rel"> 
+       <picture class="image-cover-above">
+        <source media="(min-width: 768px)" srcset="../../home/images/pricing-budget_1x.png, ../../home/images/pricing-budget_2x.png 2x">
+        <img alt="" class="pricing-animation" srcset="../../home/images/pricing-budget_m_1x.png, ../../home/images/pricing-budget_m_2x.png 2x">
+       </picture> 
+       <div class="chart overlay-text hidden-xs"> 
+        <div class="chart-legend">
+          Klikken 
+        </div> 
+        <div class="chart-legend">
+          Kosten 
+        </div> 
+        <div class="table-headings"> 
+         <div class="row row-1">
+           Campagne 
+         </div> 
+         <div class="row row-2">
+           Budget 
+         </div> 
+         <div class="row row-3">
+           Status 
+         </div> 
+        </div> 
+        <div class="table-desc">
+          Snelle Fiets Reparatie 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <section class="section section-dark deep-teal section-pricing-campaigns"> 
+   <div class="site-width"> 
+    <h4 class="section-sub-heading border-yellow" data-rs-trigger="pricingAnimation"> Uw eigen manier </h4> 
+    <div class="col-6-fixed"> 
+     <h2> Houd de touwtjes van uw campagnes zelf in handen. </h2> 
+    </div> 
+    <div class="cols-row"> 
+     <div class="col-5"> 
+      <svg class="icon-campaign icon-clock" enable-background="new 0 0 32 32" height="50px" version="1.1" viewbox="0 0 32 32" width="50px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+       <path d="M8.9,15.1l6.4,6.4c0.3,0.3,0.6,0.4,1,0.4c0.4,0,0.7-0.1,1-0.4l4.3-4.3c0.6-0.6,0.6-1.5,0-2c-0.6-0.6-1.5-0.6-2,0l-3.3,3.3 l-5.4-5.4c-0.6-0.6-1.5-0.6-2,0C8.3,13.7,8.3,14.6,8.9,15.1z"> 
+       </path> 
+       <path d="M24.7,7.4c-2.4-1.9-5.4-3.1-8.7-3.1c-7.6,0-13.8,6.2-13.8,13.8S8.4,32,16,32s13.8-6.2,13.8-13.8c0-3.3-1.2-6.4-3.1-8.8 c0,0-0.6-0.6-1-1.1C25.3,7.9,24.7,7.4,24.7,7.4z M16,29.2c-6.1,0-11-4.9-11-11s4.9-11,11-11s11,4.9,11,11S22.1,29.2,16,29.2z"> 
+       </path> 
+       <path d="M14.2,3.5h3.5c1,0,1.8-0.8,1.8-1.8S18.8,0,17.8,0h-3.5c-1,0-1.8,0.8-1.8,1.8S13.2,3.5,14.2,3.5z"> 
+       </path>
+      </svg> 
+      <img alt="clock icon" class="icon-campaign icon-clock" height="50" src="//www.google.com/ads/images/icons/icon-ui-clock.png" width="50"> 
+      <h3> Start of stop wanneer u wilt. </h3> 
+      <p class="font-medium"> Wilt u AdWords proberen? U bent nergens toe verplicht, dus u kunt uw campagne op elk gewenst moment en zonder annuleringskosten onderbreken, stopzetten of aanpassen. </p> 
+     </div> 
+     <div class="col-5 col-offset-1"> 
+      <svg class="icon-campaign icon-wallet" enable-background="new 0 0 32 32" height="50px" version="1.1" viewbox="0 0 32 32" width="50px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+       <path d="M27.5,12.2L26,10.8c-0.2-0.2-0.4-0.3-0.6-0.3H24l-0.1,1.8H25l1.2,1.2c0.2,0.2,0.4,0.3,0.6,0.3c0.2,0,0.5-0.1,0.6-0.3 c0.2-0.2,0.3-0.4,0.3-0.6C27.8,12.6,27.7,12.4,27.5,12.2z"> 
+       </path> 
+       <path d="M22.7,29.5c0,0.5-0.4,1-1,1L1,24c-0.5,0-1-0.4-1-1V3.6c0-0.5,0.4-1,1-1l20.8,6.4c0.5,0,1,0.4,1,1V29.5z"> 
+       </path> 
+       <path d="M30.3,23.7h-5.9v-2.4h5.2V3.9h-19l-0.1,0c-1.8-0.6-3.4-1-4.7-1.4L2.9,1.5h27.5c0.9,0,1.7,0.7,1.7,1.7V22 C32,22.9,31.3,23.7,30.3,23.7z"> 
+       </path> 
+       <path d="M27.5,8.1L26,6.6c-0.2-0.2-0.4-0.3-0.6-0.3h-7.7l5.4,1.8H25l1.2,1.2c0.2,0.2,0.4,0.3,0.6,0.3c0.2,0,0.5-0.1,0.6-0.3 c0.2-0.2,0.3-0.4,0.3-0.6C27.8,8.5,27.7,8.2,27.5,8.1z"> 
+       </path>
+      </svg> 
+      <img alt="wallet icon" class="icon-campaign icon-wallet" height="50" src="//www.google.com/ads/images/icons/icon-ui-wallet.png" width="50"> 
+      <h3> Flexibele prijsmodellen. </h3> 
+      <p class="font-medium"> U kunt eenvoudig de prijs instellen die u bereid bent te betalen wanneer iemand op uw advertentie klikt. En u kunt die altijd weer veranderen. </p> 
+     </div> 
+     <div class="col-5"> 
+      <svg class="icon-campaign icon-graphbar" enable-background="new 0 0 32 32" height="40px" version="1.1" viewbox="0 0 32 32" width="40px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+       <path d="M13.8,29.7V14c0-1.3-1-2.3-2.3-2.3s-2.3,1-2.3,2.3v15.7c0,1.3,1,2.3,2.3,2.3S13.8,31,13.8,29.7z"> 
+       </path> 
+       <path d="M4.9,29.7V19c0-1.3-1-2.3-2.3-2.3s-2.3,1-2.3,2.3v10.7c0,1.3,1,2.3,2.3,2.3S4.9,31,4.9,29.7z"> 
+       </path> 
+       <path d="M22.8,29.7V8.4c0-1.3-1-2.3-2.3-2.3c-1.3,0-2.3,1-2.3,2.3v21.3c0,1.3,1,2.3,2.3,2.3C21.7,32,22.8,31,22.8,29.7z"> 
+       </path> 
+       <path d="M31.7,29.7V2.3c0-1.3-1-2.3-2.3-2.3s-2.3,1-2.3,2.3v27.4c0,1.3,1,2.3,2.3,2.3S31.7,31,31.7,29.7z"> 
+       </path>
+      </svg> 
+      <img alt="graphbar icon" class="icon-campaign icon-graphbar" height="40" src="//www.google.com/ads/images/icons/icon-ui-graphbar.png" width="40"> 
+      <h3> Realtime resultaten. </h3> 
+      <p class="font-medium"> Of het nu gaat om het aantal websitebezoeken, online verkopen of telefoontjes, met de trackingtools kunt u altijd zien wat uw investering u oplevert. </p> 
+     </div> 
+     <div class="col-5 col-offset-1"> 
+      <svg class="icon-campaign icon-creditcards" enable-background="new 0 0 32 32" height="65px" version="1.1" viewbox="0 0 32 32" width="65px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+       <path d="M5,12.1v13.5L0.1,13.2c-0.3-0.9,0.1-1.9,1.1-2.3l21.4-7.8c0.9-0.3,1.9,0.1,2.3,1L27,10H7.1C5.9,10,5,10.9,5,12.1z"> 
+       </path> 
+       <path d="M30.1,11.2H7.9c-1,0-1.9,0.8-1.9,1.9V16h26v-2.9C32,12,31.2,11.2,30.1,11.2z"> 
+       </path> 
+       <path d="M6.1,27c0,1,0.8,1.9,1.9,1.9h22.1c1,0,1.9-0.8,1.9-1.9v-8H6.1V27z"></path>
+      </svg> 
+      <img alt="credit cards icon" class="icon-campaign icon-creditcards" height="65" src="//www.google.com/ads/images/icons/icon-ui-creditcards.png" width="65"> 
+      <h3> Drie manieren om te betalen. </h3> 
+      <p class="font-medium"> Stel uw betalingen in met uw creditcard, betaalpas of een bankoverboeking, wat voor u het gemakkelijkst is. </p> 
+     </div> 
+    </div> 
+   </div> 
+  </section> 
+  <section class="section light-gray"> 
+   <div class="site-width"> 
+    <h4 class="section-sub-heading border-green"> Contact opnemen </h4> 
+    <div class="cols-row"> 
+     <div class="col-6 section-sub-heading"> 
+      <h3> Bel ons voor hulp met het instellen van uw budget. </h3> 
+      <p> Voor ondersteuning door ons team van AdWords-deskundigen worden geen extra kosten in rekening gebracht wanneer u minimaal € 10 per dag besteedt. </p> 
+      <p> <a class="google-green-color" href="tel:0800-2659292">
+        <svg enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <path d="M6.4,13.9c2.6,5,6.7,9.1,11.7,11.7l3.9-3.9c0.5-0.5,1.2-0.6,1.8-0.4c2,0.7,4.1,1,6.4,1c1,0,1.8,0.8,1.8,1.8v6.2 c0,1-0.8,1.8-1.8,1.8C13.5,32,0,18.5,0,1.8C0,0.8,0.8,0,1.8,0H8c1,0,1.8,0.8,1.8,1.8c0,2.2,0.4,4.4,1,6.4c0.2,0.6,0.1,1.3-0.4,1.8 L6.4,13.9z"> 
+         </path>
+        </svg> <img alt="phone icon" height="16" src="//www.google.com/ads/images/icons/icon-ui-phone.png" width="16"> 0800-265 9292<sup>*</sup></a> </p> 
+      <p class="font-small"> * Wanneer u minimaal € 10 per dag investeert. ma-vr, 09h-19h. </p> 
+     </div> 
+    </div> 
+   </div> 
+  </section> 
+  <footer class="footer" id="footer" role="contentinfo"> 
+   <div class="cookie-bar-container"></div> 
+   <div class="site-width"> 
+    <div class="footer-upper cols-row"> 
+     <div class="footer-social col-6"> 
+      <dl> 
+       <dt>
+         Volg ons op: 
+       </dt> 
+       <dd> 
+        <a href="https://www.facebook.com/adwords" rel="noopener" target="_blank" title="Facebook">
+         <svg class="icon-footer-facebook" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,0H3.2C1.4,0,0,1.4,0,3.2v25.6C0,30.6,1.4,32,3.2,32h25.6c1.8,0,3.2-1.4,3.2-3.2V3.2 C32,1.4,30.6,0,28.8,0z M27.2,8H24c-0.9,0-1.6,0.7-1.6,1.6v3.2h4.8v4.8h-4.8v11.2h-4.8V17.6h-3.2v-4.8h3.2v-4c0-3.1,2.5-5.6,5.6-5.6 h4V8z"> 
+          </path>
+         </svg> <img alt="Facebook" class="icon-footer-facebook" height="20" src="//www.google.com/ads/images/icons/icon-footer-facebook.png" width="20"></a> 
+       </dd> 
+      </dl> 
+     </div> 
+    </div> 
+    <nav class="footer-nav cols-row"> 
+     <dl class="col-3"> 
+      <dt>
+        Leren en ondersteuning 
+      </dt> 
+      <dd> 
+       <a href="https://support.google.com/adwords/answer/6146252?hl=nl&amp;utm_medium=et&amp;utm_campaign=nl&amp;utm_source=ww-ww-et-b2bfooter_adwords"> Een handig overzicht van AdWords</a> 
+      </dd> 
+      <dd> 
+       <a href="https://support.google.com/adwords/?hl=nl#topic=3119071&amp;utm_source=smb_marketing&amp;utm_medium=referral&amp;utm_campaign=us-en-et-awhp-footer&amp;utm_content=NL"> Helpcentrum van AdWords</a> 
+      </dd> 
+      <dd> 
+       <a href="https://plus.google.com/+GoogleAds/posts?hl=nl">AdWords op Google+</a> 
+      </dd> 
+      <dd> 
+       <a href="https://digitalewerkplaats.withgoogle.com">Digitale Werkplaats</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Ontwikkelaars 
+      </dt> 
+      <dd> 
+       <a href="https://developers.google.com/?hl=nl">Site van Google Developers</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/adwords/api/?hl=nl">AdWords API</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/adwords/scripts/?hl=nl">AdWords-scripts</a> 
+      </dd> 
+      <dd> 
+       <a href="https://support.google.com/adwords/answer/2476688?hl=nl">Remarketingtags voor AdWords</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Gerelateerde producten 
+      </dt> 
+      <dd> 
+       <a href="https://www.google.nl/intl/nl/retail/shopping-campaigns/">Shopping-campagnes</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.nl/intl/nl/business/">Google Mijn Bedrijf</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/intl/nl/chrome/">Chrome</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Meer oplossingen van Google 
+      </dt> 
+      <dd> 
+       <a href="https://www.google.nl/intl/nl/services/">Google Bedrijfsoplossingen</a> 
+      </dd> 
+      <dd> 
+       <a href="https://gsuite.google.nl/intl/nl/?utm_medium=et&amp;utm_source=gmb&amp;utm_campaign=footer"> G Suite</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.thinkwithgoogle.com/">Think with Google</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.nl/intl/nl/adsense/start/?utm_source=internal&amp;utm_medium=et&amp;utm_campaign=adwords-homepage"> AdSense</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/admob/?utm_source=Internal&amp;utm_medium=et&amp;utm_campaign=google-ads"> AdMob</a> 
+      </dd> 
+     </dl> 
+    </nav> 
+    <div class="footer-lower cols-row"> 
+     <div class="footer-meta-links col-9"> 
+      <ul> 
+       <li> <a href="https://support.google.com/adwords/?hl=nl#topic=3119071">
+         <svg class="icon-footer-help" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path clip-rule="evenodd" d="M16 0C7.2 0 0 7.2 0 16c0 3 .9 5.9 2.3 8.3L0 32l7.7-2.3C10.2 31.1 13 32 16 32c8.8 0 16-7.2 16-16S24.8 0 16 0zm1.3 24.6c-.3.3-.7.5-1.2.5s-1-.2-1.2-.5c-.3-.3-.4-.7-.4-1.1 0-.2 0-.4.1-.6.1-.2.2-.4.3-.5.1-.1.3-.3.5-.3.2-.1.4-.1.7-.1.3 0 .5 0 .7.1.2.1.4.2.5.3.1.1.3.3.3.5.1.2.1.4.1.6 0 .5-.1.8-.4 1.1zm3.8-11.4c-.2.5-.4.9-.6 1.3l-.9 1.2c-.3.4-.7.8-1 1.1-.4.4-.7.9-.9 1.4-.2.5-.2.8-.3 1.8h-2.8c0-1 0-1.2.1-1.6.1-.4.2-1 .3-1.3.2-.3.4-.7.6-1 .2-.3.6-.7.9-1 .2-.3.5-.5.7-.7.2-.2.4-.5.6-.7.2-.3.3-.5.4-.8.1-.3.1-.6.1-1 0-.8-.2-1.4-.6-1.8-.4-.4-1-.6-1.7-.6-.3 0-.6.1-.9.1-.3.1-.5.2-.8.4s-.4.6-.5.8c-.1.3-.2 1.2-.2 1.2h-3c0-2 .2-1.6.4-2.2.3-.6.7-1.2 1.1-1.6.5-.4 1-.7 1.7-.9.8-.3 1.5-.4 2.2-.4.8 0 1.6.1 2.2.3.7.2 1.2.5 1.7.9s.8.9 1 1.5c.2.6.4 1.3.4 2.1 0 .6-.1 1.1-.2 1.5z" fill-rule="evenodd"></path>
+         </svg> <img alt="Help" class="icon-footer-help" height="20" src="//www.google.com/ads/images/icons/icon-footer-help.png" width="20"> Help</a> </li> 
+       <li> <a href="//www.google.nl">Google</a> </li> 
+       <li> <a href="//www.google.nl/intl/nl/policies/privacy/">Privacy</a> </li> 
+       <li> <a href="//www.google.nl/intl/nl/policies/terms/">Voorwaarden</a> </li> 
+      </ul> 
+     </div> 
+     <div class="footer-locale-switcher col-3"> 
+      <label class="visually-hidden" for="footer-locales"><span>Taal of regio wijzigen:</span></label>
+      <select class="footer-locales" id="footer-locales" onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="/intl/en/home/pricing/"> English </option> <option value="/intl/ar/home/pricing/"> ‫العربية‬ </option> <option value="/intl/fr_dz/home/pricing/"> Algérie – Français </option> <option value="/intl/es-419_ar/home/pricing/"> Argentina – Español (Latinoamérica) </option> <option value="/intl/en_au/home/pricing/"> Australia – English </option> <option value="/intl/en_bd/home/pricing/"> Bangladesh – English </option> <option value="/intl/nl_be/home/pricing/"> België – Nederlands </option> <option value="/intl/fr_be/home/pricing/"> Belgique – Français </option> <option value="/intl/es-419_bo/home/pricing/"> Bolivia – Español (Latinoamérica) </option> <option value="/intl/pt-BR_br/home/pricing/"> Brasil – Português (Brasil) </option> <option value="/intl/en_ca/home/pricing/"> Canada – English </option> <option value="/intl/fr_ca/home/pricing/"> Canada – Français </option> <option value="/intl/cs_cz/home/pricing/"> Česká republika – Čeština </option> <option value="/intl/es-419_cl/home/pricing/"> Chile – Español (Latinoamérica) </option> <option value="/intl/es-419_co/home/pricing/"> Colombia – Español (Latinoamérica) </option> <option value="/intl/es-419_cr/home/pricing/"> Costa Rica – Español (Latinoamérica) </option> <option value="/intl/en_cy/home/pricing/"> Cyprus – English </option> <option value="/intl/da_dk/home/pricing/"> Danmark – Dansk </option> <option value="/intl/de_de/home/pricing/"> Deutschland – Deutsch </option> <option value="/intl/es-419_ec/home/pricing/"> Ecuador – Español (Latinoamérica) </option> <option value="/intl/et_ee/home/pricing/"> Eesti – Eesti </option> <option value="/intl/en_eg/home/pricing/"> Egypt – English </option> <option value="/intl/es-419_sv/home/pricing/"> El Salvador – Español (Latinoamérica) </option> <option value="/intl/es_es/home/pricing/"> España – Español </option> <option value="/intl/ca_es/home/pricing/"> Espanya – Català </option> <option value="/intl/es-419_us/home/pricing/"> Estados Unidos – Español (Latinoamérica) </option> <option value="/intl/fr_fr/home/pricing/"> France – Français </option> <option value="/intl/es-419_gt/home/pricing/"> Guatemala – Español (Latinoamérica) </option> <option value="/intl/es-419_hn/home/pricing/"> Honduras – Español (Latinoamérica) </option> <option value="/intl/en_hk/home/pricing/"> Hong Kong – English </option> <option value="/intl/hr_hr/home/pricing/"> Hrvatska – Hrvatski </option> <option value="/intl/en_in/home/pricing/"> India – English </option> <option value="/intl/id_id/home/pricing/"> Indonesia – Bahasa Indonesia </option> <option value="/intl/en_ie/home/pricing/"> Ireland – English </option> <option value="/intl/it_it/home/pricing/"> Italia – Italiano </option> <option value="/intl/lv_lv/home/pricing/"> Latvija – Latviešu </option> <option value="/intl/lt_lt/home/pricing/"> Lietuva – Lietuvių </option> <option value="/intl/hu_hu/home/pricing/"> Magyarország – Magyar </option> <option value="/intl/ms_my/home/pricing/"> Malaysia – Bahasa Melayu </option> <option value="/intl/en_my/home/pricing/"> Malaysia – English </option> <option value="/intl/es-419_mx/home/pricing/"> México – Español (Latinoamérica) </option> <option selected value="/intl/nl_nl/home/pricing/"> Nederland – Nederlands </option> <option value="/intl/en_np/home/pricing/"> Nepal – English </option> <option value="/intl/en_nz/home/pricing/"> New Zealand – English </option> <option value="/intl/es-419_ni/home/pricing/"> Nicaragua – Español (Latinoamérica) </option> <option value="/intl/en_ng/home/pricing/"> Nigeria – English </option> <option value="/intl/no_no/home/pricing/"> Norge – Norsk </option> <option value="/intl/de_at/home/pricing/"> Österreich – Deutsch </option> <option value="/intl/en_pk/home/pricing/"> Pakistan – English </option> <option value="/intl/es-419_pa/home/pricing/"> Panamá – Español (Latinoamérica) </option> <option value="/intl/es-419_py/home/pricing/"> Paraguay – Español (Latinoamérica) </option> <option value="/intl/es-419_pe/home/pricing/"> Perú – Español (Latinoamérica) </option> <option value="/intl/en_ph/home/pricing/"> Philippines – English </option> <option value="/intl/fil_ph/home/pricing/"> Pilipinas – Filipino </option> <option value="/intl/pl_pl/home/pricing/"> Polska – Polski </option> <option value="/intl/pt-PT_pt/home/pricing/"> Portugal – Português (Portugal) </option> <option value="/intl/es-419_pr/home/pricing/"> Puerto Rico – Español (Latinoamérica) </option> <option value="/intl/es-419_do/home/pricing/"> República Dominicana – Español (Latinoamérica) </option> <option value="/intl/ro_md/home/pricing/"> Republica Moldova – Română </option> <option value="/intl/ro_ro/home/pricing/"> România – Română </option> <option value="/intl/en_sa/home/pricing/"> Saudi Arabia – English </option> <option value="/intl/de_ch/home/pricing/"> Schweiz – Deutsch </option> <option value="/intl/en_sg/home/pricing/"> Singapore – English </option> <option value="/intl/sl_si/home/pricing/"> Slovenija – Slovenščina </option> <option value="/intl/sk_sk/home/pricing/"> Slovensko – Slovenčina </option> <option value="/intl/en_za/home/pricing/"> South Africa – English </option> <option value="/intl/en_lk/home/pricing/"> Sri Lanka – English </option> <option value="/intl/fr_ch/home/pricing/"> Suisse – Français </option> <option value="/intl/fi_fi/home/pricing/"> Suomi – Suomi </option> <option value="/intl/sv_se/home/pricing/"> Sverige – Svenska </option> <option value="/intl/fr_tn/home/pricing/"> Tunisie – Français </option> <option value="/intl/tr_tr/home/pricing/"> Türkiye – Türkçe </option> <option value="/intl/en_ae/home/pricing/"> United Arab Emirates – English </option> <option value="/intl/en_uk/home/pricing/"> United Kingdom – English </option> <option value="/intl/en_us/home/pricing/"> United States – English </option> <option value="/intl/es-419_uy/home/pricing/"> Uruguay – Español (Latinoamérica) </option> <option value="/intl/es-419_ve/home/pricing/"> Venezuela – Español (Latinoamérica) </option> <option value="/intl/vi_vn/home/pricing/"> Việt Nam – Tiếng Việt </option> <option value="/intl/el_gr/home/pricing/"> Ελλάδα – Ελληνικά </option> <option value="/intl/ru_by/home/pricing/"> Беларусь – Русский </option> <option value="/intl/bg_bg/home/pricing/"> България – Български </option> <option value="/intl/ru_kz/home/pricing/"> Казахстан – Русский </option> <option value="/intl/ru_ru/home/pricing/"> Россия – Русский </option> <option value="/intl/sr_rs/home/pricing/"> Србија – Српски </option> <option value="/intl/uk_ua/home/pricing/"> Україна – Українська </option> <option value="/intl/iw_il/home/pricing/"> ‫ישראל – עברית‬ </option> <option value="/intl/ar_ae/home/pricing/"> ‫الإمارات العربية المتحدة – العربية‬ </option> <option value="/intl/ar_dz/home/pricing/"> ‫الجزائر – العربية‬ </option> <option value="/intl/ar_sa/home/pricing/"> ‫المملكة العربية السعودية – العربية‬ </option> <option value="/intl/ar_tn/home/pricing/"> ‫تونس – العربية‬ </option> <option value="/intl/ar_eg/home/pricing/"> ‫مصر – العربية‬ </option> <option value="/intl/hi_in/home/pricing/"> भारत – हिन्दी </option> <option value="/intl/th_th/home/pricing/"> ไทย – ไทย </option> <option value="/intl/ko_kr/home/pricing/"> 대한민국 – 한국어 </option> <option value="/intl/zh-TW_tw/home/pricing/"> 台灣 – 中文（繁體中文） </option> <option value="/intl/ja_jp/home/pricing/"> 日本 – 日本語 </option> <option value="/intl/zh-TW_hk/home/pricing/"> 香港 – 中文（繁體中文） </option> </select> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <script src="//www.gstatic.com/external_hosted/picturefill/picturefill.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-messages.min.js"></script> 
+  <script async data-gtmid="GTM-DJXNX" src="//www.google.com/ads/js/peitho2/peitho2.min.js"></script> 
+  <script src="../../home/js/adwords.rs.min.js"></script> 
+  <script src="https://www.gstatic.com/brandstudio/kato/cookie_choice_component/cookie_consent_bar.js"></script> 
+  <script>
+    var cookieBarContainer = document.getElementsByClassName('cookie-bar-container')[0];
+    new google.CookieConsentBar(null, cookieBarContainer);
+    </script>  
+ </body>
+</html>

@@ -1,0 +1,483 @@
+<!doctype html>
+<html class="google mmfb" lang="th" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/th/contact/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="ปรึกษาผู้เชี่ยวชาญในการนำ Google มาใช้ในโรงเรียนของคุณ" name="description"> 
+  <title>
+    Google for Education: ติดต่อฝ่ายขาย
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/th/contact/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: ติดต่อฝ่ายขาย" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/th/contact/" property="og:url"> 
+  <meta content="https://www.google.com/images/video-geg_2x.png" property="og:image"> 
+  <meta content="ปรึกษาผู้เชี่ยวชาญในการนำ Google มาใช้ในโรงเรียนของคุณ" property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/th/contact/" name="twitter:url"> 
+  <meta content="Google for Education: ติดต่อฝ่ายขาย" name="twitter:title"> 
+  <meta content="https://www.google.com/images/video-geg_2x.png" name="twitter:image"> 
+  <meta content="ปรึกษาผู้เชี่ยวชาญในการนำ Google มาใช้ในโรงเรียนของคุณ" name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: ติดต่อฝ่ายขาย" itemprop="name"> 
+  <meta content="ปรึกษาผู้เชี่ยวชาญในการนำ Google มาใช้ในโรงเรียนของคุณ" itemprop="description"> 
+  <meta content="https://www.google.com/images/video-geg_2x.png" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: ติดต่อฝ่ายขาย",
+    "description": "ปรึกษาผู้เชี่ยวชาญในการนำ Google มาใช้ในโรงเรียนของคุณ",
+    "url": "https://edu.google.com/intl/th/contact/",
+    "logo": "https://www.google.com/images/video-geg_2x.png",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <link href="//www.google.com/css/maia.experimental.css" rel="stylesheet"> 
+  <link href="/css/view-contact.min.css" rel="stylesheet"> 
+  <script src="//www.google.com/js/google.js"></script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+ </head> 
+ <body ng-scope> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/th/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">รับผลิตภัณฑ์ของ Google</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">เราจะช่วยอะไรคุณได้บ้าง</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>รับเครื่องมือเพิ่มประสิทธิภาพ</h5> 
+        <p>รับเครื่องมือเพิ่มประสิทธิภาพของ Google ซึ่งมี Classroom, Google เอกสาร, ไดรฟ์, แฮงเอาท์, อีเมล และอีกมากมายฟรี ไม่มีโฆษณา</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=th#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">ลงชื่อสมัครใช้ G Suite</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>รับอุปกรณ์</h5> 
+        <p>ถ้าสนใจใช้ Chromebook หรืออุปกรณ์ Android สำหรับโรงเรียนของคุณ ทีมของเราพร้อมช่วยให้คำแนะนำ</p> 
+        <a class="maia-button overlay-button" href="/intl/th/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">ติดต่อผู้เชี่ยวชาญ</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>พูดคุยกับนักการศึกษาคนอื่นๆ</h5> 
+        <p>หากต้องการคุยกับคนอื่นๆ ที่คล้ายกับคุณและหันมาใช้ Google แล้ว ลองเข้าร่วมชุมชนนักการศึกษาของเราเพื่อประโยชน์สูงสุด</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">ค้นหานักการศึกษาคนอื่นๆ</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li class="active"> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/" target="_self">หน้าแรก</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">ผลิตภัณฑ์</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/products/devices/" target="_self">อุปกรณ์ <br><span class="dropdown-item-description">Chromebooks and Tablets</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/products/productivity-tools/" target="_self">เครื่องมือเพิ่มประสิทธิภาพ <br><span class="dropdown-item-description">Docs, Gmail and More</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/products/productivity-tools/classroom/" target="_self">Classroom <br><span class="dropdown-item-description">Mission control for teachers and students</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtual reality field trips</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/products/more-products/" target="_self">ผลิตภัณฑ์อื่นๆ <br><span class="dropdown-item-description">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">การฝึกอบรม</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=th" target="_self">การฝึกอบรมนักการศึกษา <br><span class="dropdown-item-description">สำหรับเครื่องมือของ Google for Education</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">การฝึกอบรมผู้ดูแลระบบด้านไอที <br><span class="dropdown-item-description">สำหรับผู้ดูแลระบบ G Suite</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">ไดเรกทอรีพาร์ทเนอร์ <br><span class="dropdown-item-description">to help your school go Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/resources/communities/" target="_self">ชุมชน <br><span class="dropdown-item-description">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">แหล่งข้อมูล</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/resources/programs/" target="_self">โปรแกรม <br><span class="dropdown-item-description">for students and teachers</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/case-studies/" target="_self">กรณีศึกษา </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/resources/computerscience/" target="_self">การศึกษาด้านวิทยาศาสตร์คอมพิวเตอร์ <br><span class="dropdown-item-description">Programs, Funding, and Research</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/resources/global-education/" target="_self">การศึกษาทั่วโลก </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/th/it/" target="_self">คำแนะนำด้านไอที</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/th/higher-education/" target="_self">เครื่องมือการเรียนรู้</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">ผลิตภัณฑ์</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/products/devices/" target="_self">อุปกรณ์ <span class="nav-subtext">Chromebooks and Tablets</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/products/productivity-tools/" target="_self">เครื่องมือเพิ่มประสิทธิภาพ <span class="nav-subtext">Docs, Gmail and More</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/products/productivity-tools/classroom/" target="_self">Classroom <span class="nav-subtext">Mission control for teachers and students</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtual reality field trips</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/products/more-products/" target="_self">ผลิตภัณฑ์อื่นๆ <span class="nav-subtext">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">การฝึกอบรม</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=th" target="_self">การฝึกอบรมนักการศึกษา <span class="nav-subtext">สำหรับเครื่องมือของ Google for Education</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">การฝึกอบรมผู้ดูแลระบบด้านไอที <span class="nav-subtext">สำหรับผู้ดูแลระบบ G Suite</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">ไดเรกทอรีพาร์ทเนอร์ <span class="nav-subtext">to help your school go Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/resources/communities/" target="_self">ชุมชน <span class="nav-subtext">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">แหล่งข้อมูล</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/resources/programs/" target="_self">โปรแกรม <span class="nav-subtext">for students and teachers</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/case-studies/" target="_self">กรณีศึกษา </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/resources/computerscience/" target="_self">การศึกษาด้านวิทยาศาสตร์คอมพิวเตอร์ <span class="nav-subtext">Programs, Funding, and Research</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/resources/global-education/" target="_self">การศึกษาทั่วโลก </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">คำแนะนำด้านไอที</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/it/" target="_self">ไอที </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/trust/" target="_self">หน้าความเป็นส่วนตัว </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">เครื่องมือการเรียนรู้</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/higher-education/" target="_self">เครื่องมือการเรียนรู้ </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">รับผลิตภัณฑ์ของ Google</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">เราจะช่วยอะไรคุณได้บ้าง</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>รับเครื่องมือเพิ่มประสิทธิภาพ</h5> 
+         <p>รับเครื่องมือเพิ่มประสิทธิภาพของ Google ซึ่งมี Classroom, Google เอกสาร, ไดรฟ์, แฮงเอาท์, อีเมล และอีกมากมายฟรี ไม่มีโฆษณา</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=th#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">ลงชื่อสมัครใช้ G Suite</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>รับอุปกรณ์</h5> 
+         <p>ถ้าสนใจใช้ Chromebook หรืออุปกรณ์ Android สำหรับโรงเรียนของคุณ ทีมของเราพร้อมช่วยให้คำแนะนำ</p> 
+         <a class="maia-button overlay-button" href="/intl/th/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">ติดต่อผู้เชี่ยวชาญ</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>พูดคุยกับนักการศึกษาคนอื่นๆ</h5> 
+         <p>หากต้องการคุยกับคนอื่นๆ ที่คล้ายกับคุณและหันมาใช้ Google แล้ว ลองเข้าร่วมชุมชนนักการศึกษาของเราเพื่อประโยชน์สูงสุด</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">ค้นหานักการศึกษาคนอื่นๆ</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="contact maia-aux"> 
+    <div id="contact-form"> 
+     <h2>ปรึกษาผู้เชี่ยวชาญในการนำ Google มาใช้ในโรงเรียนของคุณ</h2> หากต้องการลงชื่อสมัครใช้ G Suite for Education ซึ่งเป็นอีเมลและเครื่องมือในการทำงานร่วมกันที่ให้บริการฟรีสำหรับสถานศึกษา โปรด
+     <a href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=th&amp;source=gafe-alpha_homepage_6800160-en#0">คลิกที่นี่</a> 
+     <p></p> 
+     <form action="https://lp.google-mkto.com/index.php/leadCapture/save" enctype="application/x-www-form-urlencoded" id="contact-sales-form" method="post" name="mktForm_1"> 
+      <p><em><span class="maia-form-required">*</span> Required fields</em></p> 
+      <div id="contact-form-section-1"> 
+       <div class="maia-cols"> 
+        <div class="maia-col-5"> 
+         <p> <label for="contact-first_name">ชื่อ<span class="maia-form-required">*</span></label> <input tabindex="1" id="contact-first_name" maxlength="100" name="FirstName" type="text" class="validate" data-validate-method="empty"> <span class="error-msg">โปรดป้อนชื่อของคุณ</span> </p> 
+        </div> 
+        <div class="maia-col-5"> 
+         <p> <label for="">นามสกุล<span class="maia-form-required">*</span></label> <input tabindex="2" id="" maxlength="100" name="LastName" type="text" class="validate" data-validate-method="empty"> <span class="error-msg">โปรดป้อนนามสกุลของคุณ</span> </p> 
+        </div> 
+       </div> 
+       <div class="maia-cols"> 
+        <div class="maia-col-5"> 
+         <p> <label for="contact-email">อีเมล<span class="maia-form-required">*</span></label> <input tabindex="3" id="contact-email" maxlength="200" name="Email" type="text" class="validate" data-validate-method="email"> <span class="error-msg">โปรดป้อนอีเมลที่ถูกต้อง</span> </p> 
+        </div> 
+        <div class="maia-col-5"> 
+         <p> <label for="contact-phone">โทรศัพท์<span class="maia-form-required">*</span></label> <input tabindex="4" id="contact-phone" maxlength="50" name="Phone" type="text" class="validate" data-validate-method="phone"> <span class="error-msg">โปรดป้อนหมายเลขโทรศัพท์ของคุณ</span> </p> 
+        </div> 
+       </div> 
+       <div class="maia-cols"> 
+        <div class="maia-col-5"> 
+         <p> <label for="contact-organization">ชื่อองค์กร<span class="maia-form-required">*</span></label> <input tabindex="5" id="contact-organization" maxlength="100" name="Company" type="text" class="validate" data-validate-method="empty"> <span class="error-msg">โปรดป้อนชื่อองค์กรของคุณ</span> </p> 
+        </div> 
+        <div class="maia-col-5"> 
+         <p> <label for="contact-URL">เว็บไซต์<span class="maia-form-required">*</span></label> <input tabindex="6" id="contact-URL" maxlength="250" name="Domain__c" type="text" class="validate" data-validate-method="website"> <span class="error-msg">โปรดป้อนเว็บไซต์ของคุณ เช่น www.example.com</span> </p> 
+        </div> 
+       </div> 
+       <div class="maia-cols"> 
+        <div class="maia-col-5"> 
+         <p> <label for="contact-country">ประเทศ<span class="maia-form-required">*</span></label> <select id="contact-country" name="Country"> <option value="US" selected>สหรัฐอเมริกา</option> <option value="AU">ออสเตรเลีย</option> <option value="BE">เบลเยียม</option> <option value="BR">บราซิล</option> <option value="CA">แคนาดา</option> <option value="DK">เดนมาร์ก</option> <option value="FI">ฟินแลนด์</option> <option value="FR">ฝรั่งเศส</option> <option value="IN">อินเดีย</option> <option value="ID">อินโดนีเซีย</option> <option value="IE">ไอร์แลนด์</option> <option value="JP">ญี่ปุ่น</option> <option value="MY">มาเลเซีย</option> <option value="MX">เม็กซิโก</option> <option value="NL">เนเธอร์แลนด์</option> <option value="NZ">นิวซีแลนด์</option> <option value="False">นอร์เวย์</option> <option value="PH">ฟิลิปปินส์</option> <option value="ZA">แอฟริกาใต้</option> <option value="ES">สเปน</option> <option value="SE">สวีเดน</option> <option value="TH">ไทย</option> <option value="TR">ตุรกี</option> <option value="AE">สหรัฐอาหรับเอมิเรตส์</option> <option value="UK">สหราชอาณาจักร</option> </select> <span class="error-msg">Please select your country.</span> </p> 
+        </div> 
+        <div class="maia-col-5"> 
+         <p> <label for="contact-state" id="state-label">รัฐ (เฉพาะสหรัฐอเมริกา)<span class="maia-form-required">*</span></label> <select id="contact-state" name="State" data-validate-method="state" class="validate state-dropdown"> <optgroup label="United States" id="states-us"><option value="" selected>โปรดเลือก</option> <option value="AL">Alabama</option> <option value="AK">Alaska</option> <option value="AZ">Arizona</option> <option value="AR">Arkansas</option> <option value="CA">California</option> <option value="CO">Colorado</option> <option value="CT">Connecticut</option> <option value="DE">Delaware</option> <option value="DC">District of Columbia</option> <option value="FL">Florida</option> <option value="GA">Georgia</option> <option value="HI">Hawaii</option> <option value="ID">Idaho</option> <option value="IL">Illinois</option> <option value="IN">Indiana</option> <option value="IA">Iowa</option> <option value="KS">Kansas</option> <option value="KY">Kentucky</option> <option value="LA">Louisiana</option> <option value="ME">Maine</option> <option value="MD">Maryland</option> <option value="MA">Massachusetts</option> <option value="MI">Michigan</option> <option value="MN">Minnesota</option> <option value="MS">Mississippi</option> <option value="MO">Missouri</option> <option value="MT">Montana</option> <option value="NE">Nebraska</option> <option value="NV">Nevada</option> <option value="NH">New Hampshire</option> <option value="NJ">New Jersey</option> <option value="NM">New Mexico</option> <option value="NY">New York</option> <option value="NC">North Carolina</option> <option value="ND">North Dakota</option> <option value="OH">Ohio</option> <option value="OK">Oklahoma</option> <option value="OR">Oregon</option> <option value="PA">Pennsylvania</option> <option value="RI">Rhode Island</option> <option value="SC">South Carolina</option> <option value="SD">South Dakota</option> <option value="TN">Tennessee</option> <option value="TX">Texas</option> <option value="UT">Utah</option> <option value="VT">Vermont</option> <option value="VA">Virginia</option> <option value="WA">Washington</option> <option value="WV">West Virginia</option> <option value="WI">Wisconsin</option> <option value="WY">Wyoming</option> </optgroup> </select> <span class="error-msg">Please select your state.</span> </p> 
+        </div> 
+       </div> 
+       <div class="maia-cols"> 
+        <div class="maia-col-5"> 
+         <p> <label for="Title">ตำแหน่งงาน<span class="maia-form-required">*</span></label> <select id="Title" name="Title" data-validate-method="state" class="validate state-dropdown"> <option value="" selected>โปรดเลือก</option> <option value="Board Member">กรรมการ</option> <option value="CEO, Business Owner, President">ประธานเจ้าหน้าที่บริหาร, เจ้าของธุรกิจ, ประธาน</option> <option value="CIO/VP of IT">รองประธานเจ้าหน้าที่บริหารฝ่ายสารสนเทศ/ผู้อำนวยการฝ่ายไอที</option> <option value="Consultant">ที่ปรึกษา</option> <option value="CTO">ประธานเจ้าหน้าที่บริหารฝ่ายเทคโนโลยี</option> <option value="Curriculum Director/Coordinator">ผู้อำนวยการ/ผู้ประสานงานหลักสูตร</option> <option value="Instructional Technology Coach">โค้ชด้านเทคโนโลยีการสอน</option> <option value="IT/ICT Coordinator">ผู้ประสานงานด้านไอที/ไอซีที</option> <option value="IT/ICT Director">ผู้อำนวยการด้านไอที/ไอซีที</option> <option value="IT/ICT Manager">ผู้จัดการด้านไอที/ไอซีที</option> <option value="Office Manager">ผู้จัดการสำนักงาน</option> <option value="Principal/Assistant Principal">อาจารย์ใหญ่/ผู้ช่วยอาจารย์ใหญ่</option> <option value="Professional Development/Coordinator">ฝ่ายพัฒนา/ประสานงานการพัฒนาวิชาชีพ</option> <option value="Reseller">ผู้ค้าปลีก</option> <option value="Superintendent">ผู้บริหารการศึกษา</option> <option value="Systems Administrator">ผู้ดูแลระบบ</option> <option value="Teacher">ครู</option> <option value="Tech Administrator">ผู้ดูแลระบบด้านเทคนิค</option> <option value="Other">อื่นๆ</option> </select> <span class="error-msg">Please enter a job title.</span> </p> 
+        </div> 
+       </div> 
+      </div> 
+      <!--"?type=standalone"--> 
+      <div id="contact-form-section-2"> 
+       <div class="interested-wrap half"> 
+        <h4>มีความสนใจ:</h4> 
+        <ul> 
+         <li> <label> <span class="error-msg">Please select your solution.</span> <input data-validate-method="checkbox" name="Likely_Solutions__c[]" type="checkbox" value="ChromeOS" checked> Chromebook </label> </li> 
+        </ul> 
+       </div> 
+       <h4>การตั้งค่าการสื่อสาร</h4> 
+       <p>คุณต้องการรับอีเมลข่าวสาร การอัปเดตผลิตภัณฑ์ และข้อเสนอพิเศษจาก Google for Education เป็นครั้งคราวไหม</p> 
+       <input id="email-opt-in" name="Opt_In_News__c" type="radio" value="Yes"> 
+       <label for="email-opt-in" class="email-option">ใช่</label> 
+       <input id="email-opt-out" name="Opt_In_News__c" type="radio" value="No"> 
+       <label for="email-opt-out" class="email-option">ไม่</label> 
+       <p>คุณต้องการรับความช่วยเหลือจากพาร์ทเนอร์ของ Google for Education ในการประเมินผลิตภัณฑ์และบริการของ Google ไหม</p> 
+       <input id="partner-opt-in" name="Opt_In_Partner__c" type="radio" value="Yes"> 
+       <label for="partner-opt-in" class="email-option">ใช่</label> 
+       <input id="partner-opt-out" name="Opt_In_Partner__c" type="radio" value="No"> 
+       <label for="partner-opt-out" class="email-option">ไม่</label> 
+       <div marketo-track> 
+        <input name="munchkinId" type="hidden" value="248-TPC-286"> 
+        <input name="Industry" type="hidden" value="Education"> 
+        <input name="subId" type="hidden" value="95"> 
+        <input name="subId" type="hidden" value="95"> 
+        <input name="kw" type="hidden" value=""> 
+        <input name="cr" type="hidden" value=""> 
+        <input name="searchstr" type="hidden" value=""> 
+        <input name="_mkt_disp" type="hidden" value=""> 
+        <input name="CFM" type="hidden" value=""> 
+        <input name="Cloud_Storage" type="hidden" value=""> 
+        <input name="LeadSource" type="hidden" value="Website"> 
+        <input name="lead_type__c" type="hidden" value="ChromeForEDU"> 
+        <input name="Primary_Product_Family__c" type="hidden" value="Chrome"> 
+        <input name="Most_Recent_Lead_Source_Description__c" type="hidden" value="Website: Contact Sales - ChromeOS"> 
+        <input name="Lead_Source_Descr__c" type="hidden" value="Website: Contact Sales - ChromeOS"> 
+        <input name="lpId" type="hidden" value="6356"> 
+        <input name="lpurl" type="hidden" value="https://lp.google-mkto.com/GLOBALChromeOSAllContactSalesForm_ContactSalesLP.html?cr={creative}&amp;kw={keyword}"> 
+        <input name="formid" type="hidden" value="411"> 
+        <input name="Sync_to_Marketo__c" type="hidden" value="True"> 
+        <input id="utm_source__c" name="utm_source__c" type="hidden" value="google"> 
+        <input id="utm_campaign__c" name="utm_campaign__c" type="hidden" value="(organic)"> 
+        <input id="utm_medium" name="utm_medium" type="hidden" value="organic"> 
+        <input id="utm_term" name="utm_term" type="hidden" value=""> 
+        <input id="utm_content__c" name="utm_content__c" type="hidden" value=""> 
+       </div> 
+       <input id="retURL" name="retURL" type="hidden" value="https://edu.google.com/intl/th_ALL/thanks/?type=standalone"> 
+      </div> 
+      <p><input type="submit" class="maia-button contact-form-btn" value="ส่ง" data-g-event="Edu: Contact" data-g-action="Contact" data-g-label="Submit" formnovalidate></p> 
+     </form> 
+    </div> 
+   </div> 
+   <ul> 
+   </ul> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">ผลิตภัณฑ์</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/products/devices/">อุปกรณ์</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/products/productivity-tools/">เครื่องมือเพิ่มประสิทธิภาพ</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/products/more-products/">ผลิตภัณฑ์อื่นๆ</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">การฝึกอบรม</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=th" target="_blank">การฝึกอบรมนักการศึกษา</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">การฝึกอบรมผู้ดูแลระบบด้านไอที</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">ไดเรกทอรีพาร์ทเนอร์</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/resources/communities/">ชุมชน</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">แหล่งข้อมูล</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/resources/programs/">โปรแกรม</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/resources/computerscience/">การศึกษาด้านวิทยาศาสตร์คอมพิวเตอร์</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/resources/global-education/">การศึกษาทั่วโลก</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">คำแนะนำ</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/it/">ไอที</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">แหล่งข้อมูลของนักพัฒนาซอฟต์แวร์</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/access/">การเรียนรู้ออนไลน์</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">ติดต่อเรา</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/contact/">ฝ่ายขาย</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">การสนับสนุน</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/partners/">โปรแกรมพาร์ทเนอร์</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">เรื่องราว</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/case-studies/">กรณีศึกษา</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">โรงเรียนที่ใช้ Chromebook</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">บล็อก</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="ค้นหาเว็บไซต์นี้" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/contact/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/contact/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/da/contact/"> dansk (Danmark) </option><option value="/intl/en_au/contact/"> English (Australia) </option><option value="/intl/en_ca/contact/"> English (Canada) </option><option value="/intl/en_in/contact/"> English (India) </option><option value="/intl/en_nz/contact/"> English (New Zealand) </option><option value="/intl/en_uk/contact/"> English (United Kingdom) </option><option value="/contact/"> English (United States) </option><option value="/intl/es-419_mx/contact/"> español (México) </option><option value="/intl/es-419/contact/"> español (Latinoamérica) </option><option value="/intl/fi/contact/"> suomi (Suomi) </option><option value="/intl/fr_be/contact/"> français (Belgique) </option><option value="/intl/id/contact/"> Indonesia (Indonesia) </option><option value="/intl/ja/contact/"> 日本語 (日本) </option><option value="/intl/ms/contact/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/contact/"> Nederlands (Nederland) </option><option value="/intl/no/contact/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/contact/"> português (Brasil) </option><option value="/intl/sv/contact/"> svenska (Sverige) </option><option selected value="/intl/th/contact/"> ไทย (ไทย) </option><option value="/intl/tr/contact/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/th/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/th/policies/privacy/">ความเป็นส่วนตัว</a> </li> 
+      <li> <a href="https://www.google.com/intl/th/policies/terms/">ข้อกำหนด</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script> 
+  <script id="contact-script" src="/js/contact.min.js"></script>  
+ </body>
+</html>

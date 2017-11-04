@@ -1,0 +1,448 @@
+<!doctype html>
+<html class="google mmfb" dir="ltr" lang="en">
+ <head> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script> 
+  <meta charset="utf-8"> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <title>
+      The definitive guide to data-driven attribution | Google Analytics 360 – Google
+    </title> 
+  <meta content="" name="description"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;lang=en" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto+Slab:300,400,500&amp;lang=en" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Product+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="../../analytics/css/funnel.min.css" rel="stylesheet"> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/v2_8_3/basic.js"></script> 
+  <script>
+    dataLayer=[{"country":"us","region":"noram","language":"en","pageCategory":"","pageSubCategory":"Featured Content","eID":"gat-guide.html","visitorType":"recognized","frType":"Guide","frTopic":"Marketing Analytics and Attribution","frGated":"Yes"}];
+    </script> 
+  <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KLXF7H');
+    </script> 
+  <link href="//www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <meta content="TYdaWbaNwybjhDFtA-1V3V15w_AZ5U8jsMsciH4eiUg" name="google-site-verification"> 
+  <link href="https://www.google.com/analytics/resources/gat-guide.html" rel="canonical"> 
+  <style type="text/css">
+    iframe.c2 {display:none;visibility:hidden}
+    svg.c1 {enable-background:new 0 0 23 15;}
+    </style> 
+ </head> 
+ <body data-ng-app="rs.analytics"> 
+  <header class="header" data-rs-header="" role="banner"> 
+   <div class="upper-header"> 
+    <h1 class="product-logo"> <a data-g-action="Logo" data-g-event="Resources: Content" data-g-label="Global Nav" href="../../analytics/"><img alt="Google" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" srcset="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png 2x"> <span class="site-name">Analytics Solutions</span></a> </h1> 
+    <div class="nav-dropdown-wrapper" data-rs-popupmenu="" ng-cloak=""> 
+     <a class="nav-dropdown-trigger partners-link-desktop" data-g-action="Partners" data-g-event="Resources: Content" data-g-label="Global Nav" href="https://www.google.com/analytics/partner-services/"><span>Partners</span></a> 
+     <a class="nav-dropdown-trigger support-link-desktop" data-g-action="Support" data-g-event="Resources: Content" data-g-label="Global Nav" href="https://www.google.com/analytics/services-support"><span>Support</span></a> 
+     <a class="nav-dropdown-trigger" data-g-action="Sign In Menu" data-g-event="Resources: Content" data-g-label="Global Nav CTA" ng-click="dropdownExpanded = !dropdownExpanded"><span>Sign in</span> 
+      <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+       <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+       <path d="M0 0h36v36H0z" fill="none"></path>
+      </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+     <div class="nav-dropdown" ng-class="{'nav-dropdown-expanded': dropdownExpanded}"> 
+      <a class="nav-dropdown-close" ng-click="dropdownExpanded = false">
+       <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+        <path d="M0 0h36v36H0z" fill="none"></path>
+       </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+      <ul> 
+       <li class="nav-dropdown-close-mobile"> <a ng-click="dropdownExpanded = false">Sign in 
+         <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+          <path d="M0 0h36v36H0z" fill="none"></path>
+         </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> </li> 
+       <li> <a data-g-action="Analytics Sign In" data-g-event="Resources: Content" data-g-label="Global Nav CTA" href="https://analytics.google.com/analytics/web/" target="_blank">Analytics</a> </li> 
+       <li> <a data-g-action="Tag Manager Sign In" data-g-event="Resources: Content" data-g-label="Global Nav CTA" href="https://tagmanager.google.com/?hl=en" target="_blank">Tag Manager</a> </li> 
+       <li> <a data-g-action="Optimize Sign In" data-g-event="Resources: Content" data-g-label="Global Nav CTA" href="https://optimize.google.com/" target="_blank">Optimize</a> </li> 
+       <li> <a data-g-action="Data Studio Sign In" data-g-event="Resources: Content" data-g-label="Global Nav CTA" href="https://datastudio.google.com/?hl=en" target="_blank">Data Studio</a> </li> 
+       <li> <a data-g-action="Surveys Sign In" data-g-event="Resources: Content" data-g-label="Global Nav CTA" href="https://surveys.google.com/" target="_blank">Surveys</a> </li> 
+       <li> <a data-g-action="Attribution Sign In" data-g-event="Resources: Content" data-g-label="Global Nav CTA" href="https://attribution.google.com/" target="_blank">Attribution</a> </li> 
+       <li> <a data-g-action="Audience Center Sign In" data-g-event="Resources: Content" data-g-label="Global Nav CTA" href="https://audiencecenter.google.com/" target="_blank">Audience Center</a> </li> 
+       <li> <a data-g-action="Analytics 360 Suite Sign In" data-g-event="Resources: Content" data-g-label="Global Nav CTA" href="https://360suite.google.com/" target="_blank">Analytics 360 Suite</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <nav class="main-navigation"> 
+    <h1> Analytics Solutions </h1> 
+    <ul class="nav-no-padding"> 
+     <li> <a data-g-action="Analytics" data-g-event="Resources: Content" data-g-label="Global Nav" href="../../analytics/analytics/">Analytics</a> </li> 
+     <li> <a data-g-action="Tag Manager" data-g-event="Resources: Content" data-g-label="Global Nav" href="../../analytics/tag-manager/">Tag Manager</a> </li> 
+     <li> <a data-g-action="Optimize" data-g-event="Resources: Content" data-g-label="Global Nav" href="../../analytics/optimize/">Optimize</a> </li> 
+     <li> <a data-g-action="Data Studio" data-g-event="Resources: Content" data-g-label="Global Nav" href="../../analytics/data-studio/">Data Studio</a> </li> 
+     <li> <a data-g-action="Surveys" data-g-event="Resources: Content" data-g-label="Global Nav" href="../../analytics/surveys/">Surveys</a> </li> 
+     <li> <a data-g-action="Attribution" data-g-event="Resources: Content" data-g-label="Global Nav" href="../../analytics/attribution/">Attribution</a> </li> 
+     <li> <a data-g-action="Audience Center" data-g-event="Resources: Content" data-g-label="Global Nav" href="../../analytics/audience-center/">Audience Center</a> </li> 
+     <li> <a data-g-action="360 Suite" data-g-event="Resources: Content" data-g-label="Global Nav" href="../../analytics/360-suite/">Analytics 360 Suite</a> </li> 
+     <li class="partners-link-mobile"> <a class="partners-link" data-g-action="Partners" data-g-event="Resources: Content" data-g-label="Global Nav" href="/analytics/partner-services">Partners</a> </li> 
+     <li class="support-link-mobile"> <a class="support-link" data-g-action="Support" data-g-event="Resources: Content" data-g-label="Global Nav" href="/analytics/services-support">Support</a> </li> 
+    </ul> 
+    <div class="nav-dropdown-wrapper" data-rs-popupmenu="" ng-cloak=""> 
+     <a class="nav-dropdown-trigger partners-link-desktop" data-g-action="Partners" data-g-event="Resources: Content" data-g-label="Global Nav" href="https://www.google.com/analytics/partner-services/"><span>Partners</span></a> 
+     <a class="nav-dropdown-trigger support-link-desktop" data-g-action="Support" data-g-event="Resources: Content" data-g-label="Global Nav" href="https://www.google.com/analytics/services-support"><span>Support</span></a> 
+     <a class="nav-dropdown-trigger" data-g-action="Sign In Menu" data-g-event="Resources: Content" data-g-label="Global Nav CTA" ng-click="dropdownExpanded = !dropdownExpanded"><span>Sign in</span> 
+      <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+       <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+       <path d="M0 0h36v36H0z" fill="none"></path>
+      </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+     <div class="nav-dropdown" ng-class="{'nav-dropdown-expanded': dropdownExpanded}"> 
+      <a class="nav-dropdown-close" ng-click="dropdownExpanded = false">
+       <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+        <path d="M0 0h36v36H0z" fill="none"></path>
+       </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+      <ul> 
+       <li class="nav-dropdown-close-mobile"> <a ng-click="dropdownExpanded = false">Sign in 
+         <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+          <path d="M0 0h36v36H0z" fill="none"></path>
+         </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> </li> 
+       <li> <a data-g-action="Analytics Sign In" data-g-event="Resources: Content" data-g-label="Global Nav CTA" href="https://analytics.google.com/analytics/web/" target="_blank">Analytics</a> </li> 
+       <li> <a data-g-action="Tag Manager Sign In" data-g-event="Resources: Content" data-g-label="Global Nav CTA" href="https://tagmanager.google.com/?hl=en" target="_blank">Tag Manager</a> </li> 
+       <li> <a data-g-action="Optimize Sign In" data-g-event="Resources: Content" data-g-label="Global Nav CTA" href="https://optimize.google.com/" target="_blank">Optimize</a> </li> 
+       <li> <a data-g-action="Data Studio Sign In" data-g-event="Resources: Content" data-g-label="Global Nav CTA" href="https://datastudio.google.com/?hl=en" target="_blank">Data Studio</a> </li> 
+       <li> <a data-g-action="Surveys Sign In" data-g-event="Resources: Content" data-g-label="Global Nav CTA" href="https://surveys.google.com/" target="_blank">Surveys</a> </li> 
+       <li> <a data-g-action="Attribution Sign In" data-g-event="Resources: Content" data-g-label="Global Nav CTA" href="https://attribution.google.com/" target="_blank">Attribution</a> </li> 
+       <li> <a data-g-action="Audience Center Sign In" data-g-event="Resources: Content" data-g-label="Global Nav CTA" href="https://audiencecenter.google.com/" target="_blank">Audience Center</a> </li> 
+       <li> <a data-g-action="Analytics 360 Suite Sign In" data-g-event="Resources: Content" data-g-label="Global Nav CTA" href="https://360suite.google.com/" target="_blank">Analytics 360 Suite</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </nav>
+   <button class="nav-toggle-button"><span class="icon-menu-els"><span class="menu-bar"></span> <span class="menu-bar"></span> <span class="menu-bar"></span></span></button> 
+  </header> 
+  <div class="main" role="main"> 
+   <section class="section section-featuredcontent"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-6"> 
+       <h4 class="section-sub-heading border-red"> Featured Content </h4> 
+       <h2> The definitive guide to data-driven attribution. </h2> 
+       <div class="featuredcontent-description"> 
+        <h3> Set Yourself Apart </h3> 
+        <p> Top-performing enterprise marketers are 5x more likely to use data-driven attribution. However, over half of all marketers still credit last-click only. Which type of marketer do you want to be? </p> 
+        <p> Attribution 360 brings you the Definitive Guide to Data-Driven Attribution so you can start thinking like a top marketer. This guide covers what data-driven attribution is, who would benefit, and how it fits into your analytics toolset. </p> 
+        <p> Take your next steps. </p> 
+        <p> Are you ready to embrace data-driven attribution? You need to have the right information at your fingertips. Let us walk you through the critical steps to structuring your data-driven attribution strategy. </p> 
+        <p> In this whitepaper you will learn: </p> 
+        <ul> 
+         <li>How attribution is critical to your marketing measurement. </li> 
+         <li>What better measurement can do for your company. </li> 
+         <li>How to use the Definitive Guide to Data-Driven Attribution to build your strategy. </li> 
+        </ul> 
+       </div> 
+       <p class="share"> Share this page on: <a data-g-action="Share" data-g-event="Resources: Content" data-g-label="Google+" href="https://plus.google.com/share?url=https%3A//www.google.com/analytics/resources/featured/gat-guide.html" rel="nofollow">
+         <svg class="icon-share" enable-background="new 0 0 32 32" height="24px" version="1.1" viewbox="0 0 32 32" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <polygon points="32,13.8 29.2,13.8 29.2,11.1 26.4,11.1 26.4,13.8 23.7,13.8 23.7,16.6 26.4,16.6 26.4,19.4 29.2,19.4 29.2,16.6 32,16.6"> 
+          </polygon> 
+          <path d="M16.4,17.9c-0.1,1.8-1.8,4.7-6,4.7c-3.6,0-6.4-2.9-6.4-6.5S7,9.5,10.4,9.5c2.1,0,3.3,0.8,4.2,1.5l0,0l2.8-2.8 c-1.8-1.7-4.2-2.8-7-2.8C4.7,5.6,0,10.4,0,16.1s4.7,10.4,10.4,10.4c6,0,10-4.2,10-10.2c0-0.8-0.1-1.5-0.3-2.1h-9.7V18L16.4,17.9 L16.4,17.9z"> 
+          </path>
+         </svg> <img alt="gplus icon" class="icon-share" height="24" src="//www.google.com/ads/images/icons/icon-share-gplus.png" width="24"></a> <a data-g-action="Share" data-g-event="Resources: Content" data-g-label="Twitter" href="https://twitter.com/intent/tweet?text=The%20definitive%20guide%20to%20data-driven%20attribution.%20&amp;url=https%3A//www.google.com/analytics/resources/featured/gat-guide.html" rel="nofollow">
+         <svg class="icon-share" enable-background="new 0 0 32 32" height="24px" version="1.1" viewbox="0 0 32 32" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M26.3,10.7c-0.1,9.1-6,15.4-14.7,15.8c-3.6,0.2-6.2-1-8.5-2.4c2.7,0.4,5.9-0.6,7.7-2.1c-2.6-0.3-4.1-1.6-4.9-3.7 c0.7,0.1,1.5,0.1,2.3-0.1c-2.3-0.8-4-2.2-4.1-5.3c0.7,0.3,1.3,0.6,2.3,0.6c-1.8-1-3.1-4.6-1.6-7.1c2.6,2.9,5.7,5.2,10.9,5.5 c-1.3-5.5,6-8.5,9.1-4.8c1.3-0.3,2.3-0.7,3.4-1.3C27.8,7.1,27,8,26,8.8c1.1-0.1,2-0.4,2.8-0.8C28.3,9,27.2,9.9,26.3,10.7z"> 
+          </path>
+         </svg> <img alt="share on twitter icon" class="icon-share" height="24" src="//www.google.com/ads/images/icons/icon-share-twitter.png" width="24"></a> <a data-g-action="Share" data-g-event="Resources: Content" data-g-label="LinkedIn" href="https://www.linkedin.com/shareArticle?url=https%3A//www.google.com/analytics/resources/featured/gat-guide.html&amp;title=The%20definitive%20guide%20to%20data-driven%20attribution.%20&amp;summary=Learn%20everything%20you%20need%20to%20know%20about%20data-driven%20attribution%20and%20what%20steps%20you%20can%20take%20right%20now%20to%20improve%20performance.&amp;mini=true" rel="nofollow">
+         <svg class="icon-share" enable-background="new 0 0 32 32" height="24px" version="1.1" viewbox="0 0 32 32" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M10.4,26.5H6V13.3h4.4V26.5z M8.2,10.8c-1.5,0-2.7-1.2-2.7-2.7s1.2-2.7,2.7-2.7s2.7,1.2,2.7,2.7S9.6,10.8,8.2,10.8z M26.5,26.5h-4.4v-7.8c0-1.2-1-2.2-2.2-2.2c-1.2,0-2.2,1-2.2,2.2v7.8h-4.4V13.3h4.4v1.8c0.8-1.2,2.3-2.1,3.7-2.1 c2.8,0,5.1,2.3,5.1,5.1V26.5z"> 
+          </path>
+         </svg> <img alt="share on linkedin icon" class="icon-share" height="24" src="//www.google.com/ads/images/icons/icon-share-linkedin.png" width="24"></a> </p> 
+      </div> 
+      <div class="col-5 col-offset-1"> 
+       <div class="card card-light-gray card-featuredcontent"> 
+        <div class="card-inner"> 
+         <div class="card-featuredcontent-text"> 
+          <div class="doctype-container"> 
+           <span class="doctype doctype-guide">
+            <svg enable-background="new 0 0 32 32" height="24px" version="1.1" viewbox="0 0 32 32" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+             <path d="M16,32C7.2,32,0,24.8,0,16C0,7.2,7.2,0,16,0c8.8,0,16,7.2,16,16C32,24.8,24.8,32,16,32z M16,2.7C8.7,2.7,2.7,8.7,2.7,16 c0,7.3,6,13.3,13.3,13.3c7.3,0,13.3-6,13.3-13.3C29.3,8.7,23.3,2.7,16,2.7z"> 
+             </path> 
+             <path d="M22,8c0.2-1.5-0.7-2-1.9-1.1l-6.5,4.9c-1.2,0.9-2.3,2.9-2.5,4.4l-0.9,8.1c-0.2,1.5,0.7,2,1.9,1.1l6.5-4.9 c1.2-0.9,2.3-2.9,2.5-4.4L22,8z M15,18.3c-1.1-0.6-1.5-2.1-0.9-3.2c0.6-1.1,2.1-1.5,3.2-0.9c1.1,0.6,1.5,2.1,0.9,3.2 C17.6,18.5,16.1,18.9,15,18.3z"> 
+             </path>
+            </svg> <img alt="guide icon" height="24" src="//www.google.com/ads/images/icons/icon-doctype-guide.png" width="24"></span> 
+           <h4 class="doctype-guide-title"> Guide </h4> 
+          </div> 
+          <p> Give us some info and get the goods. </p> 
+          <div data-ng-controller="rsFbxCtrl as formCtrl" data-rs-form-handler=""> 
+           <div data-ng-show="!formCtrl.success"> 
+            <form action="https://services.google.com/fb/submissions/4406db1c414d11e788953f113cf783a3/" class="form" data-ng-cloak="" data-ng-submit="formCtrl.submit($event)" id="fbxForm" method="post" name="fbxForm" novalidate> 
+             <div class="input-wrp"> 
+              <label class="form-required font-floating-like" data-ng-class="{'hidden': !formCtrl.formData.firstName, 'focus': formCtrl.firstNameFocus}" for="firstName">First name</label> 
+              <input class="form-text form-required" data-g-action="First Name" data-g-event="Resources: Content" data-g-label="Resource: The definitive guide to data-driven attribution." data-ng-blur="formCtrl.firstNameFocus = false" data-ng-focus="formCtrl.firstNameFocus = true" data-ng-model="formCtrl.formData.firstName" data-rs-fbx-server-error="" id="firstName" name="firstName" placeholder="First name *" required type="text"> 
+              <div class="form-errors-container" data-ng-class="{hidden: !fbxForm.firstName.$touched}" data-ng-messages="fbxForm.firstName.$error"> 
+               <span class="form-error" data-ng-message="required">This field is required.</span> 
+               <span class="form-error" data-ng-message="server">{[ formCtrl.serverErrors.firstName ]}</span> 
+              </div> 
+             </div> 
+             <div class="input-wrp"> 
+              <label class="form-required font-floating-like" data-ng-class="{'hidden': !formCtrl.formData.lastName, 'focus': formCtrl.lastNameFocus}" for="lastName">Last name</label> 
+              <input class="form-text form-required" data-g-action="Last Name" data-g-event="Resources: Content" data-g-label="Resource: The definitive guide to data-driven attribution." data-ng-blur="formCtrl.lastNameFocus = false" data-ng-focus="formCtrl.lastNameFocus = true" data-ng-model="formCtrl.formData.lastName" data-rs-fbx-server-error="" id="lastName" name="lastName" placeholder="Last name *" required type="text"> 
+              <div class="form-errors-container" data-ng-class="{hidden: !fbxForm.lastName.$touched}" data-ng-messages="fbxForm.lastName.$error"> 
+               <span class="form-error" data-ng-message="required">This field is required.</span> 
+               <span class="form-error" data-ng-message="server">{[ formCtrl.serverErrors.lastName ]}</span> 
+              </div> 
+             </div> 
+             <div class="input-wrp"> 
+              <label class="form-required font-floating-like" data-ng-class="{'hidden': (!formCtrl.formData.email &amp;&amp; !fbxForm.email.$invalid) || fbxForm.email.$pristine, 'focus': formCtrl.emailFocus}" for="email">Business email address</label> 
+              <input autocomplete="email" class="form-text form-required" data-g-action="Work Email" data-g-event="Resources: Content" data-g-label="Resource: The definitive guide to data-driven attribution." data-ng-blur="formCtrl.emailFocus = false" data-ng-focus="formCtrl.emailFocus = true" data-ng-model="formCtrl.formData.email" data-rs-fbx-email="" data-rs-fbx-server-error="" id="email" name="email" placeholder="Business email address *" required type="email"> 
+              <div class="form-errors-container" data-ng-class="{hidden: !fbxForm.email.$touched}" data-ng-messages="fbxForm.email.$error"> 
+               <span class="form-error" data-ng-message="email">Please enter a valid email address.</span> 
+               <span class="form-error" data-ng-message="required">This field is required.</span> 
+               <span class="form-error" data-ng-message="server">{[ formCtrl.serverErrors.email ]}</span> 
+              </div> 
+             </div> 
+             <div class="input-wrp"> 
+              <label class="font-floating-like hidden" data-ng-class="{'hidden': !formCtrl.formData.GA_Job_Level__c, 'focus': formCtrl.GA_Job_Level__cFocus}" for="GA_Job_Level__c">Job level</label> 
+              <select class="form-select form-required" data-g-action="Job Level" data-g-event="Resources: Content" data-g-label="Resource: The definitive guide to data-driven attribution." data-ng-blur="formCtrl.GA_Job_Level__cFocus = false" data-ng-focus="formCtrl.GA_Job_Level__cFocus = true" data-ng-model="formCtrl.formData.GA_Job_Level__c" data-rs-fbx-server-error="" id="GA_Job_Level__c" name="GA_Job_Level__c" required> <option value=""> Job level * </option> <option value="C-level Management"> C-level Management </option> <option value="Senior VP or Executive VP"> Senior VP or Executive VP </option> <option value="Manager or Supervisor"> Manager or Supervisor </option> <option value="Entry-level or Associate"> Entry-level or Associate </option> <option value="Director or Vice President"> Director or Vice President </option> <option value="Other"> Other </option> </select> 
+              <div class="form-errors-container" data-ng-class="{ hidden: !fbxForm.GA_Job_Level__c.$touched }" data-ng-messages="fbxForm.GA_Job_Level__c.$error"> 
+               <span class="form-error" data-ng-message="required">This field is required.</span> 
+               <span class="form-error" data-ng-message="server">{[ formCtrl.serverErrors.GA_Job_Level__c ]}</span> 
+              </div> 
+             </div> 
+             <div class="input-wrp"> 
+              <label class="form-required font-floating-like" data-ng-class="{'hidden': !formCtrl.formData.company, 'focus': formCtrl.companyFocus}" for="company">Company name</label> 
+              <input class="form-text form-required" data-g-action="Company Name" data-g-event="Resources: Content" data-g-label="Resource: The definitive guide to data-driven attribution." data-ng-blur="formCtrl.companyFocus = false" data-ng-focus="formCtrl.companyFocus = true" data-ng-model="formCtrl.formData.company" data-rs-fbx-server-error="" id="company" name="company" placeholder="Company name *" required type="text"> 
+              <div class="form-errors-container" data-ng-class="{hidden: !fbxForm.company.$touched}" data-ng-messages="fbxForm.company.$error"> 
+               <span class="form-error" data-ng-message="required">This field is required.</span> 
+               <span class="form-error" data-ng-message="server">{[ formCtrl.serverErrors.company ]}</span> 
+              </div> 
+             </div> 
+             <div class="input-wrp"> 
+              <label class="form-required font-floating-like" for="website" ng-class="{'hidden': !formCtrl.website, 'focus': formCtrl.websiteFocus}">Website URL</label> 
+              <input class="form-text form-required" data-g-action="Website URL" data-g-event="Resources: Content" data-g-label="Resource: The definitive guide to data-driven attribution." data-ng-model="formCtrl.formData.website" id="website" name="website" ng-blur="formCtrl.websiteFocus = false" ng-focus="formCtrl.websiteFocus = true" placeholder="Website URL *" required type="text"> 
+              <span class="form-error" id="website-err" ng-class="{'hidden': fbxForm.website.$valid || fbxForm.website.$pristine}">Please enter your company's website address.</span> 
+             </div> 
+             <div class="input-wrp"> 
+              <label class="font-floating-like hidden" data-ng-class="{'hidden': !formCtrl.formData.industry, 'focus': formCtrl.industryFocus}" for="industry">Industry</label> 
+              <select class="form-select form-required" data-g-action="Industry" data-g-event="Resources: Content" data-g-label="Resource: The definitive guide to data-driven attribution." data-ng-blur="formCtrl.industryFocus = false" data-ng-focus="formCtrl.industryFocus = true" data-ng-model="formCtrl.formData.industry" data-rs-fbx-server-error="" id="industry" name="industry" required> <option value=""> Industry * </option> <option value="Ad Agencies"> Ad Agencies </option> <option value="Agriculture"> Agriculture </option> <option value="Apparel"> Apparel </option> <option value="Automotive"> Automotive </option> <option value="Biotechnology"> Biotechnology </option> <option value="Chemicals"> Chemicals </option> <option value="Construction"> Construction </option> <option value="Consulting"> Consulting </option> <option value="Consumer Goods"> Consumer Goods </option> <option value="Education"> Education </option> <option value="Energy"> Energy </option> <option value="Engineering"> Engineering </option> <option value="Entertainment"> Entertainment </option> <option value="Environmental"> Environmental </option> <option value="Finance &amp; Banking"> Finance &amp; Banking </option> <option value="Food &amp; Beverage"> Food &amp; Beverage </option> <option value="Government"> Government </option> <option value="Healthcare"> Healthcare </option> <option value="Hospitality"> Hospitality </option> <option value="Insurance"> Insurance </option> <option value="Manufacturing"> Manufacturing </option> <option value="Media"> Media </option> <option value="Not For Profit"> Not For Profit </option> <option value="Pharma &amp; Healthcare"> Pharma &amp; Healthcare </option> <option value="Recreation"> Recreation </option> <option value="Retail"> Retail </option> <option value="Security"> Security </option> <option value="Services"> Services </option> <option value="Technology"> Technology </option> <option value="Telecommunications"> Telecommunications </option> <option value="Transportation"> Transportation </option> <option value="Travel and Leisure"> Travel and Leisure </option> <option value="Utilities"> Utilities </option> <option value="Other"> Other </option> </select> 
+              <div class="form-errors-container" data-ng-class="{ hidden: !fbxForm.industry.$touched }" data-ng-messages="fbxForm.industry.$error"> 
+               <span class="form-error" data-ng-message="required">This field is required.</span> 
+               <span class="form-error" data-ng-message="server">{[ formCtrl.serverErrors.industry ]}</span> 
+              </div> 
+             </div> 
+             <div class="input-wrp"> 
+              <label class="form-required font-floating-like" for="Employee_Count__c" ng-class="{'hidden': !formCtrl.Employee_Count__c, 'focus': formCtrl.Employee_Count__cFocus}"> Number of Employees</label> 
+              <select class="form-select form-required" data-g-action="Number Of Employees" data-g-event="Resources: Content" data-g-label="Resource: The definitive guide to data-driven attribution." id="Employee_Count__c" name="Employee_Count__c" ng-blur="formCtrl.Employee_Count__cFocus = false" ng-focus="formCtrl.Employee_Count__cFocus = true" ng-model="formCtrl.formData.Employee_Count__c" required> <option value=""> Number of Employees * </option> <option value="0 - 100"> 0 - 100 </option> <option value="101 - 200"> 101 - 200 </option> <option value="201 - 500"> 201 - 500 </option> <option value="501 - 1,000"> 501 - 1,000 </option> <option value="1,001 - 5,000"> 1,001 - 5,000 </option> <option value="5,001 - 10,000"> 5,001 - 10,000 </option> <option value="10,001+"> 10,001+ </option> </select> 
+              <span class="form-error" id="Employee_Count__c-err" ng-class="{'hidden': formCtrl.Employee_Count__c || fbxForm.Employee_Count__c.$pristine}"> Please select a valid Employee Size value.</span> 
+             </div> 
+             <div class="input-wrp"> 
+              <label class="form-required font-floating-like" for="country" ng-class="{'hidden': !formCtrl.country, 'focus': formCtrl.countryFocus}">Country</label> 
+              <select class="form-select form-required" data-g-action="Country" data-g-event="Resources: Content" data-g-label="Resource: The definitive guide to data-driven attribution." id="country" name="country" ng-blur="formCtrl.countryFocus = false" ng-focus="formCtrl.countryFocus = true" ng-model="formCtrl.formData.country" required> <option value=""> Country * </option> <option value="AF: Afghanistan"> Afghanistan (افغانستان) </option> <option value="AX: Åland Islands"> Åland Islands (Åland) </option> <option value="AL: Albania"> Albania (Shqipëria) </option> <option value="DZ: Algeria"> Algeria (الجزائر) </option> <option value="AS: American Samoa"> American Samoa </option> <option value="AD: Andorra"> Andorra </option> <option value="AO: Angola"> Angola </option> <option value="AI: Anguilla"> Anguilla </option> <option value="AQ: Antarctica"> Antarctica </option> <option value="AG: Antigua and Barbuda"> Antigua and Barbuda </option> <option value="AR: Argentina"> Argentina </option> <option value="AM: Armenia"> Armenia (Հայաստանի Հանրապետութիւն) </option> <option value="AW: Aruba"> Aruba </option> <option value="AC: Ascension Island"> Ascension Island </option> <option value="AU: Australia"> Australia </option> <option value="AT: Austria"> Austria (Österreich) </option> <option value="AZ: Azerbaijan"> Azerbaijan (Azərbaycan) </option> <option value="BS: Bahamas"> Bahamas </option> <option value="BH: Bahrain"> Bahrain (البحرين) </option> <option value="BD: Bangladesh"> Bangladesh (বাংলাদেশ) </option> <option value="BB: Barbados"> Barbados </option> <option value="BY: Belarus"> Belarus (Беларусь) </option> <option value="BE: Belgium"> Belgium (België) </option> <option value="BZ: Belize"> Belize </option> <option value="BJ: Benin"> Benin (Bénin) </option> <option value="BM: Bermuda"> Bermuda </option> <option value="BT: Bhutan"> Bhutan (भूटान) </option> <option value="BO: Bolivia"> Bolivia </option> <option value="BA: Bosnia and Herzegovina"> Bosnia and Herzegovina (Bosna i Hercegovina) </option> <option value="BW: Botswana"> Botswana </option> <option value="BV: Bouvet Island"> Bouvet Island </option> <option value="BR: Brazil"> Brazil (Brasil) </option> <option value="IO: British Indian Ocean Territory"> British Indian Ocean Territory </option> <option value="VG: British Virgin Islands"> British Virgin Islands </option> <option value="BN: Brunei"> Brunei </option> <option value="BG: Bulgaria"> Bulgaria (България) </option> <option value="BF: Burkina Faso"> Burkina Faso </option> <option value="BI: Burundi"> Burundi </option> <option value="KH: Cambodia"> Cambodia (កម្ពុជា) </option> <option value="CM: Cameroon"> Cameroon (Cameroun) </option> <option value="CA: Canada"> Canada </option> <option value="IC: Canary Islands"> Canary Islands </option> <option value="CV: Cape Verde"> Cape Verde (Cabo Verde) </option> <option value="BQ: Caribbean Netherlands"> Caribbean Netherlands </option> <option value="KY: Cayman Islands"> Cayman Islands </option> <option value="CF: Central African Republic"> Central African Republic (République centrafricaine) </option> <option value="EA: Ceuta and Melilla"> Ceuta and Melilla </option> <option value="TD: Chad"> Chad (تشاد) </option> <option value="CL: Chile"> Chile </option> <option value="CN: China"> China (中国) </option> <option value="CX: Christmas Island"> Christmas Island </option> <option value="CP: Clipperton Island"> Clipperton Island </option> <option value="CC: Cocos (Keeling) Islands"> Cocos (Keeling) Islands </option> <option value="CO: Colombia"> Colombia </option> <option value="KM: Comoros"> Comoros (جزر القمر) </option> <option value="CG: Congo"> Congo </option> <option value="CD: Congo"> Congo (DRC) (République démocratique du Congo) </option> <option value="CK: Cook Islands"> Cook Islands </option> <option value="CR: Costa Rica"> Costa Rica </option> <option value="CI: Côte d’Ivoire"> Côte d’Ivoire </option> <option value="HR: Croatia"> Croatia (Hrvatska) </option> <option value="CU: Cuba"> Cuba </option> <option value="CW: Curaçao"> Curaçao </option> <option value="CY: Cyprus"> Cyprus (Κύπρος) </option> <option value="CZ: Czech Republic"> Czech Republic (Česká republika) </option> <option value="DK: Denmark"> Denmark (Danmark) </option> <option value="DG: Diego Garcia"> Diego Garcia </option> <option value="DJ: Djibouti"> Djibouti (Jabuuti) </option> <option value="DM: Dominica"> Dominica </option> <option value="DO: Dominican Republic"> Dominican Republic (República Dominicana) </option> <option value="EC: Ecuador"> Ecuador </option> <option value="EG: Egypt"> Egypt (مصر) </option> <option value="SV: El Salvador"> El Salvador </option> <option value="GQ: Equatorial Guinea"> Equatorial Guinea (Guinée équatoriale) </option> <option value="ER: Eritrea"> Eritrea (ኤርትራ, اريتريا) </option> <option value="EE: Estonia"> Estonia (Eesti) </option> <option value="ET: Ethiopia"> Ethiopia (ኢትዮጵያ) </option> <option value="FK: Falkland Islands"> Falkland Islands </option> <option value="FO: Faroe Islands"> Faroe Islands (Føroyar) </option> <option value="FJ: Fiji"> Fiji (फिजी) </option> <option value="FI: Finland"> Finland (Suomi) </option> <option value="FR: France"> France </option> <option value="GF: French Guiana"> French Guiana (Guyane française) </option> <option value="PF: French Polynesia"> French Polynesia (Polynésie française) </option> <option value="TF: French Southern Territories"> French Southern Territories </option> <option value="GA: Gabon"> Gabon </option> <option value="GM: Gambia"> Gambia </option> <option value="GE: Georgia"> Georgia (საქართველო) </option> <option value="DE: Germany"> Germany (Deutschland) </option> <option value="GH: Ghana"> Ghana </option> <option value="GI: Gibraltar"> Gibraltar </option> <option value="GR: Greece"> Greece (Ελλάδα) </option> <option value="GL: Greenland"> Greenland (Kalaallit Nunaat) </option> <option value="GD: Grenada"> Grenada </option> <option value="GP: Guadeloupe"> Guadeloupe </option> <option value="GU: Guam"> Guam </option> <option value="GT: Guatemala"> Guatemala </option> <option value="GG: Guernsey"> Guernsey </option> <option value="GN: Guinea"> Guinea (Guinée) </option> <option value="GW: Guinea-Bissau"> Guinea-Bissau (Guiné Bissau) </option> <option value="GY: Guyana"> Guyana </option> <option value="HT: Haiti"> Haiti (Haïti) </option> <option value="HM: Heard &amp; McDonald Islands"> Heard &amp; McDonald Islands </option> <option value="HN: Honduras"> Honduras </option> <option value="HK: Hong Kong"> Hong Kong (香港) </option> <option value="HU: Hungary"> Hungary (Magyarország) </option> <option value="IS: Iceland"> Iceland (Ísland) </option> <option value="IN: India"> India (भारत) </option> <option value="ID: Indonesia"> Indonesia </option> <option value="IR: Iran"> Iran (ایران) </option> <option value="IQ: Iraq"> Iraq (العراق) </option> <option value="IE: Ireland"> Ireland </option> <option value="IM: Isle of Man"> Isle of Man </option> <option value="IL: Israel"> Israel (ישראל) </option> <option value="IT: Italy"> Italy (Italia) </option> <option value="JM: Jamaica"> Jamaica </option> <option value="JP: Japan"> Japan (日本) </option> <option value="JE: Jersey"> Jersey </option> <option value="JO: Jordan"> Jordan (الأردن) </option> <option value="KZ: Kazakhstan"> Kazakhstan (Казахстан) </option> <option value="KE: Kenya"> Kenya </option> <option value="KI: Kiribati"> Kiribati </option> <option value="XK: Kosovo"> Kosovo </option> <option value="KW: Kuwait"> Kuwait (الكويت) </option> <option value="KG: Kyrgyzstan"> Kyrgyzstan (Кыргызстан) </option> <option value="LA: Laos"> Laos (ลาว) </option> <option value="LV: Latvia"> Latvia (Latvija) </option> <option value="LB: Lebanon"> Lebanon (لبنان) </option> <option value="LS: Lesotho"> Lesotho </option> <option value="LR: Liberia"> Liberia </option> <option value="LY: Libya"> Libya (ليبيا) </option> <option value="LI: Liechtenstein"> Liechtenstein </option> <option value="LT: Lithuania"> Lithuania (Lietuva) </option> <option value="LU: Luxembourg"> Luxembourg </option> <option value="MO: Macau"> Macau (澳门) </option> <option value="MK: Macedonia"> Macedonia (FYROM) (Македонија) </option> <option value="MG: Madagascar"> Madagascar </option> <option value="MW: Malawi"> Malawi </option> <option value="MY: Malaysia"> Malaysia </option> <option value="MV: Maldives"> Maldives </option> <option value="ML: Mali"> Mali (مالي) </option> <option value="MT: Malta"> Malta </option> <option value="MH: Marshall Islands"> Marshall Islands </option> <option value="MQ: Martinique"> Martinique </option> <option value="MR: Mauritania"> Mauritania (موريتانيا) </option> <option value="MU: Mauritius"> Mauritius </option> <option value="YT: Mayotte"> Mayotte </option> <option value="MX: Mexico"> Mexico (México) </option> <option value="FM: Micronesia"> Micronesia </option> <option value="MD: Moldova"> Moldova </option> <option value="MC: Monaco"> Monaco </option> <option value="MN: Mongolia"> Mongolia (Монгол улс) </option> <option value="ME: Montenegro"> Montenegro (Црна Гора) </option> <option value="MS: Montserrat"> Montserrat </option> <option value="MA: Morocco"> Morocco (المغرب) </option> <option value="MZ: Mozambique"> Mozambique (Moçambique) </option> <option value="MM: Myanmar"> Myanmar (Burma) </option> <option value="NA: Namibia"> Namibia </option> <option value="NR: Nauru"> Nauru </option> <option value="NP: Nepal"> Nepal (नेपाल) </option> <option value="NL: Netherlands"> Netherlands (Nederland) </option> <option value="AN: Netherlands Antilles"> Netherlands Antilles (Nederlandse Antillen) </option> <option value="NC: New Caledonia"> New Caledonia (Nouvelle-Calédonie) </option> <option value="NZ: New Zealand"> New Zealand </option> <option value="NI: Nicaragua"> Nicaragua </option> <option value="NE: Niger"> Niger </option> <option value="NG: Nigeria"> Nigeria </option> <option value="NU: Niue"> Niue </option> <option value="NF: Norfolk Island"> Norfolk Island </option> <option value="KP: North Korea"> North Korea (조선 민주주의 인민 공화국) </option> <option value="MP: Northern Mariana Islands"> Northern Mariana Islands </option> <option value="NO: Norway"> Norway (Norge) </option> <option value="OM: Oman"> Oman (عمان) </option> <option value="QO: Outlying Oceania"> Outlying Oceania </option> <option value="PK: Pakistan"> Pakistan (پاکستان) </option> <option value="PW: Palau"> Palau </option> <option value="PS: Palestine"> Palestine (فلسطين) </option> <option value="PA: Panama"> Panama (Panamá) </option> <option value="PG: Papua New Guinea"> Papua New Guinea </option> <option value="PY: Paraguay"> Paraguay </option> <option value="PE: Peru"> Peru (Perú) </option> <option value="PH: Philippines"> Philippines </option> <option value="PN: Pitcairn Islands"> Pitcairn Islands </option> <option value="PL: Poland"> Poland (Polska) </option> <option value="PT: Portugal"> Portugal </option> <option value="PR: Puerto Rico"> Puerto Rico </option> <option value="QA: Qatar"> Qatar (قطر) </option> <option value="RE: Réunion"> Réunion </option> <option value="RO: Romania"> Romania (România) </option> <option value="RU: Russia"> Russia (Россия) </option> <option value="RW: Rwanda"> Rwanda </option> <option value="BL: Saint Barthélemy"> Saint Barthélemy </option> <option value="SH: Saint Helena"> Saint Helena </option> <option value="KN: Saint Kitts and Nevis"> Saint Kitts and Nevis </option> <option value="LC: Saint Lucia"> Saint Lucia </option> <option value="MF: Saint Martin"> Saint Martin </option> <option value="PM: Saint Pierre and Miquelon"> Saint Pierre and Miquelon </option> <option value="WS: Samoa"> Samoa </option> <option value="SM: San Marino"> San Marino </option> <option value="ST: São Tomé and Príncipe"> São Tomé and Príncipe </option> <option value="SA: Saudi Arabia"> Saudi Arabia (المملكة العربية السعودية) </option> <option value="SN: Senegal"> Senegal (Sénégal) </option> <option value="RS: Serbia"> Serbia (Србија) </option> <option value="SC: Seychelles"> Seychelles </option> <option value="SL: Sierra Leone"> Sierra Leone </option> <option value="SG: Singapore"> Singapore (新加坡) </option> <option value="SX: Sint Maarten"> Sint Maarten </option> <option value="SK: Slovakia"> Slovakia (Slovenská republika) </option> <option value="SI: Slovenia"> Slovenia (Slovenija) </option> <option value="SB: Solomon Islands"> Solomon Islands </option> <option value="SO: Somalia"> Somalia (Somali) </option> <option value="ZA: South Africa"> South Africa </option> <option value="GS: South Georgia &amp; South Sandwich Islands"> South Georgia &amp; South Sandwich Islands </option> <option value="KR: South Korea"> South Korea (대한민국) </option> <option value="SS: South Sudan"> South Sudan </option> <option value="ES: Spain"> Spain (España) </option> <option value="LK: Sri Lanka"> Sri Lanka (இலங்கை) </option> <option value="VC: St. Vincent &amp; Grenadines"> St. Vincent &amp; Grenadines </option> <option value="SD: Sudan"> Sudan (السودان) </option> <option value="SR: Suriname"> Suriname </option> <option value="SJ: Svalbard and Jan Mayen"> Svalbard and Jan Mayen </option> <option value="SZ: Swaziland"> Swaziland </option> <option value="SE: Sweden"> Sweden (Sverige) </option> <option value="CH: Switzerland"> Switzerland (Schweiz, Suisse, Svizzera) </option> <option value="SY: Syria"> Syria (سوريا) </option> <option value="TW: Taiwan"> Taiwan (台湾) </option> <option value="TJ: Tajikistan"> Tajikistan (تاجیکستان) </option> <option value="TZ: Tanzania"> Tanzania </option> <option value="TH: Thailand"> Thailand (ประเทศไทย) </option> <option value="TL: Timor-Leste"> Timor-Leste </option> <option value="TG: Togo"> Togo </option> <option value="TK: Tokelau"> Tokelau </option> <option value="TO: Tonga"> Tonga </option> <option value="TT: Trinidad and Tobago"> Trinidad and Tobago </option> <option value="TA: Tristan da Cunha"> Tristan da Cunha </option> <option value="TN: Tunisia"> Tunisia (تونس) </option> <option value="TR: Turkey"> Turkey (Türkiye) </option> <option value="TM: Turkmenistan"> Turkmenistan (Туркменистан) </option> <option value="TC: Turks and Caicos Islands"> Turks and Caicos Islands </option> <option value="TV: Tuvalu"> Tuvalu </option> <option value="UM: U.S. Outlying Islands"> U.S. Outlying Islands (United States Minor Outlying Islands) </option> <option value="VI: U.S. Virgin Islands"> U.S. Virgin Islands </option> <option value="UG: Uganda"> Uganda </option> <option value="UA: Ukraine"> Ukraine (Україна) </option> <option value="AE: United Arab Emirates"> United Arab Emirates (الامارات العربية المتحدة) </option> <option value="GB: United Kingdom"> United Kingdom </option> <option value="US: United States"> United States </option> <option value="UY: Uruguay"> Uruguay </option> <option value="UZ: Uzbekistan"> Uzbekistan (Ўзбекистон) </option> <option value="VU: Vanuatu"> Vanuatu </option> <option value="VA: Vatican City"> Vatican City (Vaticano) </option> <option value="VE: Venezuela"> Venezuela </option> <option value="VN: Vietnam"> Vietnam (Việt Nam) </option> <option value="WF: Wallis and Futuna"> Wallis and Futuna </option> <option value="EH: Western Sahara"> Western Sahara (الصحراء الغربية) </option> <option value="YE: Yemen"> Yemen (اليمن) </option> <option value="ZM: Zambia"> Zambia </option> <option value="ZW: Zimbabwe"> Zimbabwe </option> </select> 
+              <span class="form-error" id="country-err" ng-class="{'hidden': formCtrl.country || fbxForm.country.$pristine}">Please select a valid Country.</span> 
+             </div> 
+             <div class="input-wrp"> 
+              <div class="form-list form-required"> 
+               <p> Sign up to receive communications from Google Analytics <a data-g-action="Google Analytics solutions" data-g-event="Resources: Content" data-g-label="Canvas" href="//support.google.com/analytics/answer/7390017" target="_blank">solutions</a> and our partners. You may opt out at any time.* </p> 
+               <ul> 
+                <li> <input class="form-radio" data-g-action="Updates Opt-In" data-g-event="Resources: Content" data-g-label="Resource: The definitive guide to data-driven attribution." data-ng-model="formCtrl.formData.optinGAPremium" id="optinGAPremium-yes" name="optinGAPremium" required type="radio" value="Yes"> <label class="radio" for="optinGAPremium-yes">Yes</label> </li> 
+                <li> <input class="form-radio" data-g-action="Updates Opt-In" data-g-event="Resources: Content" data-g-label="Resource: The definitive guide to data-driven attribution." data-ng-model="formCtrl.formData.optinGAPremium" id="optinGAPremium-no" name="optinGAPremium" required type="radio" value="No"> <label class="radio" for="optinGAPremium-no">No</label> </li> 
+               </ul> 
+              </div> 
+             </div>
+             <input data-ng-init="formCtrl.formData.Content_Type__c = 'form'" data-ng-model="formCtrl.formData.Content_Type__c" type="hidden"> 
+             <input data-ng-init="formCtrl.formData.Content_Name__c = 'The definitive guide to data-driven attribution.'" data-ng-model="formCtrl.formData.Content_Name__c" type="hidden"> 
+             <input data-ng-init="formCtrl.formData.GA_UTMCampaign = formCtrl.getQueryParam('utm_campaign') || ''" data-ng-model="formCtrl.formData.GA_UTMCampaign" type="hidden"> 
+             <input data-ng-init="formCtrl.formData.GA_UTMMedium = formCtrl.getQueryParam('utm_medium') || ''" data-ng-model="formCtrl.formData.GA_UTMMedium" type="hidden"> 
+             <input data-ng-init="formCtrl.formData.GA_UTMSource = formCtrl.getQueryParam('utm_source') || ''" data-ng-model="formCtrl.formData.GA_UTMSource" type="hidden"> 
+             <input data-ng-init="formCtrl.formData.GA_UTMTerm = formCtrl.getQueryParam('utm_term') || ''" data-ng-model="formCtrl.formData.GA_UTMTerm" type="hidden"> 
+             <input data-ng-init="formCtrl.formData.Form_Name__c = 'ga-content-gate-form'" data-ng-model="formCtrl.formData.Form_Name__c" type="hidden"> 
+             <input data-ng-init="formCtrl.formData.RecordTypeId = '01280000000BaU9'" data-ng-model="formCtrl.formData.RecordTypeId" type="hidden"> 
+             <div class="form-bottom"> 
+              <button class="button button-secondary" data-g-action="Submit" data-g-event="Resources: Content" data-g-label="Resource: The definitive guide to data-driven attribution." data-ng-disabled="!fbxForm.$valid" type="submit" value="Submit">Download</button> 
+              <p class="font-small"> * Required </p> 
+              <div class="input-note">
+                Your information will be used in accordance with Google's 
+               <a class="text-nowrap" data-g-action="Google Privacy Policy" data-g-event="Resources: Content" data-g-label="Canvas" href="https://www.google.com/policies/privacy/">privacy policy</a>. By checking yes, you agree that Google may share your information with its partners. Partners’ use of your information will be governed by their privacy policies or other terms, as applicable.​ 
+              </div> 
+             </div> 
+            </form> 
+           </div> 
+           <div class="form-success" data-ng-cloak="" data-ng-show="formCtrl.success"> 
+            <h3> Thanks for your interest. </h3> 
+            <p class="font-large"> Enjoy your featured content. </p> 
+            <p> <a class="link-more" data-g-action="Download PDF" data-g-event="Resources: Content" data-g-frtopic="Marketing Analytics and Attribution" data-g-frtype="Guide" data-g-label="Resource: The definitive guide to data-driven attribution." href="https://services.google.com/fh/files/misc/gatt360_definitive_guide_to_data-driven_attribution_white_paper.pdf" target="_blank">Download 
+              <svg class="icon-link-download" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+               <path d="M29.2,11.3h-7.5V0H10.4v11.3H2.8L16,24.5L29.2,11.3z M3,28.2V32h26v-3.8H3z"> 
+               </path>
+              </svg> <img alt="download link icon" class="icon-link-download" height="14" src="//www.google.com/ads/images/icons/icon-link-download.png" width="14"></a> </p> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <script>
+      (function(){document.querySelector("form").addEventListener("submit",function(e){var t=document.querySelector("button[type=Submit]");window.dataLayer.push({"event":"formAbandonment","eventCategory":t.getAttribute("data-g-event"),"eventAction":t.getAttribute("data-g-action"),"eventLabel":t.getAttribute("data-g-label"),"formType":"gated"})});document.querySelector("form").addEventListener("change",function(e){var t=e["target"];window.dataLayer.push({"event":"formAbandonment","eventCategory":t.getAttribute("data-g-event"),
+"eventAction":t.getAttribute("data-g-action"),"eventLabel":t.getAttribute("data-g-label"),"formType":"gated"})})})();
+      </script> 
+  </div> 
+  <footer class="footer" id="footer" role="contentinfo"> 
+   <div class="site-width"> 
+    <div class="footer-upper cols-row"> 
+     <div class="footer-social col-6"> 
+      <dl> 
+       <dt>
+         Follow us on: 
+       </dt> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Home" data-g-label="GPlus" href="https://plus.google.com/+GoogleAnalytics/" rel="noopener nofollow" target="_blank" title="Google+">
+         <svg class="icon-footer-gplus c1" height="20px" version="1.1" viewbox="0 0 23 15" width="30px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <polygon points="23,6 21,6 21,4 19,4 19,6 17,6 17,8 19,8 19,10 21,10 21,8 23,8"> 
+          </polygon> 
+          <path d="M11.8,8.9c-0.1,1.3-1.3,3.4-4.3,3.4c-2.6,0-4.6-2.1-4.6-4.7S5,2.9,7.5,2.9c1.5,0,2.4,0.6,3,1.1 l0,0l2-2c-1.3-1.2-3-2-5-2C3.4,0.1,0,3.5,0,7.6s3.4,7.5,7.5,7.5c4.3,0,7.2-3,7.2-7.3c0-0.6-0.1-1.1-0.2-1.5h-7V9L11.8,8.9L11.8,8.9 z"> 
+          </path>
+         </svg> <img alt="Google+" class="icon-footer-gplus" height="20" src="//www.google.com/ads/images/icons/icon-footer-gplus.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Home" data-g-label="Blogger" href="https://analytics.googleblog.com/" rel="noopener" target="_blank" title="Blogger">
+         <svg class="icon-footer-blogger" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,0H3.2C1.4,0,0,1.4,0,3.2l0,25.6C0,30.6,1.4,32,3.2,32h25.6c1.8,0,3.2-1.4,3.2-3.2V3.2 C32,1.4,30.6,0,28.8,0 M22.4,11.2v1.6c0,0.9,0.7,1.6,1.6,1.6c0.9,0,1.6,0.7,1.6,1.6v4.8c0,2.7-2.1,4.8-4.8,4.8h-9.6 c-2.7,0-4.8-2.1-4.8-4.8V9.6c0-2.6,2.1-4.8,4.8-4.8h6.4c2.7,0,4.8,2.2,4.8,4.8V11.2z M12.7,12.8h4.2c0.9,0,1.6-0.7,1.6-1.6 s-0.7-1.6-1.6-1.6h-4.2c-0.9,0-1.6,0.7-1.6,1.6S11.8,12.8,12.7,12.8 M19.2,17.6h-6.5c-0.9,0-1.6,0.7-1.6,1.6c0,0.9,0.7,1.6,1.6,1.6 h6.5c0.9,0,1.6-0.7,1.6-1.6C20.8,18.3,20.1,17.6,19.2,17.6"> 
+          </path>
+         </svg> <img alt="Blogger" class="icon-footer-blogger" height="20" src="//www.google.com/ads/images/icons/icon-footer-blogger.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Home" data-g-label="Linkedin" href="https://www.linkedin.com/company/google-analytics" rel="nofollow" target="_blank" title="LinkedIn">
+         <svg class="icon-footer-linkedin" enable-background="new 0 0 36 36" height="20px" version="1.1" viewbox="0 0 36 36" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M33.334,0.001H2.655C1.19,0.001,0,1.163,0,2.595v30.809c0,1.434,1.19,2.598,2.655,2.598h30.679 c1.468,0,2.667-1.164,2.667-2.598V2.595C36.001,1.163,34.802,0.001,33.334,0.001z M10.68,30.677H5.335V13.498h5.345V30.677z M8.009,11.148c-1.716,0-3.098-1.387-3.098-3.097c0-1.707,1.382-3.095,3.098-3.095c1.708,0,3.095,1.388,3.095,3.095 C11.104,9.761,9.717,11.148,8.009,11.148z M30.675,30.677H25.34v-8.354c0-1.992-0.038-4.556-2.774-4.556 c-2.779,0-3.203,2.17-3.203,4.411v8.498h-5.333V13.498h5.118v2.347h0.073c0.712-1.351,2.455-2.775,5.053-2.775 c5.402,0,6.401,3.557,6.401,8.184V30.677z"> 
+          </path>
+         </svg> <img alt="Linkedin" class="icon-footer-linkedin" height="20" src="//www.google.com/ads/images/icons/icon-footer-linkedin.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Home" data-g-label="Twitter" href="https://twitter.com/googleanalytics" rel="nofollow" target="_blank" title="Twitter">
+         <svg class="icon-footer-twitter" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,0H3.2C1.4,0,0,1.4,0,3.2l0,25.6C0,30.6,1.4,32,3.2,32h25.6c1.8,0,3.2-1.4,3.2-3.2V3.2 C32,1.4,30.6,0,28.8,0z M25.1,11.7c-0.1,7.4-4.8,12.5-11.9,12.8c-2.9,0.1-5-0.8-6.9-2c2.2,0.3,4.8-0.5,6.2-1.7 c-2.1-0.2-3.4-1.3-3.9-3c0.6,0.1,1.2,0.1,1.8,0c-1.9-0.6-3.3-1.8-3.3-4.3C7.7,13.7,8.3,13.9,9,14c-1.4-0.8-2.5-3.8-1.3-5.7 c2.1,2.3,4.7,4.2,8.8,4.5c-1-4.5,4.9-6.9,7.4-3.9c1.1-0.2,1.9-0.6,2.7-1c-0.3,1-1,1.8-1.8,2.4c0.9-0.1,1.6-0.3,2.3-0.7 C26.8,10.3,25.9,11.1,25.1,11.7z"> 
+          </path>
+         </svg> <img alt="Twitter" class="icon-footer-twitter" height="20" src="//www.google.com/ads/images/icons/icon-footer-twitter.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Home" data-g-label="Youtube" href="https://www.youtube.com/user/googleanalytics" rel="noopener" target="_blank" title="YouTube">
+         <svg class="icon-footer-youtube" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,3.8c-1-0.3-6.9-0.6-12.8-0.6c-5.9,0-11.8,0.3-12.8,0.6C0.7,4.6,0,10.2,0,16s0.7,11.4,3.2,12.2c1,0.3,6.9,0.6,12.8,0.6 c5.9,0,11.8-0.3,12.8-0.6C31.3,27.4,32,21.8,32,16S31.3,4.7,28.8,3.8 M12.8,22.4V9.6l8.8,6.4L12.8,22.4z"> 
+          </path>
+         </svg> <img alt="YouTube" class="icon-footer-youtube" height="20" src="//www.google.com/ads/images/icons/icon-footer-youtube.png" width="20"></a> 
+       </dd> 
+      </dl> 
+     </div> 
+     <div class="footer-meta-links col-6"> 
+      <ul> 
+       <li> <a href="https://www.google.com/appsstatus#hl=en">Apps Status Dashboard</a> </li> 
+       <li> <a href="https://support.google.com/analytics/answer/7108387" target="_blank">Terms of Service</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <nav class="footer-nav cols-row"> 
+     <dl class="col-3"> 
+      <dt>
+        Learning &amp; Support 
+      </dt> 
+      <dd> 
+       <a href="https://support.google.com/analytics/go/analytics_solutions" rel="noopener" target="_blank">Help Center</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.en.advertisercommunity.com/t5/Google-Analytics/ct-p/Google_Analytics" rel="noopener" target="_blank">User Forum</a> 
+      </dd> 
+      <dd> 
+       <a href="https://analytics.google.com/analytics/gallery/#landing/start/" rel="noopener" target="_blank">Solutions Gallery</a> 
+      </dd> 
+      <dd> 
+       <a href="https://analytics.googleblog.com/" rel="noopener" target="_blank">Analytics Solution Blog</a> 
+      </dd> 
+      <dd> 
+       <a href="https://analyticsacademy.withgoogle.com/" rel="noopener" target="_blank">Analytics Academy</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/analytics/partners/search/apps" rel="noopener" target="_blank">Partner Gallery</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Developers 
+      </dt> 
+      <dd> 
+       <a href="https://developers.google.com/analytics/?hl=en" rel="noopener" target="_blank">Analytics Developer Site</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/tag-manager/?hl=en" rel="noopener" target="_blank">Tag Manager Developer Site</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/surveys/?hl=en" rel="noopener" target="_blank">Surveys Developer Site</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Related Products 
+      </dt> 
+      <dd> 
+       <a href="https://adwords.google.com/home/?subid=ww-ww-et-g-aw-a-rs_ga_solutions_1-!o2" rel="noopener" target="_blank">AdWords</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.doubleclickbygoogle.com/" rel="noopener" target="_blank">DoubleClick</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/adsense/start/?subid=ww-ww-et-analytics-site&amp;utm_source=internal&amp;utm_medium=et&amp;utm_campaign=analytics-site" rel="noopener" target="_blank">AdSense</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/admob/?subid=ww-ww-et-analytics-site&amp;utm_source=internal&amp;utm_medium=et&amp;utm_campaign=analytics-site" rel="noopener" target="_blank">AdMob</a> 
+      </dd> 
+      <dd> 
+       <a href="https://cloud.google.com/bigquery/?hl=en" rel="noopener" target="_blank">BigQuery</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        More from Google 
+      </dt> 
+      <dd> 
+       <a href="https://www.google.com/services/?subid=ww-ww-et-g-aw-a-rs_ga_solutions_2-!o2" rel="noopener" target="_blank">Business Solutions</a> 
+      </dd> 
+      <dd> 
+       <a href="https://cloud.google.com/?hl=en" rel="noopener" target="_blank">Google Cloud Platform</a> 
+      </dd> 
+      <dd> 
+       <a href="https://apps.google.com/" rel="noopener" target="_blank">Google Apps for Work</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.thinkwithgoogle.com/topics/measurement.html" rel="noopener" target="_blank">Think with Google</a> 
+      </dd> 
+      <dd> 
+       <a href="https://testmysite.thinkwithgoogle.com/?utm_source=ga&amp;utm_medium=referral&amp;utm_content=ww-ww-ga" rel="noopener" target="_blank">Test My Site</a> 
+      </dd> 
+     </dl> 
+    </nav> 
+    <div class="footer-lower cols-row"> 
+     <div class="footer-meta-links col-9"> 
+      <ul> 
+       <li> <a href="https://support.google.com/analytics/?hl=en#topic=3544906">
+         <svg class="icon-footer-help" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path clip-rule="evenodd" d="M16 0C7.2 0 0 7.2 0 16c0 3 .9 5.9 2.3 8.3L0 32l7.7-2.3C10.2 31.1 13 32 16 32c8.8 0 16-7.2 16-16S24.8 0 16 0zm1.3 24.6c-.3.3-.7.5-1.2.5s-1-.2-1.2-.5c-.3-.3-.4-.7-.4-1.1 0-.2 0-.4.1-.6.1-.2.2-.4.3-.5.1-.1.3-.3.5-.3.2-.1.4-.1.7-.1.3 0 .5 0 .7.1.2.1.4.2.5.3.1.1.3.3.3.5.1.2.1.4.1.6 0 .5-.1.8-.4 1.1zm3.8-11.4c-.2.5-.4.9-.6 1.3l-.9 1.2c-.3.4-.7.8-1 1.1-.4.4-.7.9-.9 1.4-.2.5-.2.8-.3 1.8h-2.8c0-1 0-1.2.1-1.6.1-.4.2-1 .3-1.3.2-.3.4-.7.6-1 .2-.3.6-.7.9-1 .2-.3.5-.5.7-.7.2-.2.4-.5.6-.7.2-.3.3-.5.4-.8.1-.3.1-.6.1-1 0-.8-.2-1.4-.6-1.8-.4-.4-1-.6-1.7-.6-.3 0-.6.1-.9.1-.3.1-.5.2-.8.4s-.4.6-.5.8c-.1.3-.2 1.2-.2 1.2h-3c0-2 .2-1.6.4-2.2.3-.6.7-1.2 1.1-1.6.5-.4 1-.7 1.7-.9.8-.3 1.5-.4 2.2-.4.8 0 1.6.1 2.2.3.7.2 1.2.5 1.7.9s.8.9 1 1.5c.2.6.4 1.3.4 2.1 0 .6-.1 1.1-.2 1.5z" fill-rule="evenodd"></path>
+         </svg> <img alt="Help" class="icon-footer-help" height="20" src="//www.google.com/ads/images/icons/icon-footer-help.png" width="20"> Help</a> </li> 
+       <li> <a href="//www.google.com">Google</a> </li> 
+       <li> <a href="//www.google.com/intl/en/policies/privacy/">Privacy</a> </li> 
+       <li> <a href="//www.google.com/intl/en/policies/terms/">Terms</a> </li> 
+      </ul> 
+     </div> 
+     <div class="footer-locale-switcher col-3"> 
+      <label class="visually-hidden" for="footer-locales"><span>Change language or region:</span></label> 
+      <select class="footer-locales" id="footer-locales" onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="//www.google.com/intl/id/analytics/"> Bahasa Indonesia </option> <option value="//www.google.com/intl/ca/analytics/"> Català </option> <option value="//www.google.com/intl/cs/analytics/"> Čeština </option> <option value="//www.google.com/intl/da/analytics/"> Dansk </option> <option value="//www.google.com/intl/de/analytics/"> Deutsch </option> <option value="//www.google.com/intl/en/analytics/"> English </option> <option selected value="//www.google.com/intl/en/analytics/"> English </option> <option value="//www.google.co.uk/intl/en/analytics/"> English – United Kingdom </option> <option value="//www.google.com/intl/es/analytics/"> Español </option> <option value="//www.google.com/intl/tl/analytics/"> Filipino </option> <option value="//www.google.com/intl/fr/analytics/"> Français </option> <option value="//www.google.com/intl/it/analytics/"> Italiano </option> <option value="//www.google.com/intl/lt/analytics/"> Lietuvių </option> <option value="//www.google.com/intl/hu/analytics/"> Magyar </option> <option value="//www.google.com/intl/nl/analytics/"> Nederlands </option> <option value="//www.google.com/intl/no/analytics/"> Norsk </option> <option value="//www.google.com/intl/pl/analytics/"> Polski </option> <option value="//www.google.com/intl/pt-BR/analytics/"> Português (Brasil) </option> <option value="//www.google.com/intl/pt-PT/analytics/"> Português (Portugal) </option> <option value="//www.google.com/intl/sk/analytics/"> Slovenčina </option> <option value="//www.google.com/intl/fi/analytics/"> Suomi </option> <option value="//www.google.com/intl/sv/analytics/"> Svenska </option> <option value="//www.google.com/intl/vi/analytics/"> Tiếng Việt </option> <option value="//www.google.com/intl/tr/analytics/"> Türkçe </option> <option value="//www.google.com/intl/el/analytics/"> Ελληνικά </option> <option value="//www.google.com/intl/bg/analytics/"> Български </option> <option value="//www.google.com/intl/ru/analytics/"> Русский </option> <option value="//www.google.com/intl/th/analytics/"> ไทย </option> <option value="//www.google.com/intl/ko/analytics/"> 한국어 </option> <option value="//www.google.com/intl/zh-CN/analytics/"> 中文（简体中文） </option> <option value="//www.google.com/intl/zh-TW/analytics/"> 中文（繁體中文） </option> <option value="//www.google.com/intl/ja/analytics/"> 日本語 </option> </select> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <script src="//www.gstatic.com/external_hosted/picturefill/picturefill.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-messages.min.js"></script> 
+  <script src="/analytics/js/analytics.min.js"></script> 
+  <noscript>
+   <iframe class="c2" height="0" src="//www.googletagmanager.com/ns.html?id=GTM-KLXF7H" width="0"></iframe>
+  </noscript>  
+ </body>
+</html>

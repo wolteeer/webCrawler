@@ -1,0 +1,550 @@
+<!doctype html>
+<html lang="sk">
+ <head> 
+  <script>(function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)</script> 
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"> 
+  <meta charset="utf-8"> 
+  <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"> 
+  <meta property="og:url" content="www.google.com/intl/sk_ALL/drive/using-drive/"> 
+  <meta name="twitter:url" content="www.google.com/intl/sk_ALL/drive/using-drive/"> 
+  <meta name="twitter:title" content="Používanie Disku Google – nové funkcie, prednosti a&nbsp;výhody služby Google Cloud Storage"> 
+  <meta name="twitter:image" content="https://www.google.com/drive/static/images/drive/logo-drive.png"> 
+  <meta name="twitter:description" content="Prečítajte si o&nbsp;najnovších funkciách a&nbsp;výhodách Disku Google vrátane integrácie s&nbsp;Gmailom, jednoduchého zdieľania a&nbsp;ukladania fotiek, nových aplikácií a&nbsp;ďalších možností."> 
+  <meta name="twitter:creator" content="google"> 
+  <!-- Open Graph --> 
+  <meta content="Používanie Disku Google – nové funkcie, prednosti a&nbsp;výhody služby Google Cloud Storage" property="og:title"> 
+  <meta content="https://www.google.com/drive/static/images/drive/logo-drive.png" property="og:image"> 
+  <meta content="Prečítajte si o&nbsp;najnovších funkciách a&nbsp;výhodách Disku Google vrátane integrácie s&nbsp;Gmailom, jednoduchého zdieľania a&nbsp;ukladania fotiek, nových aplikácií a&nbsp;ďalších možností." property="og:description"> 
+  <meta property="og:type" content="website"> 
+  <!-- Doc Meta --> 
+  <title>Používanie Disku Google – nové funkcie, prednosti a&nbsp;výhody služby Google Cloud Storage</title> 
+  <meta content="Prečítajte si o&nbsp;najnovších funkciách a&nbsp;výhodách Disku Google vrátane integrácie s&nbsp;Gmailom, jednoduchého zdieľania a&nbsp;ukladania fotiek, nových aplikácií a&nbsp;ďalších možností." name="description"> 
+  <link rel="prefetch" href="//www.google.com/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png"> 
+  <link rel="stylesheet" href="//www.gstatic.com/external_hosted/normalize/normalize.css"> 
+  <link rel="stylesheet" href="//www.google.com/css/maia.experimental.css"> 
+  <link rel="stylesheet" href="//www.google.com/css/gweb/lightbox.css"> 
+  <script src="//www.google.com/js/google.js"></script> 
+  <script>
+      var _gaq = _gaq || [];
+      _gaq.push(['_cookiePathCopy', '/a/']);
+      _gaq.push(['_cookiePathCopy', '/apps/']);
+      _gaq.push(['_cookiePathCopy', '/work/']);
+      _gaq.push(['_cookiePathCopy', '/work/apps/business/']);
+      _gaq.push(['_cookiePathCopy', '/intl/']);
+      _gaq.push(['_cookiePathCopy', '/intx/']);
+      _gaq.push(['_cookiePathCopy', '/work/']);
+    new gweb.analytics.AutoTrack({profile: "UA-28613865-1"});
+  </script> 
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Product+Sans" rel="stylesheet"> 
+  <!-- External Scripts --> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/modernizr.js"></script> 
+  <!-- Favicon --> 
+  <link href="/drive/static/images/drive/favicon.ico" rel="icon" type="image/png"> 
+  <!-- Stylesheet --> 
+  <link href="/drive/static/dist/css/main.min.css" rel="stylesheet"> 
+  <link rel="canonical" href="https://www.google.com/intl/sk_ALL/drive/using-drive/"> 
+ </head> 
+ <body class="using-drive nav-light"> 
+  <span itemscope itemtype="http://schema.org/LocalBusiness"> 
+   <!-- Header --> 
+   <header class="header" role="banner"> 
+    <div class="header-item with-site-logo"> 
+     <a class="site-logo site-logo-link" href="/intl/sk_ALL/drive/" data-g-event="Drive" data-g-action="Header" data-g-label="Drive logo"> 
+      <div class="lockup lockup--light js-lockup" dir="ltr"> 
+       <span class="lockup-logo js-site-logo-image"></span> 
+       <span class="lockup-text"></span> 
+       <span class="lockup-brand">Drive</span> 
+      </div> </a> 
+    </div> 
+    <nav class="nav-site" data-nav-name="mobile"> 
+     <img itemprop="image" alt="Drive logo" src="/drive/static/images/drive/logo-drive.png"> 
+     <ul> 
+      <li> <a class="meet" href="/intl/sk_ALL/drive/" data-g-event="Drive" data-g-action="Header" data-g-label="Zoznámiť sa s Diskom">Zoznámiť sa s Diskom</a> </li> 
+      <li> <a class="using-drive" href="/intl/sk_ALL/drive/using-drive/" data-g-event="Drive" data-g-action="Header" data-g-label="Používanie Disku">Používanie Disku</a> </li> 
+      <li> <a class="price" href="/intl/sk_ALL/drive/pricing/" data-g-event="Drive" data-g-action="Pricing" data-g-label="Ceny">Ceny</a> </li> 
+      <li class="mobile-is-hidden device-is-hidden"> <a class="download" href="/intl/sk_ALL/drive/download/" data-g-event="Drive" data-g-action="Header" data-g-label="Stiahnuť">Stiahnuť</a> </li> 
+      <li> <a class="work" href="//gsuite.google.com/intl/sk_ALL/driveforwork/?utm_medium=et&amp;utm_source=aboutdrive&amp;utm_content=consnav&amp;utm_campaign=sk" data-g-event="Drive" data-g-action="Header" data-g-label="Na prácu">Na prácu</a> </li> 
+      <li class="last-default"> <a class="help" href="//support.google.com/drive/answer/2424384?hl=sk" data-g-event="Drive" data-g-action="Header" data-g-label="Pomocník">Pomocník</a> </li> 
+      <li class="mobile-is-hidden float-in"> <a class="go-to-drive get-started" href="https://accounts.google.com/ServiceLogin?service=wise&amp;passive=true&amp;continue=http://drive.google.com/?utm_source=sk&amp;utm_medium=button&amp;utm_campaign=web&amp;utm_content=gotodrive&amp;usp=gtd&amp;ltmpl=drive" data-g-event="Drive" data-g-action="Header" data-g-label="Prejsť na Disk Google">Prejsť na Disk Google</a> </li> 
+      <li class="download-app mobile-is-visible crushed-is-visible"> <a class="download-mobile-android boxed-in" href="//play.google.com/store/apps/details?id=com.google.android.apps.docs&amp;hl=sk" data-g-event="Drive" data-g-action="Header" data-g-label="Stiahnuť pre Android">Stiahnuť pre Android</a> <a class="download-mobile-ios boxed-in" href="//itunes.apple.com/en/app/google-drive/id507874739" data-g-event="Drive" data-g-action="Header" data-g-label="Stiahnuť pre iOS">Stiahnuť pre iOS</a> <a class="download-mobile boxed-in get-started" href="" data-g-event="Drive" data-g-action="Header" data-g-label="Prihlásiť sa">Prihlásiť sa</a> </li> 
+     </ul> 
+    </nav> 
+    <div class="mobile-nav-toggle js-mobilenav"> 
+     <div class="icon icon-mobile-open toggle-nav-open js-mobilenav-toggle" data-target-nav="mobile"></div> 
+     <div class="icon icon-mobile-close toggle-nav-closed js-mobilenav-toggle-close" data-target-nav="mobile"></div> 
+    </div> 
+   </header> </span> 
+  <!-- End Header --> 
+  <!-- Intro section with photo background --> 
+  <section class="section-intro section-panel-fullscreen js-fullscreen"> 
+   <div class="section-photo-fullscreen section-photo js-parallax-image js-responsive-image" data-breakpoints="320,768,1024,1200,1600" data-known-dimensions="false" data-origin="0" data-preserve-aspect-ratio="false" data-reverse-parallax="true" data-src="/drive/static/images/features/intro.jpg"></div> 
+   <div class="section-centered section-vertical-align js-vertical-align js-parallax-image" data-origin="0" data-parallax-speed="3" data-reverse-parallax="true" data-parallax-fade="true"> 
+    <div class="one-whole"> 
+     <img alt="Drive logo" src="/drive/static/images/drive/logo-drive.png"> 
+     <h1 class="section-headline section-headline-large section-headline-white">Preskúmajte funkcie ukladania na Disk</h1> 
+    </div> 
+   </div> 
+   <div class="arrow-hint"> 
+    <a href="#start" class="gweb-smoothscroll-control"> 
+     <div class="icon icon-arrow-hint animated-arrow-1"></div> 
+     <div class="icon icon-arrow-hint animated-arrow-2"></div> </a> 
+   </div> 
+  </section> 
+  <!-- scrollable wrapper --> 
+  <div class="unfixed-wrapper" id="start"> 
+   <!-- Space --> 
+   <section class="section-space section-divider js-hinted-fullscreen"> 
+    <div class="section-centered section-centered-text"> 
+     <h2 class="heading-headline">Vaše súbory, váš spôsob – funkcie Disku</h2> 
+     <div class="tabs tabs-space js-tabs" data-tab-name="space-to-play"> 
+      <div class="tabs-list mobile-is-hidden"> 
+       <div class="tabs-tab one-quarter tabs-tab-first js-activate-tab" data-tab-target="space"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="15&nbsp;GB priestoru">15&nbsp;GB priestoru</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter js-activate-tab" data-tab-target="file"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Uloženie ľubovoľných súborov">Uloženie ľubovoľných súborov</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter js-activate-tab" data-tab-target="share"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Zdieľajte, ako chcete">Zdieľajte, ako chcete</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter one-quarter tabs-tab-last js-activate-tab" data-tab-target="disaster"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Bezpečné a&nbsp;zabezpečené">Bezpečné a&nbsp;zabezpečené</label> 
+       </div> 
+      </div> 
+      <div class="tabs-content with-select js-tab-content-container js-select-menu-container" data-select-first="true" data-select-populated="true"> 
+       <!-- Mobile select menu --> 
+       <div class="select-menu-wrapper select-menu-wrapper-devices"> 
+        <div class="icon icon-toggle_is-active">
+         &nbsp;
+        </div> 
+        <select class="select-menu js-select-menu"> <option class="js-select-menu-option select-menu-option" value="15&nbsp;GB priestoru">15&nbsp;GB priestoru</option> <option class="js-select-menu-option select-menu-option" value="Uloženie ľubovoľných súborov">Uloženie ľubovoľných súborov</option> <option class="js-select-menu-option select-menu-option" value="Zdieľajte, ako chcete">Zdieľajte, ako chcete</option> <option class="js-select-menu-option select-menu-option" value="Bezpečné a&nbsp;zabezpečené">Bezpečné a&nbsp;zabezpečené</option> </select> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="15&nbsp;GB priestoru" data-tab-name="space"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Vaše úložisko spolupracuje s&nbsp;Diskom, Gmailom a&nbsp;Fotkami Google, takže priamo na Disk môžete ukladať súbory a&nbsp;prílohy e-mailov a&nbsp;tiež zálohovať fotky. V&nbsp;prípade potreby si môžete tiež <a href="https://www.google.com/settings/storage?hl=sk">kúpiť väčšiu tarifu úložiska v&nbsp;cloude</a>.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-1-1.png" alt="Logo 15&nbsp;GB bezplatného úložiska Disku Google"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Uloženie ľubovoľných súborov" data-tab-name="file"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Fotky, videá, prezentácie, súbory PDF – dokonca aj súbory balíka Microsoft Office. Bez ohľadu na typ súboru možno na Disk všetko bezpečne uložiť.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-1-2.png" alt="Zoznam typov súborov Disku Google vrátane obrázkov, dokumentov a&nbsp;hudby"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Zdieľajte, ako chcete" data-tab-name="share"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Súbory na Disku sú súkromné, pokiaľ sa ich nerozhodnete zdieľať. Môžete rýchlo pozvať ostatných na zobrazenie, komentovanie a&nbsp;úpravy ľubovoľného súboru alebo priečinka, ktorý vyberiete. Online spolupráca je teraz oveľa jednoduchšia.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-1-3.png" alt="Možnosti ochrany súkromia a&nbsp;zdieľania na Disku Google"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Bezpečné a&nbsp;zabezpečené" data-tab-name="disaster"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Zabezpečenie vášho súboru je pre nás kľúčové. Preto ostane každý súbor na Disku v&nbsp;bezpečí, a&nbsp;to bez ohľadu na to, čo sa stane s&nbsp;vaším smartfónom, tabletom alebo počítačom. Disk je šifrovaný pomocou protokolu zabezpečenia SSL, ktorý sa používa aj v&nbsp;Gmaile a&nbsp;ďalších službách Google.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-1-4.png" alt="Zámok zabezpečenia Disku Google"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- With Google --> 
+   <section class="section-with-google section-divider js-hinted-fullscreen"> 
+    <div class="section-centered section-centered-text"> 
+     <h2 class="heading-headline">Vytvorené na prácu s&nbsp;Googlom</h2> 
+     <div class="tabs tabs-space js-tabs" data-tab-name="space-to-play"> 
+      <div class="tabs-list mobile-is-hidden"> 
+       <div class="tabs-tab one-quarter tabs-tab-first js-activate-tab" data-tab-target="attachments"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Ukladanie príloh Gmailu">Ukladanie príloh Gmailu</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter js-activate-tab" data-tab-target="search"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Výkonné vyhľadávanie">Výkonné vyhľadávanie</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter js-activate-tab" data-tab-target="photos"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Fotky Google">Fotky Google</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter one-quarter tabs-tab-last js-activate-tab" data-tab-target="chromebooks"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Chromebooky">Chromebooky</label> 
+       </div> 
+      </div> 
+      <div class="tabs-content with-select js-tab-content-container js-select-menu-container" data-select-first="true" data-select-populated="true"> 
+       <!-- Mobile select menu --> 
+       <div class="select-menu-wrapper select-menu-wrapper-devices"> 
+        <div class="icon icon-toggle_is-active">
+         &nbsp;
+        </div> 
+        <select class="select-menu js-select-menu"> <option class="js-select-menu-option select-menu-option" value="Ukladanie príloh Gmailu">Ukladanie príloh Gmailu</option> <option class="js-select-menu-option select-menu-option" value="Výkonné vyhľadávanie">Výkonné vyhľadávanie</option> <option class="js-select-menu-option select-menu-option" value="Fotky Google">Fotky Google</option> <option class="js-select-menu-option select-menu-option" value="Chromebooky">Chromebooky</option> </select> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Ukladanie príloh Gmailu" data-tab-name="attachments"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-2-1.jpg" alt="Fotka, ktorá bola ako príloha v&nbsp;Gmaile, sa jedným kliknutím ukladá na disk"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Prejdite kurzorom na prílohu v&nbsp;Gmaile a&nbsp;vyhľadajte logo Disku. Odtiaľto môžete prílohy ukladať na Disk, aby ste si ich mohli usporiadať a&nbsp;zdieľať na jednom bezpečnom mieste.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Výkonné vyhľadávanie" data-tab-name="search"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-2-2.png" alt="Fotka, ktorá bola ako príloha v&nbsp;Gmaile, sa jedným kliknutím ukladá na disk"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Disk dokáže rozpoznať objekty na obrázkoch a&nbsp;text v&nbsp;naskenovaných dokumentoch. Môžete tak vyhľadať napríklad výraz „Eiffelova veža“ a&nbsp;získať textové dokumenty s&nbsp;týmto výrazom, ako aj snímky skutočnej Eiffelovej veže.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Fotky Google" data-tab-name="photos"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-2-3.jpg" alt="Fotka oregonského pobrežia uložená na Disku Google a&nbsp;zdieľaná na Google+"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Ukladajte si fotky na Disk a&nbsp;sledujte, ako ožijú vo Fotkách Google. Získajte odborne upravený vzhľad bez námahy a&nbsp;tiež animácie, filmy a&nbsp;ďalšie diela.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Chromebooky" data-tab-name="chromebooks"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-2-4.jpg" alt="Údaje Disku Google na Chromebookoch"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Disk Google je vstavaný v&nbsp;Chromebookoch, takže vaše súbory a&nbsp;fotky sú automaticky zálohované. S&nbsp;väčšinou nových Chromebookov dostanete na dva roky 100&nbsp;GB bezplatného úložiska.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- Apps --> 
+   <p id="google-apps">&nbsp;</p> 
+   <section class="section-apps section-divider js-hinted-fullscreen"> 
+    <div class="section-centered section-centered-text"> 
+     <h2 class="heading-headline">Inteligentnejšia práca s&nbsp;aplikáciami</h2> 
+     <div class="tabs tabs-space js-tabs" data-tab-name="space-to-play"> 
+      <div class="tabs-list mobile-is-hidden"> 
+       <div class="tabs-tab one-quarter tabs-tab-first js-activate-tab" data-tab-target="docs"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Dokumenty, Tabuľky, Prezentácie">Dokumenty, Tabuľky, Prezentácie</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter js-activate-tab" data-tab-target="forms"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Formuláre Google">Formuláre Google</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter js-activate-tab" data-tab-target="office"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Nákresy Google">Nákresy Google</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter one-quarter tabs-tab-last js-activate-tab" data-tab-target="more"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Ďalšie aplikácie Disku">Ďalšie aplikácie Disku</label> 
+       </div> 
+      </div> 
+      <div class="tabs-content with-select js-tab-content-container js-select-menu-container" data-select-first="true" data-select-populated="true"> 
+       <!-- Mobile select menu --> 
+       <div class="select-menu-wrapper select-menu-wrapper-devices"> 
+        <div class="icon icon-toggle_is-active">
+         &nbsp;
+        </div> 
+        <select class="select-menu js-select-menu"> <option class="js-select-menu-option select-menu-option" value="Dokumenty, Tabuľky, Prezentácie">Dokumenty, Tabuľky, Prezentácie</option> <option class="js-select-menu-option select-menu-option" value="Formuláre Google">Formuláre Google</option> <option class="js-select-menu-option select-menu-option" value="Nákresy Google">Nákresy Google</option> <option class="js-select-menu-option select-menu-option" value="Ďalšie aplikácie Disku">Ďalšie aplikácie Disku</option> </select> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Dokumenty, Tabuľky, Prezentácie" data-tab-name="docs"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Tvorte a&nbsp;spolupracujte s&nbsp;ostatnými. Zdieľajte dokumenty a&nbsp;súbory, jednoducho vytvárajte tabuľky a&nbsp;prezentácie s&nbsp;našimi aplikáciami <a href="//www.google.com/docs/about/" target="_blank">Dokumenty</a>, <a href="//www.google.com/sheets/about/" target="_blank">Tabuľky</a> a&nbsp;<a href="//www.google.com/slides/about/" target="_blank">Prezentácie</a>.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-3-1.png" alt="Dokumenty, Tabuľky a&nbsp;Prezentácie na Disku Google sú k&nbsp;dispozícii na zdieľanie"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Formuláre Google" data-tab-name="forms"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p><a href="//www.google.com/forms/about/?usp=mkt_formsdrive">Formuláre Google</a> vám umožňujú uskutočniť prieskum alebo pomocou jednoduchého online formulára rýchlo vytvoriť tímovú súpisku. Výsledky si potom môžete prezrieť úhľadne usporiadané v&nbsp;tabuľke.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-3-3.png" alt="Príklad Formulárov Google na Disku Google"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Nákresy Google" data-tab-name="office"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Rozmiestnite schémy, vytvorte vývojové diagramy a&nbsp;potom ich ľahko pridajte do ďalších dokumentov alebo vložte na weby pomocou <a href="https://docs.google.com/drawings/?usp=mkt_drawings">Nákresov Google</a>.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-3-2.png" alt="Ikona Nákresov Google"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Ďalšie aplikácie Disku" data-tab-name="more"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Upravte si profilovú fotku, urobte terénne úpravy, vytvorte mapu mysle a&nbsp;využite ďalšie možnosti. Viac než 100 aplikácií pre Disk vám pomôže urobiť s&nbsp;vecami viac. Nainštalujte si <a href="https://chrome.google.com/webstore/category/collection/drive_apps?hl=sk">kolekciu Disku</a> z&nbsp;Internetového obchodu Chrome a&nbsp;vyskúšajte ich.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-3-4.jpg" alt="K&nbsp;dispozícii je viac než 100 aplikácií pre Disk Google"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- Take it further --> 
+   <section class="section-further js-hinted-fullscreen"> 
+    <div class="section-centered section-centered-text"> 
+     <h2 class="heading-headline">Ďalšie funkcie Disku</h2> 
+     <div class="tabs tabs-space js-tabs" data-tab-name="space-to-play"> 
+      <div class="tabs-list mobile-is-hidden"> 
+       <div class="tabs-tab one-third tabs-tab-first js-activate-tab" data-tab-target="paperless"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Skenovanie dokumentov">Skenovanie dokumentov</label> 
+       </div> 
+       <div class="tabs-tab one-third tabs-tab-first one-third js-activate-tab" data-tab-target="offline"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Offline práca">Offline práca</label> 
+       </div> 
+       <div class="tabs-tab one-third tabs-tab-first one-third one-third tabs-tab-last js-activate-tab" data-tab-target="versions"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Zobrazenie pôvodných verzií">Zobrazenie pôvodných verzií</label> 
+       </div> 
+      </div> 
+      <div class="tabs-content with-select js-tab-content-container js-select-menu-container" data-select-first="true" data-select-populated="true"> 
+       <!-- Mobile select menu --> 
+       <div class="select-menu-wrapper select-menu-wrapper-devices"> 
+        <div class="icon icon-toggle_is-active">
+         &nbsp;
+        </div> 
+        <select class="select-menu js-select-menu"> <option class="js-select-menu-option select-menu-option" value="Skenovanie dokumentov">Skenovanie dokumentov</option> <option class="js-select-menu-option select-menu-option" value="Offline práca">Offline práca</option> <option class="js-select-menu-option select-menu-option" value="Zobrazenie pôvodných verzií">Zobrazenie pôvodných verzií</option> </select> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Skenovanie dokumentov" data-tab-name="paperless"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-4-1.jpg" alt="Príklad ukladania dokumentov na Disk ich odfotením pomocou telefónu s&nbsp;Androidom"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Naskenujte všetky svoje papierové dokumenty pomocou Disku pre Android. Stačí odfotiť dokumenty, ako sú potvrdenia, listy alebo vyhlásenia, a&nbsp;Disk ich okamžite uloží vo formáte PDF.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Offline práca" data-tab-name="offline"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-4-2.png" alt="Prepínač Disku Google do offline alebo online režimu"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Sprístupnite svoje súbory offline, aby ste si ich mohli prezerať aj v&nbsp;prípade, že váš telefón stratí signál, napríklad v&nbsp;lietadle alebo v&nbsp;budove so zlým spojením.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Zobrazenie pôvodných verzií" data-tab-name="versions"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-4-3.png" alt="Príklad histórie verzií súboru na Disku Google"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Na väčšinu typov súborov sa môžete pozrieť až 30 dní dozadu, vďaka čomu môžete ľahko zistiť, kto vykonal zmeny, a&nbsp;vrátiť sa k&nbsp;predchádzajúcim verziám. Práca s&nbsp;verziami súborov je tak teraz oveľa jednoduchšia.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <!-- Footer --> 
+  <div class="signature-wrapper">
+   <div id="maia-signature"></div>
+  </div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="maia-cols first"> 
+      <div class="maia-col-3 footer-top social">
+        Zdieľať web Google Apps: 
+       <span class="plusone-button" id="plusone-httpwwwgooglecoma"></span> 
+       <script>
+    window.___gcfg = {
+      lang: 'sk',
+      parsetags: 'explicit'
+    };
+
+    var gweb = gweb || {};  // namespace
+    gweb.plusOneButton = {};
+    gweb.plusOneButton.callbacks = {};
+    gweb.plusOneButton.onPlusOneLoad = function() {
+      for (var slug in gweb.plusOneButton.callbacks) {
+        gapi.plusone.render(slug, gweb.plusOneButton.callbacks[slug]);
+      }
+      gweb.plusOneButton.callbacks = {};
+    };
+              </script> 
+       <script src="//apis.google.com/js/platform.js">
+              </script> 
+       <script>
+              gweb.plusOneButton.callbacks['plusone-httpwwwgooglecoma'] = {
+      'annotation': 'none',
+      'href': 'http://www.google.com/a/',
+      'size': 'standard',
+      'callback': '',
+      'recommendations': 'true'
+    };
+    gweb.plusOneButton.onPlusOneLoad();
+  </script> 
+      </div> 
+      <div class="maia-col-3 footer-top social">
+        Sledovať: 
+       <span class="follow"> <a href="//plus.google.com/+GoogleDrive" rel="publisher"><img alt="Google+" src="//www.google.com/images/branding/google_plus/2x/gplus_icon_flush_30dp.png" height="16" width="16" data-retina="16x16"></a> <a href="//twitter.com/googledrive/"><img alt="YouTube" src="/drive/static/images/drive/footer_twitter.png" data-retina="16x16"></a> <a href="//googledrive.blogspot.com/"><img alt="Blogger" src="/drive/static/images/drive/footer_blogger.jpg" data-retina="16x16"></a> </span> 
+      </div> 
+     </div> 
+     <div class="maia-cols"> 
+      <div class="footer-unit"> 
+       <h4>Informácie o Disku</h4> 
+       <ul> 
+        <li> <a href="/intl/sk_ALL/drive/">Zoznámte sa s Diskom Google</a> </li> 
+        <li> <a href="/intl/sk_ALL/drive/using-drive/">Používanie Disku</a> </li> 
+        <li> <a href="//support.google.com/drive/answer/2424384?hl=sk">Ako začať používať Disk</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>Programy a cenník</h4> 
+       <ul> 
+        <li> <a href="//www.google.com/settings/storage">Zobrazenie/aktualizácia programu úložiska</a> </li> 
+        <li> <a href="//support.google.com/drive/answer/2375123?hl=sk">Cenník úložiska</a> </li> 
+        <li> <a href="//support.google.com/drive/topic/2375005?hl=sk">Najčastejšie otázky o úložisku</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>Na stiahnutie</h4> 
+       <ul> 
+        <li> <a href="https://www.google.com/intl/sk_ALL/drive/download/">Disk pre Mac/PC</a> </li> 
+        <li> <a href="//play.google.com/store/apps/details?id=com.google.android.apps.docs">Disk pre Android</a> </li> 
+        <li> <a href="//itunes.apple.com/app/google-drive/id507874739">Disk pre iOS</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>Podpora</h4> 
+       <ul> 
+        <li> <a href="//support.google.com/drive/answer/2424384?hl=sk">Centrum pomoci pre Disk</a> </li> 
+        <li> <a href="//productforums.google.com/forum/#!forum/drive">Fórum pomoci pre Disk Google</a> </li> 
+        <li> <a href="//support.google.com/drive/?hl=sk#topic=14940&amp;contact=1">Kontaktujte nás</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>Súvisiace riešenia</h4> 
+       <ul> 
+        <li> <a href="/intl/sk_ALL/docs/about/">Dokumenty Google</a> </li> 
+        <li> <a href="/intl/sk_ALL/sheets/about/">Tabuľky Google</a> </li> 
+        <li> <a href="/intl/sk_ALL/slides/about/">Prezentácie Google</a> </li> 
+        <li> <a href="/intl/sk_ALL/forms/about/">Formuláre Google</a> </li> 
+        <li> <a href="//gsuite.google.com/intl/sk_ALL/driveforwork/?utm_medium=et&amp;utm_source=aboutdrive&amp;utm_content=footer&amp;utm_campaign=sk">Google Drive for Work</a> </li> 
+        <li> <a href="//cloud.google.com/?utm_medium=et&amp;utm_source=aboutdrive&amp;utm_content=footer&amp;utm_campaign=sk">Platforma Google Cloud</a> </li> 
+        <li> <a href="/intl/sk_ALL/edu/">Google Apps for Education</a> </li> 
+        <li> <a href="/intl/sk_ALL/work/apps/government/">Google Apps for Government</a> </li> 
+        <li> <a href="/intl/sk_ALL/services/">Riešenia Google pre firmy</a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Zmeniť jazyk:</span> <select onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="/intl/af_ALL/drive/using-drive/"> Afrikaans </option> <option value="/intl/ar_ALL/drive/using-drive/"> العربية </option> <option value="/intl/az_ALL/drive/using-drive/"> azərbaycan dili </option> <option value="/intl/bg_ALL/drive/using-drive/"> български </option> <option value="/intl/bn_ALL/drive/using-drive/"> বাংলা </option> <option value="/intl/ca_ALL/drive/using-drive/"> català </option> <option value="/intl/cs_ALL/drive/using-drive/"> čeština </option> <option value="/intl/da_ALL/drive/using-drive/"> dansk </option> <option value="/intl/de_ALL/drive/using-drive/"> Deutsch </option> <option value="/intl/el_ALL/drive/using-drive/"> Ελληνικά </option> <option value="/drive/using-drive/"> English (United States) </option> <option value="/intl/en-GB_ALL/drive/using-drive/"> English (United Kingdom) </option> <option value="/intl/es-419_ALL/drive/using-drive/"> español (Latinoamérica) </option> <option value="/intl/es_ALL/drive/using-drive/"> español </option> <option value="/intl/et_ALL/drive/using-drive/"> eesti </option> <option value="/intl/eu_ALL/drive/using-drive/"> euskara </option> <option value="/intl/fa_ALL/drive/using-drive/"> فارسی </option> <option value="/intl/fi_ALL/drive/using-drive/"> suomi </option> <option value="/intl/fil_ALL/drive/using-drive/"> Filipino </option> <option value="/intl/fr_ALL/drive/using-drive/"> français </option> <option value="/intl/fr-CA_ALL/drive/using-drive/"> français (Canada) </option> <option value="/intl/gl_ALL/drive/using-drive/"> galego </option> <option value="/intl/gu_ALL/drive/using-drive/"> ગુજરાતી </option> <option value="/intl/hi_ALL/drive/using-drive/"> हिन्दी </option> <option value="/intl/iw_ALL/drive/using-drive/"> עברית </option> <option value="/intl/hr_ALL/drive/using-drive/"> hrvatski </option> <option value="/intl/hu_ALL/drive/using-drive/"> magyar </option> <option value="/intl/hy_ALL/drive/using-drive/"> հայերեն </option> <option value="/intl/id_ALL/drive/using-drive/"> Indonesia </option> <option value="/intl/is_ALL/drive/using-drive/"> íslenska </option> <option value="/intl/it_ALL/drive/using-drive/"> italiano </option> <option value="/intl/ja_ALL/drive/using-drive/"> 日本語 </option> <option value="/intl/ka_ALL/drive/using-drive/"> ქართული </option> <option value="/intl/km_ALL/drive/using-drive/"> ខ្មែរ </option> <option value="/intl/kn_ALL/drive/using-drive/"> ಕನ್ನಡ </option> <option value="/intl/ko_ALL/drive/using-drive/"> 한국어 </option> <option value="/intl/lo_ALL/drive/using-drive/"> ລາວ </option> <option value="/intl/lt_ALL/drive/using-drive/"> lietuvių </option> <option value="/intl/lv_ALL/drive/using-drive/"> latviešu </option> <option value="/intl/ml_ALL/drive/using-drive/"> മലയാളം </option> <option value="/intl/mn_ALL/drive/using-drive/"> монгол </option> <option value="/intl/mr_ALL/drive/using-drive/"> मराठी </option> <option value="/intl/ms_ALL/drive/using-drive/"> Bahasa Melayu </option> <option value="/intl/ne_ALL/drive/using-drive/"> नेपाली </option> <option value="/intl/nl_ALL/drive/using-drive/"> Nederlands </option> <option value="/intl/no_ALL/drive/using-drive/"> norsk bokmål </option> <option value="/intl/pa_ALL/drive/using-drive/"> ਪੰਜਾਬੀ </option> <option value="/intl/pl_ALL/drive/using-drive/"> polski </option> <option value="/intl/pt-BR_ALL/drive/using-drive/"> português (Brasil) </option> <option value="/intl/pt-PT_ALL/drive/using-drive/"> português (Portugal) </option> <option value="/intl/ro_ALL/drive/using-drive/"> română </option> <option value="/intl/ru_ALL/drive/using-drive/"> русский </option> <option value="/intl/si_ALL/drive/using-drive/"> සිංහල </option> <option value="/intl/sk_ALL/drive/using-drive/" selected> slovenčina </option> <option value="/intl/sl_ALL/drive/using-drive/"> slovenščina </option> <option value="/intl/sr_ALL/drive/using-drive/"> српски </option> <option value="/intl/sv_ALL/drive/using-drive/"> svenska </option> <option value="/intl/sw_ALL/drive/using-drive/"> Kiswahili </option> <option value="/intl/ta_ALL/drive/using-drive/"> தமிழ் </option> <option value="/intl/te_ALL/drive/using-drive/"> తెలుగు </option> <option value="/intl/th_ALL/drive/using-drive/"> ไทย </option> <option value="/intl/tr_ALL/drive/using-drive/"> Türkçe </option> <option value="/intl/uk_ALL/drive/using-drive/"> українська </option> <option value="/intl/ur_ALL/drive/using-drive/"> اردو </option> <option value="/intl/vi_ALL/drive/using-drive/"> Tiếng Việt </option> <option value="/intl/zh-CN_ALL/drive/using-drive/"> 中文 (简体, 中国) </option> <option value="/intl/zh-HK_ALL/drive/using-drive/"> 中文 (繁體字, 中華人民共和國香港特別行政區) </option> <option value="/intl/zh-TW_ALL/drive/using-drive/"> 中文 (繁體, 台灣) </option> <option value="/intl/zu_ALL/drive/using-drive/"> isiZulu </option> </select></label> 
+     </div> 
+     <ul> 
+      <li> <a href="//www.google.com">Google</a> </li> 
+      <li> <a href="//www.google.com/about/">About Google</a> </li> 
+      <li> <a href="//www.google.com/intl/sk/policies/privacy/">Privacy</a> </li> 
+      <li> <a href="//www.google.com/policies/terms/?hl=sk">Terms</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Scripts --> 
+  <script src="//www.google.com/js/gweb/uri/updatelinks.js"></script> 
+  <script src="//www.gstatic.com/external_hosted/gsap/TweenMax.min.js"></script> 
+  <script src="//www.gstatic.com/external_hosted/morlock/morlock.min.js"></script> 
+  <script src="/drive/static/dist/js/drive-site.min.js"></script> 
+  <script>
+      var manageParams = new drive.QueryParamManager();
+    </script> 
+  <script>
+  var usingDrive = new drive.SetUp('usingDrive');
+</script>  
+ </body>
+</html>

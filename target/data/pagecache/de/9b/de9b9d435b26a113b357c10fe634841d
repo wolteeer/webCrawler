@@ -1,0 +1,465 @@
+<!doctype html>
+<html class="google mmfb" lang="en" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/en_in/case-studies/academies-enterprise-trust/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="We did not anticipate just how easy it would be to make the switch or just how many opportunities the move to G Suite would provide. In addition to enhancing our students' education, we are also able to manage the devices they are using in a much easier way." name="description"> 
+  <title>
+    Google for Education: Case Studies: Acadamies Enterprise Trust
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/en_in/case-studies/academies-enterprise-trust/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Case Studies: Acadamies Enterprise Trust" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/en_in/case-studies/academies-enterprise-trust/" property="og:url"> 
+  <meta content="/images/video-geg_2x.png" property="og:image"> 
+  <meta content="We did not anticipate just how easy it would be to make the switch or just how many opportunities the move to G Suite would provide. In addition to enhancing our students' education, we are also able to manage the devices they are using in a much easier way." property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/en_in/case-studies/academies-enterprise-trust/" name="twitter:url"> 
+  <meta content="Google for Education: Case Studies: Acadamies Enterprise Trust" name="twitter:title"> 
+  <meta content="/images/video-geg_2x.png" name="twitter:image"> 
+  <meta content="We did not anticipate just how easy it would be to make the switch or just how many opportunities the move to G Suite would provide. In addition to enhancing our students' education, we are also able to manage the devices they are using in a much easier way." name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Case Studies: Acadamies Enterprise Trust" itemprop="name"> 
+  <meta content="We did not anticipate just how easy it would be to make the switch or just how many opportunities the move to G Suite would provide. In addition to enhancing our students' education, we are also able to manage the devices they are using in a much easier way." itemprop="description"> 
+  <meta content="/images/video-geg_2x.png" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Case Studies: Acadamies Enterprise Trust",
+    "description": "We did not anticipate just how easy it would be to make the switch or just how many opportunities the move to G Suite would provide. In addition to enhancing our students' education, we are also able to manage the devices they are using in a much easier way.",
+    "url": "https://edu.google.com/intl/en_in/case-studies/academies-enterprise-trust/",
+    "logo": "/images/video-geg_2x.png",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+  <style>
+    .hero.top.academies-enterprise-trust {
+        background-image: url("/images/case-studies/hero/academies-enterprise-trust.jpg");
+      }
+  </style> 
+ </head> 
+ <body class="case-study-detail ng-scope"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/en_in/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Get Google Products</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">How can we help you?</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>Get Productivity Tools</h5> 
+        <p>Get Google productivity tools, with Classroom, Google Docs, Drive, Hangouts, email and more included free of charge, with no ads.</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=en#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Sign up for G Suite</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Get Devices</h5> 
+        <p>Interested in getting Chromebooks or Android devices for your institution? Our team can help you find the right path.</p> 
+        <a class="maia-button overlay-button" href="/intl/en_in/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Contact an Expert</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Talk to Other Educators</h5> 
+        <p>Want to talk to people similar to you who have gone Google? Tap into our community of educators.</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Find Other Educators</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li class="active"> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/" target="_self">Home</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">Products</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/products/devices/" target="_self">Devices <br><span class="dropdown-item-description">Chromebooks and Tablets</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/products/productivity-tools/" target="_self">Productivity Tools <br><span class="dropdown-item-description">Docs, Gmail and More</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/products/productivity-tools/classroom/" target="_self">Classroom <br><span class="dropdown-item-description">Mission control for teachers and students</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtual reality field trips</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/products/more-products/" target="_self">More Products <br><span class="dropdown-item-description">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">Training</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=en" target="_self">Educator Training <br><span class="dropdown-item-description">on Google for Education tools</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT Admin Training </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Directory of Partners <br><span class="dropdown-item-description">to help your school go Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/resources/communities/" target="_self">Communities <br><span class="dropdown-item-description">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">Resources</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Privacy &amp; Security" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/trust/" target="_self">Privacy &amp; Security </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/resources/programs/" target="_self">Programmes <br><span class="dropdown-item-description">for students and teachers</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/case-studies/" target="_self">Case Studies </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/resources/computerscience/" target="_self">Computer Science Education <br><span class="dropdown-item-description">Programs, Funding, and Research</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/resources/global-education/" target="_self">Global Education </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/en_in/it/" target="_self">IT Guides</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Access" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/en_in/access/" target="_self">Access</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Products</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/products/devices/" target="_self">Devices <span class="nav-subtext">Chromebooks and Tablets</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/products/productivity-tools/" target="_self">Productivity Tools <span class="nav-subtext">Docs, Gmail and More</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/products/productivity-tools/classroom/" target="_self">Classroom <span class="nav-subtext">Mission control for teachers and students</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtual reality field trips</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/products/more-products/" target="_self">More Products <span class="nav-subtext">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Training</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=en" target="_self">Educator Training <span class="nav-subtext">on Google for Education tools</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT Admin Training </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Directory of Partners <span class="nav-subtext">to help your school go Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/resources/communities/" target="_self">Communities <span class="nav-subtext">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Resources</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Privacy &amp; Security" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/trust/" target="_self">Privacy &amp; Security </a> </li> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/resources/programs/" target="_self">Programmes <span class="nav-subtext">for students and teachers</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/case-studies/" target="_self">Case Studies </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/resources/computerscience/" target="_self">Computer Science Education <span class="nav-subtext">Programs, Funding, and Research</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/resources/global-education/" target="_self">Global Education </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">IT Guides</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/it/" target="_self">IT </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/trust/" target="_self">Privacy Pages </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit access-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Access</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_in/higher-education/" target="_self">Higher Ed </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Get Google Products</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">How can we help you?</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>Get Productivity Tools</h5> 
+         <p>Get Google productivity tools, with Classroom, Google Docs, Drive, Hangouts, email and more included free of charge, with no ads.</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=en#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Sign up for G Suite</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Get Devices</h5> 
+         <p>Interested in getting Chromebooks or Android devices for your institution? Our team can help you find the right path.</p> 
+         <a class="maia-button overlay-button" href="/intl/en_in/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Contact an Expert</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Talk to Other Educators</h5> 
+         <p>Want to talk to people similar to you who have gone Google? Tap into our community of educators.</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Find Other Educators</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="hero top academies-enterprise-trust"> 
+    <div class="content"> 
+     <h2 class="title-header">Academies Enterprise Trust leads the way for UK academies with G Suite</h2> 
+    </div> 
+   </div> 
+   <div class="maia-aux content-wrap academies-enterprise-trust"> 
+    <div class="maia-cols page-container"> 
+     <div class="maia-col-7 main-wrap"> 
+      <div class="main"> 
+       <div class="quote-wrap"> 
+        <h4 class="quote">We did not anticipate just how easy it would be to make the switch or just how many opportunities the move to G Suite would provide. In addition to enhancing our students' education, we are also able to manage the devices they are using in a much easier way.</h4> 
+        <p class="quote-author">Chris Meaney, Director of ICT at Academies Enterprise Trust</p> 
+       </div> 
+       <div class="main-content-wrap"> 
+        <div class="content challenge"> 
+         <h4 class="headline">Challenge</h4> 
+         <p class="content-content">AET is committed to ensuring that every student from each of its 76 academies can one day participate in local, regional and national economies, helping them to develop the skills and confidence to make a valuable contribution to the world. As part of this, the use of technology is vital in ensuring that AET can maximise educational opportunities. The Trust was held back from exploring the full potential of technology for learning, as technical setups varied wildly across the different academies. Without a unified system, it was difficult to create efficient processes and simplified budgeting structures. This meant that each academy worked in a silo, both from an administrative and a knowledge-sharing perspective.</p> 
+        </div> 
+        <div class="content solution"> 
+         <h4 class="headline">Solution</h4> 
+         <p class="content-content">In the summer of 2012, AET adopted G Suite for Education, the web-based communication and collaboration suite available for free to education establishments. With products including Gmail, Google Calendar, Google Drive, Google Sites and Google Classroom, AET saw the potential it would bring to classroom learning, better knowledge sharing across the academies, improvements in administrative efficiency and providing access from home for all. To enable all students to have access to the most up-to-date technology, academies have also rolled out many class sets of Google Chromebooks, affordable browser-based laptops that provide quick, simple access to the web.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-col-4 sidebar-wrap"> 
+      <div class="detail-wrap"> 
+       <h6 class="sidebar-title">Company profile</h6> 
+       <div class="detail"> 
+        <p class="content-content">Founded in 2008, Academies Enterprise Trust (AET) is the operational arm of a non profit making charitable trust which believes that all young people deserve to become world class learners. The Trust works with a national federation of primary, secondary and special schools to ensure that all learners achieve significant improvements in standards, and are provided with every opportunity to fulfil their potential. With over 5,500 staff and 42,000 students, AET has become the largest multi academy sponsor in the UK and currently supports 76 schools.</p> 
+       </div> 
+       <h6 class="sidebar-title">Products Used</h6> 
+       <div class="detail"> 
+        <p class="content-content"> <a href="/intl/en_in/products/productivity-tools/" target=""> G Suite</a> - A free suite of communication and collaboration tools – including Gmail, Classroom, Docs and Drive – for learning anywhere, anytime, on any device. </p> 
+        <p class="content-content"> <a href="/intl/en_in/products/devices/" target=""> Chromebooks</a> - A range of fast, affordable devices that update automatically, and are easy for schools to set up and manage. </p> 
+       </div> 
+       <h6 class="link-out detail"><a href="/pdfs/case-studies/aet-case-study.pdf" target="_blank" data-g-event="Edu: Case Study: Academies Enterprise Trust" data-g-action="Read The Full Case Study" data-g-label="academies-enterprise-trust"><img class="link-icon" src="/images/case-studies/adobe-icon.jpg">Read the Full Case Study</a></h6> 
+      </div> 
+     </div> 
+    </div>
+    <!-- END .page-container --> 
+   </div>
+   <!-- END .content --> 
+  </div>
+  <!-- END .content-wrap --> 
+  <div class="case-studies-bottom-container"> 
+   <div class="maia-aux case-studies-wrap"> 
+    <div class="maia-col-9 more-case-studies-wrapper"> 
+     <h2 class="case-study-mobile-header headline">More case studies</h2> 
+     <h5 class="case-study-mobile-header">See how institutions like yours have gone Google.</h5> 
+    </div> 
+    <div class="case-study-mobile-header">
+     <a class="maia-button small-btn" href="/intl/en_in/case-studies/" data-g-event="Edu: Case Study: academies-enterprise-trust" data-g-action="See All Case Studies" data-g-label="">See all case studies</a>
+    </div> 
+    <div class="case-study-tiles"> 
+     <div class="maia-col-4 tile"> 
+      <a href="/intl/en_in/case-studies/arizona-state-university/" data-g-event="Edu: Case Study: Arizona State University" data-g-action="Case Study" data-g-label="/case-studies/arizona-state-university/"></a> 
+      <div class="tile-image arizona-state-university" style="background-image:url('/images/case-studies/thumbnail/arizona-state-university.jpg')"></div> 
+      <div class="tile-title">
+       Arizona State deploys G Suite in less than two weeks
+      </div> 
+     </div> 
+     <div class="maia-col-4 tile"> 
+      <a href="/intl/en_in/case-studies/bloomington-public-schools/" data-g-event="Edu: Case Study: Bloomington Public Schools" data-g-action="Case Study" data-g-label="/case-studies/bloomington-public-schools/"></a> 
+      <div class="tile-image bloomington-public-schools" style="background-image:url('/images/case-studies/thumbnail/bloomington-public-schools.jpg')"></div> 
+      <div class="tile-title">
+       Bloomington Public Schools use G Suite and Chromebooks to transform learning
+      </div> 
+     </div> 
+     <div class="maia-col-4 tile"> 
+      <a href="/intl/en_in/case-studies/boise-state-university/" data-g-event="Edu: Case Study: Boise State University" data-g-action="Case Study" data-g-label="/case-studies/boise-state-university/"></a> 
+      <div class="tile-image boise-state-university" style="background-image:url('/images/case-studies/thumbnail/boise-state-university.jpg')"></div> 
+      <div class="tile-title">
+       Boise State University saves $90,000 (£60,000) annually through G Suite for Education
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div>  
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Products</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_in/products/devices/">Devices</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_in/products/productivity-tools/">Productivity Tools</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_in/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_in/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_in/products/more-products/">More Products</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Training</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=en" target="_blank">Educator Training</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">IT Admin Training</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">Directory of Partners</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_in/resources/communities/">Communities</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Resources</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_in/resources/programs/">Programmes</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_in/resources/computerscience/">Computer Science Education</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_in/resources/global-education/">Global Education</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_in/it/">IT</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">Developer Resources</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_in/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_in/access/">Access</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_in/contact/">Sales</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">Support</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_in/partners/">Partner Programme</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_in/case-studies/">Case Studies</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">See Chromebooks Institutions</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">Blog</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="Search this site" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/case-studies/academies-enterprise-trust/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/case-studies/academies-enterprise-trust/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/da/case-studies/academies-enterprise-trust/"> dansk (Danmark) </option><option value="/intl/en_au/case-studies/academies-enterprise-trust/"> English (Australia) </option><option value="/intl/en_ca/case-studies/academies-enterprise-trust/"> English (Canada) </option><option selected value="/intl/en_in/case-studies/academies-enterprise-trust/"> English (India) </option><option value="/intl/en_nz/case-studies/academies-enterprise-trust/"> English (New Zealand) </option><option value="/intl/en_uk/case-studies/academies-enterprise-trust/"> English (United Kingdom) </option><option value="/case-studies/academies-enterprise-trust/"> English (United States) </option><option value="/intl/es-419_mx/case-studies/academies-enterprise-trust/"> español (México) </option><option value="/intl/es-419/case-studies/academies-enterprise-trust/"> español (Latinoamérica) </option><option value="/intl/fi/case-studies/academies-enterprise-trust/"> suomi (Suomi) </option><option value="/intl/fr_be/case-studies/academies-enterprise-trust/"> français (Belgique) </option><option value="/intl/id/case-studies/academies-enterprise-trust/"> Indonesia (Indonesia) </option><option value="/intl/ja/case-studies/academies-enterprise-trust/"> 日本語 (日本) </option><option value="/intl/ms/case-studies/academies-enterprise-trust/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/case-studies/academies-enterprise-trust/"> Nederlands (Nederland) </option><option value="/intl/no/case-studies/academies-enterprise-trust/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/case-studies/academies-enterprise-trust/"> português (Brasil) </option><option value="/intl/sv/case-studies/academies-enterprise-trust/"> svenska (Sverige) </option><option value="/intl/th/case-studies/academies-enterprise-trust/"> ไทย (ไทย) </option><option value="/intl/tr/case-studies/academies-enterprise-trust/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/en/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/en/policies/privacy/">Privacy</a> </li> 
+      <li> <a href="https://www.google.com/intl/en/policies/terms/">Terms</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script>  
+ </body>
+</html>

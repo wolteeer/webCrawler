@@ -1,0 +1,460 @@
+<!doctype html>
+<html class="google mmfb" lang="ms" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/ms/students/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="Students" name="description"> 
+  <title>
+    Google for Education: Students
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/ms/students/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Students" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/ms/students/" property="og:url"> 
+  <meta content="" property="og:image"> 
+  <meta content="Students" property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/ms/students/" name="twitter:url"> 
+  <meta content="Google for Education: Students" name="twitter:title"> 
+  <meta content="" name="twitter:image"> 
+  <meta content="Students" name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Students" itemprop="name"> 
+  <meta content="Students" itemprop="description"> 
+  <meta content="" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Students",
+    "description": "Students",
+    "url": "https://edu.google.com/intl/ms/students/",
+    "logo": "",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="students"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/ms/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Dapatkan Produk Google</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">Bagaimana Kami Boleh Membantu Anda?</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>Dapatkan Alatan Produktiviti</h5> 
+        <p>Dapatkan alatan produktiviti Google, dengan Bilik Darjah, Dokumen Google, Drive, Hangouts, e-mel dan banyak lagi yang disertakan secara percuma, tanpa iklan.</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=ms#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Daftar untuk G Suite</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Dapatkan Peranti</h5> 
+        <p>Berminat untuk mendapatkan Chromebook atau peranti Android untuk sekolah anda? Pasukan kami boleh membantu anda mencari jalan yang betul.</p> 
+        <a class="maia-button overlay-button" href="/intl/ms/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Hubungi Pakar</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Bercakap dengan Pendidik Lain</h5> 
+        <p>Ingin bercakap dengan mereka yang telah beralih kepada Google seperti anda? Sertailah komuniti pendidik kami.</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Cari Pendidik Lain</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li class="active"> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/" target="_self">Laman Utama</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">Produk</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/products/devices/" target="_self">Peranti <br><span class="dropdown-item-description">Chromebooks and Tablets</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/products/productivity-tools/" target="_self">Alatan Produktiviti <br><span class="dropdown-item-description">Docs, Gmail and More</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/products/productivity-tools/classroom/" target="_self">Bilik Darjah <br><span class="dropdown-item-description">Mission control for teachers and students</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtual reality field trips</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/products/more-products/" target="_self">Lebih Banyak Produk <br><span class="dropdown-item-description">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">Latihan</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=ms" target="_self">Latihan Pendidik <br><span class="dropdown-item-description">pada alatan Google for Education</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">Latihan Pentadbir IT <br><span class="dropdown-item-description">untuk Pentadbir G Suite</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Direktori Rakan Kongsi <br><span class="dropdown-item-description">to help your school go Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/resources/communities/" target="_self">Komuniti <br><span class="dropdown-item-description">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">Sumber</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/resources/programs/" target="_self">Program <br><span class="dropdown-item-description">for students and teachers</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/case-studies/" target="_self">Kajian Kes </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/resources/computerscience/" target="_self">Pendidikan Sains Komputer <br><span class="dropdown-item-description">Programs, Funding, and Research</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/resources/global-education/" target="_self">Pendidikan Global </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/ms/it/" target="_self">IT Guides</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/ms/higher-education/" target="_self">Pengajian Tinggi</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Produk</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/products/devices/" target="_self">Peranti <span class="nav-subtext">Chromebooks and Tablets</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/products/productivity-tools/" target="_self">Alatan Produktiviti <span class="nav-subtext">Docs, Gmail and More</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/products/productivity-tools/classroom/" target="_self">Bilik Darjah <span class="nav-subtext">Mission control for teachers and students</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtual reality field trips</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/products/more-products/" target="_self">Lebih Banyak Produk <span class="nav-subtext">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Latihan</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=ms" target="_self">Latihan Pendidik <span class="nav-subtext">pada alatan Google for Education</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">Latihan Pentadbir IT <span class="nav-subtext">untuk Pentadbir G Suite</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Direktori Rakan Kongsi <span class="nav-subtext">to help your school go Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/resources/communities/" target="_self">Komuniti <span class="nav-subtext">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Sumber</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/resources/programs/" target="_self">Program <span class="nav-subtext">for students and teachers</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/case-studies/" target="_self">Kajian Kes </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/resources/computerscience/" target="_self">Pendidikan Sains Komputer <span class="nav-subtext">Programs, Funding, and Research</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/resources/global-education/" target="_self">Pendidikan Global </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">IT Guides</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/it/" target="_self">IT </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/trust/" target="_self">Halaman Privasi </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Pengajian Tinggi</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ms/higher-education/" target="_self">Pengajian Tinggi </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Dapatkan Produk Google</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">Bagaimana Kami Boleh Membantu Anda?</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>Dapatkan Alatan Produktiviti</h5> 
+         <p>Dapatkan alatan produktiviti Google, dengan Bilik Darjah, Dokumen Google, Drive, Hangouts, e-mel dan banyak lagi yang disertakan secara percuma, tanpa iklan.</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=ms#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Daftar untuk G Suite</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Dapatkan Peranti</h5> 
+         <p>Berminat untuk mendapatkan Chromebook atau peranti Android untuk sekolah anda? Pasukan kami boleh membantu anda mencari jalan yang betul.</p> 
+         <a class="maia-button overlay-button" href="/intl/ms/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Hubungi Pakar</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Bercakap dengan Pendidik Lain</h5> 
+         <p>Ingin bercakap dengan mereka yang telah beralih kepada Google seperti anda? Sertailah komuniti pendidik kami.</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Cari Pendidik Lain</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="panels-container"> 
+    <div class="panel hero-panel dark-bg centered"> 
+     <div class="dummy"> 
+     </div> 
+     <div class="quote-container"> 
+      <h1>"Saya suka dapat belajar di mana-mana sahaja dan pada bila-bila masa yang saya mahukan".</h1> 
+      <p><em>Sumit Singh</em> - Pelajar, Sekolah Awam Lucknow Sektor-I, India</p> 
+     </div> 
+    </div> 
+    <div class="panel programs-panel"> 
+     <div class="panel-dimmer"> 
+     </div> 
+     <div class="content-container"> 
+      <div class="panel-text right maia-col-5"> 
+       <h2>Program untuk pelajar</h2> 
+       <p>Teroka minat anda dan temui minat yang baharu dengan melibatkan diri.</p> 
+       <a class="arrow" href="https://careers.google.com/students/" event="autotrack-data-g" data-g-event="Edu: Students" data-g-action="Programs For Students" data-g-label="Programs For Students"> Lihat program </a> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="panel jobs-panel"> 
+     <div class="panel-dimmer"> 
+     </div> 
+     <div class="content-container"> 
+      <div class="panel-text left maia-col-5"> 
+       <h2>Jobs &amp; Internships</h2> 
+       <p>Kami sedang mengubah cara berbilion pengguna mengakses maklumat, menjalankan perniagaan dan berhubungan antara satu sama lain. Sertai kami dan lakukan perkara menarik yang dapat memberikan manfaat.</p> 
+       <a class="arrow" href="https://careers.google.com/" event="autotrack-data-g" data-g-event="Edu: Students" data-g-action="Jobs and internships for students" data-g-label="Jobs and internships for students"> Lihat Pekerjaan dan Latihan Amali </a> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="panel scholarships-panel"> 
+     <div class="panel-dimmer"> 
+     </div> 
+     <div class="content-container"> 
+      <div class="panel-text center centered"> 
+       <h2>Biasiswa</h2> 
+       <p>Mohon biasiswa untuk pelbagai bidang, termasuk sains komputer, kejuruteraan dan kepimpinan.</p> 
+       <a class="arrow" href="/intl/ms/scholarships/" event="autotrack-data-g" data-g-event="Edu: Students" data-g-action="Scholarships" data-g-label="Scholarships"> Lihat biasiswa </a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="feeds"> 
+    <div class="maia-col-12"> 
+     <h2>Berhubung &amp; berkongsi</h2> 
+     <ul> 
+      <!-- G+ Feed --> 
+      <li class="google-plus"> <a href="https://plus.google.com/+GoogleStudents/posts" data-g-event="Edu: Students" data-g-action="Connect And Share" data-g-label="G+" class="logo" target="_blank" title="Follow">Google in Education G+ Page</a> <a href="https://plus.google.com/+GoogleStudents/posts" data-g-event="Edu: Students" data-g-action="Connect And Share" data-g-label="G+" event="autotrack-data-g" target="_blank"> 
+        <div class="content"> 
+         <div>
+          <div class="date">
+           Semalam
+          </div>
+          <div>
+           #hangoutsonair
+          </div>
+         </div> 
+        </div> </a> </li> 
+      <!-- YouTube feed --> 
+      <li class="youtube"> <a href="http://www.youtube.com/googlestudents" data-g-event="Edu: Students" data-g-action="Connect And Share" data-g-label="YouTube" event="autotrack-data-g" class="logo" target="_blank" title="Follow">Google in Education YouTube channel</a> <a href="http://www.youtube.com/googlestudents" data-g-event="Edu: Students" data-g-action="Connect And Share" data-g-label="YouTube" event="autotrack-data-g" target="_blank"> 
+        <div class="content"> 
+         <div>
+          <div class="date">
+           Semalam
+          </div>CS4HS HOA dengan CS Fellows- Kewartawanan
+         </div> 
+        </div> </a> </li> 
+      <!-- BlogSpot feed --> 
+      <li class="blogspot last"> <a href="http://googleforstudents.blogspot.com/" data-g-event="Edu: Students" data-g-action="Connect And Share" data-g-label="Blogger" event="autotrack-data-g" class="logo" target="_blank" title="Follow">Official Google Enterprise Blog</a> <a href="http://googleforstudents.blogspot.com/" data-g-event="Edu: Students" data-g-action="Connect And Share" data-g-label="Blogger" event="autotrack-data-g" target="_blank"> 
+        <div class="content"> 
+         <div>
+          <div class="date">
+           Blog baharu
+          </div>Berita dan cerita terkini daripada Google
+         </div> 
+        </div> </a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div id="maia-signature"></div> 
+   <div class="maia-footer" id="maia-footer"> 
+    <div id="maia-footer-local"> 
+     <div class="maia-aux"> 
+      <div class="ent-footer-links"> 
+       <div class="ent-footer-unit products-group first"> 
+        <div class="ent-footer-unit-break-wrapper"> 
+         <h4 class="section-header"><span class="product-name-desktop">Produk</span><span class="arrow-icon">&nbsp;</span></h4> 
+         <ul> 
+          <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ms/products/devices/">Peranti</a></li> 
+          <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ms/products/productivity-tools/">Alatan Produktiviti</a></li> 
+          <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ms/products/productivity-tools/classroom/">Bilik Darjah</a></li> 
+          <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ms/expeditions/">Expeditions</a></li> 
+          <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ms/products/more-products/">Lebih Banyak Produk</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="ent-footer-unit training-group "> 
+        <div class="ent-footer-unit-break-wrapper"> 
+         <h4 class="section-header"><span class="product-name-desktop">Latihan</span><span class="arrow-icon">&nbsp;</span></h4> 
+         <ul> 
+          <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=ms" target="_blank">Latihan Pendidik</a></li> 
+          <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">Latihan Pentadbir IT</a></li> 
+          <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">Direktori Rakan Kongsi</a></li> 
+          <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ms/resources/communities/">Komuniti</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="ent-footer-unit resources-group "> 
+        <div class="ent-footer-unit-break-wrapper"> 
+         <h4 class="section-header"><span class="product-name-desktop">Sumber</span><span class="arrow-icon">&nbsp;</span></h4> 
+         <ul> 
+          <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ms/resources/programs/">Program</a></li> 
+          <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ms/resources/computerscience/">Pendidikan Sains Komputer</a></li> 
+          <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ms/resources/global-education/">Pendidikan Global</a></li> 
+          <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="ent-footer-unit guides-group "> 
+        <div class="ent-footer-unit-break-wrapper"> 
+         <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+         <ul> 
+          <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ms/it/">IT</a></li> 
+          <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">Sumber Pembangun</a></li> 
+          <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ms/trust/">Privacy &amp; Security</a></li> 
+          <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ms/access/">Akses</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="ent-footer-unit contact-group "> 
+        <div class="ent-footer-unit-break-wrapper"> 
+         <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+         <ul> 
+          <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ms/contact/">Jualan</a></li> 
+          <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">Sokongan</a></li> 
+          <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ms/partners/">Program Rakan Kongsi</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+       <div class="ent-footer-unit stories-group last"> 
+        <div class="ent-footer-unit-break-wrapper"> 
+         <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+         <ul> 
+          <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ms/case-studies/">Kajian Kes</a></li> 
+          <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">Lihat Sekolah Chromebook</a></li> 
+          <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">Blog</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="maia-cols search-social"> 
+       <div class="maia-col-5 footer-top"> 
+        <div class="search"> 
+         <form class="maia-search" id="global-search-form"> 
+          <input name="q" placeholder="Cari di tapak ini" type="text" id="global-search-term" autocomplete="off"> 
+          <div id="global-search-suggest"></div> 
+          <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+         </form> 
+        </div> 
+       </div> 
+       <div class="maia-col-4 social"> 
+        <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+       </div> 
+      </div> 
+     </div> 
+    </div>
+    <div id="maia-footer-global"> 
+     <div class="maia-aux"> 
+      <div class="maia-locales"> 
+       <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/students/"> English (United States) </option><option value="/intl/es-419_mx/students/"> español (México) </option><option value="/intl/es-419/students/"> español (Latinoamérica) </option><option value="/intl/fr_be/students/"> français (Belgique) </option><option value="/intl/id/students/"> Indonesia (Indonesia) </option><option value="/intl/ja/students/"> 日本語 (日本) </option><option selected value="/intl/ms/students/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/students/"> Nederlands (Nederland) </option><option value="/intl/pt-BR/students/"> português (Brasil) </option><option value="/intl/th/students/"> ไทย (ไทย) </option></select> </label> 
+      </div> 
+      <ul> 
+       <li> <a href="https://www.google.com/">Google</a> </li> 
+       <li> <a href="https://www.google.com/intl/ms/about/">About Google</a> </li> 
+       <li> <a href="https://www.google.com/intl/ms/policies/privacy/">Privasi</a> </li> 
+       <li> <a href="https://www.google.com/intl/ms/policies/terms/">Syarat</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+   <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+   <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+   <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+   <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+   <script id="app-script" src="/js/all.min.js"></script>  
+  </div>
+ </body>
+</html>

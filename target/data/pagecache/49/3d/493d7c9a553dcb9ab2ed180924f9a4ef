@@ -1,0 +1,661 @@
+<!doctype html>
+<html class="google mmfb" lang="nl" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/nl/products/productivity-tools/classroom/apps/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="Er zijn honderden apps die met Google Classroom kunnen worden geïntegreerd. Deze apps kunnen de lessen op veel manieren ondersteunen, van leerlingen helpen bij coderen tot het stroomlijnen van cijferlijsten van docenten." name="description"> 
+  <title>
+    Google for Education: Apps die werken met Classroom #withClassroom
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/nl/products/productivity-tools/classroom/apps/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Apps die werken met Classroom #withClassroom" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/nl/products/productivity-tools/classroom/apps/" property="og:url"> 
+  <meta content="" property="og:image"> 
+  <meta content="Er zijn honderden apps die met Google Classroom kunnen worden geïntegreerd. Deze apps kunnen de lessen op veel manieren ondersteunen, van leerlingen helpen bij coderen tot het stroomlijnen van cijferlijsten van docenten." property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/nl/products/productivity-tools/classroom/apps/" name="twitter:url"> 
+  <meta content="Google for Education: Apps die werken met Classroom #withClassroom" name="twitter:title"> 
+  <meta content="" name="twitter:image"> 
+  <meta content="Er zijn honderden apps die met Google Classroom kunnen worden geïntegreerd. Deze apps kunnen de lessen op veel manieren ondersteunen, van leerlingen helpen bij coderen tot het stroomlijnen van cijferlijsten van docenten." name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Apps die werken met Classroom #withClassroom" itemprop="name"> 
+  <meta content="Er zijn honderden apps die met Google Classroom kunnen worden geïntegreerd. Deze apps kunnen de lessen op veel manieren ondersteunen, van leerlingen helpen bij coderen tot het stroomlijnen van cijferlijsten van docenten." itemprop="description"> 
+  <meta content="" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Apps die werken met Classroom #withClassroom",
+    "description": "Er zijn honderden apps die met Google Classroom kunnen worden geïntegreerd. Deze apps kunnen de lessen op veel manieren ondersteunen, van leerlingen helpen bij coderen tot het stroomlijnen van cijferlijsten van docenten.",
+    "url": "https://edu.google.com/intl/nl/products/productivity-tools/classroom/apps/",
+    "logo": "",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+  <link href="/css/access.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="classroom-apps"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/nl/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-help-desktop" class="maia-button expert-desktop get-help-blue nl" data-g-event="Edu: Global Header" data-g-action="Talk to an Expert" data-g-label="Header" href="/intl/nl/contact/">Contact opnemen met een expert</a>
+      <a id="get-google-desktop" class="maia-button expert-desktop nl" data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Aan de slag met Google-producten</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">Hoe kunnen we je helpen?</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>Aan de slag met productiviteitstools</h5> 
+        <p>Gebruik productiviteitstools van Google, zoals Google Classroom, Google Documenten, Google Drive, Google Hangouts, e-mail en meer, gratis en zonder advertenties.</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=nl#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Aanmelden voor G Suite</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Aan de slag met apparaten</h5> 
+        <p>Wil je Chromebooks of Android-apparaten gaan gebruiken op school? Ons team kan je op weg helpen.</p> 
+        <a class="maia-button overlay-button" href="/intl/nl/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Contact opnemen met een expert</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Praten met andere docenten</h5> 
+        <p>Wil je praten met collega's die zijn overgestapt op Google? Ontdek onze community van docenten.</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Andere docenten vinden</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/" target="_self">Startpagina</a> </li> 
+     <li class=" active  global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">Producten</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/devices/" target="_self">Apparaten <br><span class="dropdown-item-description">Chromebooks and Tablets</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/productivity-tools/" target="_self">Productiviteitstools <br><span class="dropdown-item-description">Docs, Gmail and More</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/productivity-tools/classroom/" target="_self">Classroom <br><span class="dropdown-item-description">Mission control for teachers and students</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtual reality field trips</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/more-products/" target="_self">Meer producten <br><span class="dropdown-item-description">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">Training</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://sites.google.com/site/localizededulearningcenter/nl" target="_self">Docenttraining <br><span class="dropdown-item-description">in tools voor Google for Education</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT-beheerderstraining <br><span class="dropdown-item-description">voor G Suite beheerders</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Partneroverzicht <br><span class="dropdown-item-description">to help your school go Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/communities/" target="_self">Community's <br><span class="dropdown-item-description">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">Bronnen</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:News &amp;amp; Events" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/news-and-events/" target="_self">Nieuws en evenementen </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/programs/" target="_self">Programma's <br><span class="dropdown-item-description">for students and teachers</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/case-studies/" target="_self">Casestudy's </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/computerscience/" target="_self">Onderwijs in computerwetenschap <br><span class="dropdown-item-description">Programs, Funding, and Research</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/global-education/" target="_self">Onderwijs wereldwijd </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/nl/it/" target="_self">IT-gids</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/nl/higher-education/" target="_self">Hoger onderwijs</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Producten</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/devices/" target="_self">Apparaten <span class="nav-subtext">Chromebooks and Tablets</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/productivity-tools/" target="_self">Productiviteitstools <span class="nav-subtext">Docs, Gmail and More</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/productivity-tools/classroom/" target="_self">Classroom <span class="nav-subtext">Mission control for teachers and students</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtual reality field trips</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/more-products/" target="_self">Meer producten <span class="nav-subtext">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Training</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://sites.google.com/site/localizededulearningcenter/nl" target="_self">Docenttraining <span class="nav-subtext">in tools voor Google for Education</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT-beheerderstraining <span class="nav-subtext">voor G Suite beheerders</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Partneroverzicht <span class="nav-subtext">to help your school go Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/communities/" target="_self">Community's <span class="nav-subtext">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Bronnen</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="News &amp;amp; Events" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/news-and-events/" target="_self">Nieuws en evenementen </a> </li> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/programs/" target="_self">Programma's <span class="nav-subtext">for students and teachers</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/case-studies/" target="_self">Casestudy's </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/computerscience/" target="_self">Onderwijs in computerwetenschap <span class="nav-subtext">Programs, Funding, and Research</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/global-education/" target="_self">Onderwijs wereldwijd </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">IT-gids</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/it/" target="_self">IT </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/trust/" target="_self">Privacypagina's </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Hoger onderwijs</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/higher-education/" target="_self">Hoger onderwijs </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-help-desktop" class="gray-btn talk-to-an-expert-mobile get-help-blue nl" data-g-event="Edu: Global Header" data-g-action="Talk to an Expert" data-g-label="Header" href="/intl/nl/contact/">Contact opnemen met een expert</a> </h4>
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile nl" data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Aan de slag met Google-producten</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">Hoe kunnen we je helpen?</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>Aan de slag met productiviteitstools</h5> 
+         <p>Gebruik productiviteitstools van Google, zoals Google Classroom, Google Documenten, Google Drive, Google Hangouts, e-mail en meer, gratis en zonder advertenties.</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=nl#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Aanmelden voor G Suite</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Aan de slag met apparaten</h5> 
+         <p>Wil je Chromebooks of Android-apparaten gaan gebruiken op school? Ons team kan je op weg helpen.</p> 
+         <a class="maia-button overlay-button" href="/intl/nl/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Contact opnemen met een expert</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Praten met andere docenten</h5> 
+         <p>Wil je praten met collega's die zijn overgestapt op Google? Ontdek onze community van docenten.</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Andere docenten vinden</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="gray-section"> 
+    <div class="section landing-title"> 
+     <h2 class="headline">Apps die werken met Classroom #withClassroom</h2> 
+     <span class="separator"></span> 
+     <h3 class="subheadline"> Er zijn honderden externe apps die werken met Google Classroom via de <a target="_blank" href="https://developers.google.com/classroom">Classroom API</a>. Door deze integraties besparen docenten en leerlingen tijd en is het mogelijk naadloos informatie te delen met Classroom en hun favoriete apps.</h3> 
+    </div> 
+    <div class="section classroom-apps-tabs"> 
+     <div class="gweb-tabset" id="my-tabset-id"> 
+      <div class="gweb-tabset-nav"> 
+       <ul> 
+        <li class="gweb-tabset-nav-active--blue"><a href="#connect-with-br-school-systems">Verbinding maken <br>met schoolsystemen</a> </li>
+        <li class="gweb-tabset-nav-active--red"><a href="#engage-students-with-br-interactive-teaching-tools">Leerlingen aanspreken met<br>interactieve, educatieve tools</a> </li>
+        <li class="gweb-tabset-nav-active--yellow"><a href="#improve-reading-br-and-writing-skills">Lees- en schrijfvaardigheden<br>verbeteren</a> </li>
+        <li class="gweb-tabset-nav-active--green"><a href="#teach-coding-and-stem">Onderwijs voor coderen en STEM</a> </li>
+        <li class="gweb-tabset-nav-active--blue"><a href="#use-interactive-br-learning-material">Interactief onderwijsmateriaal<br>gebruiken</a> </li>
+       </ul> 
+      </div> 
+      <div class="gweb-tabset-contents"> 
+       <div class="gweb-tabset-content gweb-tabset-content--first" id="connect-with-br-school-systems"> 
+        <h5 class="category-title cta-toggle-category">Connect with school systems</h5> 
+        <i class="toggle-arrow-icon cta-toggle-category"></i> 
+        <ul class="partner-list"> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/alma.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Alma is het eerste leerlinginformatiesysteem dat rechtstreeks met Google Classroom kan worden geïntegreerd. Dankzij deze integratie kunnen docenten opdrachten en cijfers synchroniseren en kunnen technische teams meerdere Google Classroom-lesgroepen opzetten en beheren voor verschillende scholen en scholengemeenschappen.</p> 
+           <p class="partner-card-cta"> <a href="http://www.getalma.com/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Website bezoeken</a><a href="https://www.youtube.com/watch?v=ByUf1LwqnH8&amp;feature=youtu.be" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Video bekijken</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/GoGuardian_1671.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Via GoGuardian Teacher kunnen docenten de in Classroom ingestelde lesgroepen mirroren en zo de registratie van leerlingen, lestijden en vakken op verschillende platforms synchroniseren. Docenten en leerlingen beschikken over nog meer voordelen als ze een Chromebook gebruiken met gestroomlijnde instellingen.</p> 
+           <p class="partner-card-cta"> <a href="https://www.goguardian.com/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Website bezoeken</a><a href="https://youtu.be/4A0A5OtlRP8" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Video bekijken</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--fixed"> 
+           <span></span>
+           <img src="/images/classroom-partners/littleSIS-lg-padded.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Little SIS for Classroom maakt automatisch Google Classroom-lesgroepen en synchroniseert klassenlijsten automatisch via exports van leerlinggegevens. Hierdoor is het voor scholen makkelijker om Google Classroom op schaal te implementeren en te beheren.</p> 
+           <p class="partner-card-cta"> <a href="http://labs.amplifiedit.com/little-sis-for-classroom/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Website bezoeken</a><a href="https://www.youtube.com/watch?v=5vInzYM2BmA&amp;feature=youtu.be" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Video bekijken</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/sycamore-logo.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Sycamore synchroniseert klassenlijsten, opdrachten, bijlagen en cijfers met Sycamore-cijferlijsten om rapporten voor docenten te genereren.</p> 
+           <p class="partner-card-cta"> <a href="http://sycamoreschool.com/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Website bezoeken</a><a href="https://youtu.be/jLCViWEKm8Y" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Video bekijken</a><a href="https://chrome.google.com/webstore/detail/sycamore-education/cnokfkfokfjhjlclndaeccnfgdkmhkhm" class="cta" target="_blank"><img src="/images/classroom/download-icon.svg" alt="" class="download-icon">Downloaden</a> </p> 
+          </div> </li> 
+        </ul> 
+       </div> 
+       <div class="gweb-tabset-content " id="engage-students-with-br-interactive-teaching-tools"> 
+        <h5 class="category-title cta-toggle-category">Engage students with interactive teaching tools</h5> 
+        <i class="toggle-arrow-icon cta-toggle-category"></i> 
+        <ul class="partner-list"> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/classcraft.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Dankzij de Classcraft-integratie kunnen docenten klassenlijsten uit Google Classroom opvragen en accounts met één klik toewijzen. Docenten kunnen leerlingen punten geven in de game voor het tijdig inleveren van opdrachten. Zo kunnen ze de Classroom-resultaten omzetten in gamepunten.</p> 
+           <p class="partner-card-cta"> <a href="http://classcraft.com" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Website bezoeken</a><a href="https://www.youtube.com/watch?v=6-rgHeinTV0&amp;feature=youtu.be" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Video bekijken</a><a href="https://chrome.google.com/webstore/detail/classcraft/kbdolponmgnnkabgmgedhijfhjfjnpke" class="cta" target="_blank"><img src="/images/classroom/download-icon.svg" alt="" class="download-icon">Downloaden</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/flat-education.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Docenten kunnen opdrachten voor muzieknotatie en composities in Google Classroom maken via de online muzieknotatiesoftware Flat Education. Docenten kunnen bestaande Classroom-klassenlijsten synchroniseren en nieuwe muziekactiviteiten opzetten die toegankelijk zijn voor Classroom-leerlingen.</p> 
+           <p class="partner-card-cta"> <a href="https://flat.io/edu" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Website bezoeken</a><a href="https://www.youtube.com/watch?v=C9TjwtZksQA&amp;feature=youtu.be" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Video bekijken</a><a href="https://chrome.google.com/webstore/detail/flat-for-education-music/nomkpimaohgaamiipecibpchogmfhgba" class="cta" target="_blank"><img src="/images/classroom/download-icon.svg" alt="" class="download-icon">Downloaden</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--width"> 
+           <span></span>
+           <img src="/images/classroom-partners/cast_for_education_48dp.svg" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Google Cast for Education is een gratis Chrome-app waarmee leerlingen en docenten hun scherm draadloos kunnen delen vanaf elke plek in de klas. Cast for Education beschikt over ingebouwde beheeropties voor docenten, waardoor ze zonder problemen leerlingen vanuit Classroom kunnen toevoegen.</p> 
+           <p class="partner-card-cta"> <a href="https://edu.google.com/cast-for-edu/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Website bezoeken</a><a href="https://www.youtube.com/watch?v=07KFD5fGq_4" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Video bekijken</a><a href="https://chrome.google.com/webstore/detail/google-cast-for-education/bnmgbcehmiinmmlmepibeeflglhbhlea?hl=en-US" class="cta" target="_blank"><img src="/images/classroom/download-icon.svg" alt="" class="download-icon">Downloaden</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/peardeck-full.jpg" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Met Pear Deck en Google Classroom is het makkelijker voor docenten om alle apparaten in de klas met elkaar te verbinden tijdens interactieve lessen. Er zijn geen lange codes of URL's voor nodig.</p> 
+           <p class="partner-card-cta"> <a href="https://www.peardeck.com/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Website bezoeken</a><a href="https://www.youtube.com/watch?v=cjlIp3Kb-wE&amp;feature=youtu.be" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Video bekijken</a><a href="https://chrome.google.com/webstore/detail/pear-deck/dnloadmamaeibnaadmfdfelflmmnbajd" class="cta" target="_blank"><img src="/images/classroom/download-icon.svg" alt="" class="download-icon">Downloaden</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--width"> 
+           <span></span>
+           <img src="/images/classroom-partners/classroom-logo-hero_2x.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Met de Chrome-extensie 'Delen met Classroom' kunnen docenten en leerlingen die een Chrome-browser gebruiken, meteen webpagina's met elkaar delen. Naast het delen met de browser van leerlingen kunnen docenten ook een webpagina toevoegen aan een Classroom-bericht.</p> 
+           <p class="partner-card-cta"> <a href="https://chrome.google.com/webstore/detail/share-to-classroom/adokjfanaflbkibffcbhihgihpgijcei" class="cta" target="_blank"><img src="/images/classroom/download-icon.svg" alt="" class="download-icon">Downloaden</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/soundtrap.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Maak muziek, podcasts, taaloefeningen en nog veel meer in Soundtrap. Door de integratie met Google Classroom kunnen docenten leerlingen uitnodigen, hun voortgang volgen en opdrachten opstellen.</p> 
+           <p class="partner-card-cta"> <a href="https://www.soundtrap.com/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Website bezoeken</a><a href="https://www.youtube.com/watch?v=990dEswNixQ&amp;feature=youtu.be&amp;t=1m7s" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Video bekijken</a><a href="https://chrome.google.com/webstore/detail/soundtrap-for-education/dlallcjfneldmakcbklbpbcgdbbkigfi" class="cta" target="_blank"><img src="/images/classroom/download-icon.svg" alt="" class="download-icon">Downloaden</a> </p> 
+          </div> </li> 
+        </ul> 
+       </div> 
+       <div class="gweb-tabset-content " id="improve-reading-br-and-writing-skills"> 
+        <h5 class="category-title cta-toggle-category">Improve reading and writing skills</h5> 
+        <i class="toggle-arrow-icon cta-toggle-category"></i> 
+        <ul class="partner-list"> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/actively-learn.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Actively Learn sluit naadloos aan op Google Classroom. Docenten kunnen Classroom-klassenlijsten eenvoudig synchroniseren met Actively Learn en Actively Learn-opdrachten en -cijfers kunnen met Google Classroom worden gesynchroniseerd.</p> 
+           <p class="partner-card-cta"> <a href="http://www.activelylearn.com/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Website bezoeken</a><a href="https://www.youtube.com/watch?v=omlu17mcfHI&amp;feature=youtu.be" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Video bekijken</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/newsela-logo.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Dankzij de Google Classroom-integratie kunnen docenten die Newsela gebruiken, zich registreren, lesgroepen importeren en opdrachten delen met Google Classroom. Hierdoor kunnen docenten sneller en eenvoudiger aan de slag met Newsela.</p> 
+           <p class="partner-card-cta"> <a href="https://newsela.com/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Website bezoeken</a><a href="https://www.youtube.com/watch?v=yat6Olmdx_s" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Video bekijken</a> </p> 
+          </div> </li> 
+        </ul> 
+       </div> 
+       <div class="gweb-tabset-content " id="teach-coding-and-stem"> 
+        <h5 class="category-title cta-toggle-category">Onderwijs voor coderen en STEM</h5> 
+        <i class="toggle-arrow-icon cta-toggle-category"></i> 
+        <ul class="partner-list"> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/geogebra.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Het STEM-materiaal van GeoGebra voor het basis- en middelbaar onderwijs kan met een paar muisklikken als taak in Google Classroom worden ingevoegd. Er zijn inmiddels meer dan 700.000 items beschikbaar (waar dagelijks nieuwe bij komen) om te voldoen aan de STEM-vereisten van leerlingen en docenten.</p> 
+           <p class="partner-card-cta"> <a href="https://www.geogebra.org/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Website bezoeken</a><a href="https://youtu.be/DeX0SmOV7z4" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Video bekijken</a><a href="https://chrome.google.com/webstore/detail/geogebra-math-apps/bnbaboaihhkjoaolfnfoablhllahjnee" class="cta" target="_blank"><img src="/images/classroom/download-icon.svg" alt="" class="download-icon">Downloaden</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/tynker-logo-tagline.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">De Google Classroom-integratie van Tynker stroomlijnt het proces waarmee leerlingen in Tynker worden geïmporteerd, Tynker-lessen worden toegewezen en cijfers kunnen worden bekeken.</p> 
+           <p class="partner-card-cta"> <a href="http://www.tynker.com" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Website bezoeken</a><a href="https://youtu.be/983UDP6vhwU" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Video bekijken</a><a href="https://chrome.google.com/webstore/detail/tynker-learn-to-code/gpddnfaibnhicdkfemlinafcljmfimla" class="cta" target="_blank"><img src="/images/classroom/download-icon.svg" alt="" class="download-icon">Downloaden</a> </p> 
+          </div> </li> 
+        </ul> 
+       </div> 
+       <div class="gweb-tabset-content " id="use-interactive-br-learning-material"> 
+        <h5 class="category-title cta-toggle-category">Use interactive learning material</h5> 
+        <i class="toggle-arrow-icon cta-toggle-category"></i> 
+        <ul class="partner-list"> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--width"> 
+           <span></span>
+           <img src="/images/classroom-partners/badges_BP_logo_164px.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Met BrainPOP kunnen docenten hun lesgroepen rechtstreeks via Google Classroom importeren in My BrainPOP. Er worden automatisch leerlingaccounts met single sign-on gemaakt wanneer een docent een lesgroep importeert. Zo kunnen leerlingen via het Google-launchermenu inloggen bij BrainPOP.</p> 
+           <p class="partner-card-cta"> <a href="http://www.brainpop.com" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Website bezoeken</a><a href="https://youtu.be/PaQ8I1Q4jv8" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Video bekijken</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/edulastic.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Via synchronisatie met Google Classroom worden er klassenlijsten in Edulastic gemaakt en blijven deze altijd up-to-date. Docenten kunnen Edulastic-opdrachten meteen delen via de Classroom-feeds van leerlingen, waardoor die de opdrachten meteen kunnen bekijken zonder een wachtwoord in te voeren of naar de site van Edulastic te gaan.</p> 
+           <p class="partner-card-cta"> <a href="http://www.edulastic.com" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Website bezoeken</a><a href="https://youtu.be/pf52xdGVN7U" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Video bekijken</a><a href="https://chrome.google.com/webstore/detail/edulastic/mmmfookngjpgdahmnbbamplmbhleljio" class="cta" target="_blank"><img src="/images/classroom/download-icon.svg" alt="" class="download-icon">Downloaden</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--height"> 
+           <span></span>
+           <img src="/images/classroom-partners/khan-logo-vertical-transparent_164px.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Khan Academy ondersteunt docenten met uiterst gepersonaliseerde onderwijstools en door gegevens onderbouwde inzichten, en dat helemaal gratis. Docenten kunnen hun Google Classroom-klassenlijsten in Khan Academy importeren en Khan Academy-content meteen toewijzen aan leerlingen via Classroom.</p> 
+           <p class="partner-card-cta"> <a href="https://www.khanacademy.org/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Website bezoeken</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/opened.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Docenten kunnen OpenEd-opdrachten, -video's, -games en -simulaties toewijzen met één klik. Voltooide opdrachten worden automatisch gemarkeerd als voltooid. OpenEd biedt daarnaast mogelijkheden voor klassenlijsten en single sign-on, zodat alle lesgroepen en leerlingen naadloos kunnen worden gesynchroniseerd.</p> 
+           <p class="partner-card-cta"> <a href="http://opened.com" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Website bezoeken</a><a href="https://youtu.be/3BCUTuHDKzo" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Video bekijken</a> </p> 
+          </div> </li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="section sharing"> 
+     <h2 class="subheadline"> De <a target="_blank" href="https://developers.google.com/classroom/guides/sharebutton">deelknop voor Classroom</a> is geïntegreerd in apps,<br>waardoor het makkelijker is content in Classroom te delen.</h2> 
+     <span class="separator"></span> 
+     <p class="copy">Je vindt de deelknop voor Classroom op honderden websites, waaronder:</p> 
+     <div class="sharing-cards"> 
+      <a href="http://www.amnh.org/" target="_blank"> 
+       <div class="share first  "> 
+        <p>American Museum of Natural History</p> 
+       </div> </a> 
+      <a href="http://www.ck12.org/" target="_blank"> 
+       <div class="share   "> 
+        <p>CK-12</p> 
+       </div> </a> 
+      <a href="https://curiosity.com/" target="_blank"> 
+       <div class="share   "> 
+        <p>Curiosity.com</p> 
+       </div> </a> 
+      <a href="http://www.discoveryeducation.com/" target="_blank"> 
+       <div class="share  last "> 
+        <p>Discovery Education</p> 
+       </div> </a> 
+      <a href="https://www.dogonews.com/" target="_blank"> 
+       <div class="share   "> 
+        <p>Dogonews</p> 
+       </div> </a> 
+      <a href="https://www.duolingo.com/" target="_blank"> 
+       <div class="share   "> 
+        <p>Duolingo</p> 
+       </div> </a> 
+      <a href="http://www.gale.com/" target="_blank"> 
+       <div class="share   "> 
+        <p>Gale</p> 
+       </div> </a> 
+      <a href="https://www.google.com/culturalinstitute/beta/" target="_blank"> 
+       <div class="share  last "> 
+        <p>Google Cultural Institute</p> 
+       </div> </a> 
+      <a href="http://www.pbs.org/" target="_blank"> 
+       <div class="share   "> 
+        <p>PBS Learning Media</p> 
+       </div> </a> 
+      <a href="https://quizlet.com/" target="_blank"> 
+       <div class="share   "> 
+        <p>Quizlet</p> 
+       </div> </a> 
+      <a href="https://www.tes.com/lessons" target="_blank"> 
+       <div class="share   "> 
+        <p>TES Teach</p> 
+       </div> </a> 
+      <a href="https://www.texthelp.com/en-us/" target="_blank"> 
+       <div class="share  last "> 
+        <p>Texthelp</p> 
+       </div> </a> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="gray-section tell-us"> 
+    <span>Beschik je over een Classroom-integratie?</span> 
+    <a class="tell" href="https://docs.google.com/forms/d/1zQdzHfTYRM3NpbN6m8sLy4UakoWuvX7IfNq22wV9Lz4/viewform?edit_requested=true" target="_blank">Laat het ons weten</a> 
+   </div> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Producten</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/products/devices/">Apparaten</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/products/productivity-tools/">Productiviteitstools</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/products/more-products/">Meer producten</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Training</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://sites.google.com/site/localizededulearningcenter/nl" target="_blank">Docenttraining</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">IT-beheerderstraining</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">Partneroverzicht</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/resources/communities/">Community's</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Bronnen</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:News &amp;amp; Events" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/resources/news-and-events/">Nieuws en evenementen</a></li> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/resources/programs/">Programma's</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/resources/computerscience/">Onderwijs in computerwetenschap</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/resources/global-education/">Onderwijs wereldwijd</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/it/">IT</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">Bronnen voor ontwikkelaars</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/access/">Toegang</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/contact/">Verkoop</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">Ondersteuning</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/partners/">Partnerprogramma</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/case-studies/">Casestudy's</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">Scholen met Chromebooks</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">Blog</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="Zoeken op deze site" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/products/productivity-tools/classroom/apps/"> English (United States) </option><option value="/intl/en_uk/products/productivity-tools/classroom/apps/"> English (United Kingdom) </option><option value="/intl/en_ca/products/productivity-tools/classroom/apps/"> English (Canada) </option><option value="/intl/en_au/products/productivity-tools/classroom/apps/"> English (Australia) </option><option value="/intl/en_nz/products/productivity-tools/classroom/apps/"> English (New Zealand) </option><option value="/intl/da/products/productivity-tools/classroom/apps/"> dansk (Danmark) </option><option value="/intl/es-419/products/productivity-tools/classroom/apps/"> español (Latinoamérica) </option><option value="/intl/fr_be/products/productivity-tools/classroom/apps/"> français (Belgique) </option><option value="/intl/id/products/productivity-tools/classroom/apps/"> Indonesia (Indonesia) </option><option value="/intl/ja/products/productivity-tools/classroom/apps/"> 日本語 (日本) </option><option value="/intl/ms/products/productivity-tools/classroom/apps/"> Bahasa Melayu (Malaysia) </option><option value="/intl/no/products/productivity-tools/classroom/apps/"> norsk bokmål (Norge) </option><option selected value="/intl/nl/products/productivity-tools/classroom/apps/"> Nederlands (Nederland) </option><option value="/intl/pt-BR/products/productivity-tools/classroom/apps/"> português (Brasil) </option><option value="/intl/sv/products/productivity-tools/classroom/apps/"> svenska (Sverige) </option><option value="/intl/th/products/productivity-tools/classroom/apps/"> ไทย (ไทย) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/nl/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/nl/policies/privacy/">Privacy</a> </li> 
+      <li> <a href="https://www.google.com/intl/nl/policies/terms/">Voorwaarden</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script> 
+  <script src="/compiled/guide-mobile.min.js"></script> 
+  <script id="contact-script" src="/js/access.min.js"></script>  
+ </body>
+</html>

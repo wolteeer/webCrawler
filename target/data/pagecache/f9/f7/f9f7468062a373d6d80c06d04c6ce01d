@@ -1,0 +1,1000 @@
+<!doctype html>
+<html class="google mmfb" lang="da" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/da/resources/computerscience/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." name="description"> 
+  <title>
+    Google for Education: Computer Science
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/da/resources/computerscience/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Computer Science" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/da/resources/computerscience/" property="og:url"> 
+  <meta content="" property="og:image"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/da/resources/computerscience/" name="twitter:url"> 
+  <meta content="Google for Education: Computer Science" name="twitter:title"> 
+  <meta content="" name="twitter:image"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Computer Science" itemprop="name"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." itemprop="description"> 
+  <meta content="" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Computer Science",
+    "description": "Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu.",
+    "url": "https://edu.google.com/intl/da/resources/computerscience/",
+    "logo": "",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="computerscience"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/da/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-help-desktop" class="maia-button expert-desktop get-help-blue" data-g-event="Edu: Global Header" data-g-action="Talk to an Expert" data-g-label="Header" href="/intl/da/contact/">Kontakt en ekspert</a>
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Få Google-produkter</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">Hvad kan vi hjælpe dig med?</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>Få produktivitetsværktøjer</h5> 
+        <p>Få produktivitetsværktøjer fra Google med Classroom, Google Docs, Drev, Hangouts, e-mail og meget mere inkluderet, helt gratis og uden annoncer.</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=da#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Tilmeld dig G Suite</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Få enheder</h5> 
+        <p>Er du interesseret i at få Chromebooks eller Android-enheder til din skole? Vores team kan hjælpe dig med at finde den rigtige løsning.</p> 
+        <a class="maia-button overlay-button" href="/intl/da/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Kontakt en ekspert</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Tal med andre undervisere</h5> 
+        <p>Vil du tale med en kollega, der bruger Google? Brug vores gruppe for undervisere.</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Find andre undervisere</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/" target="_self">Startside</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">Produkter</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/products/devices/" target="_self">Enheder <br><span class="dropdown-item-description">Chromebooks</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/products/productivity-tools/" target="_self">Produktivitetsværktøjer <br><span class="dropdown-item-description">Docs, Gmail og meget mere</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/products/productivity-tools/classroom/" target="_self">Classroom <br><span class="dropdown-item-description">Kontrolcentret for lærere og elever</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtual reality-ekskursioner</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/products/more-products/" target="_self">Flere produkter <br><span class="dropdown-item-description">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">Kurser</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=da" target="_self">Kurser for undervisere <br><span class="dropdown-item-description">Google for Education-værktøjer</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">Kurser om it-administration <br><span class="dropdown-item-description">for G Suite administratorer</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Indeks over partnere <br><span class="dropdown-item-description">hjælper din skole i gang med Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/resources/communities/" target="_self">Grupper <br><span class="dropdown-item-description">for undervisere, der bruger Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" active  global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">Ressourcer</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:News &amp;amp; Events" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/resources/news-and-events/" target="_self">Nyheder og events </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/resources/programs/" target="_self">Programmer <br><span class="dropdown-item-description">for elever og lærere</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/case-studies/" target="_self">Casestudier </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/resources/computerscience/" target="_self">Datalogiuddannelse <br><span class="dropdown-item-description">Programmer, støtte og forskning</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/resources/global-education/" target="_self">Global uddannelse </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/da/it/" target="_self">It-vejledning</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/da/higher-education/" target="_self">Videregående uddannelse</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Produkter</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/products/devices/" target="_self">Enheder <span class="nav-subtext">Chromebooks</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/products/productivity-tools/" target="_self">Produktivitetsværktøjer <span class="nav-subtext">Docs, Gmail og meget mere</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/products/productivity-tools/classroom/" target="_self">Classroom <span class="nav-subtext">Kontrolcentret for lærere og elever</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtual reality-ekskursioner</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/products/more-products/" target="_self">Flere produkter <span class="nav-subtext">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Kurser</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=da" target="_self">Kurser for undervisere <span class="nav-subtext">Google for Education-værktøjer</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">Kurser om it-administration <span class="nav-subtext">for G Suite administratorer</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Indeks over partnere <span class="nav-subtext">hjælper din skole i gang med Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/resources/communities/" target="_self">Grupper <span class="nav-subtext">for undervisere, der bruger Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Ressourcer</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="News &amp;amp; Events" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/resources/news-and-events/" target="_self">Nyheder og events </a> </li> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/resources/programs/" target="_self">Programmer <span class="nav-subtext">for elever og lærere</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/case-studies/" target="_self">Casestudier </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/resources/computerscience/" target="_self">Datalogiuddannelse <span class="nav-subtext">Programmer, støtte og forskning</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/resources/global-education/" target="_self">Global uddannelse </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">It-vejledning</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/it/" target="_self">It </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/trust/" target="_self">Privatliv </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Videregående uddannelse</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/da/higher-education/" target="_self">Videregående uddannelse </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-help-desktop" class="gray-btn talk-to-an-expert-mobile get-help-blue" data-g-event="Edu: Global Header" data-g-action="Talk to an Expert" data-g-label="Header" href="/intl/da/contact/">Kontakt en ekspert</a> </h4>
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Få Google-produkter</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">Hvad kan vi hjælpe dig med?</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>Få produktivitetsværktøjer</h5> 
+         <p>Få produktivitetsværktøjer fra Google med Classroom, Google Docs, Drev, Hangouts, e-mail og meget mere inkluderet, helt gratis og uden annoncer.</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=da#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Tilmeld dig G Suite</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Få enheder</h5> 
+         <p>Er du interesseret i at få Chromebooks eller Android-enheder til din skole? Vores team kan hjælpe dig med at finde den rigtige løsning.</p> 
+         <a class="maia-button overlay-button" href="/intl/da/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Kontakt en ekspert</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Tal med andre undervisere</h5> 
+         <p>Vil du tale med en kollega, der bruger Google? Brug vores gruppe for undervisere.</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Find andre undervisere</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <!-- Mobile hero image --> 
+   <section class="stage mobileShow" id="mobileHero"> 
+    <div class="cols-940"> 
+     <div class="col-12"> 
+      <div class="textWrapper"> 
+       <h2>Hjælper studerende, forældre og undervisere rundt om i hele verden med at få større kendskab til datalogi</h2> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- Carousel --> 
+   <section class="stage" id="storyCarousel"> 
+    <div class="cols-940"> 
+     <div id="slideWrapper" class="mobileHide"> 
+      <!-- Carousel images --> 
+      <div class="slide help-engage" id="slide-help-engage"> 
+       <div class="textWrapper"> 
+        <h2>Hjælper studerende, forældre og undervisere rundt om i hele verden med at få større kendskab til datalogi</h2> 
+       </div> 
+      </div> 
+      <div class="slide cs-first" id="slide-cs-first"> 
+       <div class="textWrapper"> 
+        <p class="body1Bold">GOOGLES DATALOGIUDDANNELSE</p>
+        <h2>"CS First var en stor hjælp til at gøre vores studerende interesserede i at lære grundlæggende computerprogrammering".</h2> 
+        <div class="cta2 blue heroCta" story-name="cs-first" data-g-click="true" data-g-event="Edu: Hero" data-g-action="Read More:CS First" data-g-label="Hero">
+         LÆS MERE
+        </div> 
+        <div> 
+         <p class="body1Bold"> Betsy Hare </p> 
+         <p class="body1"> CS First-deltager, Instructional Technology Specialist hos Oakbrook Middle School i Ladson, South Carolina. </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide made-with-code" id="slide-made-with-code"> 
+       <div class="textWrapper"> 
+        <p class="body1Bold">GOOGLES DATALOGIUDDANNELSE</p>
+        <h2>"Efter mit første Made with Code-hold følte jeg mig stærkere og mere selvstændig. Jeg følte mig virkelig inspireret bagefter".</h2> 
+        <div class="cta2 blue heroCta" story-name="made-with-code" data-g-click="true" data-g-event="Edu: Hero" data-g-action="Read More:Made with Code" data-g-label="Hero">
+         LÆS MERE
+        </div> 
+        <div> 
+         <p class="body1Bold"> Amaya, 13 år </p> 
+         <p class="body1"> Made with Code-deltager på Girls Inc. Pacific Northwest (Portland, Oregon) </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide rise-award" id="slide-rise-award"> 
+       <div class="textWrapper"> 
+        <p class="body1Bold">GOOGLES DATALOGIUDDANNELSE</p>
+        <h2>"RISE-prisen 2012 har helt sikkert bidraget til at katalysere vores fantastiske vækst de seneste to år ..."</h2> 
+        <div class="cta2 blue heroCta" story-name="rise-award" data-g-click="true" data-g-event="Edu: Hero" data-g-action="Read More:RISE Awards" data-g-label="Hero">
+         LÆS MERE
+        </div> 
+        <div> 
+         <p class="body1Bold"> Chelsey Roebuck </p> 
+         <p class="body1"> RISE-partner og administrerende direktør samt medstifter af Elite, New York City </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide cs4hs" id="slide-cs4hs"> 
+       <div class="textWrapper"> 
+        <p class="body1Bold">GOOGLES DATALOGIUDDANNELSE</p>
+        <h2>"I forbindelse med vores CS4HS-workshop valgte vi meget hurtigt Scratch og brugte det til at introducere de studerende til programmering..."</h2> 
+        <div class="cta2 blue heroCta" story-name="cs4hs" data-g-click="true" data-g-event="Edu: Hero" data-g-action="Read More:CS4HS" data-g-label="Hero">
+         LÆS MERE
+        </div> 
+        <div> 
+         <p class="body1Bold"> Shannon Houtrouw </p> 
+         <p class="body1"> CS4HS-deltager og datalogilærer på Kalamazoo Area Math and Science Center. </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide pencil-code" id="slide-pencil-code"> 
+       <div class="textWrapper"> 
+        <p class="body1Bold">GOOGLES DATALOGIUDDANNELSE</p>
+        <h2>"For mig har kodning været en udfordring, men Pencil Code gav mig mulighed for at sætte mine kodningsevner på prøve".</h2> 
+        <div class="cta2 blue heroCta" story-name="pencil-code" data-g-click="true" data-g-event="Edu: Hero" data-g-action="Read More:Pencil Code" data-g-label="Hero">
+         LÆS MERE
+        </div> 
+        <div> 
+         <p class="body1Bold"> Allie Maltzman </p> 
+         <p class="body1"> Pencil Code-deltager, årgang 2018. </p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- Stories Modal --> 
+     <div id="storyWrapper"> 
+      <!-- stories --> 
+      <section class="story" id="story-cs-first"> 
+       <div class="col-12"> 
+        <div class="closeModal"> 
+         <span>×</span> 
+        </div> 
+       </div> 
+       <!-- Left column --> 
+       <div class="col-6"> 
+        <!-- Challenges --> 
+        <p class="subheadline"> Udfordringer </p> 
+        <p class="body1">Betsy Hare havde bemærket, at pigerne på skolen droppede ud af de hold, hvor der var fokus på teknologi. Efter at have talt med nogle af de studerende indså hun, at hun måske nok ikke ville være i stand til at ændre deres valg af kurser, men hun kunne tilbyde pigerne et miljø efter skoletid, hvor de kunne føle sig trygge ved at samarbejde, kommunikere og danne fællesskaber med deres jævnaldrende gennem datalogi.</p> 
+        <a class="cta2 blue" target="_blank" href="http://www.cs-first.com/" data-g-event="Edu: Slide" data-g-action="Read More:CS First:Visit" data-g-label="Slide">Udforsk CS First</a> 
+        <!-- Social media links --> 
+        <menu> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/google-plus.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/facebook.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/twitter.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/instagram.png"></a></menuitem> 
+        </menu> 
+        <!-- Photo Gallery --> 
+        <div class="gallery mobileHide"> 
+         <!-- main image --> 
+         <img class="photoLarge photoLarge1" src="/images/resources/computerscience/csfirst1.png"> 
+         <img class="photoLarge photoLarge2" src="/images/resources/computerscience/csfirst2.png"> 
+         <img class="photoLarge photoLarge3" src="/images/resources/computerscience/csfirst3.png"> 
+         <img class="photoLarge photoLarge4" src="/images/resources/computerscience/csfirst4.png"> 
+         <!-- thumbnail images --> 
+         <div class="photoSmall photoSmall1">
+          <div class="overlay visible"></div>
+         </div> 
+         <div class="photoSmall photoSmall2">
+          <div class="overlay"></div>
+         </div> 
+         <div class="photoSmall photoSmall3">
+          <div class="overlay"></div>
+         </div> 
+         <div class="photoSmall photoSmall4">
+          <div class="overlay"></div>
+         </div> 
+        </div> 
+       </div> 
+       <!-- Right column --> 
+       <div class="col-6"> 
+        <!-- Solutions --> 
+        <p class="subheadline"> Løsninger </p> 
+        <p class="body1">Betsy Hare forstod, at datalogi handler om andet end at sidde foran en skærm, og oprettede Girls in Tech, et 2-timers undervisningshold for de ældste piger på skolen, hvor de lærte at samarbejde, danne fællesskaber og bruge Google CS First til at lære grundlæggende computerprogrammering. Kvinder fra det lokale teknologimiljø blev inviteret til at komme og fortælle om deres karriere og fungere som mentorer, mens de studerende arbejdede på deres CS First-projekter. De fleste af pigerne lagde ud med ikke at kende noget til datalogi og endte efter kurset med brændende at ønske at arbejde med flere projekter og var ivrige efter at vise deres færdigheder inden for kodning til kammerater, venner, familie og medlemmer af lokalsamfundet.</p> 
+        <!-- Resources --> 
+        <p class="subheadline">Ressourcer</p> 
+        <div class="resourceLink"> 
+         <img alt="" class="icon" src="/images/resources/computerscience/icon_external_link.png"> 
+         <div> 
+          <a class="body2SemiBold" target="_blank" href="http://www.cs-first.com/start-club" data-g-event="Edu: Slide" data-g-action="Read More:CS First:Resource:Start a club" data-g-label="Slide">Start en klub</a> 
+         </div> 
+        </div> 
+        <div class="resourceLink"> 
+         <img alt="" class="icon" src="/images/resources/computerscience/icon_external_link.png"> 
+         <div> 
+          <a class="body2SemiBold" target="_blank" href="http://www.cs-first.com/materials" data-g-event="Edu: Slide" data-g-action="Read More:CS First:Resource:Learning materials" data-g-label="Slide">Se undervisningsmaterialer</a> 
+         </div> 
+        </div> 
+        <aside> 
+         <p class="subheadline"> "The tech field can be an intimidating and difficult field for many women and minorities to break into. We are striving to tear down these artificial barriers and get more of our girls excited and engaged with technology through partnerships between schools, the local tech community, and Google CS First.” </p> 
+         <div> 
+          <p class="body1Bold"> Betsy Hare </p> 
+          <p class="body1"> CS First-deltager, Instructional Technology Specialist hos Oakbrook Middle School i Ladson, South Carolina. </p> 
+         </div> 
+        </aside> 
+       </div> 
+      </section> 
+      <section class="story" id="story-made-with-code"> 
+       <div class="col-12"> 
+        <div class="closeModal"> 
+         <span>×</span> 
+        </div> 
+       </div> 
+       <!-- Left column --> 
+       <div class="col-6"> 
+        <!-- Challenges --> 
+        <p class="subheadline"> Udfordringer </p> 
+        <p class="body1">Før Amaya stiftede bekendtskab med Made with Code, havde hun kun ganske lidt erfaring med kodning og forstod ikke, hvordan og hvor det blev brugt. Amaya fortæller, at hun er taknemmelig for Girls Inc. og hendes oplevelser med Made with Code. Hun føler, at der er alt for mange piger, der ikke har fået mulighed for at lære kodning, og at flere piger bør opfordres til at gå efter en karriere inden for datalogi.</p> 
+        <a class="cta2 blue" target="_blank" href="http://madewithcode.com" data-g-event="Edu: Slide" data-g-action="Read More:Made with Code:Visit" data-g-label="Slide">Gå til Made with Code</a> 
+        <!-- Social media links --> 
+        <menu> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/google-plus.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/facebook.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/twitter.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/instagram.png"></a></menuitem> 
+        </menu> 
+        <!-- Photo Gallery --> 
+        <div class="gallery mobileHide"> 
+         <!-- main image --> 
+         <img class="photoLarge photoLarge1" src="/images/resources/computerscience/mwc1.png"> 
+         <img class="photoLarge photoLarge2" src="/images/resources/computerscience/mwc2.png"> 
+         <img class="photoLarge photoLarge3" src="/images/resources/computerscience/mwc3.png"> 
+         <img class="photoLarge photoLarge4" src="/images/resources/computerscience/mwc4.png"> 
+         <!-- thumbnail images --> 
+         <div class="photoSmall photoSmall1">
+          <div class="overlay visible"></div>
+         </div> 
+         <div class="photoSmall photoSmall2">
+          <div class="overlay"></div>
+         </div> 
+         <div class="photoSmall photoSmall3">
+          <div class="overlay"></div>
+         </div> 
+         <div class="photoSmall photoSmall4">
+          <div class="overlay"></div>
+         </div> 
+        </div> 
+       </div> 
+       <!-- Right column --> 
+       <div class="col-6"> 
+        <!-- Solutions --> 
+        <p class="subheadline"> Løsninger </p> 
+        <p class="body1">Gennem Made with Code fik Amaya øjnene op for, at piger kan få en karriere inden for datalogi og blive lige så dygtige til programmering som mændene. Amaya blev også inspireret til at undervise andre piger i kodning på Girls Inc. Denne oplevelse opbyggede Amayas selvtillid, lærte hende mere om hendes styrker og afdækkede hendes lederpotentiale.</p> 
+        <!-- Resources --> 
+        <p class="subheadline">Ressourcer</p> 
+        <div class="resourceLink"> 
+         <img alt="" class="icon" src="/images/resources/computerscience/icon_external_link.png"> 
+         <div> 
+          <a class="body2SemiBold" target="_blank" href="https://www.madewithcode.com/projects" data-g-event="Edu: Slide" data-g-action="Read More:Made with Code:Resource:Try" data-g-label="Slide">Prøv et sjovt kodningsprojekt</a> 
+         </div> 
+        </div> 
+        <div class="resourceLink"> 
+         <img alt="" class="icon" src="/images/resources/computerscience/icon_external_link.png"> 
+         <div> 
+          <a class="body2SemiBold" target="_blank" href="https://www.madewithcode.com/mentors" data-g-event="Edu: Slide" data-g-action="Read More:Made with Code:Resource:Learn" data-g-label="Slide">Lær af RISE-mentorer</a> 
+         </div> 
+        </div> 
+        <aside> 
+         <p class="subheadline"> "Made with Code exposed me to a different kind of environment. An environment where girls were using code to create and design games or movies, and even to help and heal others” </p> 
+         <div> 
+          <p class="body1Bold"> Amaya, 13 år </p> 
+          <p class="body1"> Made with Code-deltager på Girls Inc. Pacific Northwest (Portland, Oregon) </p> 
+         </div> 
+        </aside> 
+       </div> 
+      </section> 
+      <section class="story" id="story-rise-award"> 
+       <div class="col-12"> 
+        <div class="closeModal"> 
+         <span>×</span> 
+        </div> 
+       </div> 
+       <!-- Left column --> 
+       <div class="col-6"> 
+        <!-- Challenges --> 
+        <p class="subheadline"> Udfordringer </p> 
+        <p class="body1"><a href="http://elite-education.org/">ELiTE</a> was specifically interested in learning how to better serve girls as emerging leaders in technology. They sought to learn from WAAW Foundation (Working to Advance African Women) and model best practices to engage more girls, specifically in Africa.</p> 
+        <a class="cta2 blue" target="_blank" href="/intl/da/resources/programs/google-rise-awards/" data-g-event="Edu: Slide" data-g-action="Read More:RISE Awards:Visit" data-g-label="Slide">Udforsk RISE</a> 
+        <!-- Social media links --> 
+        <menu> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/google-plus.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/facebook.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/twitter.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/instagram.png"></a></menuitem> 
+        </menu> 
+        <!-- Photo Gallery --> 
+        <div class="gallery mobileHide"> 
+         <!-- main image --> 
+         <img class="photoLarge photoLarge1" src="/images/resources/computerscience/rise1.png"> 
+         <img class="photoLarge photoLarge2" src="/images/resources/computerscience/rise2.png"> 
+         <img class="photoLarge photoLarge3" src="/images/resources/computerscience/rise3.png"> 
+         <img class="photoLarge photoLarge4" src="/images/resources/computerscience/rise4.png"> 
+         <!-- thumbnail images --> 
+         <div class="photoSmall photoSmall1">
+          <div class="overlay visible"></div>
+         </div> 
+         <div class="photoSmall photoSmall2">
+          <div class="overlay"></div>
+         </div> 
+         <div class="photoSmall photoSmall3">
+          <div class="overlay"></div>
+         </div> 
+         <div class="photoSmall photoSmall4">
+          <div class="overlay"></div>
+         </div> 
+        </div> 
+       </div> 
+       <!-- Right column --> 
+       <div class="col-6"> 
+        <!-- Solutions --> 
+        <p class="subheadline"> Løsninger </p> 
+        <p class="body1">ELiTE har været i stand til at overføre deres erfaringer fra Kenya, Ghana og Nigeria til USA, hvor de nu afholder mere inkluderende ekstrakurser i skolerne. Deres fokus var på at skabe et bedre arbejdsmiljø for pigerne, men dette tiltag har også udmøntet sig i en højere kvalitet i arbejdet fra alle studerende.</p> 
+        <!-- Resources --> 
+        <p class="subheadline">Ressourcer</p> 
+        <div class="resourceLink"> 
+         <img alt="" class="icon" src="/images/resources/computerscience/icon_external_link.png"> 
+         <div> 
+          <a class="body2SemiBold" target="_blank" href="/intl/da/resources/programs/google-rise-awards/#!guidelines" data-g-event="Edu: Slide" data-g-action="Read More:RISE Awards:Resource:Program eligibility" data-g-label="Slide">Kvalificering til programmet</a> 
+         </div> 
+        </div> 
+        <div class="resourceLink"> 
+         <img alt="" class="icon" src="/images/resources/computerscience/icon_external_link.png"> 
+         <div> 
+          <a class="body2SemiBold" target="_blank" href="/intl/da/resources/programs/google-rise-awards/#!award-recipients" data-g-event="Edu: Slide" data-g-action="Read More:RISE Awards:Resource:Recipients" data-g-label="Slide">Se alle RISE-prismodtagere</a> 
+         </div> 
+        </div> 
+        <aside> 
+         <p class="subheadline"> "The past two years have been an incredible journey and we are grateful for [RISE’s] support and partnership. We've grown as an organization and learned so much—especially this past year through our partnership with Unoma and The WAAW Foundation.” </p> 
+         <div> 
+          <p class="body1Bold"> Chelsey Roebuck </p> 
+          <p class="body1"> RISE-partner og administrerende direktør samt medstifter af Elite, New York City </p> 
+         </div> 
+        </aside> 
+       </div> 
+      </section> 
+      <section class="story" id="story-cs4hs"> 
+       <div class="col-12"> 
+        <div class="closeModal"> 
+         <span>×</span> 
+        </div> 
+       </div> 
+       <!-- Left column --> 
+       <div class="col-6"> 
+        <!-- Challenges --> 
+        <p class="subheadline"> Udfordringer </p> 
+        <p class="body1">Ifølge en undersøgelse fra 2015 udført af det amerikanske undervisningsministerium melder mindst 17 delstater, at de har mangel på datalogilærere, nogle så langt tilbage som i 1990. Støtten til vækst i datalogiuddannelserne resulterer i udvikling og fastholdelse af dygtige lærere, der kender de nyeste metoder og undervisningsformer inden for datalogiuddannelse.</p> 
+        <a class="cta2 blue" target="_blank" href="http://www.cs4hs.com" data-g-event="Edu: Slide" data-g-action="Read More:CS4HS:Visit" data-g-label="Slide">Udforsk CS4HS</a> 
+        <!-- Social media links --> 
+        <menu> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/google-plus.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/facebook.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/twitter.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/instagram.png"></a></menuitem> 
+        </menu> 
+        <!-- Photo Gallery --> 
+        <div class="gallery mobileHide"> 
+         <!-- main image --> 
+         <img class="photoLarge photoLarge1" src="/images/resources/computerscience/cs4hs1.png"> 
+         <img class="photoLarge photoLarge2" src="/images/resources/computerscience/cs4hs2.png"> 
+         <img class="photoLarge photoLarge3" src="/images/resources/computerscience/cs4hs3.png"> 
+         <img class="photoLarge photoLarge4" src="/images/resources/computerscience/cs4hs4.png"> 
+         <!-- thumbnail images --> 
+         <div class="photoSmall photoSmall1">
+          <div class="overlay visible"></div>
+         </div> 
+         <div class="photoSmall photoSmall2">
+          <div class="overlay"></div>
+         </div> 
+         <div class="photoSmall photoSmall3">
+          <div class="overlay"></div>
+         </div> 
+         <div class="photoSmall photoSmall4">
+          <div class="overlay"></div>
+         </div> 
+        </div> 
+       </div> 
+       <!-- Right column --> 
+       <div class="col-6"> 
+        <!-- Solutions --> 
+        <p class="subheadline"> Løsninger </p> 
+        <p class="body1">CS4HS yder støtte til lokale eksperter i datalogiuddannelse med det formål for øje at understøtte planlægning og udvikling af datalogiundervisningen. CS4HS-programmerne varierer fra region til region baseret på behovene hos de lokale undervisere, men resultatet er det samme: Lærerne får større tillid til deres undervisningsevner i datalogi, og de etablerer værdifulde forbindelser til andre datalogilærere.</p> 
+        <!-- Resources --> 
+        <p class="subheadline">Ressourcer</p> 
+        <div class="resourceLink"> 
+         <img alt="" class="icon" src="/images/resources/computerscience/icon_external_link.png"> 
+         <div> 
+          <a class="body2SemiBold" target="_blank" href="http://www.cs4hs.com/application/" data-g-event="Edu: Slide" data-g-action="Read More:CS4HS:Resource:Apply for a grant" data-g-label="Slide">Ansøg om et CS4HS-legat</a> 
+         </div> 
+        </div> 
+        <div class="resourceLink"> 
+         <img alt="" class="icon" src="/images/resources/computerscience/icon_external_link.png"> 
+         <div> 
+          <a class="body2SemiBold" target="_blank" href="http://www.cs4hs.com/current-programs/" data-g-event="Edu: Slide" data-g-action="Read More:CS4HS:Resource:Training programs" data-g-label="Slide">Lærere kan finde kursusprogrammer her</a> 
+         </div> 
+        </div> 
+        <aside> 
+         <p class="subheadline"> "In addition to needing professional development hours each year, I also need to network with my colleagues on latest practices, things going on in AP Computer Science, Robotics opportunities, computer math topics, algorithm development, and computer science competitions for high schoolers. CS4HS provided that for me.” </p> 
+         <div> 
+          <p class="body1Bold"> Shannon Houtrouw </p> 
+          <p class="body1"> CS4HS-deltager og datalogilærer på Kalamazoo Area Math and Science Center. </p> 
+         </div> 
+        </aside> 
+       </div> 
+      </section> 
+      <section class="story" id="story-pencil-code"> 
+       <div class="col-12"> 
+        <div class="closeModal"> 
+         <span>×</span> 
+        </div> 
+       </div> 
+       <!-- Left column --> 
+       <div class="col-6"> 
+        <!-- Challenges --> 
+        <p class="subheadline"> Udfordringer </p> 
+        <p class="body1">Beaver Country Day School, a small private school in Massachusetts, recognized the growing importance that computer science plays in the world. However, like many schools in the US, they didn’t offer any programming classes, so their students weren’t getting exposure to CS</p> 
+        <a class="cta2 blue" target="_blank" href="http://gym.pencilcode.net/" data-g-event="Edu: Slide" data-g-action="Read More:Pencil Code:Visit" data-g-label="Slide">Udforsk Pencil Code</a> 
+        <!-- Social media links --> 
+        <menu> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/google-plus.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/facebook.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/twitter.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/instagram.png"></a></menuitem> 
+        </menu> 
+        <!-- Photo Gallery --> 
+        <div class="gallery mobileHide"> 
+         <!-- main image --> 
+         <img class="photoLarge photoLarge1" src="/images/resources/computerscience/pencilcode1.png"> 
+         <img class="photoLarge photoLarge2" src="/images/resources/computerscience/pencilcode2.png"> 
+         <img class="photoLarge photoLarge3" src="/images/resources/computerscience/pencilcode3.png"> 
+         <img class="photoLarge photoLarge4" src="/images/resources/computerscience/pencilcode4.png"> 
+         <!-- thumbnail images --> 
+         <div class="photoSmall photoSmall1">
+          <div class="overlay visible"></div>
+         </div> 
+         <div class="photoSmall photoSmall2">
+          <div class="overlay"></div>
+         </div> 
+         <div class="photoSmall photoSmall3">
+          <div class="overlay"></div>
+         </div> 
+         <div class="photoSmall photoSmall4">
+          <div class="overlay"></div>
+         </div> 
+        </div> 
+       </div> 
+       <!-- Right column --> 
+       <div class="col-6"> 
+        <!-- Solutions --> 
+        <p class="subheadline"> Løsninger </p> 
+        <p class="body1">I 2013 besluttede Beaver Country Day School at råde bod på dette ved at blive den første skole i landet, der integrerede datalogi i alle fag. I alle fag – fra engelsk til formning og matematik – brugte de Pencil Code-værktøjet til at integrere programmering i deres læseplaner. Eleverne er nu engageret i et væld af aktiviteter med Pencil Code – det spænder lige fra at designe chatbots og skabe visuelle fremstillinger af Macbeth til at løse matematiske ligninger og endda udvikle en app, der fortæller dig, hvor mange timer du har brug for at studere hver aften.</p> 
+        <!-- Resources --> 
+        <p class="subheadline">Ressourcer</p> 
+        <div class="resourceLink"> 
+         <img alt="" class="icon" src="/images/resources/computerscience/icon_external_link.png"> 
+         <div> 
+          <a class="body2SemiBold" target="_blank" href="http://gym.pencilcode.net/draw/#/draw/tree.html" data-g-event="Edu: Slide" data-g-action="Read More:Pencil Code:Resource:Code your own art" data-g-label="Slide">Lav en kode til din egen kunst</a> 
+         </div> 
+        </div> 
+        <div class="resourceLink"> 
+         <img alt="" class="icon" src="/images/resources/computerscience/icon_external_link.png"> 
+         <div> 
+          <a class="body2SemiBold" target="_blank" href="http://gym.pencilcode.net/jam/#/jam/firstnote.html" data-g-event="Edu: Slide" data-g-action="Read More:Pencil Code:Resource:Code your own music" data-g-label="Slide">Lav en kode til din egen musik</a> 
+         </div> 
+        </div> 
+        <aside> 
+         <p class="subheadline"> "After completing this code I knew more and understood more of the play. It allowed me to interpret Macbeth in a new way that I had never thought of before. I really enjoyed using Pencil Code because it made coding simpler for me and helped me try something new.” </p> 
+         <div> 
+          <p class="body1Bold"> Allie Maltzman </p> 
+          <p class="body1"> Pencil Code-deltager, årgang 2018. </p> 
+         </div> 
+        </aside> 
+       </div> 
+      </section> 
+      <!-- Modal navigation --> 
+      <nav class="cols-940 mobileHide" id="modalNav"> 
+       <div class="col-12"> 
+        <p class="subheadline"> Historier om datalogi </p> 
+       </div> 
+       <div class="col-12"> 
+        <div id="modalNavLeft"></div> 
+        <div id="modalNavWrapper"> 
+         <div id="modalNavHolder"> 
+          <div class="modalNavItem" story-name="cs-first"> 
+           <img alt="" src="/images/resources/computerscience/slide_thumbnail_01.jpg"> 
+           <p class="body1Bold"> CS First </p> 
+           <p class="body2">"CS First var en stor hjælp til at gøre vores studerende interesserede i at lære grundlæggende computerprogrammering".</p> 
+          </div> 
+          <div class="modalNavItem" story-name="made-with-code"> 
+           <img alt="" src="/images/resources/computerscience/slide_thumbnail_02.jpg"> 
+           <p class="body1Bold"> Made with Code </p> 
+           <p class="body2">"Efter mit første Made with Code-hold følte jeg mig stærkere og mere selvstændig. Jeg følte mig virkelig inspireret bagefter".</p> 
+          </div> 
+          <div class="modalNavItem" story-name="rise-award"> 
+           <img alt="" src="/images/resources/computerscience/slide_thumbnail_03.jpg"> 
+           <p class="body1Bold"> RISE </p> 
+           <p class="body2">"RISE-prisen 2012 har helt sikkert bidraget til at katalysere vores fantastiske vækst de seneste to år ..."</p> 
+          </div> 
+          <div class="modalNavItem" story-name="cs4hs"> 
+           <img alt="" src="/images/resources/computerscience/slide_thumbnail_04.jpg"> 
+           <p class="body1Bold"> CS4HS </p> 
+           <p class="body2">"I forbindelse med vores CS4HS-workshop valgte vi meget hurtigt Scratch og brugte det til at introducere de studerende til programmering..."</p> 
+          </div> 
+          <div class="modalNavItem" story-name="pencil-code"> 
+           <img alt="" src="/images/resources/computerscience/slide_thumbnail_05.jpg"> 
+           <p class="body1Bold"> Pencil Code </p> 
+           <p class="body2">"For mig har kodning været en udfordring, men Pencil Code gav mig mulighed for at sætte mine kodningsevner på prøve".</p> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="modalNavRight"></div> 
+       </div> 
+      </nav> 
+     </div> 
+     <!-- Carousel navigation --> 
+     <nav class="cols-940 mobileHide" id="carouselNav"> 
+      <div id="navBack" class="inactive"></div> 
+      <div id="carouselNavWrapper"> 
+       <div id="carouselNavHolder"> 
+        <div class="carouselNavItem  active "> 
+         <img alt="" src="/images/resources/computerscience/slide_icon_default.jpg"> 
+         <div> 
+          <p class="body2"> Hvad er datalogi, og hvorfor er det vigtigt? </p> 
+          <p class="body1"> Hjælper studerende, forældre og undervisere rundt om i hele verden med at få større kendskab til datalogi </p> 
+         </div> 
+        </div> 
+        <div class="carouselNavItem "> 
+         <img alt="" src="/images/resources/computerscience/slide_icon_01.jpg"> 
+         <div> 
+          <p class="body2"> CS First </p> 
+          <p class="body1"> "CS First var en stor hjælp til at gøre vores studerende interesserede i at lære grundlæggende computerprogrammering". </p> 
+         </div> 
+        </div> 
+        <div class="carouselNavItem "> 
+         <img alt="" src="/images/resources/computerscience/slide_icon_02.jpg"> 
+         <div> 
+          <p class="body2"> Made with Code </p> 
+          <p class="body1"> "Efter mit første Made with Code-hold følte jeg mig stærkere og mere selvstændig. Jeg følte mig virkelig inspireret bagefter". </p> 
+         </div> 
+        </div> 
+        <div class="carouselNavItem "> 
+         <img alt="" src="/images/resources/computerscience/slide_icon_03.jpg"> 
+         <div> 
+          <p class="body2"> RISE </p> 
+          <p class="body1"> "RISE-prisen 2012 har helt sikkert bidraget til at katalysere vores fantastiske vækst de seneste to år ..." </p> 
+         </div> 
+        </div> 
+        <div class="carouselNavItem "> 
+         <img alt="" src="/images/resources/computerscience/slide_icon_04.jpg"> 
+         <div> 
+          <p class="body2"> CS4HS </p> 
+          <p class="body1"> "I forbindelse med vores CS4HS-workshop valgte vi meget hurtigt Scratch og brugte det til at introducere de studerende til programmering..." </p> 
+         </div> 
+        </div> 
+        <div class="carouselNavItem "> 
+         <img alt="" src="/images/resources/computerscience/slide_icon_05.jpg"> 
+         <div> 
+          <p class="body2"> Pencil Code </p> 
+          <p class="body1"> "For mig har kodning været en udfordring, men Pencil Code gav mig mulighed for at sætte mine kodningsevner på prøve". </p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="navForward"></div> 
+     </nav> 
+    </div> 
+   </section> 
+   <!-- Mobile nav --> 
+   <section class="stage mobileShow" id="mobileNav"> 
+    <div class="mobileNavItem" story-name="cs-first"> 
+     <img alt="" src="/images/resources/computerscience/slide_icon_01.jpg"> 
+     <div> 
+      <p class="body2"> CS First </p> 
+      <p class="body1"> "CS First var en stor hjælp til at gøre vores studerende interesserede i at lære grundlæggende computerprogrammering". </p> 
+     </div> 
+    </div> 
+    <div class="mobileNavItem" story-name="made-with-code"> 
+     <img alt="" src="/images/resources/computerscience/slide_icon_02.jpg"> 
+     <div> 
+      <p class="body2"> Made with Code </p> 
+      <p class="body1"> "Efter mit første Made with Code-hold følte jeg mig stærkere og mere selvstændig. Jeg følte mig virkelig inspireret bagefter". </p> 
+     </div> 
+    </div> 
+    <div class="mobileNavItem" story-name="rise-award"> 
+     <img alt="" src="/images/resources/computerscience/slide_icon_03.jpg"> 
+     <div> 
+      <p class="body2"> RISE </p> 
+      <p class="body1"> "RISE-prisen 2012 har helt sikkert bidraget til at katalysere vores fantastiske vækst de seneste to år ..." </p> 
+     </div> 
+    </div> 
+    <div class="mobileNavItem" story-name="cs4hs"> 
+     <img alt="" src="/images/resources/computerscience/slide_icon_04.jpg"> 
+     <div> 
+      <p class="body2"> CS4HS </p> 
+      <p class="body1"> "I forbindelse med vores CS4HS-workshop valgte vi meget hurtigt Scratch og brugte det til at introducere de studerende til programmering..." </p> 
+     </div> 
+    </div> 
+    <div class="mobileNavItem" story-name="pencil-code"> 
+     <img alt="" src="/images/resources/computerscience/slide_icon_05.jpg"> 
+     <div> 
+      <p class="body2"> Pencil Code </p> 
+      <p class="body1"> "For mig har kodning været en udfordring, men Pencil Code gav mig mulighed for at sætte mine kodningsevner på prøve". </p> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- Learning section --> 
+   <section class="stage" id="learning"> 
+    <div class="cols-940"> 
+     <div class="col-12"> 
+      <h2> Engager dig </h2> 
+     </div> 
+     <a href="/intl/da/resources/computerscience/learning/" data-g-event="Edu: Canvas" data-g-action="Learn More" data-g-label="Get Involved"> 
+      <div class="articleWrapper"> 
+       <article> 
+        <p class="subheadline"> Ressourcer </p>
+        <img alt="" src="/images/resources/computerscience/resources_01.jpg"> 
+        <p class="body2"> Miljøer, hvor kodningen sker på brugerens præmisser, motiverende materialer og inspiration til at gøre forskellige elevgrupper stærkere </p> 
+       </article> 
+       <article> 
+        <p class="subheadline"> Programmer </p>
+        <img alt="" src="/images/resources/computerscience/resources_02.jpg"> 
+        <p class="body2"> Årlige elevkonkurrencer, hjælp til karrierevalg og programmer til at engagere alle elever i teknologi </p> 
+       </article> 
+       <article> 
+        <p class="subheadline"> Økonomisk støtte </p>
+        <img alt="" src="/images/resources/computerscience/resources_03.jpg"> 
+        <p class="body2"> Studielegater og stipendier samt årlige legatprogrammer til at fremme datalogiuddannelse på alle trin </p> 
+       </article> 
+       <div class="cta-copy">
+        Få flere oplysninger
+       </div> 
+      </div></a> 
+    </div> 
+   </section> 
+   <!-- Research section --> 
+   <section class="stage" id="research"> 
+    <div class="cols-940"> 
+     <div class="col-6"> 
+      <h3> Baseret på forskning </h3> 
+      <p class="body1"> Vi bestiller undersøgelser for at få en dybere forståelse af, hvordan man kan øge bevidstheden hos de studerende og forbedre adgangen til datalogi. Vi undersøger, hvad der motiverer eleverne, og hvilke barrierer der forhindrer dem i at vælge datalogi. </p> 
+      <a class="cta3" href="/intl/da/resources/computerscience/research/" data-g-event="Edu: Canvas" data-g-action="View Research" data-g-label="Grounded Research"> SE FORSKNINGSRAPPORTER </a> 
+     </div> 
+     <div class="col-3"> 
+      <img alt="" src="/images/resources/computerscience/research_01.jpg"> 
+      <p class="body1Bold"> Vejen til datalogi: Muligheder og barrierer for elever i grundskolen og på high school i USA </p> 
+      <p class="body2"> Undersøgelse blandt skoleledere, rektorer, lærere, forældre og elever. </p> 
+     </div> 
+     <div class="col-3"> 
+      <img alt="" src="/images/resources/computerscience/research_02.jpg"> 
+      <p class="body1Bold"> Kvinder, der vælger datalogi – de afgørende faktorer </p> 
+      <p class="body2"> Vigtige faktorer, der motiverer unge kvinder til at vælge datalogi. </p> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Produkter</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/da/products/devices/">Enheder</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/da/products/productivity-tools/">Produktivitetsværktøjer</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/da/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/da/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/da/products/more-products/">Flere produkter</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Kurser</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=da" target="_blank">Kurser for undervisere</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">Kurser om it-administration</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">Indeks over partnere</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/da/resources/communities/">Grupper</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Ressourcer</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:News &amp;amp; Events" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/da/resources/news-and-events/">Nyheder og events</a></li> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/da/resources/programs/">Programmer</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/da/resources/computerscience/">Datalogiuddannelse</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/da/resources/global-education/">Global uddannelse</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/da/it/">It</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">Ressourcer for udviklere</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/da/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/da/access/">Adgang</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/da/contact/">Salg</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">Support</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/da/partners/">Partnerprogram</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/da/case-studies/">Casestudier</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">Se skoler med Chromebooks</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">Blog</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="Søg på dette website" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/resources/computerscience/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/resources/computerscience/"> العربية (الإمارات العربية المتحدة) </option><option selected value="/intl/da/resources/computerscience/"> dansk (Danmark) </option><option value="/intl/en_au/resources/computerscience/"> English (Australia) </option><option value="/intl/en_ca/resources/computerscience/"> English (Canada) </option><option value="/intl/en_in/resources/computerscience/"> English (India) </option><option value="/intl/en_nz/resources/computerscience/"> English (New Zealand) </option><option value="/intl/en_uk/resources/computerscience/"> English (United Kingdom) </option><option value="/resources/computerscience/"> English (United States) </option><option value="/intl/es-419_mx/resources/computerscience/"> español (México) </option><option value="/intl/es-419/resources/computerscience/"> español (Latinoamérica) </option><option value="/intl/fi/resources/computerscience/"> suomi (Suomi) </option><option value="/intl/fr_be/resources/computerscience/"> français (Belgique) </option><option value="/intl/id/resources/computerscience/"> Indonesia (Indonesia) </option><option value="/intl/ja/resources/computerscience/"> 日本語 (日本) </option><option value="/intl/ms/resources/computerscience/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/resources/computerscience/"> Nederlands (Nederland) </option><option value="/intl/no/resources/computerscience/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/resources/computerscience/"> português (Brasil) </option><option value="/intl/sv/resources/computerscience/"> svenska (Sverige) </option><option value="/intl/th/resources/computerscience/"> ไทย (ไทย) </option><option value="/intl/tr/resources/computerscience/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/da/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/da/policies/privacy/">Privatliv</a> </li> 
+      <li> <a href="https://www.google.com/intl/da/policies/terms/">Vilkår</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script>  
+ </body>
+</html>

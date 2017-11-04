@@ -1,0 +1,575 @@
+<!doctype html>
+<html class="no-js" dir="ltr" lang="hi">
+ <head> 
+  <meta charset="utf-8"> 
+  <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"> 
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"> 
+  <title>
+      Google दस्तावेज़ - निःशुल्क ऑनलाइन दस्तावेज़ बनाएं और संपादित करें.
+    </title> 
+  <meta content="नया दस्तावेज़ बनाएं और एक ही समय में अन्य लोगों के साथ संपादित करें -- अपने कंप्यूटर, फ़ोन या टैबलेट से. इंटरनेट कनेक्शन के साथ या उसके बिना काम पूरे करें. Word फ़ाइलें संपादित करने के लिए दस्तावेज़ का उपयोग करें. Google की ओर से निःशुल्क." name="description"> 
+  <script src="//www.google.com/js/google.js"></script> 
+  <script>
+    new gweb.analytics.AutoTrack({profile:"UA-48684867-1"});
+    </script> 
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600&amp;subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic" rel="stylesheet"> 
+  <link href="https://www.google.com/intl/hi/docs/about/" rel="canonical"> 
+  <link href="favicon.ico" rel="shortcut icon"> 
+  <link href="https://fonts.googleapis.com/css?family=Economica" rel="stylesheet" type="text/css"> 
+  <link href="css/docs.min.css" rel="stylesheet"> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/modernizr.js"></script> 
+ </head> 
+ <body class="editors-layout nav-collapsed docs"> 
+  <header class="header" role="banner"> 
+   <div class="header-item with-site-logo"> 
+    <a class="site-logo site-logo-link" href="/"> 
+     <div class="site-logo-image icon icon-google-logo-dark">
+       Google संपादक 
+     </div></a> 
+   </div> 
+   <nav data-nav-name="mobile"> 
+    <ul class="nav-main"> 
+     <li> <a class="docs" href="../../docs/about/"><span class="icon icon-docs-icon">&nbsp;</span> दस्तावेज़</a> </li> 
+     <li> <a class="sheets" href="../../sheets/about/"><span class="icon icon-sheets-icon">&nbsp;</span> पत्रक</a> </li> 
+     <li> <a class="slides" href="../../slides/about/"><span class="icon icon-slides-icon">&nbsp;</span> स्लाइड</a> </li> 
+     <li class="forms nav-main-last"> <a class="forms" href="../../forms/about/"><span class="icon icon-forms-icon">&nbsp;</span> फ़ॉर्म</a> </li> 
+    </ul> 
+    <ul class="nav-tertiary"> 
+     <li> <a class="work" href="https://gsuite.google.com/features/?utm_source=docsforwork&amp;utm_medium=et&amp;utm_campaign=refresh&amp;utm_content=header&amp;hl=hi"> कार्यस्थल के लिए</a> </li> 
+     <li class="tertiary-last"> <a href="https://support.google.com/docs?hl=hi&amp;p=#topic=2811805">सहायता</a> </li> 
+     <li class="mobile-is-hidden desktop-small-is-hidden float-in"> <a class="get-google-editors js-dropdown-toggle" data-g-action="Goes to web editor" data-g-event="outboundlink-CTAs" data-g-label="Corner nav" href="https://docs.google.com/document/?usp=mkt_docs">Google दस्तावेज़ पर जाएं</a> </li> 
+    </ul> 
+   </nav> 
+   <div class="mobile-nav-toggle js-mobilenav"> 
+    <div class="icon icon-mobile-open toggle-nav-open js-mobilenav-toggle" data-target-nav="mobile">
+      &nbsp; 
+    </div> 
+    <div class="icon icon-mobile-close toggle-nav-closed js-mobilenav-toggle-close" data-target-nav="mobile">
+      &nbsp; 
+    </div> 
+   </div> 
+  </header> 
+  <div class="mobile-notification"> 
+   <p> Google डिस्क को खोज रहे हैं? </p> 
+   <p> अपनी सभी फ़ाइलें देखने के लिए <a href="http://drive.google.com">drive.google.com</a> पर जाएं. </p> 
+   <p> <a href="https://support.google.com/drive/?p=homescreen_redirect&amp;hl=hi">और जानें</a> | <a data-mobile-notification-action="dismiss" href="#">ख़ारिज करें</a> </p> 
+  </div> 
+  <section class="section-intro section-intro-fullscreen" id="section-intro"> 
+   <div class="section-photo-intro section-photo js-parallax-image" data-origin="0" data-reverse-parallax="true"></div> 
+   <div class="section-centered section-vertical-align js-vertical-align js-parallax-image" data-origin="0" data-parallax-fade="true" data-parallax-speed="3" data-reverse-parallax="true"> 
+    <div class="one-whole"> 
+     <span class="section-headline section-headline-large section-headline-white mobile-is-visible">बनाएं शानदार <span class="type-out-beam type-out-beam-small allow-orphan"><span class="type-out-name type-out-name-small">Kim</span></span> दस्तावेज़</span> 
+     <h1 class="section-headline section-headline-large section-headline-white allow-orphan mobile-is-hidden"> प्रभावी दस्तावेज़ बनाएं <span class="type-out-beam allow-orphan js-beam"><span class="type-out-name js-name">टॉम</span></span> </h1> 
+     <p class="section-body section-body-white section-body-bold"> Google दस्तावेज़ के साथ, आप कहीं से भी दस्तावेज़ लिख सकते हैं, संपादित कर सकते हैं और उसमें सहयोग कर सकते हैं. निःशुल्क. </p>
+     <a class="maia-button button-download desktop-is-hidden mobile-is-visible no-touch-tablet-is-hidden mobile-download js-mobile-download" data-g-action="Goes to Playstore" data-g-event="outboundlink-CTAs" data-g-label="Top button" data-href="//itunes.apple.com/app/apple-store/id842842640?pt=9008&amp;ct=docs_mkt&amp;mt=8" href="//play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&amp;referrer=utm_source%3Dwebsite%26utm_content%3Dtopbutton%26utm_campaign%3Ddocswebsite&amp;hl=hi" target="_blank">Google दस्तावेज़ डाउनलोड करें</a> 
+     <div class="dropdown-container tablet-mobile-is-hidden no-touch-tablet-is-visible"> 
+      <a class="maia-button button-download js-dropdown-toggle" data-g-action="Goes to web editor" data-g-event="outboundlink-CTAs" data-g-label="Top button" href="https://docs.google.com/document/?usp=mkt_docs">Google दस्तावेज़ पर जाएं</a> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="arrow-hint"> 
+    <a class="gweb-smoothscroll-control" href="#start"> 
+     <div class="icon icon-arrow-hint animated-arrow-1"> 
+      <!----> 
+     </div> 
+     <div class="icon icon-arrow-hint animated-arrow-2"> 
+      <!----> 
+     </div></a> 
+   </div> 
+  </section> 
+  <div class="unfixed-wrapper" id="start"> 
+   <section class="section-makegreat js-vertical-wrapper" id="section-more-than"> 
+    <div class="section-centered maia-columns"> 
+     <div class="photo-crop"> 
+      <!--[if IE ]>
+          <div class="ie-image"></div>
+        <![endif]--> 
+      <!--[if !IE]>--> 
+      <div class="static-image"></div> 
+      <div class="dynamic-image"> 
+       <div class="frame"> 
+        <div class="sf-text">
+          SAN FRANCISCO 
+        </div> 
+        <div class="vacation-text">
+          VACATION 
+        </div> 
+        <div class="highlight"> 
+         <div class="cursor1"></div> 
+         <div class="name1">
+           Jono 
+         </div> 
+        </div> 
+        <div class="inner-frame"> 
+         <div class="bridge"> 
+          <div class="cursor2"></div> 
+          <div class="name2">
+            Salit 
+          </div> 
+         </div> 
+         <div class="text1"> 
+          <b>Day 1 / Golden Gate Bridge</b> 
+          <p> The Golden Gate Bridge is a suspension bridge spanning the Golden Gate strait, the 1 mile wide, 3 mile long channel between San Francisco Bay and the Pacific Ocean. </p> 
+         </div> 
+         <div class="text2"> 
+          <p> The structure links the U.S. city of San Francisco, on the northern tip of the San Francisco Peninsula, to Marin County, bridging both U.S. Route 101 and California State Route 1 across the strait. </p> 
+         </div> 
+         <div class="block1"></div> 
+         <div class="block2"></div> 
+         <div class="block3"></div> 
+         <div class="block4"></div> 
+         <div class="cursor3"> 
+          <div class="name3">
+            Lindsay 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div>
+      <!--<![endif]--> 
+     </div> 
+     <div class="maia-col-6 mobile-is-hidden"></div> 
+     <div class="maia-col-6 vertical-pad js-vertical-panel mobile-is-centered"> 
+      <h2 class="heading-headline allow-orphan"> अक्षरों और शब्दों से कहीं ज़्यादा </h2> 
+      <p class="section-body"> Google दस्तावेज़ स्मार्ट संपादन और स्टाइलिंग टूल के साथ आपके दस्तावेज़ों को जीवंत बनाता है, जो आसानी से लेख और अनुच्छेद फ़ॉर्मेट करने में आपकी सहायता करते हैं. सैंकड़ों फ़ॉन्ट में से चुनें, लिंक, चित्र और आरेखण जोड़ें. सभी निःशुल्क. </p> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section-download" id="section-download"> 
+    <div class="section-centered maia-cols js-vertical-wrapper"> 
+     <div class="photo-crop"></div> 
+     <div class="maia-col-6 mobile-is-centered js-vertical-panel"> 
+      <h2 class="heading-headline allow-orphan"> कहीं से भी और कभी भी अपने दस्तावेज़ प्रयोग करें </h2> 
+      <p class="section-body"> अपने दस्तावेज़ों को कहीं से भी — अपने फ़ोन, टैबलेट या कंप्यूटर से — एक्सेस करें, बनाएं और संपादित करें चाहे आपके पास कोई कनेक्शन न हो. </p> 
+      <div class="dropdown-container tablet-mobile-is-hidden no-touch-tablet-is-visible js-dropdown"> 
+       <a class="maia-button button-download js-dropdown-toggle" href="//docs.google.com" target="_blank">ऐप्लिकेशन डाउनलोड करें <span class="icon icon-down-arrow"> 
+         <!-- --></span></a> 
+       <ul class="dropdown js-dropdown-menu"> 
+        <li> <a data-g-action="Goes to Playstore" data-g-event="outboundlink-CTAs" data-g-label="Mobile button" href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&amp;referrer=utm_source%3Ddocs_mkt%26utm_medium%3Dmobile_section%26utm_campaign%3Ddocs_mkt" target="_blank">Android के लिए दस्तावेज़ प्राप्त करें</a> </li> 
+        <li> <a data-g-action="Goes to Appstore" data-g-event="outboundlink-CTAs" data-g-label="Mobile button" href="https://itunes.apple.com/app/apple-store/id842842640?pt=9008&amp;ct=docs_mkt&amp;mt=8" target="_blank">iPhone और iPad के लिए दस्तावेज़ प्राप्त करें</a> </li> 
+       </ul> 
+      </div>
+      <a class="maia-button button-download desktop-is-hidden mobile-is-visible no-touch-tablet-is-hidden mobile-download js-mobile-download" data-g-action="Goes to Playstore" data-g-event="outboundlink-CTAs" data-g-label="Mobile button" data-href="//itunes.apple.com/app/apple-store/id842842640?pt=9008&amp;ct=docs_mkt&amp;mt=8" href="//play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&amp;referrer=utm_source%3Dwebsite%26utm_content%3Dmobilebutton%26utm_campaign%3Ddocswebsite&amp;hl=hi" target="_blank">Google दस्तावेज़ डाउनलोड करें</a> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section-stuffdone light-gray" id="section-do-more"> 
+    <div class="section-centered maia-cols fix-overflow"> 
+     <div class="tabs tabs-space js-tabs" data-tab-name="get-stuff-done"> 
+      <div class="tabs-content js-tab-content-container mobile-is-hidden js-select-menu-container" data-select-first="true" data-select-populated="true"> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Get stuff done" data-tab-name="stuff-done"> 
+        <div class="tabs-detail-holder tabs-detail-worktogether js-avatar-container"> 
+         <div class="worktogether-add-button js-together-button"></div> 
+         <div class="worktogether-avatar avatar-left has-shadow js-avatar js-together-avatar-one"> 
+          <img alt="पैम अवतार" src="images/common/add-pam.jpg"> 
+         </div> 
+         <div class="worktogether-avatar avatar-center has-shadow js-avatar js-together-avatar-two"> 
+          <img alt="टॉम अवतार" src="images/common/add-tom.jpg"> 
+         </div> 
+         <div class="worktogether-avatar avatar-right has-shadow js-avatar js-together-avatar-three"> 
+          <img alt="किम अवतार" src="images/common/add-kim.jpg"> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Share with Anyone" data-tab-name="share"> 
+        <div class="tabs-detail-holder tabs-detail-share"> 
+         <div class="share-share-button js-share-button"> 
+          <h2 class="heading-headline"> साझा करें </h2> 
+         </div> 
+         <div class="share-invite has-shadow js-share-invite"> 
+          <h2 class="heading-headline"> लोगों को आमंत्रित करें: </h2> 
+          <div class="share-invite-box"> 
+           <p class="section-body"> नाम, ईमेल, आदि डालें... </p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Edit in real-time" data-tab-name="edit"> 
+        <div class="tabs-detail-holder tabs-detail-edit has-shadow"> 
+         <h1 class="section-headline"> सैन फ़्रांसिस्को </h1> 
+         <h2 class="heading-headline"> मई <span class="js-typeout-parent js-typeout-two"><span class="type-out js-typeout" data-words="17 - 28"><span class="type-out-word js-word"> 
+             <!-- --></span> <span class="type-out-beam type-out-beam-small allow-orphan js-beam" data-names="किम"><span class="type-out-name type-out-name-small js-name"> 
+              <!-- --></span></span></span></span> </h2> 
+         <p class="section-body"> <span class="type-out redish">आपको फ़ेरी बिल्डिंग देखनी है. <span class="type-out-beam type-out-beam-small allow-orphan js-beam" data-names="टॉम"><span class="type-out-name type-out-name-small js-name">टॉम</span></span></span> </p> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Chat and comment" data-tab-name="chat"> 
+        <div class="tabs-detail-holder tabs-detail-chat"> 
+         <div class="chat-message chat-message-top"> 
+          <div class="chat-message-text has-shadow js-message-one">
+            आपके अनुसार आप संपादन कब तक समाप्त कर सकते हैं? 
+           <div class="chat-message-timestamp">
+             मंगलवार, दोपहर 1:06 बजे 
+           </div> 
+          </div> 
+          <div class="chat-message-avatar has-shadow js-avatar-one"> 
+           <img alt="किम अवतार" src="images/common/message-avatar-top.jpg"> 
+          </div> 
+         </div> 
+         <div class="chat-message chat-message-bottom js-message-two"> 
+          <div class="chat-message-text has-shadow">
+            शायद दो बजे तक? 
+           <div class="chat-message-timestamp">
+             मंगलवार, दोपहर 1:06 बजे 
+           </div> 
+          </div> 
+          <div class="chat-message-avatar js-avatar-two"> 
+           <img alt="टॉम अवतार" src="images/common/message-avatar-bottom.jpg"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="maia-col-6 mobile-is-hidden"></div> 
+      <div class="maia-col-6"> 
+       <div class="tabs-list js-mobile-slides js-dynamic-slideheight"> 
+        <div class="tabs-tab tabs-tab-first mobile-slide-stuff-done js-activate-tab js-stuff-trigger js-mobile-slide js-tab-padding" data-tab-target="stuff-done"> 
+         <label class="tabs-label js-tab-text"><span class="tab-label-title">अधिक कार्य करें, साथ मिलकर</span> <span class="tabs-label-caption">Google दस्तावेज़ से, सभी लोग एक साथ एक समय पर एक ही दस्तावेज़ में कार्य कर सकते हैं.</span></label> 
+        </div> 
+        <div class="tabs-tab mobile-slide-share js-share-trigger js-activate-tab js-mobile-slide js-tab-padding" data-tab-target="share"> 
+         <label class="tabs-label js-tab-text"><span class="tab-label-title">किसी से भी साझा करें</span> <span class="tabs-label-caption">साझा करें को क्लिक करें और किसी भी व्यक्ति – मित्र, सहपाठी, सहकर्मी, परिवार – को अपना दस्तावेज़ देखने दें, सुझाव देने दें जिन्हें आप स्वीकार या अस्वीकार कर सकते हैं या सीधे दस्तावेज़ संपादित करने दें.</span></label> 
+        </div> 
+        <div class="tabs-tab mobile-slide-edit js-activate-tab js-edit-trigger js-mobile-slide js-tab-padding" data-tab-target="edit"> 
+         <label class="tabs-label js-tab-text"><span class="tab-label-title">रीयल-टाइम में संपादित करें</span> <span class="tabs-label-caption">जब कोई आपका दस्तावेज़ संपादित कर रहा होता है, तो बदलाव करते हुए या लेख हाइलाइट करते समय आप उनका कर्सर देख सकते हैं.</span></label> 
+        </div> 
+        <div class="tabs-tab mobile-slide-chat js-activate-tab js-chat-trigger js-mobile-slide js-tab-padding" data-tab-target="chat"> 
+         <label class="tabs-label js-tab-text"><span class="tab-label-title">चैट और टिप्पणी करें</span> <span class="tabs-label-caption">अन्य लोगों के साथ सीधे किसी भी दस्तावेज़ में चैट करें या “+” के साथ उनका ईमेल पता लिखकर कोई टिप्पणी दें और उन्हें इसका नोटिफिकेशन मिल जाएगा.</span></label> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section-save js-vertical-wrapper" id="section-save"> 
+    <div class="section-centered maia-cols"> 
+     <div class="maia-col-6 mobile-is-centered js-vertical-panel"> 
+      <h2 class="heading-headline"> अब “सहेजें” दबाने की कोई ज़रूरत नहीं </h2> 
+      <p class="section-body"> आपके लिखने के साथ ही आपके सभी परिवर्तन अपने आप सहेज लिए जाते हैं. आप उसी दस्तावेज़ के पुराने संस्करण देखने के लिए संशोधन इतिहास का भी उपयोग कर सकते हैं, जो कि तिथि और परिवर्तनकर्ता के अनुसार क्रमबद्ध होते हैं. </p> 
+     </div> 
+     <div class="maia-col-6 mobile-is-hidden"> 
+      <div class="save js-save"> 
+       <div class="line-container"> 
+        <span class="line line-100">
+         <!-- --></span> 
+        <span class="line line-90"> 
+         <!-- --></span> 
+        <span class="line line-100">
+         <!-- --></span> 
+        <span class="line line-60 save-last js-spell">
+         <!-- --></span> 
+       </div>
+       <span class="icon icon-check">
+        <!-- --></span> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section-workswith light-gray" id="section-works-with"> 
+    <div class="section-centered section-centered-text js-mobile-slides js-dynamic-slideheight"> 
+     <h2 class="heading-headline"> Word के साथ काम करता है </h2> 
+     <div class="maia-col-4 js-mobile-slide"> 
+      <div class="photo-crop icon-open js-tab-padding"></div> 
+      <p class="slide-text allow-orphan js-tab-text"> Microsoft Word फ़ाइलों को <a data-g-action="Goes to Chromecast extension" data-g-event="outboundlink-CTAs" data-g-label="" href="https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj?hl=hi" target="_blank">Chrome एक्सटेंशन</a> या ऐप्लिकेशन से खोलें और संपादित करें और सहेजें. </p> 
+     </div> 
+     <div class="maia-col-4 js-mobile-slide"> 
+      <div class="photo-crop icon-save js-tab-padding"></div> 
+      <p class="slide-text allow-orphan js-tab-text"> Word फ़ाइलों को Google दस्तावेज़ में रूपांतरित करें और विलोमतः. </p> 
+     </div> 
+     <div class="maia-col-4 js-mobile-slide"> 
+      <div class="photo-crop icon-free js-tab-padding"></div> 
+      <p class="slide-text allow-orphan js-tab-text"> फ़ाइल प्रारूपों की अब कोई चिंता नहीं. </p> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section-search js-vertical-wrapper position-rel" id="section-search"> 
+    <div class="section-centered maia-cols"> 
+     <div class="maia-col-6 search-animation-wrp"> 
+      <div class="search-animation"> 
+       <div class="screen-step step-1"></div> 
+       <div class="touch-indicator touch-1"></div> 
+       <div class="screen-step step-2"></div> 
+       <div class="touch-indicator touch-2"></div> 
+       <div class="screen-step step-3"></div> 
+       <div class="typer-1">
+         गोल्डन गेट के चित्र 
+       </div> 
+       <ul class="suggestion-list"> 
+        <li> 
+         <ul class="suggestions suggestion-1"> 
+          <li class="suggestion-item">सैन फ़्रांसिस्को </li> 
+          <li class="suggestion-item">सैन फ़्रांसिस्को में रेस्तरां </li> 
+          <li class="suggestion-item">फिशरमैन्स व्हॉर्फ़ </li> 
+         </ul> </li> 
+        <li> 
+         <ul class="suggestions suggestion-2"> 
+          <li class="suggestion-item">gmail </li> 
+          <li class="suggestion-item">google </li> 
+          <li class="suggestion-item">google मानचित्र </li> 
+          <li class="suggestion-item">google अनुवाद </li> 
+          <li class="suggestion-item">google डिस्क </li> 
+          <li class="suggestion-item">google दस्तावेज़ </li> 
+         </ul> </li> 
+        <li> 
+         <ul class="suggestions suggestion-3"> 
+          <li class="suggestion-item">google </li> 
+          <li class="suggestion-item">google मानचित्र </li> 
+          <li class="suggestion-item">google अनुवाद </li> 
+          <li class="suggestion-item">google डिस्क </li> 
+          <li class="suggestion-item">google दस्तावेज़ </li> 
+          <li class="suggestion-item">google पृथ्वी </li> 
+         </ul> </li> 
+        <li> 
+         <ul class="suggestions suggestion-4"> 
+          <li class="suggestion-item">गोल्डन स्टेट वॉरियर्स </li> 
+          <li class="suggestion-item">गोल्डन करैल </li> 
+          <li class="suggestion-item">गोल्फ़ </li> 
+          <li class="suggestion-item">गोल्फ़नाओ </li> 
+          <li class="suggestion-item">सोने का मूल्य </li> 
+          <li class="suggestion-item">गोल्ड कप </li> 
+         </ul> </li> 
+        <li> 
+         <ul class="suggestions suggestion-5"> 
+          <li class="suggestion-item">गोल्डन स्टेट वॉरियर्स </li> 
+          <li class="suggestion-item">गोल्डन करैल </li> 
+          <li class="suggestion-item">सोने का मूल्य </li> 
+          <li class="suggestion-item">गोल्ड कप </li> 
+          <li class="suggestion-item">गोल्ड कप 2015 </li> 
+          <li class="suggestion-item">गोल्डन स्टेट </li> 
+         </ul> </li> 
+        <li> 
+         <ul class="suggestions suggestion-6"> 
+          <li class="suggestion-item">गोल्डन स्टेट वॉरियर्स </li> 
+          <li class="suggestion-item">गोल्डन करैल </li> 
+          <li class="suggestion-item">गोल्डन 1 </li> 
+          <li class="suggestion-item">गोल्डन अनुपात </li> 
+          <li class="suggestion-item">गोल्डन स्टेट </li> 
+          <li class="suggestion-item">गोल्डन रिट्रीवर </li> 
+         </ul> </li> 
+        <li> 
+         <ul class="suggestions suggestion-7"> 
+          <li class="suggestion-item">गोल्डन गेट ब्रिज </li> 
+          <li class="suggestion-item">गोल्डन गर्ल्स </li> 
+          <li class="suggestion-item">गोल्डन गेट पार्क </li> 
+          <li class="suggestion-item">गोल्डन गेट ब्रिज टोल </li> 
+          <li class="suggestion-item">गोल्डन गेट फ़ील्ड्स </li> 
+          <li class="suggestion-item">गोल्डन गेट ट्रांज़िट </li> 
+         </ul> </li> 
+        <li> 
+         <ul class="suggestions suggestion-8"> 
+          <li class="suggestion-item">गोल्डन गेट इन्शुरन्स </li> 
+          <li class="suggestion-item">गोल्डन गेट इंडियन </li> 
+          <li class="suggestion-item">गोल्डन गेट अंतर्राष्ट्रीय प्रदर्शन </li> 
+          <li class="suggestion-item">गोल्डन गेट साक्षात्कार प्रश्न </li> 
+          <li class="suggestion-item">गोल्डन गेट इन </li> 
+          <li class="suggestion-item">48 में गोल्डन गेट </li> 
+         </ul> </li> 
+        <li> 
+         <ul class="suggestions suggestion-9"> 
+          <li class="suggestion-item">गोल्डन गेट के चित्र </li> 
+          <li class="suggestion-item">गोल्डन गेट imdb </li> 
+          <li class="suggestion-item">गोल्डन गेट कार्यान्वयन चरण </li> 
+          <li class="suggestion-item">गोल्डन गेट आयात निर्यात </li> 
+          <li class="suggestion-item">गोल्डन गेट आयात </li> 
+          <li class="suggestion-item">गोल्डन गेट कार्यान्वयन </li> 
+         </ul> </li> 
+        <li> 
+         <ul class="suggestions suggestion-10"> 
+          <li class="suggestion-item">गोल्डन गेट के चित्र </li> 
+          <li class="suggestion-item">गोल्डन गेट चित्र निःशुल्क </li> 
+          <li class="suggestion-item">गोल्डन गेट ब्रिज के चित्र निःशुल्क </li> 
+          <li class="suggestion-item">गोल्डन गेट पार्क के चित्र </li> 
+          <li class="suggestion-item">गोल्डन गेट ब्रिज के चित्र डाउनलोड </li> 
+          <li class="suggestion-item">गोल्डन गेट फ़ील्ड के चित्र </li> 
+         </ul> </li> 
+       </ul> 
+       <div class="screen-step document-bg"></div> 
+       <div class="screen-step step-4"> 
+        <div class="search-results"></div> 
+        <div class="keyboard"></div> 
+       </div> 
+       <div class="touch-indicator touch-3"></div> 
+       <div class="screen-step golden-gate"></div> 
+       <div class="touch-indicator touch-4"></div> 
+       <div class="screen-step final"></div> 
+      </div> 
+     </div> 
+     <div class="mobile-search-image"></div> 
+     <div class="maia-col-4 js-vertical-panel mobile-is-centered"> 
+      <h2 class="heading-headline"> खोज के सभी लाभ, सीधे दस्तावेज़ में. </h2> 
+      <p class="section-body"> Android ऐप्लिकेशन को छोड़े बिना Google खोजों के चित्रों, उद्धरणों और लेख को एक्सप्लोर करें और उनसे प्रेरित हों. </p> 
+      <p class="text-center"> <a class="maia-button button-download" href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&amp;hl=hi"> Android के लिए दस्तावेज़ प्राप्त करें</a> </p> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section-text-right section-addons light-gray" id="section-addons"> 
+    <div class="section-centered maia-cols"> 
+     <div class="photo-crop"></div> 
+     <div class="maia-col-6 mobile-is-centered"> 
+      <h2 class="heading-headline"> ऐड-ऑन से अधिक से अधिक कार्य करें </h2> 
+      <p class="section-body"> ऐड-ऑन से अपने दस्तावेज़ अनुभव को और बेहतर बनाएं. लेबल और नाम टैग बनाने तथा प्रिंट करने के लिए <a data-g-action="Goes to add-on store" data-g-event="outboundlink-CTAs" data-g-label="" href="https://chrome.google.com/webstore/detail/avery-label-merge/onacejilpbdgdhhoijnggpjolbdajepo" target="_blank">Avery Label Merge</a> आज़माएं. </p>
+      <a class="section-link section-link-first" data-g-action="Goes to add-on store" data-g-event="outboundlink-CTAs" data-g-label="" href="https://docs.google.com/document/create?addon_store" target="_blank">देखें कि आप और क्या-क्या जोड़ सकते हैं <span class="icon icon-right-arrow">
+        <!-- --></span></a> 
+     </div> 
+     <div class="maia-col-6 mobile-is-hidden"></div> 
+    </div> 
+   </section> 
+   <section class="section-getstarted js-vertical-wrapper" id="section-get"> 
+    <div class="section-centered maia-columns"> 
+     <div class="photo-crop"></div> 
+     <div class="maia-col-6 mobile-is-hidden"></div> 
+     <div class="maia-col-6 vertical-pad js-vertical-panel"> 
+      <h2 class="heading-headline allow-orphan"> अभी प्रारंभ करें </h2> 
+      <p class="section-body"> आप जब चाहें दस्तावेज़ का उपयोग कर सकते हैं. बस अपने ब्राउज़र से एक दस्तावेज़ बनाएं या अपने मोबाइल डिवाइस के लिए ऐप्लिकेशन डाउनलोड करें. </p> 
+      <div class="dropdown-container tablet-mobile-is-hidden no-touch-tablet-is-visible js-dropdown"> 
+       <a class="maia-button button-download js-dropdown-toggle" href="#get-docs">Google दस्तावेज़ प्राप्त करें <span class="icon icon-down-arrow">
+         <!-- --></span></a> 
+       <ul class="dropdown js-dropdown-menu"> 
+        <li> <a data-g-action="Goes to web editor" data-g-event="outboundlink-CTAs" data-g-label="Bottom button" href="https://docs.google.com/document/?usp=mkt_docs" target="_blank">दस्तावेज़ पर जाएं</a> </li> 
+        <li> <a data-g-action="Goes to Playstore" data-g-event="outboundlink-CTAs" data-g-label="Bottom button" href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&amp;referrer=utm_source%3Ddocs_mkt%26utm_medium%3Dmobile_section%26utm_campaign%3Ddocs_mkt" target="_blank">Android के लिए दस्तावेज़ प्राप्त करें</a> </li> 
+        <li> <a data-g-action="Goes to Appstore" data-g-event="outboundlink-CTAs" data-g-label="Bottom button" href="https://itunes.apple.com/app/apple-store/id842842640?pt=9008&amp;ct=docs_mkt&amp;mt=8" target="_blank">iPhone और iPad के लिए दस्तावेज़ प्राप्त करें</a> </li> 
+       </ul> 
+      </div>
+      <a class="maia-button button-download desktop-is-hidden mobile-is-visible no-touch-tablet-is-hidden mobile-download js-mobile-download" data-href="//itunes.apple.com/app/apple-store/id842842640?pt=9008&amp;ct=docs_mkt&amp;mt=8" href="//play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&amp;referrer=utm_source%3Dwebsite%26utm_content%3Dbottombutton%26utm_campaign%3Ddocswebsite&amp;hl=hi" target="_blank">Google दस्तावेज़ डाउनलोड करें</a> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <div class="section-subscribe modal hide"> 
+   <div class="newsletter-modal"> 
+    <div class="newsletter-close"></div> 
+    <h1 class="heading-headline"> Stay in the know </h1> 
+    <p class="section-body"> Never miss out on the latest updates and handy tips for getting the most out of Google Docs. </p> 
+    <form class="newsletter-form"> 
+     <input class="newsletter-email" name="email" placeholder="Enter email for updates &amp; tips" type="text"> 
+     <input name="app-source" type="hidden" value="दस्तावेज़"> 
+     <input name="language-pref" type="hidden" value="hi"> 
+     <a class="newsletter-submit button maia-button button-download" href="#" onclick="_gaq.push(['_trackEvent', 'Click', 'newsignup', 'true']);" target="_blank">Sign up</a> 
+     <div class="newsletter-spinner"></div> 
+     <div class="newsletter-results"> 
+      <p class="newsletter-error"> Please enter a valid email address </p> 
+      <p class="newsletter-success"> Thanks for signing up. You can unsubscribe at any time at the bottom of any email you receive from Google Docs. </p> 
+     </div> 
+    </form> 
+    <div class="newsletter-footer"> 
+     <p class="newsletter-terms"> <a href="https://www.google.com/intl/en/policies/privacy/">terms of use</a> </p> 
+     <p class="newsletter-privacy"> <a href="https://www.google.com/intl/en/policies/terms/">privacy policy</a> </p> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="maia-cols first"> 
+      <div class="maia-col-2 footer-top social">
+        साझा करें: 
+       <span class="plusone-button" id="plusone-httpwwwgooglecoma"></span> 
+       <script>
+              window.___gcfg = {
+      lang: 'hi',
+      parsetags: 'explicit'
+    };
+
+    var gweb = gweb || {};  // namespace
+    gweb.plusOneButton = {};
+    gweb.plusOneButton.callbacks = {};
+    gweb.plusOneButton.onPlusOneLoad = function() {
+      for (var slug in gweb.plusOneButton.callbacks) {
+        gapi.plusone.render(slug, gweb.plusOneButton.callbacks[slug]);
+      }
+      gweb.plusOneButton.callbacks = {};
+    };
+              </script> 
+       <script src="//apis.google.com/js/platform.js"></script> 
+       <script>
+              gweb.plusOneButton.callbacks['plusone-httpwwwgooglecoma'] = {
+      'annotation': 'none',
+      'href': 'http://www.google.com/a/',
+      'size': 'standard',
+      'callback': '',
+      'recommendations': 'true'
+  };
+  gweb.plusOneButton.onPlusOneLoad();
+              </script> 
+      </div> 
+      <div class="maia-col-3 footer-top social">
+        अनुसरण करें: 
+       <span class="follow"><a href="//plus.google.com/+GoogleDocs" rel="publisher"><img alt="Google+" data-retina="16x16" src="//www.google.com/images/branding/google_plus/2x/gplus_icon_flush_30dp.png"></a> <a href="//www.facebook.com/googledocsofficial"><img alt="Facebook" data-retina="16x16" src="../../docs/about/images/footer_facebook_2x.png"></a> <a href="//twitter.com/googledocs"><img alt="YouTube" data-retina="16x16" src="../../docs/about/images/footer_twitter_2x.png"></a> <a href="http://googledocs.blogspot.com"><img alt="Blogger" data-retina="16x16" src="../../docs/about/images/footer_blogger_2x.jpg"></a> <a href="https://www.youtube.com/channel/UC-VcHhNdm1soluxzo5Fm3fQ"><img alt="Youtube" class="footer-youtube" data-retina="34x16" src="../../docs/about/images/footer_youtube_2x.png"></a></span> 
+      </div> 
+     </div> 
+     <div class="maia-cols"> 
+      <div class="footer-unit"> 
+       <h4> Google दस्तावेज़ के बारे में </h4> 
+       <ul> 
+        <li> <a href="../../docs/about/">Google दस्तावेज़</a> </li> 
+        <li> <a href="../../sheets/about/">Google पत्रक</a> </li> 
+        <li> <a href="../../slides/about/">Google स्लाइड</a> </li> 
+        <li> <a href="../../forms/about/">Google फ़ॉर्म</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4> डाउनलोड, आदि </h4> 
+       <ul> 
+        <li> <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&amp;hl=hi"> Android के लिए दस्तावेज़</a> </li> 
+        <li> <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets&amp;hl=hi"> Android के लिए पत्रक</a> </li> 
+        <li> <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&amp;hl=hi"> Android के लिए स्लाइड</a> </li> 
+        <li> <a href="https://itunes.apple.com/us/app/google-docs/id842842640?mt=8">iPhone और iPad के लिए दस्तावेज़</a> </li> 
+        <li> <a href="https://itunes.apple.com/us/app/google-sheets/id842849113?mt=8">iPhone और iPad के लिए पत्रक</a> </li> 
+        <li> <a href="https://itunes.apple.com/us/app/google-slides/id879478102?mt=8">iPhone और iPad के लिए स्लाइड</a> </li> 
+        <li> <a href="https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj?hl=hi"> दस्तावेज़, पत्रक और स्लाइड के लिए Office संपादन</a> </li> 
+        <li> <a href="https://docs.google.com/document/create?addon_store">दस्तावेज़ के लिए ऐड-ऑन</a> </li> 
+        <li> <a href="https://docs.google.com/spreadsheets/create?addon_store">पत्रक के लिए ऐड-ऑन</a> </li> 
+        <li> <a href="https://docs.google.com/forms/create?addon_store">फ़ॉर्म के लिए ऐड-ऑन</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4> सहायता </h4> 
+       <ul> 
+        <li> <a href="https://support.google.com/docs?docs_site_home">दस्तावेज़ सहायता केंद्र</a> </li> 
+        <li> <a href="https://productforums.google.com/forum/#!forum/docs">Google दस्तावेज़ फ़ोरम</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4> संबंधित समाधान </h4> 
+       <ul> 
+        <li> <a href="../../drive/">Google डिस्क</a> </li> 
+        <li> <a href="https://cloud.google.com/?hl=hi">Google Cloud Platform</a> </li> 
+        <li> <a href="https://gsuite.google.com/features/?utm_source=docsforwork&amp;utm_medium=et&amp;utm_campaign=refresh&amp;utm_content=footer&amp;hl=hi"> Google Apps for Work</a> </li> 
+        <li> <a href="../../edu/">Google Apps for Education</a> </li> 
+        <li> <a href="../../work/apps/government/">Google Apps for Government</a> </li> 
+        <li> <a href="../../services/">Google व्यवसाय समाधान</a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>भाषा बदलें:</span><select onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="//www.google.com/intl/ne/docs/about/"> नेपाली </option> <option value="//www.google.com/intl/mr/docs/about/"> मराठी </option> <option selected value="//www.google.com/intl/hi/docs/about/"> हिन्दी </option> <option value="//www.google.com/intl/bn/docs/about/"> বাংলা </option> <option value="//www.google.com/intl/gu/docs/about/"> ગુજરાતી </option> <option value="//www.google.com/intl/ta/docs/about/"> தமிழ் </option> <option value="//www.google.com/intl/te/docs/about/"> తెలుగు </option> <option value="//www.google.com/intl/kn/docs/about/"> ಕನ್ನಡ </option> <option value="//www.google.com/intl/ml/docs/about/"> മലയാളം </option> <option value="//www.google.com/intl/si/docs/about/"> සිංහල </option> <option value="//www.google.com/intl/af/docs/about/"> Afrikaans </option> <option value="//www.google.com/intl/az/docs/about/"> Azərbaycanca </option> <option value="//www.google.com/intl/id/docs/about/"> Bahasa Indonesia </option> <option value="//www.google.com/intl/ms/docs/about/"> Bahasa Melayu </option> <option value="//www.google.com/intl/ca/docs/about/"> Català </option> <option value="//www.google.com/intl/cs/docs/about/"> Čeština </option> <option value="//www.google.com/intl/da/docs/about/"> Dansk </option> <option value="//www.google.com/intl/de/docs/about/"> Deutsch </option> <option value="//www.google.com/intl/et/docs/about/"> Eesti </option> <option value="//www.google.com/intl/en/docs/about/"> English </option> <option value="//www.google.com/intl/en-GB/docs/about/"> English (United Kingdom) </option> <option value="//www.google.com/intl/es/docs/about/"> Español </option> <option value="//www.google.com/intl/es-419/docs/about/"> Español (Latinoamérica) </option> <option value="//www.google.com/intl/eu/docs/about/"> Euskara </option> <option value="//www.google.com/intl/fil/docs/about/"> Filipino </option> <option value="//www.google.com/intl/fr/docs/about/"> Français </option> <option value="//www.google.com/intl/fr-CA/docs/about/"> Français (Canada) </option> <option value="//www.google.com/intl/gl/docs/about/"> Galego </option> <option value="//www.google.com/intl/hr/docs/about/"> Hrvatski </option> <option value="//www.google.com/intl/zu/docs/about/"> Isizulu </option> <option value="//www.google.com/intl/is/docs/about/"> Íslenska </option> <option value="//www.google.com/intl/it/docs/about/"> Italiano </option> <option value="//www.google.com/intl/sw/docs/about/"> Kiswahili </option> <option value="//www.google.com/intl/lv/docs/about/"> Latviešu </option> <option value="//www.google.com/intl/lt/docs/about/"> Lietuvių </option> <option value="//www.google.com/intl/hu/docs/about/"> Magyar </option> <option value="//www.google.com/intl/nl/docs/about/"> Nederlands </option> <option value="//www.google.com/intl/no/docs/about/"> Norsk </option> <option value="//www.google.com/intl/pl/docs/about/"> Polski </option> <option value="//www.google.com/intl/pt-BR/docs/about/"> Português (Brasil) </option> <option value="//www.google.com/intl/pt-PT/docs/about/"> Português (Portugal) </option> <option value="//www.google.com/intl/ro/docs/about/"> Română </option> <option value="//www.google.com/intl/sk/docs/about/"> Slovenčina </option> <option value="//www.google.com/intl/sl/docs/about/"> Slovenščina </option> <option value="//www.google.com/intl/fi/docs/about/"> Suomi </option> <option value="//www.google.com/intl/sv/docs/about/"> Svenska </option> <option value="//www.google.com/intl/vi/docs/about/"> Tiếng Việt </option> <option value="//www.google.com/intl/tr/docs/about/"> Türkçe </option> <option value="//www.google.com/intl/el/docs/about/"> Ελληνικά </option> <option value="//www.google.com/intl/bg/docs/about/"> Български </option> <option value="//www.google.com/intl/mn/docs/about/"> Монгол </option> <option value="//www.google.com/intl/ru/docs/about/"> Русский </option> <option value="//www.google.com/intl/sr/docs/about/"> Српски </option> <option value="//www.google.com/intl/uk/docs/about/"> Українська </option> <option value="//www.google.com/intl/ka/docs/about/"> ქართული </option> <option value="//www.google.com/intl/hy/docs/about/"> Հայերեն </option> <option value="//www.google.com/intl/iw/docs/about/"> ‫עברית‬ </option> <option value="//www.google.com/intl/ur/docs/about/"> ‫اردو‬ </option> <option value="//www.google.com/intl/ar/docs/about/"> ‫العربية‬ </option> <option value="//www.google.com/intl/fa/docs/about/"> ‫فارسی‬ </option> <option value="//www.google.com/intl/am/docs/about/"> አማርኛ </option> <option value="//www.google.com/intl/th/docs/about/"> ไทย </option> <option value="//www.google.com/intl/lo/docs/about/"> ລາວ </option> <option value="//www.google.com/intl/km/docs/about/"> ខ្មែរ </option> <option value="//www.google.com/intl/ko/docs/about/"> 한국어 </option> <option value="//www.google.com/intl/zh-HK/docs/about/"> 中文 (香港) </option> <option value="//www.google.com/intl/zh-CN/docs/about/"> 中文（简体中文） </option> <option value="//www.google.com/intl/zh-TW/docs/about/"> 中文（繁體中文） </option> <option value="//www.google.com/intl/ja/docs/about/"> 日本語 </option> </select></label> 
+     </div> 
+     <ul> 
+      <li> <a href="//www.google.com">Google</a> </li> 
+      <li> <a href="/intl/hi/policies/privacy/">गोपनीयता</a> </li> 
+      <li> <a href="/intl/hi/policies/terms/">शर्तें</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//www.gstatic.com/external_hosted/gsap/TweenMax.min.js"></script> 
+  <script src="//www.gstatic.com/external_hosted/morlock/morlock.min.js"></script> 
+  <script src="js/site.min.js"></script> 
+  <script>
+    var page = new editors.SetUp();
+    </script> 
+  <script src="//www.google.com/js/gweb/analytics/doubletrack.js"></script> 
+  <script>
+    gweb.analytics.DoubleTrack.track('floodlight', {
+      src: 2542116,
+      type: 'gdrive',
+      cat: 'googl001'
+    });
+    var mobileMsg = new editors.MobileMessage();
+    </script>  
+ </body>
+</html>

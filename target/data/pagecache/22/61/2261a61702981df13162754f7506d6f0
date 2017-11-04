@@ -1,0 +1,787 @@
+<!doctype html>
+<html class="google mmfb" dir="ltr" lang="en">
+ <head> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script> 
+  <meta charset="utf-8"> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <title>
+      Web, Mobile, Marketing &amp; Digital Analytics - Google Analytics – Google
+    </title> 
+  <meta content="Digital analytics lets you analyze data across ads, videos, social tools, websites, tablets, smartphones, and more to get a complete view of customers." name="description"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;lang=en" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto+Slab:300,400,500&amp;lang=en" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Product+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/analytics/css/analytics.min.css" rel="stylesheet"> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/v2_8_3/basic.js"></script> 
+  <script>
+    dataLayer=[{"country":"us","region":"noram","language":"en","pageCategory":"Analytics","pageSubCategory":"Overview","eID":"index.html","visitorType":"recognized"}];
+    </script> 
+  <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KLXF7H');
+    </script> 
+  <link href="//www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://www.google.com/analytics/analytics/" rel="canonical"> 
+  <style type="text/css">
+    iframe.c2 {display:none;visibility:hidden}
+    svg.c1 {enable-background:new 0 0 23 15;}
+    </style> 
+ </head> 
+ <body data-ng-app="rs.analytics"> 
+  <header class="header contains-cta" data-rs-header="" role="banner"> 
+   <div class="upper-header"> 
+    <h1 class="product-logo has-product"> <a data-g-action="Logo" data-g-event="Analytics: Overview" data-g-label="Global Nav" href="../../analytics/"><img alt="Google" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" srcset="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png 2x"> <span class="site-name">Analytics Solutions</span></a> <a data-g-action="Logo" data-g-event="Analytics: Overview" data-g-label="Global Nav" href="../../analytics/"><span class="site-name site-name-product">Analytics</span></a> </h1> 
+    <div class="nav-dropdown-wrapper" data-rs-popupmenu="" ng-cloak=""> 
+     <a class="nav-dropdown-trigger partners-link-desktop" data-g-action="Partners" data-g-event="Analytics: Overview" data-g-label="Global Nav" href="https://www.google.com/analytics/partner-services/"><span>Partners</span></a> 
+     <a class="nav-dropdown-trigger support-link-desktop" data-g-action="Support" data-g-event="Analytics: Overview" data-g-label="Global Nav" href="https://www.google.com/analytics/services-support"><span>Support</span></a> 
+     <a class="nav-dropdown-trigger" data-g-action="Sign In Menu" data-g-event="Analytics: Overview" data-g-label="Global Nav CTA" ng-click="dropdownExpanded = !dropdownExpanded"><span>Sign in</span> 
+      <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+       <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+       <path d="M0 0h36v36H0z" fill="none"></path>
+      </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+     <div class="nav-dropdown" ng-class="{'nav-dropdown-expanded': dropdownExpanded}"> 
+      <a class="nav-dropdown-close" ng-click="dropdownExpanded = false">
+       <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+        <path d="M0 0h36v36H0z" fill="none"></path>
+       </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+      <ul> 
+       <li class="nav-dropdown-close-mobile"> <a ng-click="dropdownExpanded = false">Sign in 
+         <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+          <path d="M0 0h36v36H0z" fill="none"></path>
+         </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> </li> 
+       <li> <a data-g-action="Analytics Sign In" data-g-event="Analytics: Overview" data-g-label="Global Nav CTA" href="https://analytics.google.com/analytics/web/" target="_blank">Analytics</a> </li> 
+       <li> <a data-g-action="Tag Manager Sign In" data-g-event="Analytics: Overview" data-g-label="Global Nav CTA" href="https://tagmanager.google.com/?hl=en" target="_blank">Tag Manager</a> </li> 
+       <li> <a data-g-action="Optimize Sign In" data-g-event="Analytics: Overview" data-g-label="Global Nav CTA" href="https://optimize.google.com/" target="_blank">Optimize</a> </li> 
+       <li> <a data-g-action="Data Studio Sign In" data-g-event="Analytics: Overview" data-g-label="Global Nav CTA" href="https://datastudio.google.com/?hl=en" target="_blank">Data Studio</a> </li> 
+       <li> <a data-g-action="Surveys Sign In" data-g-event="Analytics: Overview" data-g-label="Global Nav CTA" href="https://surveys.google.com/" target="_blank">Surveys</a> </li> 
+       <li> <a data-g-action="Attribution Sign In" data-g-event="Analytics: Overview" data-g-label="Global Nav CTA" href="https://attribution.google.com/" target="_blank">Attribution</a> </li> 
+       <li> <a data-g-action="Audience Center Sign In" data-g-event="Analytics: Overview" data-g-label="Global Nav CTA" href="https://audiencecenter.google.com/" target="_blank">Audience Center</a> </li> 
+       <li> <a data-g-action="Analytics 360 Suite Sign In" data-g-event="Analytics: Overview" data-g-label="Global Nav CTA" href="https://360suite.google.com/" target="_blank">Analytics 360 Suite</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="cta cta-wrapper"> 
+     <a class="cta-signup" data-g-action="Sign Up For Free" data-g-event="Analytics: Overview" data-g-label="Global Nav CTA" href="https://analytics.google.com/analytics/web/provision/?authuser=0#provision/SignUp/" target="_blank">Sign Up For Free</a> 
+    </div> 
+   </div> 
+   <nav class="main-navigation contains-sub-nav contains-double-cta"> 
+    <h1> Analytics </h1> 
+    <ul class="nav-no-padding"> 
+     <li class="active"> <a data-g-action="Analytics" data-g-event="Analytics: Overview" data-g-label="Global Nav" href="../../analytics/analytics/">Analytics</a> 
+      <ul class="sub-nav"> 
+       <li class="active" data-g-action="Analytics: Overview" data-g-event="Analytics: Overview" data-g-label="Analytics Sub-Nav"> <a href="../../analytics/analytics/">Overview</a> </li> 
+       <li data-g-action="Analytics: Capabilities" data-g-event="Analytics: Overview" data-g-label="Analytics Sub-Nav"> <a href="../../analytics/analytics/capabilities/">Capabilities</a> </li> 
+       <li data-g-action="Analytics: Features" data-g-event="Analytics: Overview" data-g-label="Analytics Sub-Nav"> <a href="../../analytics/analytics/features/">Features</a> </li> 
+       <li data-g-action="Analytics: Compare" data-g-event="Analytics: Overview" data-g-label="Analytics Sub-Nav"> <a href="../../analytics/analytics/compare/">Compare</a> </li> 
+       <li data-g-action="Analytics: Mobile Access" data-g-event="Analytics: Overview" data-g-label="Analytics Sub-Nav"> <a href="../../analytics/analytics/app/">Mobile Access</a> </li> 
+       <li data-g-action="Analytics: Success Stories" data-g-event="Analytics: Overview" data-g-label="Analytics Sub-Nav"> <a href="../../analytics/success-stories/#?product_filters=analytics">Success Stories</a> </li> 
+       <li data-g-action="Analytics: Resources" data-g-event="Analytics: Overview" data-g-label="Analytics Sub-Nav"> <a href="../../analytics/resources/#?type_filters=digital-analytics">Resources</a> </li> 
+      </ul> </li> 
+     <li> <a data-g-action="Tag Manager" data-g-event="Analytics: Overview" data-g-label="Global Nav" href="../../analytics/tag-manager/">Tag Manager</a> </li> 
+     <li> <a data-g-action="Optimize" data-g-event="Analytics: Overview" data-g-label="Global Nav" href="../../analytics/optimize/">Optimize</a> </li> 
+     <li> <a data-g-action="Data Studio" data-g-event="Analytics: Overview" data-g-label="Global Nav" href="../../analytics/data-studio/">Data Studio</a> </li> 
+     <li> <a data-g-action="Surveys" data-g-event="Analytics: Overview" data-g-label="Global Nav" href="../../analytics/surveys/">Surveys</a> </li> 
+     <li> <a data-g-action="Attribution" data-g-event="Analytics: Overview" data-g-label="Global Nav" href="../../analytics/attribution/">Attribution</a> </li> 
+     <li> <a data-g-action="Audience Center" data-g-event="Analytics: Overview" data-g-label="Global Nav" href="../../analytics/audience-center/">Audience Center</a> </li> 
+     <li> <a data-g-action="360 Suite" data-g-event="Analytics: Overview" data-g-label="Global Nav" href="../../analytics/360-suite/">Analytics 360 Suite</a> </li> 
+     <li class="partners-link-mobile"> <a class="partners-link" data-g-action="Partners" data-g-event="Analytics: Overview" data-g-label="Global Nav" href="/analytics/partner-services">Partners</a> </li> 
+     <li class="support-link-mobile"> <a class="support-link" data-g-action="Support" data-g-event="Analytics: Overview" data-g-label="Global Nav" href="/analytics/services-support">Support</a> </li> 
+    </ul> 
+    <div class="nav-dropdown-wrapper" data-rs-popupmenu="" ng-cloak=""> 
+     <a class="nav-dropdown-trigger partners-link-desktop" data-g-action="Partners" data-g-event="Analytics: Overview" data-g-label="Global Nav" href="https://www.google.com/analytics/partner-services/"><span>Partners</span></a> 
+     <a class="nav-dropdown-trigger support-link-desktop" data-g-action="Support" data-g-event="Analytics: Overview" data-g-label="Global Nav" href="https://www.google.com/analytics/services-support"><span>Support</span></a> 
+     <a class="nav-dropdown-trigger" data-g-action="Sign In Menu" data-g-event="Analytics: Overview" data-g-label="Global Nav CTA" ng-click="dropdownExpanded = !dropdownExpanded"><span>Sign in</span> 
+      <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+       <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+       <path d="M0 0h36v36H0z" fill="none"></path>
+      </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+     <div class="nav-dropdown" ng-class="{'nav-dropdown-expanded': dropdownExpanded}"> 
+      <a class="nav-dropdown-close" ng-click="dropdownExpanded = false">
+       <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+        <path d="M0 0h36v36H0z" fill="none"></path>
+       </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+      <ul> 
+       <li class="nav-dropdown-close-mobile"> <a ng-click="dropdownExpanded = false">Sign in 
+         <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+          <path d="M0 0h36v36H0z" fill="none"></path>
+         </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> </li> 
+       <li> <a data-g-action="Analytics Sign In" data-g-event="Analytics: Overview" data-g-label="Global Nav CTA" href="https://analytics.google.com/analytics/web/" target="_blank">Analytics</a> </li> 
+       <li> <a data-g-action="Tag Manager Sign In" data-g-event="Analytics: Overview" data-g-label="Global Nav CTA" href="https://tagmanager.google.com/?hl=en" target="_blank">Tag Manager</a> </li> 
+       <li> <a data-g-action="Optimize Sign In" data-g-event="Analytics: Overview" data-g-label="Global Nav CTA" href="https://optimize.google.com/" target="_blank">Optimize</a> </li> 
+       <li> <a data-g-action="Data Studio Sign In" data-g-event="Analytics: Overview" data-g-label="Global Nav CTA" href="https://datastudio.google.com/?hl=en" target="_blank">Data Studio</a> </li> 
+       <li> <a data-g-action="Surveys Sign In" data-g-event="Analytics: Overview" data-g-label="Global Nav CTA" href="https://surveys.google.com/" target="_blank">Surveys</a> </li> 
+       <li> <a data-g-action="Attribution Sign In" data-g-event="Analytics: Overview" data-g-label="Global Nav CTA" href="https://attribution.google.com/" target="_blank">Attribution</a> </li> 
+       <li> <a data-g-action="Audience Center Sign In" data-g-event="Analytics: Overview" data-g-label="Global Nav CTA" href="https://audiencecenter.google.com/" target="_blank">Audience Center</a> </li> 
+       <li> <a data-g-action="Analytics 360 Suite Sign In" data-g-event="Analytics: Overview" data-g-label="Global Nav CTA" href="https://360suite.google.com/" target="_blank">Analytics 360 Suite</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="cta cta-wrapper"> 
+     <a class="cta-signup" data-g-action="Sign Up For Free" data-g-event="Analytics: Overview" data-g-label="Global Nav CTA" href="https://analytics.google.com/analytics/web/provision/?authuser=0#provision/SignUp/" target="_blank">Sign Up For Free</a> 
+    </div> 
+   </nav>
+   <button class="nav-toggle-button"><span class="icon-menu-els"><span class="menu-bar"></span> <span class="menu-bar"></span> <span class="menu-bar"></span></span></button> 
+  </header> 
+  <div class="main" role="main"> 
+   <div class="app-toaster-container" data-app-toaster=""> 
+    <div class="app-toaster ml-pushup"> 
+     <div> 
+      <div class="app-toaster-header"> 
+       <div class="app-toaster-header-icon"> 
+        <div class="ml-branding-icon-analytics-logo"></div> 
+       </div> 
+       <div class="app-toaster-text-header"> 
+        <span>Try the new Google Analytics mobile app</span> 
+       </div> 
+       <div class="app-toaster-text"> 
+        <span>The new Google Analytics mobile app lets you quickly access your key metrics anytime, anywhere.</span> 
+       </div> 
+      </div> 
+      <div class="app-toaster-buttons"> 
+       <div class="app-toaster-action-row-right"> 
+        <div class="app-toaster-action-container"> 
+         <span class="app-toaster-action-button app-toaster-no-button app-toaster-no-thanks" ng-click="appToasterCtrl.appToasterDisable()">NO THANKS</span> 
+        </div> 
+        <div class="app-toaster-action-container"> 
+         <a class="app-toaster-android-only app-toaster-action-button app-toaster-yes-button app-toaster-use-the-app-button" href="https://play.google.com/store/apps/details?id=com.google.android.apps.giant&amp;referrer=utm_source%3Dreferral%26utm_medium%3DmarketingSiteBanner%26utm_campaign%3DmarketingSiteBanner&amp;hl=en"> INSTALL</a> 
+         <a class="app-toaster-ios-only app-toaster-action-button app-toaster-yes-button app-toaster-use-the-app-button" href="https://itunes.apple.com/app/apple-store/id881599038?pt=9008&amp;ct=marketingSiteBanner&amp;mt=8"> INSTALL</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <section class="section section-overview-hero section-hero"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="section-hero-copy col-5 col-offset-7"> 
+       <h1> Improve the customer experience with digital analytics. </h1> 
+       <p class="font-large"> Google Analytics gives you the digital analytics tools you need to analyze data from all touchpoints in one place, for a deeper understanding of the customer experience. You can then share the insights that matter with your whole organization. </p> 
+       <p> <a class="button cta-main-hero" data-g-action="Sign Up For Free" data-g-event="Analytics: Overview" data-g-label="Canvas CTA" href="https://analytics.google.com/analytics/web/provision/?authuser=0#provision/SignUp/" target="_blank">Sign Up For Free</a> </p> 
+       <p> <a class="link-more" data-g-action="Try The Demo" data-g-event="Analytics: Overview" data-g-label="Canvas CTA" href="https://support.google.com/analytics/answer/6367342?hl=en" target="_blank">Try the demo 
+         <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+          </path>
+         </svg></a> </p> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="section-hero-media"> 
+     <div class="hero-image"></div> 
+     <div class="card caption blue"> 
+      <p class="name font-medium"> <strong>Eric Jillard</strong><br> Mercedes-Benz </p> 
+     </div> 
+    </div>
+    <a class="fab fab-bottom-center google-blue gweb-smoothscroll-control" data-g-action="Click To Scroll" data-g-event="Analytics: Overview" data-g-label="Canvas" href="#quotation">
+     <svg class="icon-fab-scroll" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+      <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"></polygon>
+     </svg> <img alt="scroll icon" class="icon-fab-scroll" height="14" src="//www.google.com/ads/images/icons/icon-fab-scroll.png" width="14"></a> 
+   </section> 
+   <section class="section section-dark section-quote deep-teal quotation quotation-extra" id="quotation"> 
+    <div class="site-width"> 
+     <blockquote>
+       “Over 75% of CLA250 customers are new to Mercedes-Benz. With Google Analytics, we understood this new buyer and their behaviors almost instantly.” 
+     </blockquote>
+     <cite class="font-medium"><strong>Eric Jillard</strong> - General Manager, Marketing Services, Mercedes-Benz</cite> 
+    </div> 
+   </section> 
+   <section class="section section-capabilities section-overview-capabilities light-gray"> 
+    <div class="site-width"> 
+     <h4 class="section-sub-heading border-deep-teal"> Capabilities </h4> 
+     <div class="capabilities-list"> 
+      <div class="cols-row"> 
+       <div class="vertical-offset col-5"> 
+        <div class="capabilities-icon"> 
+         <svg enable-background="new 0 0 32 32" height="32px" version="1.1" viewbox="0 0 32 32" width="32px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M14.5,5.6c-0.5,0-1,0.2-1.3,0.6c-0.4,0.4-0.6,0.8-0.6,1.3c0,0.5,0.2,1,0.6,1.3s0.8,0.6,1.3,0.6 c0,0,0,0,0,0c0.5,0,0.8-0.1,1.1-0.3C15.8,9,16,9,16.2,9c0.2,0,0.4,0.1,0.6,0.3c0.3,0.3,0.3,0.7,0.3,1.6l0,2.8 c0,0.7,0.6,1.3,1.3,1.3l2.1,0c0.2,0,0.3,0,0.3,0c0-0.1,0-0.1,0-0.2c0-0.2-0.1-0.5-0.1-1c0-2,2-3.5,3.8-3.5c0,0,0,0,0,0 c0.9,0,1.8,0.4,2.6,1c0.8,0.7,1.2,1.6,1.2,2.5c0,0.4-0.1,0.8-0.1,1c0,0.1,0,0.1,0,0.2c0.1,0,0.2,0,0.3,0l2.1,0 c0.7,0,1.3-0.6,1.3-1.3l0-12.3C32,0.6,31.4,0,30.7,0L18.4,0c-0.7,0-1.3,0.6-1.3,1.3l0,2.8c0,0.9,0,1.3-0.3,1.6 c-0.4,0.4-0.8,0.3-1.2,0.1C15.3,5.7,14.9,5.6,14.5,5.6C14.5,5.6,14.5,5.6,14.5,5.6z"> 
+          </path> 
+          <path d="M5.7,15.2c0.4,0.4,0.3,0.8,0.1,1.2c-0.1,0.3-0.3,0.6-0.3,1.1c0,1.1,0.9,1.9,1.9,1.9c1.1,0,1.9-0.9,1.9-1.9 c0-0.5-0.1-0.8-0.3-1.1C9,16,8.8,15.6,9.2,15.2c0.3-0.3,0.7-0.3,1.6-0.3h2.8c0.7,0,1.3-0.6,1.3-1.3v-2.1c0-0.2,0-0.3,0-0.3 c-0.1,0-0.1,0-0.2,0c-0.2,0-0.5,0.1-1,0.1c-2,0-3.5-2-3.5-3.8c0-1.8,1.5-3.8,3.5-3.8c0.4,0,0.8,0.1,1,0.1c0.1,0,0.1,0,0.2,0 c0-0.1,0-0.2,0-0.3V1.3c0-0.7-0.6-1.3-1.3-1.3H1.3C0.6,0,0,0.6,0,1.3v12.3c0,0.7,0.6,1.3,1.3,1.3h2.8C5,14.9,5.4,14.9,5.7,15.2z"> 
+          </path> 
+          <path d="M19.4,24.6c0-1.1-0.9-1.9-1.9-1.9c-0.5,0-0.8,0.1-1.1,0.3c-0.4,0.1-0.9,0.3-1.2-0.1 c-0.3-0.3-0.3-0.7-0.3-1.6v-2.8c0-0.7-0.6-1.3-1.3-1.3l-2.1,0c-0.2,0-0.3,0-0.3,0c0,0.1,0,0.1,0,0.2c0,0.2,0.1,0.5,0.1,1 c0,2-2,3.5-3.8,3.5c-1.8,0-3.8-1.5-3.8-3.5c0-0.4,0.1-0.8,0.1-1c0-0.1,0-0.1,0-0.2c-0.1,0-0.2,0-0.3,0H1.3c-0.7,0-1.3,0.6-1.3,1.3 v12.2C0,31.4,0.6,32,1.3,32h12.3c0.7,0,1.3-0.6,1.3-1.3v-2.8c0-0.9,0-1.3,0.3-1.6c0.4-0.4,0.8-0.2,1.2-0.1c0.3,0.1,0.6,0.3,1.1,0.3 C18.6,26.5,19.4,25.6,19.4,24.6z"> 
+          </path> 
+          <path d="M26.2,16.8c-0.4-0.4-0.3-0.8-0.1-1.2c0.1-0.3,0.3-0.6,0.3-1.1c0-1.1-0.9-1.9-1.9-1.9 c-1.1,0-1.9,0.9-1.9,1.9c0,0.5,0.1,0.8,0.2,1.1c0.1,0.4,0.3,0.8-0.1,1.2c-0.3,0.3-0.7,0.3-1.6,0.3h-2.8c-0.7,0-1.3,0.6-1.3,1.3v2.1 c0,0.2,0,0.3,0,0.3c0.1,0,0.1,0,0.2,0c0.2,0,0.5-0.1,1-0.1c2,0,3.5,2,3.5,3.8c0,1.8-1.5,3.8-3.5,3.8c-0.4,0-0.8-0.1-1-0.1 c-0.1,0-0.1,0-0.2,0c0,0.1,0,0.2,0,0.3v2.1c0,0.7,0.6,1.3,1.3,1.3h12.2c0.7,0,1.3-0.6,1.3-1.3V18.4c0-0.7-0.6-1.3-1.3-1.3h-2.8 C26.9,17.1,26.5,17.1,26.2,16.8z"> 
+          </path>
+         </svg> 
+         <img alt="puzzle icon" height="32" src="//www.google.com/ads/images/icons/icon-ui-puzzle.png" width="32"> 
+        </div> 
+        <h3> Build a complete picture. </h3> 
+        <p> Understand your site and app users to better evaluate the performance of your content, products, and more. </p> 
+       </div> 
+       <div class="vertical-offset col-5 col-offset-1"> 
+        <div class="capabilities-icon"> 
+         <svg class="icon-lightbulb-outline" enable-background="new 0 0 24 24" height="32px" version="1.1" viewbox="0 0 24 24" width="32px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M9 21c0 .55.45 1 1 1h4c.55 0 1-.45 1-1v-1H9v1zm3-19C8.14 2 5 5.14 5 9c0 2.38 1.19 4.47 3 5.74V17c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2.26c1.81-1.27 3-3.36 3-5.74 0-3.86-3.14-7-7-7zm2.85 11.1l-.85.6V16h-4v-2.3l-.85-.6C7.8 12.16 7 10.63 7 9c0-2.76 2.24-5 5-5s5 2.24 5 5c0 1.63-.8 3.16-2.15 4.1z"></path> 
+         </svg> 
+         <img alt="lightbulb outline icon" class="" height="32" src="//www.google.com/ads/images/icons/icon-lightbulb-outline.png" width="32"> 
+        </div> 
+        <h3> Get insight only Google can give you. </h3> 
+        <p> Access Google’s proprietary audience data and machine learning capabilities to help get the most out of your data. </p> 
+       </div> 
+       <div class="vertical-offset col-5"> 
+        <div class="capabilities-icon"> 
+         <svg enable-background="new 0 0 32 32" height="32px" version="1.1" viewbox="0 0 32 32" width="32px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <circle cx="22.1" cy="10.3" r="4.9"></circle> 
+          <path d="M22.1,17.9c-1.5,0-3,0.2-4.3,0.5c2,1.2,3.3,2.9,3.3,4.8V26H32v-2.8C32,20.3,27.6,17.9,22.1,17.9z"> 
+          </path> 
+          <circle cx="9.9" cy="10.3" r="4.9"></circle> 
+          <path d="M9.9,17.9c-5.4,0-9.9,2.4-9.9,5.3V26h19.7v-2.8C19.7,20.3,15.3,17.9,9.9,17.9z"> 
+          </path>
+         </svg> 
+         <img alt="people icon" height="32" src="//www.google.com/ads/images/icons/icon-ui-people.png" width="32"> 
+        </div> 
+        <h3> Connect your digital analytics to results. </h3> 
+        <p> Google Analytics is built to work with Google’s media and publisher products so you can use your digital analytics insights to drive real impact. </p> 
+       </div> 
+       <div class="vertical-offset col-5 col-offset-1"> 
+        <div class="capabilities-icon"> 
+         <svg enable-background="new 0 0 32 32" height="32px" version="1.1" viewbox="0 0 32 32" width="32px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.4,0H3.6C1.6,0,0,1.6,0,3.6v24.9c0,2,1.6,3.6,3.9,3.6h24.9c1.6,0,3.2-1.6,3.2-3.4V3.7C32,1.6,30.4,0,28.4,0z M11,25H7V13 h4V25z M18,25h-4V7h4V25z M25,25h-4v-7.1h4V25z"> 
+          </path>
+         </svg> 
+         <img alt="graph bar icon" height="32" src="//www.google.com/ads/images/icons/icon-ui-graphbarbox.png" width="32"> 
+        </div> 
+        <h3> Make your digital analytics data work for you. </h3> 
+        <p> Process and share massive amounts of data quickly with an easy-to-use interface combined with shareable reports. </p> 
+       </div> 
+      </div> 
+      <p class="vertical-offset"> <a class="link-more" data-g-action="Learn More" data-g-event="Analytics: Overview" data-g-label="Capabilities" href="/analytics/analytics/capabilities/">Learn more 
+        <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+         </path>
+        </svg></a> </p> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-business-size"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-6"> 
+       <div class="cols-row"> 
+        <div class="col-12"> 
+         <h4 class="section-sub-heading border-blue"> For businesses of all sizes </h4> 
+         <h2> Solutions for businesses big and small. </h2> 
+         <p class="font-large"> Google Analytics offers small business and enterprise solutions to help you see what’s working and fix what’s not. </p> 
+        </div> 
+       </div> 
+       <div class="hidden-s section-image-s vertical-offset"> 
+        <picture>
+         <source media="(min-width: 768px)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"> 
+         <img alt="" srcset="../../analytics/images/analytics/overview/business-size_m_1x.png, ../../analytics/images/analytics/overview/business-size_m_2x.png 2x"> 
+        </picture> 
+       </div> 
+       <div class="cols-row cards vertical-offset"> 
+        <div class="card card-related custom-cta card-light-gray col-6 col-m-6"> 
+         <a class="card-inner" data-g-action="Sign Up For Free" data-g-event="Analytics: Overview" data-g-label="For Businesses Of All Sizes: Google Analytics CTA" href="https://analytics.google.com/analytics/web/provision/?authuser=0#provision/SignUp/" target="_blank">
+          <picture>
+           <source media="(min-width: 768px)" srcset="../../analytics/images/icons/analytics_1x.png, ../../analytics/images/icons/analytics_2x.png 2x"> 
+           <img alt="" class="product-logo" srcset="../../analytics/images/icons/analytics_m_1x.png, ../../analytics/images/icons/analytics_m_2x.png 2x"> 
+          </picture> <h3> Google<br> Analytics </h3> <p class="last"> Insights to improve your small or medium-sized business — for free. </p><span class="link-more"><span class="link-more-label">Sign Up For Free</span> 
+           <svg class="icon-arrow-related" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+            <polygon points="16,0 13.2,2.8 24.3,14 0,14 0,18 24.3,18 13.2,29.2 16,32 32,16"> 
+            </polygon>
+           </svg> <img alt="related arrow icon" class="icon-arrow-related" height="14" src="//www.google.com/ads/images/icons/icon-arrow-related.png" width="14"></span></a> 
+        </div> 
+        <div class="card card-related custom-cta card-light-gray col-6 col-m-6 col-mobile-vertical-offset"> 
+         <a class="card-inner" data-g-action="Talk To Sales" data-g-event="Analytics: Overview" data-g-label="For Businesses Of All Sizes: Google Analytics 360 CTA" href="/analytics/contact-us/"><img alt="Google Analytics 360 Suite icon" class="product-logo" src="//www.google.com/ads/images/icons/icon-product-analytics-360-suite-64.png"> <h3> Google<br> Analytics 360 </h3> <p class="last"> A total view of the customer experience, built for the enterprise. </p><span class="link-more"><span class="link-more-label">Talk to sales</span> 
+           <svg class="icon-arrow-related" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+            <polygon points="16,0 13.2,2.8 24.3,14 0,14 0,18 24.3,18 13.2,29.2 16,32 32,16"> 
+            </polygon>
+           </svg> <img alt="related arrow icon" class="icon-arrow-related" height="14" src="//www.google.com/ads/images/icons/icon-arrow-related.png" width="14"></span></a> 
+        </div> 
+       </div> 
+       <p class="vertical-offset"> <a class="link-more" data-g-action="Compare Versions" data-g-event="Analytics: Overview" data-g-label="For Businesses Of All Sizes" href="/analytics/analytics/compare/">Compare versions 
+         <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+          </path>
+         </svg></a> </p> 
+      </div> 
+      <div class="hidden-xs col-5 section-image device-animation-right" data-rs-trigger=""> 
+       <picture>
+        <source media="(min-width: 768px)" srcset="../../analytics/images/analytics/overview/business-size_1x.png, ../../analytics/images/analytics/overview/business-size_2x.png 2x"> 
+        <img alt="" class="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+       </picture> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-overview-measurement light-gray"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="hidden-xs col-5 section-image device-animation-bottom" data-rs-trigger=""> 
+       <picture>
+        <source media="(min-width: 768px)" srcset="../../analytics/images/analytics/overview/measurement_1x.png, ../../analytics/images/analytics/overview/measurement_2x.png 2x"> 
+        <img alt="" srcset="../../analytics/images/analytics/overview/measurement_m_1x.png, ../../analytics/images/analytics/overview/measurement_m_2x.png 2x"> 
+       </picture> 
+      </div> 
+      <div class="col-6 col-offset-1"> 
+       <h4 class="section-sub-heading border-blue"> Comprehensive Measurement </h4> 
+       <h2> Measure the impact your app has on your business. </h2> 
+       <p class="font-large"> Mobile apps play an increasingly important role for today’s businesses. No matter how big or how small your apps are, best-in-class app measurement capabilities within Google Analytics can help you achieve your goals and set your business up for success. </p> 
+       <p> <a class="link-more" data-g-action="See All Features" data-g-event="Analytics: Overview" data-g-label="Mobile Analytics" href="/analytics/analytics/features/">See all features 
+         <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+          </path>
+         </svg></a> </p> 
+      </div> 
+     </div> 
+     <div class="hidden-s section-image-s vertical-offset"> 
+      <picture>
+       <source media="(min-width: 768px)" srcset="../../analytics/images/analytics/overview/measurement_1x.png, ../../analytics/images/analytics/overview/measurement_2x.png 2x"> 
+       <img alt="" srcset="../../analytics/images/analytics/overview/measurement_m_1x.png, ../../analytics/images/analytics/overview/measurement_m_2x.png 2x"> 
+      </picture> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-overview-demo section-dark light-blue"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-6"> 
+       <h4 class="section-sub-heading border-yellow"> Analytics Demo Account </h4> 
+       <h2> See Analytics in action. </h2> 
+       <p class="font-large"> Still not sure if Google Analytics is right for you? Now you can see how it works with the Google Analytics demo account. Try it on for size with data from the Google Merchandise Store and see how easy it is to access features and run reports. </p> 
+       <p> <a class="link-more" data-g-action="Try The Demo" data-g-event="Analytics: Overview" data-g-label="Analytics Demo Account CTA" href="https://support.google.com/analytics/answer/6367342?hl=en" target="_blank">Try the demo 
+         <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+          </path>
+         </svg></a> </p> 
+       <div class="hidden-s section-image-s vertical-offset"> 
+        <picture>
+         <source media="(min-width: 768px)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"> 
+         <img alt="" srcset="../../analytics/images/analytics/overview/demo_m_1x.png, ../../analytics/images/analytics/overview/demo_m_2x.png 2x"> 
+        </picture> 
+       </div> 
+      </div> 
+      <div class="hidden-xs col-5 section-image device-animation-right" data-rs-trigger=""> 
+       <picture>
+        <source media="(min-width: 768px)" srcset="../../analytics/images/analytics/overview/demo_1x.png, ../../analytics/images/analytics/overview/demo_2x.png 2x"> 
+        <img alt="" class="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+       </picture> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-overview-mobile section-hero"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="section-hero-copy col-5 col-offset-7"> 
+       <h4 class="section-sub-heading border-blue"> Mobile Access </h4> 
+       <h2> Download the app. </h2> 
+       <p class="font-large"> Access your Google Analytics reporting profiles anytime, anywhere with the Google Analytics mobile app. </p> 
+       <p> <a class="link-more" data-g-action="Learn More" data-g-event="Analytics: Overview" data-g-label="Mobile App" href="/analytics/analytics/app/">Learn more 
+         <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+          </path>
+         </svg></a> </p> 
+       <p class="vertical-offset"></p> 
+       <div class="button button-apps"> 
+        <span class="button-label">Get the app</span> 
+        <a class="button-segment" data-g-action="Get The App: Android" data-g-event="Analytics: Overview" data-g-label="Mobile App CTA" href="https://play.google.com/store/apps/details?id=com.google.android.apps.giant&amp;referrer=utm_source%3Dreferral%26utm_medium%3DmarketingWebsite%26utm_campaign%3DmarketingWebsite&amp;hl=en" target="_blank"><img alt="android icon" class="icon-md icon" src="//www.google.com/images/icons/material/system/1x/android_white_24dp.png"></a> 
+        <a class="button-segment" data-g-action="Get The App: iOS" data-g-event="Analytics: Overview" data-g-label="Mobile App CTA" href="https://itunes.apple.com/app/apple-store/id881599038?pt=9008&amp;ct=marketingWebsite&amp;mt=8" target="_blank">
+         <svg class="icon" enable-background="new 0 0 747.63776 909.28345" height="24" version="1.1" viewbox="0 0 747.63776 909.28345" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <defs id="defs2813"> 
+           <clippath id="clp12"> 
+            <path d="M 45.315,71.927 L 58.235,71.927 L 58.235,87.794 L 45.315,87.794 L 45.315,71.927 z" id="path184"></path> 
+           </clippath> 
+           <clippath id="clp21"> 
+            <path d="M 123.91,72.178 L 150.14,72.178 L 150.14,87.472 L 123.91,87.472 L 123.91,72.178 z" id="path592"></path> 
+           </clippath> 
+           <clippath id="clp9"> 
+            <path d="M 413.96,49.857 L 445.72,49.857 L 445.72,58.576 L 413.96,58.576 L 413.96,49.857 z" id="path100"></path> 
+           </clippath> 
+          </defs> 
+          <g id="layer1" transform="translate(-1074.235,-1639.219)"> 
+           <g id="g25472" transform="translate(19.48863,19.49672)"> 
+            <g clip-path="url(#clp12)" id="g186" style="fill:white;fill-rule:nonzero;stroke:none" transform="matrix(54.85033,0,0,-54.85033,-1411.313,6454.729)"> 
+             <path d="M 56.105,79.364 C 56.087,81.372 57.745,82.336 57.82,82.383 C 56.887,83.748 55.435,83.935 54.917,83.957 C 53.682,84.082 52.506,83.23 51.88,83.23 C 51.254,83.23 50.286,83.939 49.262,83.919 C 47.914,83.899 46.673,83.136 45.979,81.93 C 44.58,79.503 45.622,75.906 46.984,73.936 C 47.651,72.973 48.445,71.888 49.489,71.928 C 50.495,71.968 50.875,72.578 52.089,72.578 C 53.303,72.578 53.645,71.928 54.708,71.947 C 55.789,71.968 56.475,72.931 57.137,73.897 C 57.901,75.015 58.217,76.097 58.235,76.154 C 58.211,76.164 56.127,76.963 56.105,79.364" id="path188" style="fill:white;fill-rule:nonzero;stroke:none"></path> 
+            </g> 
+            <path d="M 1556.5087,1778.2074 C 1586.8952,1741.403 1607.4089,1690.2272 1601.7588,1639.2187 C 1557.9852,1640.9758 1505.0032,1668.3995 1473.5732,1705.2039 C 1445.4359,1737.7314 1420.7536,1789.8374 1427.4422,1839.8074 C 1476.2605,1843.5921 1526.1172,1814.9577 1556.5087,1778.2074" id="path190" style="fill:white;fill-rule:nonzero;stroke:none"></path> 
+           </g> 
+          </g>
+         </svg> <img alt="apple icon" class="" height="24" src="//www.google.com/ads/images/icons/icon-apple.png" width="24"></a> 
+        <span class="cta-background"></span> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="section-hero-media"> 
+     <div class="section-overview-mobile-devices" data-rs-trigger=""> 
+      <picture>
+       <source media="(min-width: 768px)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"> 
+       <img alt="" class="section-mobile-img" srcset="../../analytics/images/analytics/overview/mobile_m_1x.png, ../../analytics/images/analytics/overview/mobile_m_2x.png 2x"> 
+      </picture> 
+      <div class="section-overview-mobile-tablet device-animation-left"> 
+       <picture>
+        <source media="(min-width: 768px)" srcset="../../analytics/images/analytics/overview/mobile-tablet_1x.png, ../../analytics/images/analytics/overview/mobile-tablet_2x.png 2x"> 
+        <img alt="" class="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+       </picture> 
+      </div> 
+      <div class="section-overview-mobile-phone device-animation-bottom"> 
+       <picture>
+        <source media="(min-width: 768px)" srcset="../../analytics/images/analytics/overview/mobile-phone_1x.png, ../../analytics/images/analytics/overview/mobile-phone_2x.png 2x"> 
+        <img alt="" class="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+       </picture> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-suite section-hero light-gray"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="section-hero-copy col-7 col-offset-5"> 
+       <h4 class="section-sub-heading border-blue"> The 360 suite advantage </h4> 
+       <h2> Seven measurement solutions. One powerful package. </h2> 
+       <p class="font-large"> The Google Analytics 360 Suite combines enterprise analytics, tagging, site optimization, data visualization, market research, attribution, and audience management into a powerful measurement solution for your business. Designed to deliver a seamless user experience, cross-product data integration helps your enterprise gain useful insights and get better results every day. </p> 
+       <p class="font-large"> If you need assistance, dedicated support and services ensure that help is there when you need it. </p> 
+       <p> <a class="button cta-main" data-g-action="Talk To Sales" data-g-event="Analytics: Overview" data-g-label="The 360 Advantage CTA" href="../../analytics/contact-us/">Talk to sales</a> <a class="link-more" data-g-action="Learn More" data-g-event="Analytics: Overview" data-g-label="The 360 Advantage" href="../../analytics/360-suite/">Learn more 
+         <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+          </path>
+         </svg></a> </p> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="section-hero-media"> 
+     <div class="hero-image overview-suite-image"></div> 
+    </div> 
+   </section> 
+   <section class="section section-dark section-success-overview google-red"> 
+    <div class="site-width"> 
+     <h4 class="section-sub-heading border-yellow"> Success Stories </h4> 
+     <h2> Our Customers </h2> 
+     <div class="cols-row cards-row"> 
+      <div class="col-6 col-m-4 card card-success" id=""> 
+       <div class="card-inner"> 
+        <div class="card-success-logo card-logo"> 
+         <img alt="Mumzworld" src="/analytics/images/shared/success/Mumzworld_240.png"> 
+        </div> 
+        <div class="card-success-content"> 
+         <h3> Mumzworld </h3> 
+         <p> Mumzworld reaches 300% return on ad spend with enhanced ecommerce and data import from Google Analytics. </p> 
+        </div>
+        <a class="link-more" data-g-action="View PDF" data-g-event="Analytics: Overview" data-g-label="Success Story: Mumzworld" data-g-ssindustry="Retail" data-g-ssproduct="Analytics" href="https://services.google.com/fh/files/misc/mumzworld-enhanced-ecommerce.pdf" target="success_pdfs">
+         <svg class="icon-pdf" enable-background="new 0 0 32 32" height="24px" version="1.1" viewbox="0 0 32 32" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M19.6,18.3c-1.3-1.4-2.7-3.5-3.7-5.5c1-4.1,0.3-4.9,0.1-5.2c-0.2-0.3-0.6-0.5-0.9-0.5c-0.2,0-0.3,0-0.5,0.1 c-0.4,0.1-0.7,0.4-0.9,0.9c-0.5,1.2,0.2,3.3,0.9,4.8c-0.6,2.5-1.7,5.4-2.8,7.8C9,22,7.6,23.2,7.4,24.4c0,0.4,0.1,1.1,0.8,1.6 c0.2,0.2,0.5,0.2,0.7,0.2c0.6,0,1.3-0.5,2-1.5c0.5-0.8,1.1-1.8,1.7-3.1c1.9-0.8,4.4-1.6,6.4-2.1c1.1,1.1,2.2,1.7,3.1,1.7 c0.7,0,1.2-0.3,1.6-0.9s0.5-1.1,0.3-1.6c-0.3-0.5-1-0.8-2.1-0.8C21.4,18.1,20.6,18.1,19.6,18.3z M9,25.1c-0.3-0.3-0.3-0.4-0.3-0.5 c0-0.4,0.7-1.1,2.2-2C9.8,24.8,9.1,25.1,9,25.1z M14.8,8.6c0-0.1,0.1-0.2,0.2-0.2h0.1c0.1,0.2,0.2,0.8,0,2.4 C14.8,9.9,14.6,9,14.8,8.6z M13.5,20.1c0.7-1.8,1.4-3.7,1.9-5.5c0.8,1.5,1.8,2.9,2.8,4C16.7,19,15,19.5,13.5,20.1z M22.9,19.7 c-0.2,0.3-0.4,0.4-0.6,0.4c-0.4,0-0.9-0.2-1.5-0.7c0.5-0.1,0.9-0.1,1.3-0.1c0.6,0,0.9,0.1,1,0.1C23,19.5,23,19.6,22.9,19.7z"> 
+          </path> 
+          <path d="M28.9,7.2c0-0.2-0.1-0.5-0.2-0.7l-6.3-6.3C22.1,0,21.8,0,21.4,0l0,0H6.7c-2,0-3.6,1.6-3.6,3.6v24.8c0,2,1.6,3.6,3.6,3.6 h18.6c2,0,3.6-1.6,3.6-3.6V7.2L28.9,7.2z M26.8,7.2h-3.3c-1,0-1.8,0-1.8-1.8L21.5,2L26.8,7.2z M27.1,28.4c0,1-0.8,1.8-1.8,1.8H6.7 c-1,0-1.8-0.8-1.8-1.8V3.6c0-1,0.8-1.8,1.8-1.8h13l0.1,3.6C19.8,9,22.5,9,23.4,9h3.7L27.1,28.4L27.1,28.4z"> 
+          </path>
+         </svg> <img alt="pdf icon" class="icon-pdf" height="24" src="//www.google.com/ads/images/icons/icon-pdf.png" width="24"> View PDF</a> 
+       </div> 
+      </div> 
+      <div class="col-6 col-m-4 card card-success" id=""> 
+       <div class="card-inner"> 
+        <div class="card-success-video"> 
+         <a data-g-action="Video Start" data-g-event="Analytics: Overview" data-g-label="Success Story: Progressive" data-g-ssindustry="Insurance" data-g-ssproduct="Analytics, Tag Manager" data-glue-modal-disabled-on-mobile="true" data-glue-modal-trigger="ss-yt-FrSLSYJUPPs" href="https://www.youtube.com/watch?v=FrSLSYJUPPs"><img alt="Progressive" src="https://services.google.com/fh/files/misc/progressivevideostill.jpg"></a> 
+         <a class="fab google-red" data-g-action="Video Start" data-g-event="Analytics: Overview" data-g-label="Success Story: Progressive" data-g-ssindustry="Insurance" data-g-ssproduct="Analytics, Tag Manager" data-glue-modal-disabled-on-mobile="true" data-glue-modal-trigger="ss-yt-FrSLSYJUPPs" href="https://www.youtube.com/watch?v=FrSLSYJUPPs">
+          <svg class="icon-fab-video" enable-background="new 0 0 32 32" height="24px" version="1.1" viewbox="0 0 32 32" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <path d="M28.8,3.8c-1-0.3-6.9-0.6-12.8-0.6c-5.9,0-11.8,0.3-12.8,0.6C0.7,4.6,0,10.2,0,16s0.7,11.4,3.2,12.2c1,0.3,6.9,0.6,12.8,0.6 c5.9,0,11.8-0.3,12.8-0.6C31.3,27.4,32,21.8,32,16S31.3,4.7,28.8,3.8 M12.8,22.4V9.6l8.8,6.4L12.8,22.4z"> 
+           </path>
+          </svg> <img alt="video icon" class="icon-fab-video" height="24" src="//www.google.com/ads/images/icons/icon-fab-video.png" width="24"></a> 
+         <div data-glue-modal="ss-yt-FrSLSYJUPPs" data-rs-modal="" id="ss-yt-FrSLSYJUPPs"> 
+          <div class="spinner-pivot"> 
+           <div class="spinner-dot spinner-dot-1"></div> 
+           <div class="spinner-dot spinner-dot-2"></div> 
+           <div class="spinner-dot spinner-dot-3"></div> 
+           <div class="spinner-dot spinner-dot-4"></div> 
+           <div class="spinner-dot spinner-dot-5"></div> 
+           <div class="spinner-dot spinner-dot-6"></div> 
+           <div class="spinner-dot spinner-dot-7"></div> 
+           <div class="spinner-dot spinner-dot-8"></div> 
+          </div> 
+          <div class="youtube-embed glue-modal-content dark-modal" data-disable-rel="true" data-video-id="FrSLSYJUPPs"></div> 
+         </div> 
+        </div> 
+        <div class="card-success-content"> 
+         <h3> Progressive </h3> 
+         <p> Progressive uses Analytics 360 to increase mobile business performance. </p> 
+        </div>
+        <a class="link-more" data-g-action="View PDF" data-g-event="Analytics: Overview" data-g-label="Success Story: Progressive" data-g-ssindustry="Insurance" data-g-ssproduct="Analytics, Tag Manager" href="https://services.google.com/fh/files/misc/ga360_progressive_case_study_v3.pdf" target="success_pdfs">
+         <svg class="icon-pdf" enable-background="new 0 0 32 32" height="24px" version="1.1" viewbox="0 0 32 32" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M19.6,18.3c-1.3-1.4-2.7-3.5-3.7-5.5c1-4.1,0.3-4.9,0.1-5.2c-0.2-0.3-0.6-0.5-0.9-0.5c-0.2,0-0.3,0-0.5,0.1 c-0.4,0.1-0.7,0.4-0.9,0.9c-0.5,1.2,0.2,3.3,0.9,4.8c-0.6,2.5-1.7,5.4-2.8,7.8C9,22,7.6,23.2,7.4,24.4c0,0.4,0.1,1.1,0.8,1.6 c0.2,0.2,0.5,0.2,0.7,0.2c0.6,0,1.3-0.5,2-1.5c0.5-0.8,1.1-1.8,1.7-3.1c1.9-0.8,4.4-1.6,6.4-2.1c1.1,1.1,2.2,1.7,3.1,1.7 c0.7,0,1.2-0.3,1.6-0.9s0.5-1.1,0.3-1.6c-0.3-0.5-1-0.8-2.1-0.8C21.4,18.1,20.6,18.1,19.6,18.3z M9,25.1c-0.3-0.3-0.3-0.4-0.3-0.5 c0-0.4,0.7-1.1,2.2-2C9.8,24.8,9.1,25.1,9,25.1z M14.8,8.6c0-0.1,0.1-0.2,0.2-0.2h0.1c0.1,0.2,0.2,0.8,0,2.4 C14.8,9.9,14.6,9,14.8,8.6z M13.5,20.1c0.7-1.8,1.4-3.7,1.9-5.5c0.8,1.5,1.8,2.9,2.8,4C16.7,19,15,19.5,13.5,20.1z M22.9,19.7 c-0.2,0.3-0.4,0.4-0.6,0.4c-0.4,0-0.9-0.2-1.5-0.7c0.5-0.1,0.9-0.1,1.3-0.1c0.6,0,0.9,0.1,1,0.1C23,19.5,23,19.6,22.9,19.7z"> 
+          </path> 
+          <path d="M28.9,7.2c0-0.2-0.1-0.5-0.2-0.7l-6.3-6.3C22.1,0,21.8,0,21.4,0l0,0H6.7c-2,0-3.6,1.6-3.6,3.6v24.8c0,2,1.6,3.6,3.6,3.6 h18.6c2,0,3.6-1.6,3.6-3.6V7.2L28.9,7.2z M26.8,7.2h-3.3c-1,0-1.8,0-1.8-1.8L21.5,2L26.8,7.2z M27.1,28.4c0,1-0.8,1.8-1.8,1.8H6.7 c-1,0-1.8-0.8-1.8-1.8V3.6c0-1,0.8-1.8,1.8-1.8h13l0.1,3.6C19.8,9,22.5,9,23.4,9h3.7L27.1,28.4L27.1,28.4z"> 
+          </path>
+         </svg> <img alt="pdf icon" class="icon-pdf" height="24" src="//www.google.com/ads/images/icons/icon-pdf.png" width="24"> View PDF</a> 
+       </div> 
+      </div> 
+      <div class="col-6 col-m-4 card card-success" id=""> 
+       <div class="card-inner"> 
+        <div class="card-success-logo card-logo"> 
+         <img alt="TransUnion" src="/analytics/images/shared/success/TransUnion_240.png"> 
+        </div> 
+        <div class="card-success-content"> 
+         <h3> TransUnion </h3> 
+         <p> TransUnion sees drastic cost efficiencies and conversion improvement with Analytics 360. </p> 
+        </div>
+        <a class="link-more" data-g-action="View PDF" data-g-event="Analytics: Overview" data-g-label="Success Story: TransUnion" data-g-ssindustry="Finance &amp; Banking" data-g-ssproduct="Analytics" href="https://services.google.com/fh/files/misc/ga360_transunion_case_study.pdf" target="success_pdfs">
+         <svg class="icon-pdf" enable-background="new 0 0 32 32" height="24px" version="1.1" viewbox="0 0 32 32" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M19.6,18.3c-1.3-1.4-2.7-3.5-3.7-5.5c1-4.1,0.3-4.9,0.1-5.2c-0.2-0.3-0.6-0.5-0.9-0.5c-0.2,0-0.3,0-0.5,0.1 c-0.4,0.1-0.7,0.4-0.9,0.9c-0.5,1.2,0.2,3.3,0.9,4.8c-0.6,2.5-1.7,5.4-2.8,7.8C9,22,7.6,23.2,7.4,24.4c0,0.4,0.1,1.1,0.8,1.6 c0.2,0.2,0.5,0.2,0.7,0.2c0.6,0,1.3-0.5,2-1.5c0.5-0.8,1.1-1.8,1.7-3.1c1.9-0.8,4.4-1.6,6.4-2.1c1.1,1.1,2.2,1.7,3.1,1.7 c0.7,0,1.2-0.3,1.6-0.9s0.5-1.1,0.3-1.6c-0.3-0.5-1-0.8-2.1-0.8C21.4,18.1,20.6,18.1,19.6,18.3z M9,25.1c-0.3-0.3-0.3-0.4-0.3-0.5 c0-0.4,0.7-1.1,2.2-2C9.8,24.8,9.1,25.1,9,25.1z M14.8,8.6c0-0.1,0.1-0.2,0.2-0.2h0.1c0.1,0.2,0.2,0.8,0,2.4 C14.8,9.9,14.6,9,14.8,8.6z M13.5,20.1c0.7-1.8,1.4-3.7,1.9-5.5c0.8,1.5,1.8,2.9,2.8,4C16.7,19,15,19.5,13.5,20.1z M22.9,19.7 c-0.2,0.3-0.4,0.4-0.6,0.4c-0.4,0-0.9-0.2-1.5-0.7c0.5-0.1,0.9-0.1,1.3-0.1c0.6,0,0.9,0.1,1,0.1C23,19.5,23,19.6,22.9,19.7z"> 
+          </path> 
+          <path d="M28.9,7.2c0-0.2-0.1-0.5-0.2-0.7l-6.3-6.3C22.1,0,21.8,0,21.4,0l0,0H6.7c-2,0-3.6,1.6-3.6,3.6v24.8c0,2,1.6,3.6,3.6,3.6 h18.6c2,0,3.6-1.6,3.6-3.6V7.2L28.9,7.2z M26.8,7.2h-3.3c-1,0-1.8,0-1.8-1.8L21.5,2L26.8,7.2z M27.1,28.4c0,1-0.8,1.8-1.8,1.8H6.7 c-1,0-1.8-0.8-1.8-1.8V3.6c0-1,0.8-1.8,1.8-1.8h13l0.1,3.6C19.8,9,22.5,9,23.4,9h3.7L27.1,28.4L27.1,28.4z"> 
+          </path>
+         </svg> <img alt="pdf icon" class="icon-pdf" height="24" src="//www.google.com/ads/images/icons/icon-pdf.png" width="24"> View PDF</a> 
+       </div> 
+      </div> 
+     </div> 
+     <p class="success-stories-all"> <a class="link-more" data-g-action="See All Success Stories" data-g-event="Analytics: Overview" data-g-label="Success Stories" href="/analytics/success-stories/?product=analytics">See all Success Stories 
+       <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+        </path>
+       </svg></a> </p> 
+    </div> 
+   </section> 
+   <section class="section light-gray featuredcontent-list"> 
+    <div class="site-width"> 
+     <h4 class="section-sub-heading border-blue"> Featured Resources </h4> 
+     <div class="cols-row"> 
+      <a class="glue-filter-result col-6 col-m-4 card card-featuredcontent" data-g-action="Product Overview" data-g-event="Analytics: Overview" data-g-frtopic="Digital Analytics" data-g-frtype="Product Overview" data-g-label="Resource: Use customer insights to deliver on marketing strategy." href="/analytics/resources/product-overview-analytics-360-advertiser.html"> 
+       <div class="card-inner"> 
+        <div class="doctype-container"> 
+         <span class="doctype doctype-overview">
+          <svg enable-background="new 0 0 32 32" height="24px" version="1.1" viewbox="0 0 32 32" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <path d="M24.2,21.6 M25.2,24.7l4.3,4.4c0.3,0.3,0.7,0.4,1.1,0.4c0.4,0,0.8-0.1,1.1-0.4c0.6-0.6,0.6-1.5,0-2.1l-4.3-4.4l0,0 c1.2-1.7,2-3.8,2-6c0-4.4-2.8-8.2-6.8-9.6V2.3c0-0.7-0.6-1.3-1.3-1.3H1.3C0.6,1,0,1.6,0,2.3v27.3C0,30.4,0.6,31,1.3,31h19.8 c0.7,0,1.3-0.6,1.3-1.3v-3.6C23.4,25.8,24.3,25.3,25.2,24.7 M24.2,21.6 M19.8,28.3H2.7V3.7h17.2v2.8c-0.2,0-0.4,0-0.6,0 c-1.7,0-3.3,0.5-4.8,1.2H5.3v2h6.6c-0.7,0.8-1.3,1.7-1.8,2.7H5.3v2h4.1c-0.2,0.7-0.2,1.5-0.2,2.2c0,0.1,0,0.3,0,0.4H5.3v2h4.2 c0.2,0.9,0.6,1.8,1.1,2.7H5.3v2h6.8c1.8,1.8,4.3,3,7.1,3c0.2,0,0.4,0,0.6,0V28.3z M22.5,22.8c-0.8,0.4-1.7,0.7-2.6,0.8 c-0.2,0-0.4,0-0.6,0c-0.5,0-0.9,0-1.3-0.1c-1.4-0.3-2.6-0.9-3.5-1.9C13.6,20.9,13,20,12.6,19c-0.2-0.6-0.4-1.3-0.4-2 c0-0.1,0-0.3,0-0.4c0-0.8,0.1-1.5,0.4-2.2c0.2-0.7,0.6-1.4,1-2c1-1.3,2.3-2.3,3.9-2.7c0,0,1.3-0.2,1.7-0.2c0.2,0,0.4,0,0.6,0 c0.9,0.1,1.8,0.4,2.6,0.8c2.3,1.2,3.8,3.6,3.8,6.3S24.7,21.6,22.5,22.8z"> 
+           </path>
+          </svg> <img alt="overview icon" height="24" src="//www.google.com/ads/images/icons/icon-doctype-overview.png" width="24"></span> 
+         <h4 class="doctype-productoverview-title"> Product Overview </h4> 
+        </div> 
+        <p class="topic"> Digital Analytics </p> 
+        <h3> Use customer insights to deliver on marketing strategy. </h3> 
+        <p> Learn about how Analytics 360 turns data into insights about people and how they behave—whether they’re online, offline or mobile. </p>
+        <svg class="icon-arrow-related" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <polygon points="16,0 13.2,2.8 24.3,14 0,14 0,18 24.3,18 13.2,29.2 16,32 32,16"> 
+         </polygon>
+        </svg> 
+        <img alt="related arrow icon" class="icon-arrow-related" height="16" src="//www.google.com/ads/images/icons/icon-arrow-related.png" width="16"> 
+       </div></a> 
+      <a class="glue-filter-result col-6 col-m-4 card card-featuredcontent" data-g-action="Report" data-g-event="Analytics: Overview" data-g-frtopic="Measurement Strategy" data-g-frtype="Report" data-g-label="Resource: Econsultancy report: The customer experience is written in data." href="/analytics/resources/report-econsultancy-google-the-customer-experience-is-written-in-data.html"> 
+       <div class="card-inner"> 
+        <div class="doctype-container"> 
+         <span class="doctype doctype-report">
+          <svg enable-background="new 0 0 24 24" height="24px" version="1.1" viewbox="0 0 24 24" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"></path> 
+          </svg> <img alt="report icon" height="24" src="//www.google.com/ads/images/icons/icon-content-copy.png" width="24"></span> 
+         <h4 class="doctype-report-title"> Report </h4> 
+        </div> 
+        <p class="topic"> Measurement Strategy </p> 
+        <h3> Econsultancy report: The customer experience is written in data. </h3> 
+        <p> Research conducted by Econsultancy in 2017 reveals why and how the most successful brands are putting data at the center of marketing strategy. Learn how leaders integrate data, teams, and tech. </p>
+        <svg class="icon-arrow-related" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <polygon points="16,0 13.2,2.8 24.3,14 0,14 0,18 24.3,18 13.2,29.2 16,32 32,16"> 
+         </polygon>
+        </svg> 
+        <img alt="related arrow icon" class="icon-arrow-related" height="16" src="//www.google.com/ads/images/icons/icon-arrow-related.png" width="16"> 
+       </div></a> 
+      <a class="glue-filter-result col-6 col-m-4 card card-featuredcontent" data-g-action="Report" data-g-event="Analytics: Overview" data-g-frtopic="Digital Analytics" data-g-frtype="Report" data-g-label="Resource: Gartner report: Magic Quadrant for Digital Marketing Analytics" href="/analytics/resources/report-gartner-magic-quadrant-for-digital-marketing-analytics.html"> 
+       <div class="card-inner"> 
+        <div class="doctype-container"> 
+         <span class="doctype doctype-report">
+          <svg enable-background="new 0 0 24 24" height="24px" version="1.1" viewbox="0 0 24 24" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"></path> 
+          </svg> <img alt="report icon" height="24" src="//www.google.com/ads/images/icons/icon-content-copy.png" width="24"></span> 
+         <h4 class="doctype-report-title"> Report </h4> 
+        </div> 
+        <p class="topic"> Digital Analytics </p> 
+        <h3> Gartner report: Magic Quadrant for Digital Marketing Analytics </h3> 
+        <p> As marketing measurement evolves, the right solution becomes key to success. In this report Gartner positions 11 digital marketing analytics platforms, again naming Google a leader. </p>
+        <svg class="icon-arrow-related" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <polygon points="16,0 13.2,2.8 24.3,14 0,14 0,18 24.3,18 13.2,29.2 16,32 32,16"> 
+         </polygon>
+        </svg> 
+        <img alt="related arrow icon" class="icon-arrow-related" height="16" src="//www.google.com/ads/images/icons/icon-arrow-related.png" width="16"> 
+       </div></a> 
+     </div> 
+     <div class="cols-row cta"> 
+      <a class="link-more" data-g-action="See All Resources" data-g-event="Analytics: Overview" data-g-label="Featured Resources" href="/analytics/resources/?topic=digital-analytics">See All Resources 
+       <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+        </path>
+       </svg></a> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <footer class="footer" id="footer" role="contentinfo"> 
+   <div class="site-width"> 
+    <div class="footer-upper cols-row"> 
+     <div class="footer-social col-6"> 
+      <dl> 
+       <dt>
+         Follow us on: 
+       </dt> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Analytics: Overview" data-g-label="GPlus" href="https://plus.google.com/+GoogleAnalytics/" rel="noopener nofollow" target="_blank" title="Google+">
+         <svg class="icon-footer-gplus c1" height="20px" version="1.1" viewbox="0 0 23 15" width="30px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <polygon points="23,6 21,6 21,4 19,4 19,6 17,6 17,8 19,8 19,10 21,10 21,8 23,8"> 
+          </polygon> 
+          <path d="M11.8,8.9c-0.1,1.3-1.3,3.4-4.3,3.4c-2.6,0-4.6-2.1-4.6-4.7S5,2.9,7.5,2.9c1.5,0,2.4,0.6,3,1.1 l0,0l2-2c-1.3-1.2-3-2-5-2C3.4,0.1,0,3.5,0,7.6s3.4,7.5,7.5,7.5c4.3,0,7.2-3,7.2-7.3c0-0.6-0.1-1.1-0.2-1.5h-7V9L11.8,8.9L11.8,8.9 z"> 
+          </path>
+         </svg> <img alt="Google+" class="icon-footer-gplus" height="20" src="//www.google.com/ads/images/icons/icon-footer-gplus.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Analytics: Overview" data-g-label="Blogger" href="https://analytics.googleblog.com/" rel="noopener" target="_blank" title="Blogger">
+         <svg class="icon-footer-blogger" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,0H3.2C1.4,0,0,1.4,0,3.2l0,25.6C0,30.6,1.4,32,3.2,32h25.6c1.8,0,3.2-1.4,3.2-3.2V3.2 C32,1.4,30.6,0,28.8,0 M22.4,11.2v1.6c0,0.9,0.7,1.6,1.6,1.6c0.9,0,1.6,0.7,1.6,1.6v4.8c0,2.7-2.1,4.8-4.8,4.8h-9.6 c-2.7,0-4.8-2.1-4.8-4.8V9.6c0-2.6,2.1-4.8,4.8-4.8h6.4c2.7,0,4.8,2.2,4.8,4.8V11.2z M12.7,12.8h4.2c0.9,0,1.6-0.7,1.6-1.6 s-0.7-1.6-1.6-1.6h-4.2c-0.9,0-1.6,0.7-1.6,1.6S11.8,12.8,12.7,12.8 M19.2,17.6h-6.5c-0.9,0-1.6,0.7-1.6,1.6c0,0.9,0.7,1.6,1.6,1.6 h6.5c0.9,0,1.6-0.7,1.6-1.6C20.8,18.3,20.1,17.6,19.2,17.6"> 
+          </path>
+         </svg> <img alt="Blogger" class="icon-footer-blogger" height="20" src="//www.google.com/ads/images/icons/icon-footer-blogger.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Analytics: Overview" data-g-label="Linkedin" href="https://www.linkedin.com/company/google-analytics" rel="nofollow" target="_blank" title="LinkedIn">
+         <svg class="icon-footer-linkedin" enable-background="new 0 0 36 36" height="20px" version="1.1" viewbox="0 0 36 36" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M33.334,0.001H2.655C1.19,0.001,0,1.163,0,2.595v30.809c0,1.434,1.19,2.598,2.655,2.598h30.679 c1.468,0,2.667-1.164,2.667-2.598V2.595C36.001,1.163,34.802,0.001,33.334,0.001z M10.68,30.677H5.335V13.498h5.345V30.677z M8.009,11.148c-1.716,0-3.098-1.387-3.098-3.097c0-1.707,1.382-3.095,3.098-3.095c1.708,0,3.095,1.388,3.095,3.095 C11.104,9.761,9.717,11.148,8.009,11.148z M30.675,30.677H25.34v-8.354c0-1.992-0.038-4.556-2.774-4.556 c-2.779,0-3.203,2.17-3.203,4.411v8.498h-5.333V13.498h5.118v2.347h0.073c0.712-1.351,2.455-2.775,5.053-2.775 c5.402,0,6.401,3.557,6.401,8.184V30.677z"> 
+          </path>
+         </svg> <img alt="Linkedin" class="icon-footer-linkedin" height="20" src="//www.google.com/ads/images/icons/icon-footer-linkedin.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Analytics: Overview" data-g-label="Twitter" href="https://twitter.com/googleanalytics" rel="nofollow" target="_blank" title="Twitter">
+         <svg class="icon-footer-twitter" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,0H3.2C1.4,0,0,1.4,0,3.2l0,25.6C0,30.6,1.4,32,3.2,32h25.6c1.8,0,3.2-1.4,3.2-3.2V3.2 C32,1.4,30.6,0,28.8,0z M25.1,11.7c-0.1,7.4-4.8,12.5-11.9,12.8c-2.9,0.1-5-0.8-6.9-2c2.2,0.3,4.8-0.5,6.2-1.7 c-2.1-0.2-3.4-1.3-3.9-3c0.6,0.1,1.2,0.1,1.8,0c-1.9-0.6-3.3-1.8-3.3-4.3C7.7,13.7,8.3,13.9,9,14c-1.4-0.8-2.5-3.8-1.3-5.7 c2.1,2.3,4.7,4.2,8.8,4.5c-1-4.5,4.9-6.9,7.4-3.9c1.1-0.2,1.9-0.6,2.7-1c-0.3,1-1,1.8-1.8,2.4c0.9-0.1,1.6-0.3,2.3-0.7 C26.8,10.3,25.9,11.1,25.1,11.7z"> 
+          </path>
+         </svg> <img alt="Twitter" class="icon-footer-twitter" height="20" src="//www.google.com/ads/images/icons/icon-footer-twitter.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Analytics: Overview" data-g-label="Youtube" href="https://www.youtube.com/user/googleanalytics" rel="noopener" target="_blank" title="YouTube">
+         <svg class="icon-footer-youtube" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,3.8c-1-0.3-6.9-0.6-12.8-0.6c-5.9,0-11.8,0.3-12.8,0.6C0.7,4.6,0,10.2,0,16s0.7,11.4,3.2,12.2c1,0.3,6.9,0.6,12.8,0.6 c5.9,0,11.8-0.3,12.8-0.6C31.3,27.4,32,21.8,32,16S31.3,4.7,28.8,3.8 M12.8,22.4V9.6l8.8,6.4L12.8,22.4z"> 
+          </path>
+         </svg> <img alt="YouTube" class="icon-footer-youtube" height="20" src="//www.google.com/ads/images/icons/icon-footer-youtube.png" width="20"></a> 
+       </dd> 
+      </dl> 
+     </div> 
+     <div class="footer-meta-links col-6"> 
+      <ul> 
+       <li> <a href="https://www.google.com/appsstatus#hl=en">Apps Status Dashboard</a> </li> 
+       <li> <a href="https://support.google.com/analytics/answer/7108387" target="_blank">Terms of Service</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <nav class="footer-nav cols-row"> 
+     <dl class="col-3"> 
+      <dt>
+        Learning &amp; Support 
+      </dt> 
+      <dd> 
+       <a href="https://support.google.com/analytics/go/analytics_solutions" rel="noopener" target="_blank">Help Center</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.en.advertisercommunity.com/t5/Google-Analytics/ct-p/Google_Analytics" rel="noopener" target="_blank">User Forum</a> 
+      </dd> 
+      <dd> 
+       <a href="https://analytics.google.com/analytics/gallery/#landing/start/" rel="noopener" target="_blank">Solutions Gallery</a> 
+      </dd> 
+      <dd> 
+       <a href="https://analytics.googleblog.com/" rel="noopener" target="_blank">Analytics Solution Blog</a> 
+      </dd> 
+      <dd> 
+       <a href="https://analyticsacademy.withgoogle.com/" rel="noopener" target="_blank">Analytics Academy</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/analytics/partners/search/apps" rel="noopener" target="_blank">Partner Gallery</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Developers 
+      </dt> 
+      <dd> 
+       <a href="https://developers.google.com/analytics/?hl=en" rel="noopener" target="_blank">Analytics Developer Site</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/tag-manager/?hl=en" rel="noopener" target="_blank">Tag Manager Developer Site</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/surveys/?hl=en" rel="noopener" target="_blank">Surveys Developer Site</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Related Products 
+      </dt> 
+      <dd> 
+       <a href="https://adwords.google.com/home/?subid=ww-ww-et-g-aw-a-rs_ga_solutions_1-!o2" rel="noopener" target="_blank">AdWords</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.doubleclickbygoogle.com/" rel="noopener" target="_blank">DoubleClick</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/adsense/start/?subid=ww-ww-et-analytics-site&amp;utm_source=internal&amp;utm_medium=et&amp;utm_campaign=analytics-site" rel="noopener" target="_blank">AdSense</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/admob/?subid=ww-ww-et-analytics-site&amp;utm_source=internal&amp;utm_medium=et&amp;utm_campaign=analytics-site" rel="noopener" target="_blank">AdMob</a> 
+      </dd> 
+      <dd> 
+       <a href="https://cloud.google.com/bigquery/?hl=en" rel="noopener" target="_blank">BigQuery</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        More from Google 
+      </dt> 
+      <dd> 
+       <a href="https://www.google.com/services/?subid=ww-ww-et-g-aw-a-rs_ga_solutions_2-!o2" rel="noopener" target="_blank">Business Solutions</a> 
+      </dd> 
+      <dd> 
+       <a href="https://cloud.google.com/?hl=en" rel="noopener" target="_blank">Google Cloud Platform</a> 
+      </dd> 
+      <dd> 
+       <a href="https://apps.google.com/" rel="noopener" target="_blank">Google Apps for Work</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.thinkwithgoogle.com/topics/measurement.html" rel="noopener" target="_blank">Think with Google</a> 
+      </dd> 
+      <dd> 
+       <a href="https://testmysite.thinkwithgoogle.com/?utm_source=ga&amp;utm_medium=referral&amp;utm_content=ww-ww-ga" rel="noopener" target="_blank">Test My Site</a> 
+      </dd> 
+     </dl> 
+    </nav> 
+    <div class="footer-lower cols-row"> 
+     <div class="footer-meta-links col-9"> 
+      <ul> 
+       <li> <a href="https://support.google.com/analytics/?hl=en#topic=3544906">
+         <svg class="icon-footer-help" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path clip-rule="evenodd" d="M16 0C7.2 0 0 7.2 0 16c0 3 .9 5.9 2.3 8.3L0 32l7.7-2.3C10.2 31.1 13 32 16 32c8.8 0 16-7.2 16-16S24.8 0 16 0zm1.3 24.6c-.3.3-.7.5-1.2.5s-1-.2-1.2-.5c-.3-.3-.4-.7-.4-1.1 0-.2 0-.4.1-.6.1-.2.2-.4.3-.5.1-.1.3-.3.5-.3.2-.1.4-.1.7-.1.3 0 .5 0 .7.1.2.1.4.2.5.3.1.1.3.3.3.5.1.2.1.4.1.6 0 .5-.1.8-.4 1.1zm3.8-11.4c-.2.5-.4.9-.6 1.3l-.9 1.2c-.3.4-.7.8-1 1.1-.4.4-.7.9-.9 1.4-.2.5-.2.8-.3 1.8h-2.8c0-1 0-1.2.1-1.6.1-.4.2-1 .3-1.3.2-.3.4-.7.6-1 .2-.3.6-.7.9-1 .2-.3.5-.5.7-.7.2-.2.4-.5.6-.7.2-.3.3-.5.4-.8.1-.3.1-.6.1-1 0-.8-.2-1.4-.6-1.8-.4-.4-1-.6-1.7-.6-.3 0-.6.1-.9.1-.3.1-.5.2-.8.4s-.4.6-.5.8c-.1.3-.2 1.2-.2 1.2h-3c0-2 .2-1.6.4-2.2.3-.6.7-1.2 1.1-1.6.5-.4 1-.7 1.7-.9.8-.3 1.5-.4 2.2-.4.8 0 1.6.1 2.2.3.7.2 1.2.5 1.7.9s.8.9 1 1.5c.2.6.4 1.3.4 2.1 0 .6-.1 1.1-.2 1.5z" fill-rule="evenodd"></path>
+         </svg> <img alt="Help" class="icon-footer-help" height="20" src="//www.google.com/ads/images/icons/icon-footer-help.png" width="20"> Help</a> </li> 
+       <li> <a href="//www.google.com">Google</a> </li> 
+       <li> <a href="//www.google.com/intl/en/policies/privacy/">Privacy</a> </li> 
+       <li> <a href="//www.google.com/intl/en/policies/terms/">Terms</a> </li> 
+      </ul> 
+     </div> 
+     <div class="footer-locale-switcher col-3"> 
+      <label class="visually-hidden" for="footer-locales"><span>Change language or region:</span></label> 
+      <select class="footer-locales" id="footer-locales" onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="//www.google.com/intl/id/analytics/"> Bahasa Indonesia </option> <option value="//www.google.com/intl/ca/analytics/"> Català </option> <option value="//www.google.com/intl/cs/analytics/"> Čeština </option> <option value="//www.google.com/intl/da/analytics/"> Dansk </option> <option value="//www.google.com/intl/de/analytics/"> Deutsch </option> <option value="//www.google.com/intl/en/analytics/"> English </option> <option selected value="//www.google.com/intl/en/analytics/"> English </option> <option value="//www.google.co.uk/intl/en/analytics/"> English – United Kingdom </option> <option value="//www.google.com/intl/es/analytics/"> Español </option> <option value="//www.google.com/intl/tl/analytics/"> Filipino </option> <option value="//www.google.com/intl/fr/analytics/"> Français </option> <option value="//www.google.com/intl/it/analytics/"> Italiano </option> <option value="//www.google.com/intl/lt/analytics/"> Lietuvių </option> <option value="//www.google.com/intl/hu/analytics/"> Magyar </option> <option value="//www.google.com/intl/nl/analytics/"> Nederlands </option> <option value="//www.google.com/intl/no/analytics/"> Norsk </option> <option value="//www.google.com/intl/pl/analytics/"> Polski </option> <option value="//www.google.com/intl/pt-BR/analytics/"> Português (Brasil) </option> <option value="//www.google.com/intl/pt-PT/analytics/"> Português (Portugal) </option> <option value="//www.google.com/intl/sk/analytics/"> Slovenčina </option> <option value="//www.google.com/intl/fi/analytics/"> Suomi </option> <option value="//www.google.com/intl/sv/analytics/"> Svenska </option> <option value="//www.google.com/intl/vi/analytics/"> Tiếng Việt </option> <option value="//www.google.com/intl/tr/analytics/"> Türkçe </option> <option value="//www.google.com/intl/el/analytics/"> Ελληνικά </option> <option value="//www.google.com/intl/bg/analytics/"> Български </option> <option value="//www.google.com/intl/ru/analytics/"> Русский </option> <option value="//www.google.com/intl/th/analytics/"> ไทย </option> <option value="//www.google.com/intl/ko/analytics/"> 한국어 </option> <option value="//www.google.com/intl/zh-CN/analytics/"> 中文（简体中文） </option> <option value="//www.google.com/intl/zh-TW/analytics/"> 中文（繁體中文） </option> <option value="//www.google.com/intl/ja/analytics/"> 日本語 </option> </select> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <script src="//www.gstatic.com/external_hosted/picturefill/picturefill.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-messages.min.js"></script> 
+  <script src="/analytics/js/analytics.min.js"></script> 
+  <noscript>
+   <iframe class="c2" height="0" src="//www.googletagmanager.com/ns.html?id=GTM-KLXF7H" width="0"></iframe>
+  </noscript> 
+  <script id="/glue/tabset/tabset-template.html" type="text/ng-template">
+    <div>
+  <div class="glue-tabset-nav">
+    <ul data-ng-if="!isAccordion">
+      <li data-ng-repeat="item in tabcordionCtrl.items"
+          data-ng-class="tabcordionCtrl.isItemIndexSelected($index) ? 'glue-tabset-nav-active' : ''"
+          data-ng-click="tabcordionCtrl.selectItemByIndex($index)"
+          data-ng-bind-html="tabcordionCtrl.getItemHeaderHtmlByIndex($index)"
+          tabindex="0">
+      </li>
+    </ul>
+  </div>
+  <ul class="glue-tabcordion-items" data-ng-transclude=""></ul>
+</div>
+    </script>  
+ </body>
+</html>

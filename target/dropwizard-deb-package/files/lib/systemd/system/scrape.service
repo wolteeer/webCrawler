@@ -1,0 +1,12 @@
+[Unit]
+Description=scrape
+
+[Service]
+ExecStart=/usr/bin/scrape
+Restart=always
+OOMScoreAdjust=-1000
+User=dropwizard
+Group=dropwizard
+
+[Install]
+WantedBy=multi-user.target

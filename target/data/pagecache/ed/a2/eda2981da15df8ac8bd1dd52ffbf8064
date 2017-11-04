@@ -1,0 +1,179 @@
+<!doctype html>
+<html class="google de_DE" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <title>Google Expeditionen</title> 
+  <meta charset="utf-8"> 
+  <meta content="initial-scale=1, minimum-scale=1, maximum-scale=1, width=device-width" name="viewport"> 
+  <meta itemprop="name" content="Google Expeditionen"> 
+  <meta name="description" content="Stellen Sie sich vor, Sie könnten an einem einzigen Schultag Korallenriffe bestaunen und die Marsoberfläche erkunden. Mit Google Expeditions haben Lehrer die Möglichkeit, ihre Schüler auf faszinierende virtuelle Reisen mitzunehmen."> 
+  <meta itemprop="description" content="Stellen Sie sich vor, Sie könnten an einem einzigen Schultag Korallenriffe bestaunen und die Marsoberfläche erkunden. Mit Google Expeditions haben Lehrer die Möglichkeit, ihre Schüler auf faszinierende virtuelle Reisen mitzunehmen."> 
+  <meta itemprop="image" content="/images/expeditions/icons/expeditions-icon.png"> 
+  <meta property="og:title" content="Google Expeditionen"> 
+  <meta property="og:image" content="/images/expeditions/icons/expeditions-icon.png"> 
+  <meta property="og:description" content="Stellen Sie sich vor, Sie könnten an einem einzigen Schultag Korallenriffe bestaunen und die Marsoberfläche erkunden. Mit Google Expeditions haben Lehrer die Möglichkeit, ihre Schüler auf faszinierende virtuelle Reisen mitzunehmen."> 
+  <meta property="og:url" content="https://www.google.com/expeditions/"> 
+  <meta property="og:type" content="website"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:title" content="Google Expeditionen"> 
+  <meta name="twitter:description" content="Stellen Sie sich vor, Sie könnten an einem einzigen Schultag Korallenriffe bestaunen und die Marsoberfläche erkunden. Mit Google Expeditions haben Lehrer die Möglichkeit, ihre Schüler auf faszinierende virtuelle Reisen mitzunehmen."> 
+  <meta name="twitter:image" content="/images/expeditions/icons/expeditions-icon.png"> 
+  <meta name="twitter:url" content="http://twitter.com/googleforedu"> 
+  <meta name="twitter:creator" content="@googleforedu"> 
+  <link rel="stylesheet" href="/css/expeditions.min.css"> 
+  <link rel="icon" href="/videos/expeditions/favicon.ico" type="image/x-icon"> 
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:700|Roboto:100,300,500,700" rel="stylesheet" type="text/css"> 
+  <script src="https://www.gstatic.com/external_hosted/modernizr/modernizr.js"></script> 
+ </head> 
+ <body> 
+  <!-- Google Tag Manager --> 
+  <script>
+var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+  return cp;
+};
+
+dataLayer = [{
+  'country': 'de',
+  'region': 'emea',
+  'propertyIndex': '36',
+  'language': 'de',
+  'host': location.host,
+  'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+  'path': location.pathname,
+  'cookiePath': cookiepathValue(),
+  'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+  'file': 'index.html',
+  'fileNoSuffix': 'index'
+}];
+</script> 
+  <noscript>
+   <iframe src="//www.googletagmanager.com/ns.html?id=GTM-T7366R" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');</script> 
+  <!-- End Google Tag Manager -->
+  <header class="header"> 
+   <div class="lockup header__lockup"> 
+    <a href="/expeditions/"> <img class="lockup__image" srcset="
+      /images/expeditions/lockup/google-expeditions.png,
+      /images/expeditions/lockup/google-expeditions_2x.png 2x" width="172" alt="Google Expeditionen"> </a> 
+   </div> 
+   <div class="header__nav-toggle" aria-controls="nav" title="Expand/collapse navigation"> 
+    <div class="header__hamburger"></div> 
+   </div> 
+   <nav class="nav header__nav" id="nav" role="navigation" aria-hidden="true"> 
+    <ul class="nav__menu" role="menubar"> 
+     <li data-section="about" class="nav__item js-scroll-to" role="menuitem"> <a class="nav__link nav__link--active" href="#about">Übersicht</a> </li> 
+     <li data-section="how-it-works" class="nav__item js-scroll-to" role="menuitem"> <a class="nav__link " href="#how-it-works">Funktionsweise</a> </li> 
+     <li data-section="explore" class="nav__item js-scroll-to" role="menuitem"> <a class="nav__link " href="#explore">Erkunden</a> </li> 
+     <li data-section="get-started" class="nav__item js-scroll-to" role="menuitem"> <a class="nav__link " href="#get-started">Jetzt starten</a> </li> 
+    </ul> 
+   </nav> 
+   <a class="button header__get-app js-scroll-to" href="/expeditions/#get-started">App herunterladen</a> 
+  </header> 
+  <main role="main"> 
+   <section class="section  section--about" id="about"> 
+    <div class="section--about__video-container "> 
+     <div class="cross-fader section--about__no-video-fallback"> 
+      <img class="cross-fader__item cross-fader__item--panning cross-fader__item--active" srcset="
+      /images/expeditions/sections/about-crossfade/fade-1.jpg,
+      /images/expeditions/sections/about-crossfade/fade-1_2x.jpg 2x" alt="Die ganze Welt in 360° im Klassenzimmer"> 
+      <img class="cross-fader__item cross-fader__item--panning " srcset="
+      /images/expeditions/sections/about-crossfade/fade-2.jpg,
+      /images/expeditions/sections/about-crossfade/fade-2_2x.jpg 2x" alt="Die ganze Welt in 360° im Klassenzimmer"> 
+      <img class="cross-fader__item cross-fader__item--panning " srcset="
+      /images/expeditions/sections/about-crossfade/fade-3.jpg,
+      /images/expeditions/sections/about-crossfade/fade-3_2x.jpg 2x" alt="Die ganze Welt in 360° im Klassenzimmer"> 
+      <img class="cross-fader__item cross-fader__item--panning " srcset="
+      /images/expeditions/sections/about-crossfade/fade-4.jpg,
+      /images/expeditions/sections/about-crossfade/fade-4_2x.jpg 2x" alt="Die ganze Welt in 360° im Klassenzimmer"> 
+     </div> 
+     <video autoplay loop muted class="section--about__video" poster="/images/expeditions/sections/about-space.jpg"> 
+      <source src="/videos/expeditions/about2.mp4" type="video/mp4"> 
+      <track class="section--about__track" kind="subtitles" label="subs" srclang="en" src="/videos/expeditions/subtitle.vtt"> Your browser does not support the video element. 
+     </video> 
+    </div> 
+    <div class="container section__content"> 
+     <img class="section--about__expeditions-icon" src="/images/expeditions/icons/expeditions_96dp.png" alt="Google Expeditionen"> 
+     <h3 class="section__title">Die ganze Welt in 360° im Klassenzimmer</h3> 
+     <p class="section__body section__body--active ">Stellen Sie sich vor, Sie könnten an einem einzigen Schultag Korallenriffe bestaunen und die Marsoberfläche erkunden. Mit Google Expeditions haben Lehrer die Möglichkeit, ihre Schüler auf faszinierende virtuelle Reisen mitzunehmen.</p> 
+     <div class="download-badges"> 
+      <a class="download-badges__link" href="https://play.google.com/store/apps/details?id=com.google.vr.expeditions&amp;utm_source=ExpWeb&amp;utm_medium=web" target="_blank"> <img class="download-badges__badge download-badges__badge--play" srcset="/images/expeditions/icons/play-badge_de_DE_v4.png, /images/expeditions/icons/play-badge_de_DE_v4_2x.png" alt="Bei Google Play herunterladen"> </a>
+      <a class="download-badges__link" href="https://itunes.apple.com/us/app/expeditions/id1131711060" target="_blank"> <img class="download-badges__badge download-badges__badge--appstore" srcset="/images/expeditions/icons/appstore-badge_de_DE_v4.png, /images/expeditions/icons/appstore-badge_de_DE_v4_2x.png" alt="Im App Store herunterladen"> </a>
+     </div>
+    </div> 
+    <a class="button button--fab section__fab--scrolldown js-scroll-to" href="#how-it-works"></a> 
+   </section>
+   <section class="section  section--how-it-works" id="how-it-works"> 
+    <div class="section__content "> 
+     <h3 class="section__title">Lernen wird zum Abenteuer</h3> 
+     <p class="section__body">Machu Picchu, der Mond, die Nordsee oder das Senckenberg Museum – wohin geht der heutige Klassenausflug? </p> 
+     <div class="section__example--container"> 
+     </div> 
+    </div> 
+    <div class="section__image "> 
+     <img class="section--how-it-works__cardboard" src="/images/expeditions/sections/cardboard-open.png" alt="Lernen wird zum Abenteuer"> 
+     <video autoplay loop muted class="section--how-it-works__video"> 
+      <source src="/videos/expeditions/machu-picchu-explore.mp4" type="video/mp4"> Your browser does not support the video element. 
+     </video> 
+    </div> 
+   </section>
+   <section class="section  section--explore" id="explore"> 
+    <div class="section--explore__poster"> 
+     <div class="section--explore__poster" style="background-image: url('/images/expeditions/sections/explore-poster-de_2x.jpg'"></div> 
+    </div> 
+    <div class="section__image-caption">
+      Sehen Sie sich an, wie eine Expedition einen Windpark von der Nordsee ins Klassenzimmer bringt. 
+    </div> 
+    <div class="section--explore__play js-youtube-modal-trigger" data-player-id="youtube-explore" data-youtube-id="3Q0mNFARUmQ"></div> 
+    <div class="section--explore__video youtube-modal" aria-hidden="true" aria-role="dialog" aria-label="Watch seventh graders in Eagle Grove, Iowa visit the Burj Khalifa" id="youtube-explore"> 
+     <button class="button youtube-modal__close" aria-controls="youtube-explore"></button> 
+     <div class="youtube-modal__content" role="region" aria-live="polite"></div> 
+    </div> 
+   </section>
+   <section class="section  section--get-started" id="get-started"> 
+    <div class="section__content "> 
+     <h3 class="section__title">Auf Entdeckungsreise</h3> 
+     <p class="section__body"> Mit Google Expeditions können Lehrer ihre Schüler auf Klassenfahrt rund um die Welt mitnehmen – ganz ohne das Klassenzimmer zu verlassen. Gemeinsam erkunden die Entdecker Sammlungen von 360°-Aufnahmen und machen Halt an interessanten Schauplätzen. <a href="https://g.co/zukunftswerkstatt/expeditions" target="_blank">Weitere Informationen</a> </p> 
+     <a href="https://events.withgoogle.com/google-expeditions/registrations/new/" target="_blank" class="link section__cta">ANMELDEN</a> 
+     <div class="download-badges"> 
+      <a class="download-badges__link" href="https://play.google.com/store/apps/details?id=com.google.vr.expeditions&amp;utm_source=ExpWeb&amp;utm_medium=web" target="_blank"> <img class="download-badges__badge download-badges__badge--play" srcset="/images/expeditions/icons/play-badge_de_DE_v4.png, /images/expeditions/icons/play-badge_de_DE_v4_2x.png" alt="Bei Google Play herunterladen"> </a>
+      <a class="download-badges__link" href="https://itunes.apple.com/us/app/expeditions/id1131711060" target="_blank"> <img class="download-badges__badge download-badges__badge--appstore" srcset="/images/expeditions/icons/appstore-badge_de_DE_v4.png, /images/expeditions/icons/appstore-badge_de_DE_v4_2x.png" alt="Im App Store herunterladen"> </a>
+     </div>
+    </div> 
+    <div class="section__image section__image--de"> 
+    </div> 
+   </section> 
+  </main> 
+  <div class="partner"> 
+   <div class="footer__partners"> 
+    <a href="https://g.co/zukunftswerkstatt" target="_blank" class="footer__partners-link"> <img src="/images/expeditions/partners/google-zukunftswerkstatt.png" class="footer__partners-logo"> </a> 
+   </div> 
+  </div> 
+  <footer class="footer"> 
+   <div class="container"> 
+    <nav class="footer__nav"> 
+     <img class="footer__logo" srcset="https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_74x24dp.png, https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_74x24dp.png 2x" alt="Google logo" width="74"> 
+     <a class="link footer__link" target="_blank" title="Hilfe" href="https://support.google.com/edu/expeditions"> Hilfe </a> 
+     <a class="link footer__link" target="_blank" title="Datenschutz" href="https://www.google.com/intl/de/policies/"> Datenschutz </a> 
+     <a class="link footer__link" target="_blank" title="Nutzungsbedingungen" href="https://www.google.com/intl/de/policies/terms/"> Nutzungsbedingungen </a> 
+     <div class="footer__selector"> 
+      <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/expeditions/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/expeditions/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/da/expeditions/"> dansk (Danmark) </option><option selected value="/intl/de_de/expeditions/"> Deutsch (Deutschland) </option><option value="/intl/en_au/expeditions/"> English (Australia) </option><option value="/intl/en_ca/expeditions/"> English (Canada) </option><option value="/intl/en_in/expeditions/"> English (India) </option><option value="/intl/en_nz/expeditions/"> English (New Zealand) </option><option value="/intl/en_uk/expeditions/"> English (United Kingdom) </option><option value="/expeditions/"> English (United States) </option><option value="/intl/es-419_mx/expeditions/"> español (México) </option><option value="/intl/es-419/expeditions/"> español (Latinoamérica) </option><option value="/intl/fi/expeditions/"> suomi (Suomi) </option><option value="/intl/fr_be/expeditions/"> français (Belgique) </option><option value="/intl/id/expeditions/"> Indonesia (Indonesia) </option><option value="/intl/ja/expeditions/"> 日本語 (日本) </option><option value="/intl/ms/expeditions/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/expeditions/"> Nederlands (Nederland) </option><option value="/intl/no/expeditions/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/expeditions/"> português (Brasil) </option><option value="/intl/sv/expeditions/"> svenska (Sverige) </option><option value="/intl/th/expeditions/"> ไทย (ไทย) </option><option value="/intl/tr/expeditions/"> Türkçe (Türkiye) </option></select> 
+     </div> 
+    </nav> 
+   </div> 
+  </footer> 
+  <script src="https://www.gstatic.com/external_hosted/matchMedia/matchMedia.js"></script> 
+  <script src="https://www.gstatic.com/external_hosted/matchMedia/matchMedia.addListener.js"></script> 
+  <script src="https://www.gstatic.com/external_hosted/picturefill/picturefill.min.js"></script> 
+  <script src="https://ajax.googleapis.com/ajax/libs/hammerjs/2.0.8/hammer.min.js"></script> 
+  <script src="/js/expeditions.min.js" async></script>  
+ </body>
+</html>

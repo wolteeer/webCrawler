@@ -1,0 +1,599 @@
+<!doctype html>
+<html class="google mmfb" dir="ltr" lang="en">
+ <head> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script> 
+  <meta charset="utf-8"> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <title>
+      Online Surveys &amp; Market Research - Google Surveys – Google
+    </title> 
+  <meta content="Learn how Google Surveys can help gain consumer insights through market research on your own website and other websites they visit online." name="description"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;lang=en" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto+Slab:300,400,500&amp;lang=en" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Product+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/analytics/css/surveys.min.css" rel="stylesheet"> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/v2_8_3/basic.js"></script> 
+  <script>
+    dataLayer=[{"country":"us","region":"noram","language":"en","pageCategory":"Surveys","pageSubCategory":"How It Works","eID":"index.html","visitorType":"recognized"}];
+    </script> 
+  <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KLXF7H');
+    </script> 
+  <link href="//www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://www.google.com/analytics/surveys/how-it-works/" rel="canonical"> 
+  <style type="text/css">
+    iframe.c2 {display:none;visibility:hidden}
+    svg.c1 {enable-background:new 0 0 23 15;}
+    </style> 
+ </head> 
+ <body data-ng-app="rs.analytics.surveys"> 
+  <header class="header contains-cta" data-rs-header="" role="banner"> 
+   <div class="upper-header"> 
+    <h1 class="product-logo has-product"> <a data-g-action="Logo" data-g-event="Surveys: How It Works" data-g-label="Global Nav" href="../../../analytics/"><img alt="Google" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" srcset="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png 2x"> <span class="site-name">Analytics Solutions</span></a> <a data-g-action="Logo" data-g-event="Surveys: How It Works" data-g-label="Global Nav" href="../../../analytics/surveys/"><span class="site-name site-name-product">Surveys</span></a> </h1> 
+    <div class="nav-dropdown-wrapper" data-rs-popupmenu="" ng-cloak=""> 
+     <a class="nav-dropdown-trigger partners-link-desktop" data-g-action="Partners" data-g-event="Surveys: How It Works" data-g-label="Global Nav" href="https://www.google.com/analytics/partner-services/"><span>Partners</span></a> 
+     <a class="nav-dropdown-trigger support-link-desktop" data-g-action="Support" data-g-event="Surveys: How It Works" data-g-label="Global Nav" href="https://www.google.com/analytics/services-support"><span>Support</span></a> 
+     <a class="nav-dropdown-trigger" data-g-action="Sign In Menu" data-g-event="Surveys: How It Works" data-g-label="Global Nav CTA" ng-click="dropdownExpanded = !dropdownExpanded"><span>Sign in</span> 
+      <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+       <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+       <path d="M0 0h36v36H0z" fill="none"></path>
+      </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+     <div class="nav-dropdown" ng-class="{'nav-dropdown-expanded': dropdownExpanded}"> 
+      <a class="nav-dropdown-close" ng-click="dropdownExpanded = false">
+       <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+        <path d="M0 0h36v36H0z" fill="none"></path>
+       </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+      <ul> 
+       <li class="nav-dropdown-close-mobile"> <a ng-click="dropdownExpanded = false">Sign in 
+         <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+          <path d="M0 0h36v36H0z" fill="none"></path>
+         </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> </li> 
+       <li> <a data-g-action="Analytics Sign In" data-g-event="Surveys: How It Works" data-g-label="Global Nav CTA" href="https://analytics.google.com/analytics/web/" target="_blank">Analytics</a> </li> 
+       <li> <a data-g-action="Tag Manager Sign In" data-g-event="Surveys: How It Works" data-g-label="Global Nav CTA" href="https://tagmanager.google.com/?hl=en" target="_blank">Tag Manager</a> </li> 
+       <li> <a data-g-action="Optimize Sign In" data-g-event="Surveys: How It Works" data-g-label="Global Nav CTA" href="https://optimize.google.com/" target="_blank">Optimize</a> </li> 
+       <li> <a data-g-action="Data Studio Sign In" data-g-event="Surveys: How It Works" data-g-label="Global Nav CTA" href="https://datastudio.google.com/?hl=en" target="_blank">Data Studio</a> </li> 
+       <li> <a data-g-action="Surveys Sign In" data-g-event="Surveys: How It Works" data-g-label="Global Nav CTA" href="https://surveys.google.com/" target="_blank">Surveys</a> </li> 
+       <li> <a data-g-action="Attribution Sign In" data-g-event="Surveys: How It Works" data-g-label="Global Nav CTA" href="https://attribution.google.com/" target="_blank">Attribution</a> </li> 
+       <li> <a data-g-action="Audience Center Sign In" data-g-event="Surveys: How It Works" data-g-label="Global Nav CTA" href="https://audiencecenter.google.com/" target="_blank">Audience Center</a> </li> 
+       <li> <a data-g-action="Analytics 360 Suite Sign In" data-g-event="Surveys: How It Works" data-g-label="Global Nav CTA" href="https://360suite.google.com/" target="_blank">Analytics 360 Suite</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="cta cta-wrapper"> 
+     <a class="cta-signup" data-g-action="Get Started" data-g-event="Surveys: How It Works" data-g-label="Global Nav CTA" href="https://surveys.google.com/create" target="_blank">Get Started</a> 
+    </div> 
+   </div> 
+   <nav class="main-navigation contains-sub-nav contains-double-cta"> 
+    <h1> Surveys </h1> 
+    <ul class="nav-no-padding"> 
+     <li> <a data-g-action="Analytics" data-g-event="Surveys: How It Works" data-g-label="Global Nav" href="../../../analytics/analytics/">Analytics</a> </li> 
+     <li> <a data-g-action="Tag Manager" data-g-event="Surveys: How It Works" data-g-label="Global Nav" href="../../../analytics/tag-manager/">Tag Manager</a> </li> 
+     <li> <a data-g-action="Optimize" data-g-event="Surveys: How It Works" data-g-label="Global Nav" href="../../../analytics/optimize/">Optimize</a> </li> 
+     <li> <a data-g-action="Data Studio" data-g-event="Surveys: How It Works" data-g-label="Global Nav" href="../../../analytics/data-studio/">Data Studio</a> </li> 
+     <li class="active"> <a data-g-action="Surveys" data-g-event="Surveys: How It Works" data-g-label="Global Nav" href="../../../analytics/surveys/">Surveys</a> 
+      <ul class="sub-nav"> 
+       <li data-g-action="Surveys: Overview" data-g-event="Surveys: How It Works" data-g-label="Surveys Sub-Nav"> <a href="../../../analytics/surveys/">Overview</a> </li> 
+       <li class="active" data-g-action="Surveys: How It Works" data-g-event="Surveys: How It Works" data-g-label="Surveys Sub-Nav"> <a href="../../../analytics/surveys/how-it-works/">How It Works</a> </li> 
+       <li data-g-action="Surveys: Compare" data-g-event="Surveys: How It Works" data-g-label="Surveys Sub-Nav"> <a href="../../../analytics/surveys/compare/">Compare</a> </li> 
+       <li data-g-action="Surveys: Success Stories" data-g-event="Surveys: How It Works" data-g-label="Surveys Sub-Nav"> <a href="../../../analytics/success-stories/#?product_filters=surveys">Success Stories</a> </li> 
+       <li data-g-action="Surveys: Resources" data-g-event="Surveys: How It Works" data-g-label="Surveys Sub-Nav"> <a href="../../../analytics/resources/#?type_filters=market-research-and-consumer-insights"> Resources</a> </li> 
+      </ul> </li> 
+     <li> <a data-g-action="Attribution" data-g-event="Surveys: How It Works" data-g-label="Global Nav" href="../../../analytics/attribution/">Attribution</a> </li> 
+     <li> <a data-g-action="Audience Center" data-g-event="Surveys: How It Works" data-g-label="Global Nav" href="../../../analytics/audience-center/">Audience Center</a> </li> 
+     <li> <a data-g-action="360 Suite" data-g-event="Surveys: How It Works" data-g-label="Global Nav" href="../../../analytics/360-suite/">Analytics 360 Suite</a> </li> 
+     <li class="partners-link-mobile"> <a class="partners-link" data-g-action="Partners" data-g-event="Surveys: How It Works" data-g-label="Global Nav" href="/analytics/partner-services">Partners</a> </li> 
+     <li class="support-link-mobile"> <a class="support-link" data-g-action="Support" data-g-event="Surveys: How It Works" data-g-label="Global Nav" href="/analytics/services-support">Support</a> </li> 
+    </ul> 
+    <div class="nav-dropdown-wrapper" data-rs-popupmenu="" ng-cloak=""> 
+     <a class="nav-dropdown-trigger partners-link-desktop" data-g-action="Partners" data-g-event="Surveys: How It Works" data-g-label="Global Nav" href="https://www.google.com/analytics/partner-services/"><span>Partners</span></a> 
+     <a class="nav-dropdown-trigger support-link-desktop" data-g-action="Support" data-g-event="Surveys: How It Works" data-g-label="Global Nav" href="https://www.google.com/analytics/services-support"><span>Support</span></a> 
+     <a class="nav-dropdown-trigger" data-g-action="Sign In Menu" data-g-event="Surveys: How It Works" data-g-label="Global Nav CTA" ng-click="dropdownExpanded = !dropdownExpanded"><span>Sign in</span> 
+      <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+       <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+       <path d="M0 0h36v36H0z" fill="none"></path>
+      </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+     <div class="nav-dropdown" ng-class="{'nav-dropdown-expanded': dropdownExpanded}"> 
+      <a class="nav-dropdown-close" ng-click="dropdownExpanded = false">
+       <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+        <path d="M0 0h36v36H0z" fill="none"></path>
+       </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+      <ul> 
+       <li class="nav-dropdown-close-mobile"> <a ng-click="dropdownExpanded = false">Sign in 
+         <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+          <path d="M0 0h36v36H0z" fill="none"></path>
+         </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> </li> 
+       <li> <a data-g-action="Analytics Sign In" data-g-event="Surveys: How It Works" data-g-label="Global Nav CTA" href="https://analytics.google.com/analytics/web/" target="_blank">Analytics</a> </li> 
+       <li> <a data-g-action="Tag Manager Sign In" data-g-event="Surveys: How It Works" data-g-label="Global Nav CTA" href="https://tagmanager.google.com/?hl=en" target="_blank">Tag Manager</a> </li> 
+       <li> <a data-g-action="Optimize Sign In" data-g-event="Surveys: How It Works" data-g-label="Global Nav CTA" href="https://optimize.google.com/" target="_blank">Optimize</a> </li> 
+       <li> <a data-g-action="Data Studio Sign In" data-g-event="Surveys: How It Works" data-g-label="Global Nav CTA" href="https://datastudio.google.com/?hl=en" target="_blank">Data Studio</a> </li> 
+       <li> <a data-g-action="Surveys Sign In" data-g-event="Surveys: How It Works" data-g-label="Global Nav CTA" href="https://surveys.google.com/" target="_blank">Surveys</a> </li> 
+       <li> <a data-g-action="Attribution Sign In" data-g-event="Surveys: How It Works" data-g-label="Global Nav CTA" href="https://attribution.google.com/" target="_blank">Attribution</a> </li> 
+       <li> <a data-g-action="Audience Center Sign In" data-g-event="Surveys: How It Works" data-g-label="Global Nav CTA" href="https://audiencecenter.google.com/" target="_blank">Audience Center</a> </li> 
+       <li> <a data-g-action="Analytics 360 Suite Sign In" data-g-event="Surveys: How It Works" data-g-label="Global Nav CTA" href="https://360suite.google.com/" target="_blank">Analytics 360 Suite</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="cta cta-wrapper"> 
+     <a class="cta-signup" data-g-action="Get Started" data-g-event="Surveys: How It Works" data-g-label="Global Nav CTA" href="https://surveys.google.com/create" target="_blank">Get Started</a> 
+    </div> 
+   </nav>
+   <button class="nav-toggle-button"><span class="icon-menu-els"><span class="menu-bar"></span> <span class="menu-bar"></span> <span class="menu-bar"></span></span></button> 
+  </header> 
+  <div class="main" role="main"> 
+   <section class="section section-dark google-blue overflow-hidden section-hiw-hero"> 
+    <div class="site-width"> 
+     <div class="col-5-fixed"> 
+      <h1> 3 simple steps to online market research. </h1> 
+      <p class="font-large"> Choose your target audience, type your questions, and watch the results roll in within hours. </p>
+      <a class="link-more" data-g-action="Learn More" data-g-event="Surveys: How It Works" data-g-label="Online market research" href="https://www.google.com/analytics/resources/whitepaper-how-google-surveys-works.html" target="_blank">Learn More 
+       <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+        </path>
+       </svg></a> 
+     </div> 
+    </div> 
+    <div class="section-hero-media section-hero-media-right"> 
+     <picture>
+      <source media="(min-width: 768px)" srcset="../../../analytics/images/surveys/how-it-works/hero_1x.png, ../../../analytics/images/surveys/how-it-works/hero_2x.png 2x"> 
+      <img alt="" class="how-it-works-hero" srcset="../../../analytics/images/surveys/how-it-works/hero_m_1x.png, ../../../analytics/images/surveys/how-it-works/hero_m_2x.png 2x"> 
+     </picture> 
+    </div> 
+   </section> 
+   <section class="section section-hiw light-gray"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <section class="section col-10 col-m-6 no-margin accent-deep-teal"> 
+       <div class="fade-viewer-list-wrp col-10-fixed col-offset-2" data-ng-class="{'step-0': viewerStep_1 == 0, 'step-1': viewerStep_1 == 1, 'step-2': viewerStep_1 == 2}"> 
+        <span class="hiw-number">1</span> 
+        <h2> Ask questions </h2> 
+        <p class="font-large"> Reach the audience you want. </p> 
+        <ul class="product-item-list"> 
+         <li class="product-item" data-ng-class="{active: viewerStep_1 == 0}" ng-click="viewerStep_1 = 0"> <a data-g-action="Design Your Survey" data-g-event="Surveys: How It Works" data-g-label="Ask Questions" role="button" tabindex="0"> 
+           <div class="product-item-icon"> 
+            <svg class="icon-product" enable-background="new 0 0 24 24" height="32px" version="1.1" viewbox="0 0 24 24" width="32px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+             <path d="M20 6h-8l-2-2H4c-1.11 0-1.99.89-1.99 2L2 18c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-1 8h-3v3h-2v-3h-3v-2h3V9h2v3h3v2z"></path> 
+            </svg> 
+            <img alt="folder icon gray" class="" height="32" src="//www.google.com/ads/images/icons/icon-create-new-folder.png" width="32"> 
+           </div> 
+           <div class="product-item-icon-active"> 
+            <svg class="icon-product" enable-background="new 0 0 24 24" height="32px" version="1.1" viewbox="0 0 24 24" width="32px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+             <path d="M20 6h-8l-2-2H4c-1.11 0-1.99.89-1.99 2L2 18c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-1 8h-3v3h-2v-3h-3v-2h3V9h2v3h3v2z"></path> 
+            </svg> 
+            <img alt="folder icon" class="" height="32" src="//www.google.com/ads/images/icons/icon-create-new-folder.png" width="32"> 
+           </div></a> 
+          <div class="product-item-info"> 
+           <h3 class="product-item-title" data-g-action="Design Your Survey" data-g-event="Surveys: How It Works" data-g-label="Ask Questions"> Design your survey. </h3> 
+           <div class="product-item-description" data-g-action="Design Your Survey" data-g-event="Surveys: How It Works" data-g-label="Ask Questions">
+             Ask up to 10 questions at a time and select from a variety of question formats, like multiple-choice and star-rating. 
+           </div> 
+          </div> </li> 
+         <li class="product-item" data-ng-class="{active: viewerStep_1 == 1}" data-rs-trigger="animation" ng-click="viewerStep_1 = 1"> <a data-g-action="Decide Who You Want To Take Your Survey" data-g-event="Surveys: How It Works" data-g-label="Ask Questions" role="button" tabindex="0"> 
+           <div class="product-item-icon"> 
+            <svg class="icon-product" enable-background="new 0 0 32 32" height="64px" version="1.1" viewbox="0 0 32 32" width="64px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+             <circle cx="22.1" cy="10.3" r="4.9"></circle> 
+             <path d="M22.1,17.9c-1.5,0-3,0.2-4.3,0.5c2,1.2,3.3,2.9,3.3,4.8V26H32v-2.8C32,20.3,27.6,17.9,22.1,17.9z"> 
+             </path> 
+             <circle cx="9.9" cy="10.3" r="4.9"></circle> 
+             <path d="M9.9,17.9c-5.4,0-9.9,2.4-9.9,5.3V26h19.7v-2.8C19.7,20.3,15.3,17.9,9.9,17.9z"> 
+             </path>
+            </svg> 
+            <img alt="people icon gray" class="icon-product" height="64" src="//www.google.com/ads/images/icons/icon-ui-people.png" width="64"> 
+           </div> 
+           <div class="product-item-icon-active"> 
+            <svg class="icon-product" enable-background="new 0 0 32 32" height="64px" version="1.1" viewbox="0 0 32 32" width="64px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+             <circle cx="22.1" cy="10.3" r="4.9"></circle> 
+             <path d="M22.1,17.9c-1.5,0-3,0.2-4.3,0.5c2,1.2,3.3,2.9,3.3,4.8V26H32v-2.8C32,20.3,27.6,17.9,22.1,17.9z"> 
+             </path> 
+             <circle cx="9.9" cy="10.3" r="4.9"></circle> 
+             <path d="M9.9,17.9c-5.4,0-9.9,2.4-9.9,5.3V26h19.7v-2.8C19.7,20.3,15.3,17.9,9.9,17.9z"> 
+             </path>
+            </svg> 
+            <img alt="people icon" class="icon-product" height="64" src="//www.google.com/ads/images/icons/icon-ui-people.png" width="64"> 
+           </div></a> 
+          <div class="product-item-info"> 
+           <h3 class="product-item-title" data-g-action="Decide Who You Want To Take Your Survey" data-g-event="Surveys: How It Works" data-g-label="Ask Questions"> Decide who you want to take your survey. </h3> 
+           <div class="product-item-description" data-g-action="Decide Who You Want To Take Your Survey" data-g-event="Surveys: How It Works" data-g-label="Ask Questions">
+             Choose whether you’d like your survey to run on our network of online publishers or through our mobile app. Then, filter participants based on demographics, like age, gender, and location or set up a series of screening, or pre-qualification, questions. 
+           </div> 
+          </div> </li> 
+         <li class="product-item" data-ng-class="{active: viewerStep_1 == 2}" ng-click="viewerStep_1 = 2"> <a data-g-action="Reach Highly-Targeted Audiences With Surveys 360" data-g-event="Surveys: How It Works" data-g-label="Ask Questions" role="button" tabindex="0"> 
+           <div class="product-item-icon"> 
+            <svg class="icon-product" enable-background="new 0 0 24 24" height="32px" version="1.1" viewbox="0 0 24 24" width="32px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+             <path d="M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-2 12H6v-2h12v2zm0-3H6V9h12v2zm0-3H6V6h12v2z"></path> 
+            </svg> 
+            <img alt="message icon gray" class="" height="32" src="//www.google.com/ads/images/icons/icon-message.png" width="32"> 
+           </div> 
+           <div class="product-item-icon-active"> 
+            <svg class="icon-product" enable-background="new 0 0 24 24" height="32px" version="1.1" viewbox="0 0 24 24" width="32px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+             <path d="M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-2 12H6v-2h12v2zm0-3H6V9h12v2zm0-3H6V6h12v2z"></path> 
+            </svg> 
+            <img alt="message icon" class="" height="32" src="//www.google.com/ads/images/icons/icon-message.png" width="32"> 
+           </div></a> 
+          <div class="product-item-info"> 
+           <h3 class="product-item-title" data-g-action="Reach Highly-Targeted Audiences With Surveys 360" data-g-event="Surveys: How It Works" data-g-label="Ask Questions"> Reach highly-targeted audiences with Surveys 360. </h3> 
+           <div class="product-item-description" data-g-action="Reach Highly-Targeted Audiences With Surveys 360" data-g-event="Surveys: How It Works" data-g-label="Ask Questions">
+             Measure the effectiveness of your media campaigns by targeting remarketing audiences or use zip-code targeting to reach high-priority or test markets. 
+           </div> 
+          </div> </li> 
+        </ul> 
+        <div class="arrow"></div> 
+       </div> 
+      </section> 
+      <section class="section no-margin deep-teal section-viewer ng-cloak" data-ng-class="{'step-0': viewerStep_1 == 0, 'step-1': viewerStep_1 == 1, 'step-2': viewerStep_1 == 2}" id="section-viewer"> 
+       <div class="" data-rs-animation-router="" data-rs-fade-viewer="animation" data-rs-fade-viewer-step="viewerStep_1"> 
+        <div class="fade-viewer-step-1" data-rs-animation-router=""> 
+         <picture>
+          <source media="(min-width: 768px)" srcset="../../../analytics/images/surveys/how-it-works/question_11_1x.png, ../../../analytics/images/surveys/how-it-works/question_11_2x.png 2x"> 
+          <img alt="" class="viewer-step viewer-laptop" data-ng-show="viewerStep_1 == 0" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+         </picture> 
+        </div> 
+        <div class="fade-viewer-step-2" data-rs-animation-router=""> 
+         <picture>
+          <source media="(min-width: 768px)" srcset="../../../analytics/images/surveys/how-it-works/question_12_1x.png, ../../../analytics/images/surveys/how-it-works/question_12_2x.png 2x"> 
+          <img alt="" class="viewer-step viewer-laptop" data-ng-show="viewerStep_1 == 1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+         </picture> 
+        </div> 
+        <div class="fade-viewer-step-3" data-rs-animation-router=""> 
+         <picture>
+          <source media="(min-width: 768px)" srcset="../../../analytics/images/surveys/how-it-works/question_13_1x.png?mmfb=1bb3359a99679a3df9ce47f9088da81b, ../../../analytics/images/surveys/how-it-works/question_13_2x.png?mmfb=5ce1ce1a4d1a48e52df7b334ab2e3c2a 2x"> 
+          <img alt="" class="viewer-step viewer-laptop" data-ng-show="viewerStep_1 == 2" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+         </picture> 
+        </div> 
+       </div> 
+      </section> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-hiw light-gray"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <section class="section col-10 col-m-6 no-margin accent-light-blue"> 
+       <div class="fade-viewer-list-wrp col-10-fixed col-offset-2" data-ng-class="{'step-0': viewerStep_2 == 0, 'step-1': viewerStep_2 == 1}"> 
+        <span class="hiw-number">2</span> 
+        <h2> Get answers </h2> 
+        <p class="font-large"> Get real answers from real people. </p> 
+        <ul class="product-item-list"> 
+         <li class="product-item" data-ng-class="{active: viewerStep_2 == 0}" ng-click="viewerStep_2 = 0"> <a data-g-action="Respondents Answer Questions In Exchange For Incentives" data-g-event="Surveys: How It Works" data-g-label="Get Answers" role="button" tabindex="0"> 
+           <div class="product-item-icon"> 
+            <svg class="icon-product" enable-background="new 0 0 24 24" height="32px" version="1.1" viewbox="0 0 24 24" width="32px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+             <path d="M20 6h-2.18c.11-.31.18-.65.18-1 0-1.66-1.34-3-3-3-1.05 0-1.96.54-2.5 1.35l-.5.67-.5-.68C10.96 2.54 10.05 2 9 2 7.34 2 6 3.34 6 5c0 .35.07.69.18 1H4c-1.11 0-1.99.89-1.99 2L2 19c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-5-2c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zM9 4c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zm11 15H4v-2h16v2zm0-5H4V8h5.08L7 10.83 8.62 12 11 8.76l1-1.36 1 1.36L15.38 12 17 10.83 14.92 8H20v6z"></path> 
+            </svg> 
+            <img alt="" class="" height="32" src="//www.google.com/ads/images/icons/icon-giftcard.png" width="32"> 
+           </div> 
+           <div class="product-item-icon-active"> 
+            <svg class="icon-product" enable-background="new 0 0 24 24" height="32px" version="1.1" viewbox="0 0 24 24" width="32px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+             <path d="M20 6h-2.18c.11-.31.18-.65.18-1 0-1.66-1.34-3-3-3-1.05 0-1.96.54-2.5 1.35l-.5.67-.5-.68C10.96 2.54 10.05 2 9 2 7.34 2 6 3.34 6 5c0 .35.07.69.18 1H4c-1.11 0-1.99.89-1.99 2L2 19c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-5-2c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zM9 4c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zm11 15H4v-2h16v2zm0-5H4V8h5.08L7 10.83 8.62 12 11 8.76l1-1.36 1 1.36L15.38 12 17 10.83 14.92 8H20v6z"></path> 
+            </svg> 
+            <img alt="" class="" height="32" src="//www.google.com/ads/images/icons/icon-giftcard.png" width="32"> 
+           </div></a> 
+          <div class="product-item-info"> 
+           <h3 class="product-item-title" data-g-action="Respondents Answer Questions In Exchange For Incentives" data-g-event="Surveys: How It Works" data-g-label="Get Answers"> Respondents answer questions in exchange for incentives. </h3> 
+           <div class="product-item-description" data-g-action="Respondents Answer Questions In Exchange For Incentives" data-g-event="Surveys: How It Works" data-g-label="Get Answers">
+             Your questions live across a network of news, reference, and entertainment sites, as well as within our mobile app. Here people answer your questions in exchange for access to premium content, and credits to Google Play. 
+           </div> 
+          </div> </li> 
+         <li class="product-item" data-ng-class="{active: viewerStep_2 == 1}" data-rs-trigger="animation" ng-click="viewerStep_2 = 1"> <a data-g-action="Feel Confident With A Representative Sample" data-g-event="Surveys: How It Works" data-g-label="Get Answers" role="button" tabindex="0"> 
+           <div class="product-item-icon"> 
+            <svg class="icon-product" enable-background="new 0 0 24 24" height="32px" version="1.1" viewbox="0 0 24 24" width="32px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+             <path d="M1 21h4V9H1v12zm22-11c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-1.91l-.01-.01L23 10z"></path> 
+            </svg> 
+            <img alt="thumb up icon gray" class="" height="32" src="//www.google.com/ads/images/icons/icon-thumb-up.png" width="32"> 
+           </div> 
+           <div class="product-item-icon-active"> 
+            <svg class="icon-product" enable-background="new 0 0 24 24" height="32px" version="1.1" viewbox="0 0 24 24" width="32px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+             <path d="M1 21h4V9H1v12zm22-11c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-1.91l-.01-.01L23 10z"></path> 
+            </svg> 
+            <img alt="thumb up icon" class="" height="32" src="//www.google.com/ads/images/icons/icon-thumb-up.png" width="32"> 
+           </div></a> 
+          <div class="product-item-info"> 
+           <h3 class="product-item-title" data-g-action="Feel Confident With A Representative Sample" data-g-event="Surveys: How It Works" data-g-label="Get Answers"> Feel confident with a representative sample. </h3> 
+           <div class="product-item-description" data-g-action="Feel Confident With A Representative Sample" data-g-event="Surveys: How It Works" data-g-label="Get Answers">
+             Google Surveys accurately determines the age, gender, and location of online respondents based on their browsing history and IP address. While on mobile, app users answer demographic questions up front. Which means you get a representative sample of thousands of respondents without having to ask demographic questions yourself. 
+           </div> 
+          </div> </li> 
+        </ul> 
+        <div class="arrow"></div> 
+       </div> 
+      </section> 
+      <section class="section no-margin light-blue section-viewer ng-cloak" data-ng-class="{'step-0': viewerStep_2 == 0, 'step-1': viewerStep_2 == 1}" id="section-viewer"> 
+       <div class="" data-rs-animation-router="" data-rs-fade-viewer="animation" data-rs-fade-viewer-step="viewerStep_2"> 
+        <div class="fade-viewer-step-1" data-rs-animation-router=""> 
+         <picture>
+          <source media="(min-width: 768px)" srcset="../../../analytics/images/surveys/how-it-works/question_21_1x.png, ../../../analytics/images/surveys/how-it-works/question_21_2x.png 2x"> 
+          <img alt="" class="viewer-step viewer-laptop" data-ng-show="viewerStep_2 == 0" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+         </picture> 
+        </div> 
+        <div class="fade-viewer-step-2" data-rs-animation-router=""> 
+         <picture>
+          <source media="(min-width: 768px)" srcset="../../../analytics/images/surveys/how-it-works/question_22_1x.png, ../../../analytics/images/surveys/how-it-works/question_22_2x.png 2x"> 
+          <img alt="" class="viewer-step viewer-laptop" data-ng-show="viewerStep_2 == 1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+         </picture> 
+        </div> 
+       </div> 
+      </section> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-hiw light-gray"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <section class="section col-10 col-m-6 no-margin accent-google-red"> 
+       <div class="fade-viewer-list-wrp col-10-fixed col-offset-2" data-ng-class="{'step-0': viewerStep_3 == 0, 'step-1': viewerStep_3 == 1}"> 
+        <span class="hiw-number">3</span> 
+        <h2> See results </h2> 
+        <p class="font-large"> See initial results within hours. </p> 
+        <ul class="product-item-list"> 
+         <li class="product-item" data-ng-class="{active: viewerStep_3 == 0}" ng-click="viewerStep_3 = 0"> <a data-g-action="Get Analyzed Data" data-g-event="Surveys: How It Works" data-g-label="See Results" role="button" tabindex="0"> 
+           <div class="product-item-icon"> 
+            <svg class="icon-ui" enable-background="new 0 0 32 32" height="24px" version="1.1" viewbox="0 0 32 32" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+             <path d="M28.4,0H3.6C1.6,0,0,1.6,0,3.6v24.9c0,2,1.6,3.6,3.9,3.6h24.9c1.6,0,3.2-1.6,3.2-3.4V3.7C32,1.6,30.4,0,28.4,0z M11,25H7V13 h4V25z M18,25h-4V7h4V25z M25,25h-4v-7.1h4V25z"> 
+             </path>
+            </svg> 
+            <img alt="graph bar icon gray" class="icon-ui" height="24" src="//www.google.com/ads/images/icons/icon-ui-graphbarbox.png" width="24"> 
+           </div> 
+           <div class="product-item-icon-active"> 
+            <svg class="icon-ui" enable-background="new 0 0 32 32" height="24px" version="1.1" viewbox="0 0 32 32" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+             <path d="M28.4,0H3.6C1.6,0,0,1.6,0,3.6v24.9c0,2,1.6,3.6,3.9,3.6h24.9c1.6,0,3.2-1.6,3.2-3.4V3.7C32,1.6,30.4,0,28.4,0z M11,25H7V13 h4V25z M18,25h-4V7h4V25z M25,25h-4v-7.1h4V25z"> 
+             </path>
+            </svg> 
+            <img alt="graph bar icon" class="icon-ui" height="24" src="//www.google.com/ads/images/icons/icon-ui-graphbarbox.png" width="24"> 
+           </div></a> 
+          <div class="product-item-info"> 
+           <h3 class="product-item-title" data-g-action="Get Analyzed Data" data-g-event="Surveys: How It Works" data-g-label="See Results"> Get analyzed data. </h3> 
+           <div class="product-item-description" data-g-action="Get Analyzed Data" data-g-event="Surveys: How It Works" data-g-label="See Results">
+             Google Surveys quickly analyzes your survey data and delivers it in easy-to-navigate graphs, demographic segmentations, and cross-tabs so you can easily draw insights that can help your business thrive. 
+           </div> 
+          </div> </li> 
+         <li class="product-item" data-g-action="Easily Share Results" data-g-event="Surveys: How It Works" data-g-label="See Results" data-ng-class="{active: viewerStep_3 == 1}" data-rs-trigger="animation" ng-click="viewerStep_3 = 1"> 
+          <div class="product-item-icon"> 
+           <svg class="icon-product icon-chat" enable-background="new 0 0 24 24" height="64px" version="1.1" viewbox="0 0 24 24" width="64px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+            <path d="M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM6 9h12v2H6V9zm8 5H6v-2h8v2zm4-6H6V6h12v2z"></path> 
+           </svg> 
+           <img alt="chat icon gray" class="" height="64" src="//www.google.com/ads/images/icons/icon-chat.png" width="64"> 
+          </div> 
+          <div class="product-item-icon-active"> 
+           <svg class="icon-product icon-chat" enable-background="new 0 0 24 24" height="64px" version="1.1" viewbox="0 0 24 24" width="64px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+            <path d="M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM6 9h12v2H6V9zm8 5H6v-2h8v2zm4-6H6V6h12v2z"></path> 
+           </svg> 
+           <img alt="chat icon" class="" height="64" src="//www.google.com/ads/images/icons/icon-chat.png" width="64"> 
+          </div> </li> 
+         <li class="product-item" data-ng-class="{active: viewerStep_3 == 1}" data-rs-trigger="animation" ng-click="viewerStep_3 = 1"> <a data-g-action="Easily Share Results" data-g-event="Surveys: How It Works" data-g-label="See Results" role="button" tabindex="0"> 
+           <div class="product-item-icon"> 
+            <svg class="icon-product icon-chat" enable-background="new 0 0 24 24" height="64px" version="1.1" viewbox="0 0 24 24" width="64px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+             <path d="M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM6 9h12v2H6V9zm8 5H6v-2h8v2zm4-6H6V6h12v2z"></path> 
+            </svg> 
+            <img alt="chat icon gray" class="" height="64" src="//www.google.com/ads/images/icons/icon-chat.png" width="64"> 
+           </div> 
+           <div class="product-item-icon-active"> 
+            <svg class="icon-product icon-chat" enable-background="new 0 0 24 24" height="64px" version="1.1" viewbox="0 0 24 24" width="64px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+             <path d="M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM6 9h12v2H6V9zm8 5H6v-2h8v2zm4-6H6V6h12v2z"></path> 
+            </svg> 
+            <img alt="chat icon gray" class="" height="64" src="//www.google.com/ads/images/icons/icon-chat.png" width="64"> 
+           </div></a> 
+          <div class="product-item-info"> 
+           <h3 class="product-item-title" data-g-action="Easily Share Results" data-g-event="Surveys: How It Works" data-g-label="See Results"> Easily share results. </h3> 
+           <div class="product-item-description" data-g-action="Easily Share Results" data-g-event="Surveys: How It Works" data-g-label="See Results">
+             Share results with your team or customers via email, links, or export them as spreadsheets. 
+           </div> 
+          </div> </li> 
+        </ul> 
+        <div class="arrow"></div> 
+       </div> 
+      </section> 
+      <section class="section no-margin google-red section-viewer ng-cloak" data-ng-class="{'step-0': viewerStep_3 == 0, 'step-1': viewerStep_3 == 1}" id="section-viewer"> 
+       <div class="" data-rs-animation-router="" data-rs-fade-viewer="animation" data-rs-fade-viewer-step="viewerStep_3"> 
+        <div class="fade-viewer-step-1" data-rs-animation-router=""> 
+         <picture>
+          <source media="(min-width: 768px)" srcset="../../../analytics/images/surveys/how-it-works/question_31_1x.png, ../../../analytics/images/surveys/how-it-works/question_31_2x.png 2x"> 
+          <img alt="" class="viewer-step viewer-laptop" data-ng-show="viewerStep_3 == 0" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+         </picture> 
+        </div> 
+        <div class="fade-viewer-step-2" data-rs-animation-router=""> 
+         <picture>
+          <source media="(min-width: 768px)" srcset="../../../analytics/images/surveys/how-it-works/question_32_1x.png, ../../../analytics/images/surveys/how-it-works/question_32_2x.png 2x"> 
+          <img alt="" class="viewer-step viewer-laptop" data-ng-show="viewerStep_3 == 1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+         </picture> 
+        </div> 
+       </div> 
+      </section> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-hiw"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-5"> 
+       <h2> For partners and publishers. </h2> 
+      </div> 
+      <div class="col-6 col-offset-1"> 
+       <h3> Become a partner. </h3> 
+       <p class="font-large"> Interested in building applications that extend Surveys in new and exciting ways? Become a Technology Partner. </p>
+       <a class="link-more" data-g-action="Learn More" data-g-event="Surveys: How It Works" data-g-label="Become A Partner" href="https://developers.google.com/surveys/" target="_blank">Learn More 
+        <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+         </path>
+        </svg></a> 
+       <h3 class="vertical-offset"> Add Surveys to your site. </h3> 
+       <p class="font-large"> Want to implement Surveys on your site? Join the hundreds of publishers already earning revenue from their content. </p>
+       <a class="link-more" data-g-action="Learn More" data-g-event="Surveys: How It Works" data-g-label="Add Surveys To Your Site" href="https://www.google.com/insights/consumersurveys/publishers" target="_blank">Learn More 
+        <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+         </path>
+        </svg></a> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <footer class="footer" id="footer" role="contentinfo"> 
+   <div class="site-width"> 
+    <div class="footer-upper cols-row"> 
+     <div class="footer-social col-6"> 
+      <dl> 
+       <dt>
+         Follow us on: 
+       </dt> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Surveys: How It Works" data-g-label="GPlus" href="https://plus.google.com/+GoogleAnalytics/" rel="noopener nofollow" target="_blank" title="Google+">
+         <svg class="icon-footer-gplus c1" height="20px" version="1.1" viewbox="0 0 23 15" width="30px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <polygon points="23,6 21,6 21,4 19,4 19,6 17,6 17,8 19,8 19,10 21,10 21,8 23,8"> 
+          </polygon> 
+          <path d="M11.8,8.9c-0.1,1.3-1.3,3.4-4.3,3.4c-2.6,0-4.6-2.1-4.6-4.7S5,2.9,7.5,2.9c1.5,0,2.4,0.6,3,1.1 l0,0l2-2c-1.3-1.2-3-2-5-2C3.4,0.1,0,3.5,0,7.6s3.4,7.5,7.5,7.5c4.3,0,7.2-3,7.2-7.3c0-0.6-0.1-1.1-0.2-1.5h-7V9L11.8,8.9L11.8,8.9 z"> 
+          </path>
+         </svg> <img alt="Google+" class="icon-footer-gplus" height="20" src="//www.google.com/ads/images/icons/icon-footer-gplus.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Surveys: How It Works" data-g-label="Blogger" href="https://analytics.googleblog.com/" rel="noopener" target="_blank" title="Blogger">
+         <svg class="icon-footer-blogger" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,0H3.2C1.4,0,0,1.4,0,3.2l0,25.6C0,30.6,1.4,32,3.2,32h25.6c1.8,0,3.2-1.4,3.2-3.2V3.2 C32,1.4,30.6,0,28.8,0 M22.4,11.2v1.6c0,0.9,0.7,1.6,1.6,1.6c0.9,0,1.6,0.7,1.6,1.6v4.8c0,2.7-2.1,4.8-4.8,4.8h-9.6 c-2.7,0-4.8-2.1-4.8-4.8V9.6c0-2.6,2.1-4.8,4.8-4.8h6.4c2.7,0,4.8,2.2,4.8,4.8V11.2z M12.7,12.8h4.2c0.9,0,1.6-0.7,1.6-1.6 s-0.7-1.6-1.6-1.6h-4.2c-0.9,0-1.6,0.7-1.6,1.6S11.8,12.8,12.7,12.8 M19.2,17.6h-6.5c-0.9,0-1.6,0.7-1.6,1.6c0,0.9,0.7,1.6,1.6,1.6 h6.5c0.9,0,1.6-0.7,1.6-1.6C20.8,18.3,20.1,17.6,19.2,17.6"> 
+          </path>
+         </svg> <img alt="Blogger" class="icon-footer-blogger" height="20" src="//www.google.com/ads/images/icons/icon-footer-blogger.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Surveys: How It Works" data-g-label="Linkedin" href="https://www.linkedin.com/company/google-analytics" rel="nofollow" target="_blank" title="LinkedIn">
+         <svg class="icon-footer-linkedin" enable-background="new 0 0 36 36" height="20px" version="1.1" viewbox="0 0 36 36" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M33.334,0.001H2.655C1.19,0.001,0,1.163,0,2.595v30.809c0,1.434,1.19,2.598,2.655,2.598h30.679 c1.468,0,2.667-1.164,2.667-2.598V2.595C36.001,1.163,34.802,0.001,33.334,0.001z M10.68,30.677H5.335V13.498h5.345V30.677z M8.009,11.148c-1.716,0-3.098-1.387-3.098-3.097c0-1.707,1.382-3.095,3.098-3.095c1.708,0,3.095,1.388,3.095,3.095 C11.104,9.761,9.717,11.148,8.009,11.148z M30.675,30.677H25.34v-8.354c0-1.992-0.038-4.556-2.774-4.556 c-2.779,0-3.203,2.17-3.203,4.411v8.498h-5.333V13.498h5.118v2.347h0.073c0.712-1.351,2.455-2.775,5.053-2.775 c5.402,0,6.401,3.557,6.401,8.184V30.677z"> 
+          </path>
+         </svg> <img alt="Linkedin" class="icon-footer-linkedin" height="20" src="//www.google.com/ads/images/icons/icon-footer-linkedin.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Surveys: How It Works" data-g-label="Twitter" href="https://twitter.com/googleanalytics" rel="nofollow" target="_blank" title="Twitter">
+         <svg class="icon-footer-twitter" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,0H3.2C1.4,0,0,1.4,0,3.2l0,25.6C0,30.6,1.4,32,3.2,32h25.6c1.8,0,3.2-1.4,3.2-3.2V3.2 C32,1.4,30.6,0,28.8,0z M25.1,11.7c-0.1,7.4-4.8,12.5-11.9,12.8c-2.9,0.1-5-0.8-6.9-2c2.2,0.3,4.8-0.5,6.2-1.7 c-2.1-0.2-3.4-1.3-3.9-3c0.6,0.1,1.2,0.1,1.8,0c-1.9-0.6-3.3-1.8-3.3-4.3C7.7,13.7,8.3,13.9,9,14c-1.4-0.8-2.5-3.8-1.3-5.7 c2.1,2.3,4.7,4.2,8.8,4.5c-1-4.5,4.9-6.9,7.4-3.9c1.1-0.2,1.9-0.6,2.7-1c-0.3,1-1,1.8-1.8,2.4c0.9-0.1,1.6-0.3,2.3-0.7 C26.8,10.3,25.9,11.1,25.1,11.7z"> 
+          </path>
+         </svg> <img alt="Twitter" class="icon-footer-twitter" height="20" src="//www.google.com/ads/images/icons/icon-footer-twitter.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Surveys: How It Works" data-g-label="Youtube" href="https://www.youtube.com/user/googleanalytics" rel="noopener" target="_blank" title="YouTube">
+         <svg class="icon-footer-youtube" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,3.8c-1-0.3-6.9-0.6-12.8-0.6c-5.9,0-11.8,0.3-12.8,0.6C0.7,4.6,0,10.2,0,16s0.7,11.4,3.2,12.2c1,0.3,6.9,0.6,12.8,0.6 c5.9,0,11.8-0.3,12.8-0.6C31.3,27.4,32,21.8,32,16S31.3,4.7,28.8,3.8 M12.8,22.4V9.6l8.8,6.4L12.8,22.4z"> 
+          </path>
+         </svg> <img alt="YouTube" class="icon-footer-youtube" height="20" src="//www.google.com/ads/images/icons/icon-footer-youtube.png" width="20"></a> 
+       </dd> 
+      </dl> 
+     </div> 
+     <div class="footer-meta-links col-6"> 
+      <ul> 
+       <li> <a href="https://www.google.com/appsstatus#hl=en">Apps Status Dashboard</a> </li> 
+       <li> <a href="https://support.google.com/analytics/answer/7108387" target="_blank">Terms of Service</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <nav class="footer-nav cols-row"> 
+     <dl class="col-3"> 
+      <dt>
+        Learning &amp; Support 
+      </dt> 
+      <dd> 
+       <a href="https://support.google.com/analytics/go/analytics_solutions" rel="noopener" target="_blank">Help Center</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.en.advertisercommunity.com/t5/Google-Analytics/ct-p/Google_Analytics" rel="noopener" target="_blank">User Forum</a> 
+      </dd> 
+      <dd> 
+       <a href="https://analytics.google.com/analytics/gallery/#landing/start/" rel="noopener" target="_blank">Solutions Gallery</a> 
+      </dd> 
+      <dd> 
+       <a href="https://analytics.googleblog.com/" rel="noopener" target="_blank">Analytics Solution Blog</a> 
+      </dd> 
+      <dd> 
+       <a href="https://analyticsacademy.withgoogle.com/" rel="noopener" target="_blank">Analytics Academy</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/analytics/partners/search/apps" rel="noopener" target="_blank">Partner Gallery</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Developers 
+      </dt> 
+      <dd> 
+       <a href="https://developers.google.com/analytics/?hl=en" rel="noopener" target="_blank">Analytics Developer Site</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/tag-manager/?hl=en" rel="noopener" target="_blank">Tag Manager Developer Site</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/surveys/?hl=en" rel="noopener" target="_blank">Surveys Developer Site</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Related Products 
+      </dt> 
+      <dd> 
+       <a href="https://adwords.google.com/home/?subid=ww-ww-et-g-aw-a-rs_ga_solutions_1-!o2" rel="noopener" target="_blank">AdWords</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.doubleclickbygoogle.com/" rel="noopener" target="_blank">DoubleClick</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/adsense/start/?subid=ww-ww-et-analytics-site&amp;utm_source=internal&amp;utm_medium=et&amp;utm_campaign=analytics-site" rel="noopener" target="_blank">AdSense</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/admob/?subid=ww-ww-et-analytics-site&amp;utm_source=internal&amp;utm_medium=et&amp;utm_campaign=analytics-site" rel="noopener" target="_blank">AdMob</a> 
+      </dd> 
+      <dd> 
+       <a href="https://cloud.google.com/bigquery/?hl=en" rel="noopener" target="_blank">BigQuery</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        More from Google 
+      </dt> 
+      <dd> 
+       <a href="https://www.google.com/services/?subid=ww-ww-et-g-aw-a-rs_ga_solutions_2-!o2" rel="noopener" target="_blank">Business Solutions</a> 
+      </dd> 
+      <dd> 
+       <a href="https://cloud.google.com/?hl=en" rel="noopener" target="_blank">Google Cloud Platform</a> 
+      </dd> 
+      <dd> 
+       <a href="https://apps.google.com/" rel="noopener" target="_blank">Google Apps for Work</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.thinkwithgoogle.com/topics/measurement.html" rel="noopener" target="_blank">Think with Google</a> 
+      </dd> 
+      <dd> 
+       <a href="https://testmysite.thinkwithgoogle.com/?utm_source=ga&amp;utm_medium=referral&amp;utm_content=ww-ww-ga" rel="noopener" target="_blank">Test My Site</a> 
+      </dd> 
+     </dl> 
+    </nav> 
+    <div class="footer-lower cols-row"> 
+     <div class="footer-meta-links col-9"> 
+      <ul> 
+       <li> <a href="https://support.google.com/analytics/?hl=en#topic=3544906">
+         <svg class="icon-footer-help" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path clip-rule="evenodd" d="M16 0C7.2 0 0 7.2 0 16c0 3 .9 5.9 2.3 8.3L0 32l7.7-2.3C10.2 31.1 13 32 16 32c8.8 0 16-7.2 16-16S24.8 0 16 0zm1.3 24.6c-.3.3-.7.5-1.2.5s-1-.2-1.2-.5c-.3-.3-.4-.7-.4-1.1 0-.2 0-.4.1-.6.1-.2.2-.4.3-.5.1-.1.3-.3.5-.3.2-.1.4-.1.7-.1.3 0 .5 0 .7.1.2.1.4.2.5.3.1.1.3.3.3.5.1.2.1.4.1.6 0 .5-.1.8-.4 1.1zm3.8-11.4c-.2.5-.4.9-.6 1.3l-.9 1.2c-.3.4-.7.8-1 1.1-.4.4-.7.9-.9 1.4-.2.5-.2.8-.3 1.8h-2.8c0-1 0-1.2.1-1.6.1-.4.2-1 .3-1.3.2-.3.4-.7.6-1 .2-.3.6-.7.9-1 .2-.3.5-.5.7-.7.2-.2.4-.5.6-.7.2-.3.3-.5.4-.8.1-.3.1-.6.1-1 0-.8-.2-1.4-.6-1.8-.4-.4-1-.6-1.7-.6-.3 0-.6.1-.9.1-.3.1-.5.2-.8.4s-.4.6-.5.8c-.1.3-.2 1.2-.2 1.2h-3c0-2 .2-1.6.4-2.2.3-.6.7-1.2 1.1-1.6.5-.4 1-.7 1.7-.9.8-.3 1.5-.4 2.2-.4.8 0 1.6.1 2.2.3.7.2 1.2.5 1.7.9s.8.9 1 1.5c.2.6.4 1.3.4 2.1 0 .6-.1 1.1-.2 1.5z" fill-rule="evenodd"></path>
+         </svg> <img alt="Help" class="icon-footer-help" height="20" src="//www.google.com/ads/images/icons/icon-footer-help.png" width="20"> Help</a> </li> 
+       <li> <a href="//www.google.com">Google</a> </li> 
+       <li> <a href="//www.google.com/intl/en/policies/privacy/">Privacy</a> </li> 
+       <li> <a href="//www.google.com/intl/en/policies/terms/">Terms</a> </li> 
+      </ul> 
+     </div> 
+     <div class="footer-locale-switcher col-3"> 
+      <label class="visually-hidden" for="footer-locales"><span>Change language or region:</span></label> 
+      <select class="footer-locales" id="footer-locales" onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="//www.google.com/intl/id/analytics/"> Bahasa Indonesia </option> <option value="//www.google.com/intl/ca/analytics/"> Català </option> <option value="//www.google.com/intl/cs/analytics/"> Čeština </option> <option value="//www.google.com/intl/da/analytics/"> Dansk </option> <option value="//www.google.com/intl/de/analytics/"> Deutsch </option> <option value="//www.google.com/intl/en/analytics/"> English </option> <option selected value="//www.google.com/intl/en/analytics/"> English </option> <option value="//www.google.co.uk/intl/en/analytics/"> English – United Kingdom </option> <option value="//www.google.com/intl/es/analytics/"> Español </option> <option value="//www.google.com/intl/tl/analytics/"> Filipino </option> <option value="//www.google.com/intl/fr/analytics/"> Français </option> <option value="//www.google.com/intl/it/analytics/"> Italiano </option> <option value="//www.google.com/intl/lt/analytics/"> Lietuvių </option> <option value="//www.google.com/intl/hu/analytics/"> Magyar </option> <option value="//www.google.com/intl/nl/analytics/"> Nederlands </option> <option value="//www.google.com/intl/no/analytics/"> Norsk </option> <option value="//www.google.com/intl/pl/analytics/"> Polski </option> <option value="//www.google.com/intl/pt-BR/analytics/"> Português (Brasil) </option> <option value="//www.google.com/intl/pt-PT/analytics/"> Português (Portugal) </option> <option value="//www.google.com/intl/sk/analytics/"> Slovenčina </option> <option value="//www.google.com/intl/fi/analytics/"> Suomi </option> <option value="//www.google.com/intl/sv/analytics/"> Svenska </option> <option value="//www.google.com/intl/vi/analytics/"> Tiếng Việt </option> <option value="//www.google.com/intl/tr/analytics/"> Türkçe </option> <option value="//www.google.com/intl/el/analytics/"> Ελληνικά </option> <option value="//www.google.com/intl/bg/analytics/"> Български </option> <option value="//www.google.com/intl/ru/analytics/"> Русский </option> <option value="//www.google.com/intl/th/analytics/"> ไทย </option> <option value="//www.google.com/intl/ko/analytics/"> 한국어 </option> <option value="//www.google.com/intl/zh-CN/analytics/"> 中文（简体中文） </option> <option value="//www.google.com/intl/zh-TW/analytics/"> 中文（繁體中文） </option> <option value="//www.google.com/intl/ja/analytics/"> 日本語 </option> </select> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <script src="//www.gstatic.com/external_hosted/picturefill/picturefill.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-messages.min.js"></script> 
+  <script src="/analytics/js/surveys.min.js"></script> 
+  <noscript>
+   <iframe class="c2" height="0" src="//www.googletagmanager.com/ns.html?id=GTM-KLXF7H" width="0"></iframe>
+  </noscript>  
+ </body>
+</html>

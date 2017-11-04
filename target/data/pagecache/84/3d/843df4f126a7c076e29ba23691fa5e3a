@@ -1,0 +1,491 @@
+<!doctype html>
+<html class="no-js" dir="ltr" lang="hr">
+ <head> 
+  <meta charset="utf-8"> 
+  <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"> 
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"> 
+  <title>
+      Google prezentacije – izrađujte i uređujte prezentacije na mreži, besplatno.
+    </title> 
+  <meta content="Izradite novu prezentaciju i uređujte je istovremeno s drugima. Obavljajte zadatke dok ste povezani s internetom ili izvanmrežno. Uređujte PowerPointove datoteke pomoću Prezentacija. Sve vam to besplatno omogućuje Google." name="description"> 
+  <script src="//www.google.com/js/google.js"></script> 
+  <script>
+    new gweb.analytics.AutoTrack({profile:"UA-48684867-1"});
+    </script> 
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600&amp;subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic" rel="stylesheet"> 
+  <link href="https://www.google.com/intl/hr/slides/about/" rel="canonical"> 
+  <link href="favicon.ico" rel="shortcut icon"> 
+  <link href="css/slides.min.css" rel="stylesheet"> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/modernizr.js"></script> 
+ </head> 
+ <body class="editors-layout nav-collapsed slides"> 
+  <header class="header" role="banner"> 
+   <div class="header-item with-site-logo"> 
+    <a class="site-logo site-logo-link" href="/"> 
+     <div class="site-logo-image icon icon-google-logo-dark">
+       Google uređivači 
+     </div></a> 
+   </div> 
+   <nav data-nav-name="mobile"> 
+    <ul class="nav-main"> 
+     <li> <a class="docs" href="../../docs/about/"><span class="icon icon-docs-icon">&nbsp;</span> Dokumenti</a> </li> 
+     <li> <a class="sheets" href="../../sheets/about/"><span class="icon icon-sheets-icon">&nbsp;</span> Tablice</a> </li> 
+     <li> <a class="slides" href="../../slides/about/"><span class="icon icon-slides-icon">&nbsp;</span> Prezentacije</a> </li> 
+     <li class="forms nav-main-last"> <a class="forms" href="../../forms/about/"><span class="icon icon-forms-icon">&nbsp;</span> Obrasci</a> </li> 
+    </ul> 
+    <ul class="nav-tertiary"> 
+     <li> <a class="work" href="https://gsuite.google.com/features/?utm_source=slidesforwork&amp;utm_medium=et&amp;utm_campaign=refresh&amp;utm_content=header&amp;hl=hr"> Za posao</a> </li> 
+     <li class="tertiary-last"> <a href="https://support.google.com/docs?hl=hr&amp;p=#topic=2811776">Pomoć</a> </li> 
+     <li class="mobile-is-hidden desktop-small-is-hidden float-in"> <a class="get-google-editors js-dropdown-toggle" data-g-action="Goes to web editor" data-g-event="outboundlink-CTAs" data-g-label="Corner nav" href="https://docs.google.com/presentation/?usp=mkt_slides">Idite na Google prezentacije</a> </li> 
+    </ul> 
+   </nav> 
+   <div class="mobile-nav-toggle js-mobilenav"> 
+    <div class="icon icon-mobile-open toggle-nav-open js-mobilenav-toggle" data-target-nav="mobile">
+      &nbsp; 
+    </div> 
+    <div class="icon icon-mobile-close toggle-nav-closed js-mobilenav-toggle-close" data-target-nav="mobile">
+      &nbsp; 
+    </div> 
+   </div> 
+  </header> 
+  <section class="section-intro section-intro-fullscreen" id="section-intro"> 
+   <div class="section-photo-intro section-photo js-parallax-image" data-origin="0" data-reverse-parallax="true"></div> 
+   <div class="section-centered section-vertical-align js-vertical-align js-parallax-image" data-origin="0" data-parallax-fade="true" data-parallax-speed="3" data-reverse-parallax="true"> 
+    <div class="one-whole"> 
+     <span class="section-headline section-headline-large section-headline-white mobile-is-visible">Izrađujte nevjerojatne <span class="type-out-beam type-out-beam-small allow-orphan"><span class="type-out-name type-out-name-small">Kim</span></span> prezentacije</span> 
+     <h1 class="section-headline section-headline-large section-headline-white allow-orphan mobile-is-hidden"> Izrađujte lijepe prezentacije <span class="type-out-beam allow-orphan js-beam"><span class="type-out-name js-name">Beata</span></span> </h1> 
+     <p class="section-body section-body-white section-body-bold"> Uz pomoć Google prezentacija možete izrađivati, uređivati i prikazivati prezentacije te surađivati na njima, ma gdje se nalazili. I to besplatno. </p>
+     <a class="maia-button button-download desktop-is-hidden mobile-is-visible no-touch-tablet-is-hidden mobile-download js-mobile-download" data-g-action="Goes to Playstore" data-g-event="outboundlink-CTAs" data-g-label="Top button" data-href="https://itunes.apple.com/app/apple-store/id879478102?pt=9008&amp;ct=slides_mkt_remote&amp;mt=8" href="http://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&amp;hl=hr" target="_blank">Preuzmite Google prezentacije</a> 
+     <div class="dropdown-container tablet-mobile-is-hidden no-touch-tablet-is-visible"> 
+      <a class="maia-button button-download" data-g-action="Goes to web editor" data-g-event="outboundlink-CTAs" data-g-label="Top button" href="https://docs.google.com/presentation/?usp=mkt_slides">Idite na Google prezentacije</a> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="arrow-hint"> 
+    <a class="gweb-smoothscroll-control" href="#start"> 
+     <div class="icon icon-arrow-hint animated-arrow-1"> 
+      <!----> 
+     </div> 
+     <div class="icon icon-arrow-hint animated-arrow-2"> 
+      <!----> 
+     </div></a> 
+   </div> 
+  </section> 
+  <div class="unfixed-wrapper" id="start"> 
+   <section class="section-subscribe inline js-vertical-wrapper" id="section-subscribe"> 
+    <div class="section-centered maia-cols js-vertical-panel"> 
+     <form class="newsletter-form"> 
+      <input class="newsletter-email" name="email" placeholder="Enter email for updates &amp; tips" type="text"> 
+      <input name="app-source" type="hidden" value="Prezentacije"> 
+      <input name="language-pref" type="hidden" value="hr"> 
+      <a class="newsletter-submit button maia-button button-download templates-button" href="#" onclick="_gaq.push(['_trackEvent', 'Click', 'newsignup', 'true']);" target="_blank">Sign up</a> 
+      <div class="newsletter-spinner"></div> 
+      <p class="newsletter-error"> Please enter a valid email address </p> 
+      <p class="newsletter-success"> Thanks for signing up. You can unsubscribe at any time at the bottom of any email you receive from Google Docs. </p> 
+     </form> 
+    </div> 
+   </section> 
+   <section class="section-makegreat js-vertical-wrapper" id="section-tell"> 
+    <div class="section-centered maia-columns"> 
+     <div class="photo-crop"> 
+      <!--[if IE ]>
+          <div class="ie-image"></div>
+        <![endif]--> 
+      <!--[if !IE]>--> 
+      <div class="static-image"></div> 
+      <div class="dynamic-image"> 
+       <div class="orange"></div> 
+       <div class="outer-frame"> 
+        <div class="frame2"> 
+         <div class="name1">
+           Eddie 
+         </div> 
+        </div> 
+        <div class="text-container"> 
+         <div class="text"> 
+          <p class="bigger"> HEALTHY </p> 
+          <p class="bigger"> HONEYBEES </p> 
+          <p> Everyone needs them! </p> 
+          <p> Honeybees play a critical role in the development of our fruit, flowers, and more. </p> 
+         </div> 
+         <div class="textBlock1"></div> 
+         <div class="textBlock2"></div> 
+         <div class="textBlock3"></div> 
+         <div class="textBlock4"></div> 
+         <div class="textBlock5"></div> 
+         <div class="textBlock6"></div> 
+        </div> 
+        <div class="frame6"></div> 
+        <div class="frame5"> 
+         <div class="name3">
+           Lindsay 
+         </div> 
+        </div> 
+        <div class="frame4"></div> 
+        <div class="frame3"> 
+         <div class="name2">
+           Jono 
+         </div> 
+        </div> 
+        <div class="frame8"></div> 
+        <div class="frame7"> 
+         <div class="name4">
+           Salit 
+         </div> 
+        </div> 
+       </div> 
+      </div>
+      <!--<![endif]--> 
+     </div> 
+     <div class="maia-col-6 mobile-is-hidden"></div> 
+     <div class="maia-col-6 vertical-pad js-vertical-panel mobile-is-centered"> 
+      <h2 class="heading-headline allow-orphan"> Ispričajte ono što je važno </h2> 
+      <p class="section-body"> Uz Google prezentacije vaše će ideje zasjati uz pomoć brojnih prezentacijskih tema, tisuća fontova, ugrađenih videozapisa, animacija i još koječega. I sve to besplatno. </p> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section-download position-rel" id="section-download"> 
+    <div class="photo-crop"></div> 
+    <div class="section-centered maia-cols js-vertical-wrapper"> 
+     <div class="maia-col-6 mobile-is-centered js-vertical-panel"> 
+      <h2 class="heading-headline allow-orphan"> Pristupajte svojim prezentacijama bilo kad i bilo gdje </h2> 
+      <p class="section-body"> Pristupajte prezentacijama, izrađujte ih i uređujte ma gdje se nalazili – putem mobitela, tableta ili računala. </p> 
+      <div class="dropdown-container tablet-mobile-is-hidden no-touch-tablet-is-visible js-dropdown"> 
+       <a class="maia-button button-download js-dropdown-toggle" href="//docs.google.com" target="_blank">Preuzmite aplikaciju <span class="icon icon-down-arrow"> 
+         <!-- --></span></a> 
+       <ul class="dropdown js-dropdown-menu"> 
+        <li> <a data-g-action="Goes to Playstore" data-g-event="outboundlink-CTAs" data-g-label="Mobile button" href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&amp;hl=hr" target="_blank">Preuzmite Prezentacije za Android</a> </li> 
+        <li> <a data-g-action="Goes to Appstore" data-g-event="outboundlink-CTAs" data-g-label="Mobile button" href="https://itunes.apple.com/app/apple-store/id879478102?pt=9008&amp;ct=slides_mkt_remote&amp;mt=8" target="_blank">Preuzmite Prezentacije za iPhone i iPad</a> </li> 
+       </ul> 
+      </div>
+      <a class="maia-button button-download desktop-is-hidden mobile-is-visible no-touch-tablet-is-hidden mobile-download js-mobile-download" data-g-action="Goes to Playstore" data-g-event="outboundlink-CTAs" data-g-label="Top button" data-href="https://itunes.apple.com/app/apple-store/id879478102?pt=9008&amp;ct=slides_mkt_remote&amp;mt=8" href="//play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&amp;hl=hr" target="_blank">Preuzmite Google prezentacije</a> 
+     </div> 
+     <div class="maia-col-6 mobile-is-hidden"></div> 
+    </div> 
+   </section> 
+   <section class="section-stuffdone light-gray" id="section-do-more"> 
+    <div class="section-centered maia-cols fix-overflow"> 
+     <div class="tabs tabs-space js-tabs" data-tab-name="get-stuff-done"> 
+      <div class="tabs-content js-tab-content-container mobile-is-hidden js-select-menu-container" data-select-first="true" data-select-populated="true"> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Get stuff done" data-tab-name="stuff-done"> 
+        <div class="tabs-detail-holder tabs-detail-worktogether js-avatar-container"> 
+         <div class="worktogether-add-button has-shadow js-together-button"></div> 
+         <div class="worktogether-avatar avatar-left has-shadow js-avatar js-together-avatar-one"> 
+          <img alt="Petrin avatar" src="images/common/add-pam.jpg"> 
+         </div> 
+         <div class="worktogether-avatar avatar-center has-shadow js-avatar js-together-avatar-two"> 
+          <img alt="Teov avatar" src="images/common/add-tom.jpg"> 
+         </div> 
+         <div class="worktogether-avatar avatar-right has-shadow js-avatar js-together-avatar-three"> 
+          <img alt="Anin avatar" src="images/common/add-kim.jpg"> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Share with Anyone" data-tab-name="share"> 
+        <div class="tabs-detail-holder tabs-detail-share"> 
+         <div class="share-share-button has-shadow js-share-button"> 
+          <h2 class="heading-headline"> Dijeljenje </h2> 
+         </div> 
+         <div class="share-invite has-shadow js-share-invite"> 
+          <h2 class="heading-headline"> Pozovite druge osobe: </h2> 
+          <div class="share-invite-box"> 
+           <p class="section-body"> Unesite imena, e-adrese... </p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Edit in real-time" data-tab-name="edit"> 
+        <div class="tabs-detail-holder tabs-detail-edit has-shadow"> 
+         <h1 class="section-headline"> SVIMA TREBA <span class="type-out-beam type-out-beam-small allow-orphan js-beam"><span class="type-out-name type-out-name-small js-name">Beata</span></span> </h1> 
+         <p class="section-body"> <span class="js-typeout-parent js-typeout-three"><span class="type-out teal js-typeout" data-words="MED"><span class="type-out-word js-word">
+             <!-- --></span> <span class="type-out-beam type-out-beam-small allow-orphan js-beam" data-names="Petra"><span class="type-out-name type-out-name-small js-name"> 
+              <!-- --></span></span></span></span> </p> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Chat and comment" data-tab-name="chat"> 
+        <div class="tabs-detail-holder tabs-detail-chat"> 
+         <div class="chat-message chat-message-top"> 
+          <div class="chat-message-text has-shadow js-message-one">
+            Što misliš, kad ćeš završiti s uređivanjem? 
+           <div class="chat-message-timestamp">
+             Uto, 13.06 
+           </div> 
+          </div> 
+          <div class="chat-message-avatar has-shadow js-avatar-one"> 
+           <img alt="Anin avatar" src="images/common/message-avatar-top.jpg"> 
+          </div> 
+         </div> 
+         <div class="chat-message chat-message-bottom js-message-two"> 
+          <div class="chat-message-text has-shadow">
+            Možda do dva? 
+           <div class="chat-message-timestamp">
+             Uto, 13.06 
+           </div> 
+          </div> 
+          <div class="chat-message-avatar js-avatar-two"> 
+           <img alt="Teov avatar" src="images/common/message-avatar-bottom.jpg"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="maia-col-6 mobile-is-hidden"></div> 
+      <div class="maia-col-6"> 
+       <div class="tabs-list js-mobile-slides js-dynamic-slideheight"> 
+        <div class="tabs-tab tabs-tab-first mobile-slide-stuff-done js-activate-tab js-stuff-trigger js-mobile-slide js-tab-padding" data-tab-target="stuff-done"> 
+         <label class="tabs-label js-tab-text"><span class="tab-label-title">Napravite više zajedno</span> <span class="tabs-label-caption">Uz Google prezentacije svi mogu istovremeno raditi na istoj prezentaciji.</span></label> 
+        </div> 
+        <div class="tabs-tab mobile-slide-share js-share-trigger js-activate-tab js-mobile-slide js-tab-padding" data-tab-target="share"> 
+         <label class="tabs-label js-tab-text"><span class="tab-label-title">Dijeljenje sadržaja sa svima</span> <span class="tabs-label-caption">Kliknite Podijeli i omogućite svima – prijateljima, školskim kolegama, suradnicima, obitelji – da pregledaju, komentiraju ili urede prezentaciju.</span></label> 
+        </div> 
+        <div class="tabs-tab mobile-slide-edit js-activate-tab js-edit-trigger js-mobile-slide js-tab-padding" data-tab-target="edit"> 
+         <label class="tabs-label js-tab-text"><span class="tab-label-title">Uređivanje u stvarnom vremenu</span> <span class="tabs-label-caption">Kad netko uređuje vašu prezentaciju, možete vidjeti njegov pokazivač dok unosi izmjene ili označava tekst.</span></label> 
+        </div> 
+        <div class="tabs-tab mobile-slide-chat js-activate-tab js-chat-trigger js-mobile-slide js-tab-padding" data-tab-target="chat"> 
+         <label class="tabs-label js-tab-text"><span class="tab-label-title">Chatanje i komentiranje</span> <span class="tabs-label-caption">Chatajte s drugima izravno u bilo kojoj prezentaciji ili dodajte komentar, znak "+" i njihovu e-adresu i oni će dobiti obavijest.</span></label> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section-save js-vertical-wrapper" id="section-save"> 
+    <div class="section-centered maia-cols"> 
+     <div class="maia-col-6 mobile-is-centered js-vertical-panel"> 
+      <h2 class="heading-headline"> Više nikada nećete morati kliknuti "Spremi" </h2> 
+      <p class="section-body"> Sve se promjene automatski spremaju tijekom unosa. Možete upotrebljavati i povijest izmjena da biste vidjeli starije verzije iste prezentacije razvrstane po datumu i imenu osobe koja je unijela izmjene. </p> 
+     </div> 
+     <div class="maia-col-6 mobile-is-hidden"> 
+      <div class="save js-save"> 
+       <div class="line-container line-container-left"> 
+        <span class="line line-80">
+         <!-- --></span> 
+        <span class="line line-60 save-last js-spell">
+         <!-- --></span> 
+       </div> 
+       <div class="line-container line-container-right"> 
+        <span class="line line-40">
+         <!-- --></span> 
+       </div>
+       <span class="icon icon-check">
+        <!-- --></span> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section-workswith light-gray" id="section-works-with"> 
+    <div class="section-centered section-centered-text js-mobile-slides js-dynamic-slideheight"> 
+     <h2 class="heading-headline"> Funkcionira s PowerPointom </h2> 
+     <div class="maia-col-4 js-mobile-slide"> 
+      <div class="photo-crop icon-open js-tab-padding"></div> 
+      <p class="slide-text allow-orpahn js-tab-text"> Otvorite i uređujte ili spremajte Microsoft PowerPoint datoteke s <a data-g-action="Goes to Chromecast extension" data-g-event="outboundlink-CTAs" data-g-label="" href="https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj?hl=hr" target="_blank">proširenjem za Chrome</a>. </p> 
+     </div> 
+     <div class="maia-col-4 js-mobile-slide"> 
+      <div class="photo-crop icon-save js-tab-padding"></div> 
+      <p class="slide-text allow-orpahn js-tab-text"> Pretvarajte PowerPoint datoteke u Google prezentacije i obrnuto. </p> 
+     </div> 
+     <div class="maia-col-4 js-mobile-slide"> 
+      <div class="photo-crop icon-free js-tab-padding"></div> 
+      <p class="slide-text allow-orpahn js-tab-text"> Ne morate više brinuti o formatima datoteka. </p> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section-demo js-demo" id="section-show-up"> 
+    <div class="section-centered maia-cols"> 
+     <div class="maia-col-6 demo-slides-mobile-bg mobile-is-centered"> 
+      <h2 class="heading-headline"> Pokažite što želite bez postavljanja opreme </h2> 
+      <p class="section-body"> Predstavite svoje priče na jednostavan način. Žice nisu potrebne. Google prezentacije podržavaju izlaganje u <a href="https://store.google.com/product/chromecast?utm_source=Chrome&amp;utm_medium=PP&amp;utm_campaign=CC&amp;utm_medium=PP" target="_blank">Chromecast</a> Hangoutsima i AirPlayu. </p> 
+      <div class="dropdown-container tablet-mobile-is-hidden no-touch-tablet-is-visible js-dropdown"> 
+       <a class="maia-button button-download js-dropdown-toggle" href="//docs.google.com" target="_blank">Preuzmite aplikaciju <span class="icon icon-down-arrow"> 
+         <!-- --></span></a> 
+       <ul class="dropdown js-dropdown-menu"> 
+        <li> <a data-g-action="Goes to Playstore" data-g-event="outboundlink-CTAs" data-g-label="Mobile button" href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&amp;hl=hr" target="_blank">Preuzmite Prezentacije za Android</a> </li> 
+        <li> <a data-g-action="Goes to Appstore" data-g-event="outboundlink-CTAs" data-g-label="Mobile button" href="https://itunes.apple.com/app/apple-store/id879478102?pt=9008&amp;ct=slides_mkt_remote&amp;mt=8" target="_blank">Preuzmite Prezentacije za iPhone i iPad</a> </li> 
+       </ul> 
+      </div>
+      <a class="maia-button button-download desktop-is-hidden mobile-is-visible no-touch-tablet-is-hidden mobile-download js-mobile-download" data-g-action="Goes to Playstore" data-g-event="outboundlink-CTAs" data-g-label="Top button" data-href="https://itunes.apple.com/app/apple-store/id879478102?pt=9008&amp;ct=slides_mkt_remote&amp;mt=8" href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&amp;hl=hr" target="_blank">Preuzmite Google prezentacije</a> 
+     </div> 
+     <div class="demo-animation-wrapper"> 
+      <div class="demo-animation js-demo-animation mobile-is-hidden"> 
+       <div class="demo-gestures-wrapper"> 
+        <div class="demo-demo-arrow-wrap"> 
+         <div class="demo demo-demo-arrow js-demo-arrow"></div> 
+        </div> 
+        <div class="demo demo-demo-cursor js-demo-cursor"></div> 
+        <div class="demo demo-demo-cursor-press js-demo-cursor-press"></div> 
+        <div class="demo-demo-remote-press js-demo-remote-press"></div> 
+        <div class="demo demo-demo-timer js-demo-timer">
+          00 
+        </div> 
+       </div> 
+       <div class="demo-slides"> 
+        <div class="demo demo-demo-slide01 js-demo-slide01"></div> 
+        <div class="demo demo-demo-slide02 js-demo-slide02"></div> 
+        <div class="demo demo-demo-slide03 js-demo-slide03"></div> 
+        <div class="demo demo-demo-slide04 js-demo-slide04"></div> 
+        <div class="demo demo-demo-slide05 js-demo-slide05"></div> 
+        <div class="demo demo-demo-slide06 js-demo-slide06"></div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section-getstarted light-gray js-vertical-wrapper" id="section-get"> 
+    <div class="section-centered maia-columns"> 
+     <div class="photo-crop"></div> 
+     <div class="maia-col-6 mobile-is-hidden"></div> 
+     <div class="maia-col-6 vertical-pad js-vertical-panel"> 
+      <h2 class="heading-headline allow-orphan"> Započnite odmah </h2> 
+      <p class="section-body"> Prezentacije su spremne kad god poželite. Jednostavno izradite prezenteciju pomoću preglednika ili preuzmite aplikaciju za mobilni uređaj. </p> 
+      <div class="dropdown-container tablet-mobile-is-hidden no-touch-tablet-is-visible js-dropdown"> 
+       <a class="maia-button button-download js-dropdown-toggle" data-g-action="Goes to web editor" data-g-event="outboundlink-CTAs" data-g-label="Bottom button" href="//slides.google.com" target="_blank">Preuzmite Google prezentacije <span class="icon icon-down-arrow">
+         <!-- --></span></a> 
+       <ul class="dropdown js-dropdown-menu"> 
+        <li> <a data-g-action="Goes to web editor" data-g-event="outboundlink-CTAs" data-g-label="Bottom button" href="//docs.google.com/presentation/?usp=mkt_slides" target="_blank">Idi na Prezentacije</a> </li> 
+        <li> <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&amp;referrer=utm_source%3Dslides_mkt%26utm_medium%3Dmobile_section%26utm_campaign%3Dslides_mkt" target="_blank">Preuzmite Prezentacije za Android</a> </li> 
+        <li> <a href="https://itunes.apple.com/app/apple-store/id879478102?pt=9008&amp;ct=slides_mkt&amp;mt=8" target="_blank">Preuzmite Disk za iPhone i iPad</a> </li> 
+       </ul> 
+      </div>
+      <a class="maia-button button-download desktop-is-hidden mobile-is-visible no-touch-tablet-is-hidden mobile-download js-mobile-download" data-g-action="Goes to Playstore" data-g-event="outboundlink-CTAs" data-g-label="Top button" data-href="https://itunes.apple.com/app/apple-store/id879478102?pt=9008&amp;ct=slides_mkt_remote&amp;mt=8" href="http://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&amp;hl=hr">Preuzmite Google prezentacije</a> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <div class="section-subscribe modal hide"> 
+   <div class="newsletter-modal"> 
+    <div class="newsletter-close"></div> 
+    <h1 class="heading-headline"> Stay in the know </h1> 
+    <p class="section-body"> Never miss out on the latest updates and handy tips for getting the most out of Google Docs. </p> 
+    <form class="newsletter-form"> 
+     <input class="newsletter-email" name="email" placeholder="Enter email for updates &amp; tips" type="text"> 
+     <input name="app-source" type="hidden" value="Prezentacije"> 
+     <input name="language-pref" type="hidden" value="hr"> 
+     <a class="newsletter-submit button maia-button button-download" href="#" onclick="_gaq.push(['_trackEvent', 'Click', 'newsignup', 'true']);" target="_blank">Sign up</a> 
+     <div class="newsletter-spinner"></div> 
+     <div class="newsletter-results"> 
+      <p class="newsletter-error"> Please enter a valid email address </p> 
+      <p class="newsletter-success"> Thanks for signing up. You can unsubscribe at any time at the bottom of any email you receive from Google Docs. </p> 
+     </div> 
+    </form> 
+    <div class="newsletter-footer"> 
+     <p class="newsletter-terms"> <a href="https://www.google.com/intl/en/policies/privacy/">terms of use</a> </p> 
+     <p class="newsletter-privacy"> <a href="https://www.google.com/intl/en/policies/terms/">privacy policy</a> </p> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="maia-cols first"> 
+      <div class="maia-col-2 footer-top social">
+        Dijeli: 
+       <span class="plusone-button" id="plusone-httpwwwgooglecoma"></span> 
+       <script>
+              window.___gcfg = {
+      lang: 'hr',
+      parsetags: 'explicit'
+    };
+
+    var gweb = gweb || {};  // namespace
+    gweb.plusOneButton = {};
+    gweb.plusOneButton.callbacks = {};
+    gweb.plusOneButton.onPlusOneLoad = function() {
+      for (var slug in gweb.plusOneButton.callbacks) {
+        gapi.plusone.render(slug, gweb.plusOneButton.callbacks[slug]);
+      }
+      gweb.plusOneButton.callbacks = {};
+    };
+              </script> 
+       <script src="//apis.google.com/js/platform.js"></script> 
+       <script>
+              gweb.plusOneButton.callbacks['plusone-httpwwwgooglecoma'] = {
+      'annotation': 'none',
+      'href': 'http://www.google.com/a/',
+      'size': 'standard',
+      'callback': '',
+      'recommendations': 'true'
+  };
+  gweb.plusOneButton.onPlusOneLoad();
+              </script> 
+      </div> 
+      <div class="maia-col-3 footer-top social">
+        Prati: 
+       <span class="follow"><a href="//plus.google.com/+GoogleDocs" rel="publisher"><img alt="Google+" data-retina="16x16" src="//www.google.com/images/branding/google_plus/2x/gplus_icon_flush_30dp.png"></a> <a href="//www.facebook.com/googledocsofficial"><img alt="Facebook" data-retina="16x16" src="../../docs/about/images/footer_facebook_2x.png"></a> <a href="//twitter.com/googledocs"><img alt="YouTube" data-retina="16x16" src="../../docs/about/images/footer_twitter_2x.png"></a> <a href="http://googledocs.blogspot.com"><img alt="Blogger" data-retina="16x16" src="../../docs/about/images/footer_blogger_2x.jpg"></a> <a href="https://www.youtube.com/channel/UC-VcHhNdm1soluxzo5Fm3fQ"><img alt="YouTube" class="footer-youtube" data-retina="34x16" src="../../docs/about/images/footer_youtube_2x.png"></a></span> 
+      </div> 
+     </div> 
+     <div class="maia-cols"> 
+      <div class="footer-unit"> 
+       <h4> O Google dokumentima </h4> 
+       <ul> 
+        <li> <a href="../../docs/about/">Google dokumenti</a> </li> 
+        <li> <a href="../../sheets/about/">Google tablice</a> </li> 
+        <li> <a href="../../slides/about/">Google prezentacije</a> </li> 
+        <li> <a href="../../forms/about/">Google obrasci</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4> Preuzimanja i drugo </h4> 
+       <ul> 
+        <li> <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&amp;hl=hr"> Dokumenti za Android</a> </li> 
+        <li> <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets&amp;hl=hr"> Tablice za Android</a> </li> 
+        <li> <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&amp;hl=hr"> Prezentacije za Android</a> </li> 
+        <li> <a href="https://itunes.apple.com/us/app/google-docs/id842842640?mt=8">Dokumenti za iPhone i iPad</a> </li> 
+        <li> <a href="https://itunes.apple.com/us/app/google-sheets/id842849113?mt=8">Tablice za iPhone i iPad</a> </li> 
+        <li> <a href="https://itunes.apple.com/us/app/google-slides/id879478102?mt=8">Prezentacije za iPhone i iPad</a> </li> 
+        <li> <a href="https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj?hl=hr"> Uređivanje u sustavu Office za Dokumente, Tablice i Prezentacije</a> </li> 
+        <li> <a href="https://docs.google.com/document/create?addon_store">Dodaci za Dokumente</a> </li> 
+        <li> <a href="https://docs.google.com/spreadsheets/create?addon_store">Dodaci za Prezentacije</a> </li> 
+        <li> <a href="https://docs.google.com/forms/create?addon_store">Dodaci za Obrasce</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4> Podrška </h4> 
+       <ul> 
+        <li> <a href="https://support.google.com/docs?docs_site_home">Centar za pomoć za Dokumente</a> </li> 
+        <li> <a href="https://productforums.google.com/forum/#!forum/docs">Forum za Google dokumente</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4> Povezana rješenja </h4> 
+       <ul> 
+        <li> <a href="../../drive/">Google disk</a> </li> 
+        <li> <a href="https://cloud.google.com/?hl=hr">Google Cloud Platform</a> </li> 
+        <li> <a href="https://gsuite.google.com/features/?utm_source=slidesforwork&amp;utm_medium=et&amp;utm_campaign=refresh&amp;utm_content=footer&amp;hl=hr"> Google Apps for Work</a> </li> 
+        <li> <a href="../../edu/">Google Apps for Education</a> </li> 
+        <li> <a href="../../work/apps/government/">Google Apps for Government</a> </li> 
+        <li> <a href="../../services/">Google poslovna rješenja</a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Promijeni jezik:</span><select onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="//www.google.com/intl/af/slides/about/"> Afrikaans </option> <option value="//www.google.com/intl/az/slides/about/"> Azərbaycanca </option> <option value="//www.google.com/intl/id/slides/about/"> Bahasa Indonesia </option> <option value="//www.google.com/intl/ms/slides/about/"> Bahasa Melayu </option> <option value="//www.google.com/intl/ca/slides/about/"> Català </option> <option value="//www.google.com/intl/cs/slides/about/"> Čeština </option> <option value="//www.google.com/intl/da/slides/about/"> Dansk </option> <option value="//www.google.com/intl/de/slides/about/"> Deutsch </option> <option value="//www.google.com/intl/et/slides/about/"> Eesti </option> <option value="//www.google.com/intl/en/slides/about/"> English </option> <option value="//www.google.com/intl/en-GB/slides/about/"> English (United Kingdom) </option> <option value="//www.google.com/intl/es/slides/about/"> Español </option> <option value="//www.google.com/intl/es-419/slides/about/"> Español (Latinoamérica) </option> <option value="//www.google.com/intl/eu/slides/about/"> Euskara </option> <option value="//www.google.com/intl/fil/slides/about/"> Filipino </option> <option value="//www.google.com/intl/fr/slides/about/"> Français </option> <option value="//www.google.com/intl/fr-CA/slides/about/"> Français (Canada) </option> <option value="//www.google.com/intl/gl/slides/about/"> Galego </option> <option selected value="//www.google.com/intl/hr/slides/about/"> Hrvatski </option> <option value="//www.google.com/intl/zu/slides/about/"> Isizulu </option> <option value="//www.google.com/intl/is/slides/about/"> Íslenska </option> <option value="//www.google.com/intl/it/slides/about/"> Italiano </option> <option value="//www.google.com/intl/sw/slides/about/"> Kiswahili </option> <option value="//www.google.com/intl/lv/slides/about/"> Latviešu </option> <option value="//www.google.com/intl/lt/slides/about/"> Lietuvių </option> <option value="//www.google.com/intl/hu/slides/about/"> Magyar </option> <option value="//www.google.com/intl/nl/slides/about/"> Nederlands </option> <option value="//www.google.com/intl/no/slides/about/"> Norsk </option> <option value="//www.google.com/intl/pl/slides/about/"> Polski </option> <option value="//www.google.com/intl/pt-BR/slides/about/"> Português (Brasil) </option> <option value="//www.google.com/intl/pt-PT/slides/about/"> Português (Portugal) </option> <option value="//www.google.com/intl/ro/slides/about/"> Română </option> <option value="//www.google.com/intl/sk/slides/about/"> Slovenčina </option> <option value="//www.google.com/intl/sl/slides/about/"> Slovenščina </option> <option value="//www.google.com/intl/fi/slides/about/"> Suomi </option> <option value="//www.google.com/intl/sv/slides/about/"> Svenska </option> <option value="//www.google.com/intl/vi/slides/about/"> Tiếng Việt </option> <option value="//www.google.com/intl/tr/slides/about/"> Türkçe </option> <option value="//www.google.com/intl/bg/slides/about/"> Български </option> <option value="//www.google.com/intl/mn/slides/about/"> Монгол </option> <option value="//www.google.com/intl/ru/slides/about/"> Русский </option> <option value="//www.google.com/intl/sr/slides/about/"> Српски </option> <option value="//www.google.com/intl/uk/slides/about/"> Українська </option> <option value="//www.google.com/intl/el/slides/about/"> Ελληνικά </option> <option value="//www.google.com/intl/ka/slides/about/"> ქართული </option> <option value="//www.google.com/intl/hy/slides/about/"> Հայերեն </option> <option value="//www.google.com/intl/iw/slides/about/"> ‫עברית‬ </option> <option value="//www.google.com/intl/ur/slides/about/"> ‫اردو‬ </option> <option value="//www.google.com/intl/ar/slides/about/"> ‫العربية‬ </option> <option value="//www.google.com/intl/fa/slides/about/"> ‫فارسی‬ </option> <option value="//www.google.com/intl/am/slides/about/"> አማርኛ </option> <option value="//www.google.com/intl/ne/slides/about/"> नेपाली </option> <option value="//www.google.com/intl/mr/slides/about/"> मराठी </option> <option value="//www.google.com/intl/hi/slides/about/"> हिन्दी </option> <option value="//www.google.com/intl/bn/slides/about/"> বাংলা </option> <option value="//www.google.com/intl/gu/slides/about/"> ગુજરાતી </option> <option value="//www.google.com/intl/ta/slides/about/"> தமிழ் </option> <option value="//www.google.com/intl/te/slides/about/"> తెలుగు </option> <option value="//www.google.com/intl/kn/slides/about/"> ಕನ್ನಡ </option> <option value="//www.google.com/intl/ml/slides/about/"> മലയാളം </option> <option value="//www.google.com/intl/si/slides/about/"> සිංහල </option> <option value="//www.google.com/intl/th/slides/about/"> ไทย </option> <option value="//www.google.com/intl/lo/slides/about/"> ລາວ </option> <option value="//www.google.com/intl/km/slides/about/"> ខ្មែរ </option> <option value="//www.google.com/intl/ko/slides/about/"> 한국어 </option> <option value="//www.google.com/intl/zh-HK/slides/about/"> 中文 (香港) </option> <option value="//www.google.com/intl/zh-CN/slides/about/"> 中文（简体中文） </option> <option value="//www.google.com/intl/zh-TW/slides/about/"> 中文（繁體中文） </option> <option value="//www.google.com/intl/ja/slides/about/"> 日本語 </option> </select></label> 
+     </div> 
+     <ul> 
+      <li> <a href="//www.google.com">Google</a> </li> 
+      <li> <a href="/intl/hr/policies/privacy/">Privatnost</a> </li> 
+      <li> <a href="/intl/hr/policies/terms/">Uvjeti</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//www.gstatic.com/external_hosted/gsap/TweenMax.min.js"></script> 
+  <script src="//www.gstatic.com/external_hosted/morlock/morlock.min.js"></script> 
+  <script src="js/site.min.js"></script> 
+  <script>
+    var page = new editors.SetUp();
+    </script> 
+  <script src="//www.google.com/js/gweb/analytics/doubletrack.js"></script> 
+  <script>
+    gweb.analytics.DoubleTrack.track('floodlight', {
+      src: 2542116,
+      type: 'gdrive',
+      cat: 'googl003'
+    });
+    </script>  
+ </body>
+</html>

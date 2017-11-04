@@ -1,0 +1,673 @@
+<!doctype html>
+<html class="google mmfb" lang="sv" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/sv/partners/services-track/annual-requirements/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="Tjänstespåret är till för partner som erbjuder kundtjänster som försäljning, konsulttjänster och teknisk support för Google for Work-produkter." name="description"> 
+  <title>
+    Google for Education   : Partner i tjänstespåret – Google for Work
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.3/material.grey-blue.min.css"> 
+  <script src="https://storage.googleapis.com/code.getmdl.io/1.0.3/material.min.js"></script> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/sv/partners/services-track/annual-requirements/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education   : Partner i tjänstespåret – Google for Work" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/sv/partners/services-track/annual-requirements/" property="og:url"> 
+  <meta content="" property="og:image"> 
+  <meta content="Tjänstespåret är till för partner som erbjuder kundtjänster som försäljning, konsulttjänster och teknisk support för Google for Work-produkter." property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/sv/partners/services-track/annual-requirements/" name="twitter:url"> 
+  <meta content="Google for Education   : Partner i tjänstespåret – Google for Work" name="twitter:title"> 
+  <meta content="" name="twitter:image"> 
+  <meta content="Tjänstespåret är till för partner som erbjuder kundtjänster som försäljning, konsulttjänster och teknisk support för Google for Work-produkter." name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Partner i tjänstespåret – Google for Work" itemprop="name"> 
+  <meta content="Tjänstespåret är till för partner som erbjuder kundtjänster som försäljning, konsulttjänster och teknisk support för Google for Work-produkter." itemprop="description"> 
+  <meta content="" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Partner i tjänstespåret – Google for Work",
+    "description": "Tjänstespåret är till för partner som erbjuder kundtjänster som försäljning, konsulttjänster och teknisk support för Google for Work-produkter.",
+    "url": "https://edu.google.com/intl/sv/partners/services-track/annual-requirements/",
+    "logo": "",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="partners tracks services-track"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/sv/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <h2> <a href="/partners/" target="_self">&nbsp;| Partners</a> </h2> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <a class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent bt-apply" href="#learnmore-form" data-g-event="Edu: Global Nav" data-g-action="Apply now" data-g-label="">Ansök nu</a> 
+    <nav class="nav"> 
+     <ul> 
+      <li class=""><a href="/intl/sv/partners/">Översikt</a></li> 
+      <li class="active expand"><a class="m-icon-pseudo">Program Tracks</a> 
+       <ul class="tier-two"> 
+        <li><a href="/intl/sv/partners/services-track/benefits/">Services Track</a></li> 
+        <li><a href="/intl/sv/partners/tech-track/benefits/">Technology Track</a></li> 
+       </ul> </li> 
+     </ul> 
+    </nav> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="maia-max"> 
+    <div class="hero"> 
+     <!-- hero image --> 
+    </div> 
+    <div class="main-wrapper maia-aux"> 
+     <div class="maia-cols cards-container"> 
+      <div class="maia-col-12 card track-header mdl-card mdl-shadow--2dp"> 
+       <div class="content mdl-card__supporting-text mdl-color-text--grey-800"> 
+        <h2 class="mdl-typography--font-light heading">Tjänstespåret</h2> 
+        <p class="subhead mdl-color-text--grey-500">Tjänstespåret är till för partner som tillhandahåller tjänster till skolor. Dessa tjänster kan omfatta försäljning, rådgivning, utbildning, genomförande och teknisk support för Google for Education-produkter.</p> 
+       </div> 
+       <div class="mdl-card__actions mdl-card--border"> 
+        <a href="#learnmore-form" class="mdl-button mdl-js-button mdl-js-ripple-effect">Ansök nu</a> 
+       </div> 
+      </div> 
+      <nav class="side-nav maia-col-3"> 
+       <ul> 
+        <li class=""> <a class="mdl-button mdl-js-button mdl-js-ripple-effect" href="../benefits">Fördelar</a> </li> 
+        <li class="active"> <a class="mdl-button mdl-js-button mdl-js-ripple-effect" href="../annual-requirements">Årliga krav</a> </li> 
+        <li class=""> <a class="mdl-button mdl-js-button mdl-js-ripple-effect" href="../to-join">Så här går du med</a> </li> 
+       </ul> 
+      </nav> 
+      <div class="mdl-card mdl-shadow--2dp maia-col-9 content table"> 
+       <div class="mdl-card__title"> 
+        <h3 class="mdl-card__title-text subhead mdl-typography--font-regular">Årliga krav</h3> 
+       </div> 
+       <p class="note">Tjänstespåret är till för partner som tillhandahåller tjänster till skolor. Dessa tjänster kan omfatta försäljning, rådgivning, utbildning, genomförande och teknisk support för Google for Education-produkter.</p> 
+       <p class="note">Tjänstepartner måste erbjuda tjänster för både G Suite for Education och enheter.</p> 
+       <table> 
+        <tbody>
+         <tr> 
+          <th> </th> 
+          <th>Samarbetspartner</th> 
+          <th>Premierpartner</th> 
+         </tr> 
+         <tr> 
+          <td> <p> Årlig affärsplan </p> <small class="tooltip"> <i class="m-icon">info_outline</i> <span class="tip m-icon-pseudo">Business Plan should contain your go-to-market plan and expected performance metrics.</span> </small> </td> 
+          <td> </td> 
+          <td> <span class="m-icon check-mark">check_circle</span> </td> 
+         </tr> 
+         <tr> 
+          <td> <p> Nya kunder </p> <small class="tooltip"> <i class="m-icon">info_outline</i> <span class="tip m-icon-pseudo">You are required to acquire a certain number of new customers every year.</span> </small> </td> 
+          <td> <span class="m-icon check-mark">check_circle</span> </td> 
+          <td> <span class="m-icon check-mark">check_circle</span> </td> 
+         </tr> 
+         <tr> 
+          <td> <p> Affärsbehörigheter och tekniska behörigheter </p> <small class="tooltip"> <i class="m-icon">info_outline</i> <span class="tip m-icon-pseudo">Our business &amp;amp; technical credentials prepares our partners to service and support our customers. Credentials consist of training, participation in our partner community, and demonstration of skills by passing examples or completing hands-on activities.</span> </small> </td> 
+          <td> <span class="m-icon check-mark">check_circle</span> </td> 
+          <td> <span class="m-icon check-mark">check_circle</span> </td> 
+         </tr> 
+         <tr> 
+          <td> <p> Affärsmål ($) </p> <small class="tooltip"> <i class="m-icon">info_outline</i> <span class="tip m-icon-pseudo">Partners are expected to generate a certain amount of business every year from new customers.</span> </small> </td> 
+          <td> <span class="m-icon check-mark">check_circle</span> </td> 
+          <td> <span class="m-icon check-mark">check_circle</span> </td> 
+         </tr> 
+        </tbody>
+       </table> 
+       <p class="note"> Den fullständiga kravlistan finns i <a href="https://connect.googleforwork.com/community/partners/program/">partnerprogramguiden</a> för Google for Work och Google for Education. Observera att det enbart är ansökande och partner som har tillgång till programguiden.</p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="contact-form contact-form--hide gfw-modal-overlay" ng-controller="LearnMoreModalCtrl as modal" ng-show="modal.status == 'form' || modal.status == 'thankyou'" ng-click="modal.close()"> 
+    <div class="gfw-modal" ng-show="modal.status == 'form' || modal.status == 'thankyou'" modal-position="modal.status" ng-click="$event.stopPropagation();" marketo-track ng-controller="LearnMoreFormCtrl as contactForm"> 
+     <span class="gfw-modal-close-button" ng-click="modal.close()">✕</span> 
+     <div class="gfw-modal-header"> 
+      <div class="row"> 
+       <h1>Become an Education partner</h1> 
+      </div> 
+     </div> 
+     <div ng-show="modal.status != 'thankyou'"> 
+      <div class="gfw-modal-row sub-title learn-more-sub-title"> 
+       <div class="row"> 
+        <p> The Google for Education Partner Program will open for general availability in late 2015. If you’d like to be notified when the program is open for application, please complete this form.</p>
+        <p>If you are currently authorized to sell Google for Education products, please contact your channel manager to learn more about options that may be available to you.</p> 
+       </div> 
+      </div> 
+     </div> 
+     <div> 
+      <div ng-show="modal.status == 'thankyou'" class="thankyou-message gfw-modal-row"> 
+       <div class="field full"> 
+        <p>Thanks! We'll be in touch shortly.</p> 
+       </div> 
+      </div> 
+      <form ng-submit="contactForm.submit(form, $event)" ng-show="modal.status != 'thankyou'" class="gfw-modal-row" action="https://lp.google-mkto.com/index.php/leadCapture/save" enctype="application/x-www-form-urlencoded" id="mktForm_4942" method="post" name="form" form-focus="modalOpen" novalidate> 
+       <div class="field"> 
+        <label for="first-name">Förnamn</label> 
+        <input type="text" id="first-name" name="FirstName" ng-model="contactForm.user.firstName" field-blur-validation="form.FirstName.validatable" required> 
+        <div class="errors"> 
+         <span class="error" ng-show="form.FirstName.validatable &amp;&amp; form.FirstName.$error.required">This is required</span> 
+        </div> 
+       </div> 
+       <div class="field"> 
+        <label for="last-name">Efternamn</label> 
+        <input type="text" id="last-name" name="LastName" ng-model="contactForm.user.lastName" field-blur-validation="form.LastName.validatable" required> 
+        <div class="errors"> 
+         <span class="error" ng-show="form.LastName.validatable &amp;&amp; form.LastName.$error.required">This is required</span> 
+        </div> 
+       </div> 
+       <div class="field"> 
+        <label for="email">E-post</label> 
+        <input name="Email" ng-model="contactForm.user.email" field-blur-validation="form.Email.validatable" gfw-email-validation type="email" id="email" required website-from-email="contactForm.user.website"> 
+        <div class="errors" ng-if="form.Email.validatable"> 
+         <span class="error" ng-show="form.Email.$error.required">This is required</span> 
+         <span class="error" ng-show="form.Email.$error.email">This is not a valid email</span> 
+        </div> 
+       </div> 
+       <div class="field"> 
+        <label for="company">Company</label> 
+        <input type="text" id="company" name="Company" field-blur-validation="form.Company.validatable" ng-model="contactForm.user.company" required> 
+        <div class="errors"> 
+         <span class="error" ng-show="form.Company.validatable &amp;&amp; form.Company.$error.required">This is required</span> 
+        </div> 
+       </div> 
+       <div class="field"> 
+        <label for="city">City of HQ Location</label> 
+        <input type="text" id="city" name="City" ng-model="contactForm.user.city" field-blur-validation="form.City.validatable" required> 
+        <div class="errors"> 
+         <span class="error" ng-show="form.City.validatable &amp;&amp; form.City.$error.required">This is required</span> 
+        </div> 
+       </div> 
+       <div class="field"> 
+        <span ng-init="contactForm.countries = [{&quot;countryName&quot;: &quot;Afghanistan&quot;, &quot;cc&quot;: &quot;AF&quot;},
+{&quot;countryName&quot;: &quot;Albanien&quot;, &quot;cc&quot;: &quot;AL&quot;},
+{&quot;countryName&quot;: &quot;Amerikanska Samoa&quot;, &quot;cc&quot;: &quot;AS&quot;},
+{&quot;countryName&quot;: &quot;Andorra&quot;, &quot;cc&quot;: &quot;AD&quot;},
+{&quot;countryName&quot;: &quot;Anguilla&quot;, &quot;cc&quot;: &quot;AI&quot;},
+{&quot;countryName&quot;: &quot;Antarktis&quot;, &quot;cc&quot;: &quot;AQ&quot;},
+{&quot;countryName&quot;: &quot;Antigua och Barbuda&quot;, &quot;cc&quot;: &quot;AG&quot;},
+{&quot;countryName&quot;: &quot;Armenien&quot;, &quot;cc&quot;: &quot;AM&quot;},
+{&quot;countryName&quot;: &quot;Argentina&quot;, &quot;cc&quot;: &quot;AR&quot;},
+{&quot;countryName&quot;: &quot;Aruba&quot;, &quot;cc&quot;: &quot;AW&quot;},
+{&quot;countryName&quot;: &quot;Österrike&quot;, &quot;cc&quot;: &quot;AT&quot;},
+{&quot;countryName&quot;: &quot;Australien&quot;, &quot;cc&quot;: &quot;AU&quot;},
+{&quot;countryName&quot;: &quot;Azerbajdzjan&quot;, &quot;cc&quot;: &quot;AZ&quot;},
+{&quot;countryName&quot;: &quot;Bahamas&quot;, &quot;cc&quot;: &quot;BS&quot;},
+{&quot;countryName&quot;: &quot;Bahrain&quot;, &quot;cc&quot;: &quot;BH&quot;},
+{&quot;countryName&quot;: &quot;Bangladesh&quot;, &quot;cc&quot;: &quot;BD&quot;},
+{&quot;countryName&quot;: &quot;Barbados&quot;, &quot;cc&quot;: &quot;BB&quot;},
+{&quot;countryName&quot;: &quot;Vitryssland&quot;, &quot;cc&quot;: &quot;BY&quot;},
+{&quot;countryName&quot;: &quot;Belgien&quot;, &quot;cc&quot;: &quot;BE&quot;},
+{&quot;countryName&quot;: &quot;Belize&quot;, &quot;cc&quot;: &quot;BZ&quot;},
+{&quot;countryName&quot;: &quot;Benin&quot;, &quot;cc&quot;: &quot;BJ&quot;},
+{&quot;countryName&quot;: &quot;Bermuda&quot;, &quot;cc&quot;: &quot;BM&quot;},
+{&quot;countryName&quot;: &quot;Bhutan&quot;, &quot;cc&quot;: &quot;BT&quot;},
+{&quot;countryName&quot;: &quot;Bolivia&quot;, &quot;cc&quot;: &quot;BO&quot;},
+{&quot;countryName&quot;: &quot;Bosnien och Hercegovina&quot;, &quot;cc&quot;: &quot;BA&quot;},
+{&quot;countryName&quot;: &quot;Botswana&quot;, &quot;cc&quot;: &quot;BW&quot;},
+{&quot;countryName&quot;: &quot;Bouvetön&quot;, &quot;cc&quot;: &quot;BV&quot;},
+{&quot;countryName&quot;: &quot;Brasilien&quot;, &quot;cc&quot;: &quot;BR&quot;},
+{&quot;countryName&quot;: &quot;Brittiska territoriet i Indiska oceanen&quot;, &quot;cc&quot;: &quot;IO&quot;},
+{&quot;countryName&quot;: &quot;Brunei&quot;, &quot;cc&quot;: &quot;BN&quot;},
+{&quot;countryName&quot;: &quot;Bulgarien&quot;, &quot;cc&quot;: &quot;BG&quot;},
+{&quot;countryName&quot;: &quot;Burkina Faso&quot;, &quot;cc&quot;: &quot;BF&quot;},
+{&quot;countryName&quot;: &quot;Burundi&quot;, &quot;cc&quot;: &quot;BI&quot;},
+{&quot;countryName&quot;: &quot;Kambodja&quot;, &quot;cc&quot;: &quot;KH&quot;},
+{&quot;countryName&quot;: &quot;Kamerun&quot;, &quot;cc&quot;: &quot;CM&quot;},
+{&quot;countryName&quot;: &quot;Kanada&quot;, &quot;cc&quot;: &quot;CA&quot;},
+{&quot;countryName&quot;: &quot;Kap Verde&quot;, &quot;cc&quot;: &quot;CV&quot;},
+{&quot;countryName&quot;: &quot;Caymanöarna&quot;, &quot;cc&quot;: &quot;KY&quot;},
+{&quot;countryName&quot;: &quot;Centralafrikanska republiken&quot;, &quot;cc&quot;: &quot;CF&quot;},
+{&quot;countryName&quot;: &quot;Tchad&quot;, &quot;cc&quot;: &quot;TD&quot;},
+{&quot;countryName&quot;: &quot;Chile&quot;, &quot;cc&quot;: &quot;CL&quot;},
+{&quot;countryName&quot;: &quot;Kina&quot;, &quot;cc&quot;: &quot;CN&quot;},
+{&quot;countryName&quot;: &quot;Julön&quot;, &quot;cc&quot;: &quot;CX&quot;},
+{&quot;countryName&quot;: &quot;Kokosöarna&quot;, &quot;cc&quot;: &quot;CC&quot;},
+{&quot;countryName&quot;: &quot;Colombia&quot;, &quot;cc&quot;: &quot;CO&quot;},
+{&quot;countryName&quot;: &quot;Komorerna&quot;, &quot;cc&quot;: &quot;KM&quot;},
+{&quot;countryName&quot;: &quot;Kongo-Brazzaville&quot;, &quot;cc&quot;: &quot;CG&quot;},
+{&quot;countryName&quot;: &quot;Tjeckien&quot;, &quot;cc&quot;: &quot;CZ&quot;},
+{&quot;countryName&quot;: &quot;Kongo-Kinshasa&quot;, &quot;cc&quot;: &quot;CD&quot;},
+{&quot;countryName&quot;: &quot;Cooköarna&quot;, &quot;cc&quot;: &quot;CK&quot;},
+{&quot;countryName&quot;: &quot;Costa Rica&quot;, &quot;cc&quot;: &quot;CR&quot;},
+{&quot;countryName&quot;: &quot;Elfenbenskusten&quot;, &quot;cc&quot;: &quot;CI&quot;},
+{&quot;countryName&quot;: &quot;Kroatien&quot;, &quot;cc&quot;: &quot;HR&quot;},
+{&quot;countryName&quot;: &quot;Cypern&quot;, &quot;cc&quot;: &quot;CY&quot;},
+{&quot;countryName&quot;: &quot;Danmark&quot;, &quot;cc&quot;: &quot;DK&quot;},
+{&quot;countryName&quot;: &quot;Djibouti&quot;, &quot;cc&quot;: &quot;DJ&quot;},
+{&quot;countryName&quot;: &quot;Dominica&quot;, &quot;cc&quot;: &quot;DM&quot;},
+{&quot;countryName&quot;: &quot;Dominikanska republiken&quot;, &quot;cc&quot;: &quot;DO&quot;},
+{&quot;countryName&quot;: &quot;Östtimor&quot;, &quot;cc&quot;: &quot;TL&quot;},
+{&quot;countryName&quot;: &quot;Ecuador&quot;, &quot;cc&quot;: &quot;EC&quot;},
+{&quot;countryName&quot;: &quot;Egypten&quot;, &quot;cc&quot;: &quot;EG&quot;},
+{&quot;countryName&quot;: &quot;El Salvador&quot;, &quot;cc&quot;: &quot;SV&quot;},
+{&quot;countryName&quot;: &quot;Ekvatorialguinea&quot;, &quot;cc&quot;: &quot;GQ&quot;},
+{&quot;countryName&quot;: &quot;Eritrea&quot;, &quot;cc&quot;: &quot;ER&quot;},
+{&quot;countryName&quot;: &quot;Estland&quot;, &quot;cc&quot;: &quot;EE&quot;},
+{&quot;countryName&quot;: &quot;Etiopien&quot;, &quot;cc&quot;: &quot;ET&quot;},
+{&quot;countryName&quot;: &quot;Falklandsöarna&quot;, &quot;cc&quot;: &quot;FK&quot;},
+{&quot;countryName&quot;: &quot;Färöarna&quot;, &quot;cc&quot;: &quot;FO&quot;},
+{&quot;countryName&quot;: &quot;Fiji&quot;, &quot;cc&quot;: &quot;FJ&quot;},
+{&quot;countryName&quot;: &quot;Finland&quot;, &quot;cc&quot;: &quot;FI&quot;},
+{&quot;countryName&quot;: &quot;Frankrike&quot;, &quot;cc&quot;: &quot;FR&quot;},
+{&quot;countryName&quot;: &quot;Franska Guyana&quot;, &quot;cc&quot;: &quot;GF&quot;},
+{&quot;countryName&quot;: &quot;Franska Polynesien&quot;, &quot;cc&quot;: &quot;PF&quot;},
+{&quot;countryName&quot;: &quot;Franska sydterritorierna&quot;, &quot;cc&quot;: &quot;TF&quot;},
+{&quot;countryName&quot;: &quot;Gabon&quot;, &quot;cc&quot;: &quot;GA&quot;},
+{&quot;countryName&quot;: &quot;Gambia&quot;, &quot;cc&quot;: &quot;GM&quot;},
+{&quot;countryName&quot;: &quot;Georgien&quot;, &quot;cc&quot;: &quot;GE&quot;},
+{&quot;countryName&quot;: &quot;Tyskland&quot;, &quot;cc&quot;: &quot;DE&quot;},
+{&quot;countryName&quot;: &quot;Ghana&quot;, &quot;cc&quot;: &quot;GH&quot;},
+{&quot;countryName&quot;: &quot;Gibraltar&quot;, &quot;cc&quot;: &quot;GI&quot;},
+{&quot;countryName&quot;: &quot;Grekland&quot;, &quot;cc&quot;: &quot;GR&quot;},
+{&quot;countryName&quot;: &quot;Grönland&quot;, &quot;cc&quot;: &quot;GL&quot;},
+{&quot;countryName&quot;: &quot;Grenada&quot;, &quot;cc&quot;: &quot;GD&quot;},
+{&quot;countryName&quot;: &quot;Guadeloupe&quot;, &quot;cc&quot;: &quot;GP&quot;},
+{&quot;countryName&quot;: &quot;Guam&quot;, &quot;cc&quot;: &quot;GU&quot;},
+{&quot;countryName&quot;: &quot;Guatemala&quot;, &quot;cc&quot;: &quot;GT&quot;},
+{&quot;countryName&quot;: &quot;Guinea&quot;, &quot;cc&quot;: &quot;GN&quot;},
+{&quot;countryName&quot;: &quot;Guinea-Bissau&quot;, &quot;cc&quot;: &quot;GW&quot;},
+{&quot;countryName&quot;: &quot;Guyana&quot;, &quot;cc&quot;: &quot;GY&quot;},
+{&quot;countryName&quot;: &quot;Haiti&quot;, &quot;cc&quot;: &quot;HT&quot;},
+{&quot;countryName&quot;: &quot;Heardön och McDonaldöarna&quot;, &quot;cc&quot;: &quot;HM&quot;},
+{&quot;countryName&quot;: &quot;Honduras&quot;, &quot;cc&quot;: &quot;HN&quot;},
+{&quot;countryName&quot;: &quot;Hongkong, S.A.R. Kina&quot;, &quot;cc&quot;: &quot;HK&quot;},
+{&quot;countryName&quot;: &quot;Ungern&quot;, &quot;cc&quot;: &quot;HU&quot;},
+{&quot;countryName&quot;: &quot;Indien&quot;, &quot;cc&quot;: &quot;IN&quot;},
+{&quot;countryName&quot;: &quot;Indonesien&quot;, &quot;cc&quot;: &quot;ID&quot;},
+{&quot;countryName&quot;: &quot;Irland&quot;, &quot;cc&quot;: &quot;IE&quot;},
+{&quot;countryName&quot;: &quot;Israel&quot;, &quot;cc&quot;: &quot;IL&quot;},
+{&quot;countryName&quot;: &quot;Irak&quot;, &quot;cc&quot;: &quot;IQ&quot;},
+{&quot;countryName&quot;: &quot;Island&quot;, &quot;cc&quot;: &quot;IS&quot;},
+{&quot;countryName&quot;: &quot;Italien&quot;, &quot;cc&quot;: &quot;IT&quot;},
+{&quot;countryName&quot;: &quot;Jamaica&quot;, &quot;cc&quot;: &quot;JM&quot;},
+{&quot;countryName&quot;: &quot;Japan&quot;, &quot;cc&quot;: &quot;JP&quot;},
+{&quot;countryName&quot;: &quot;Jordanien&quot;, &quot;cc&quot;: &quot;JO&quot;},
+{&quot;countryName&quot;: &quot;Kazakstan&quot;, &quot;cc&quot;: &quot;KZ&quot;},
+{&quot;countryName&quot;: &quot;Kenya&quot;, &quot;cc&quot;: &quot;KE&quot;},
+{&quot;countryName&quot;: &quot;Kiribati&quot;, &quot;cc&quot;: &quot;KI&quot;},
+{&quot;countryName&quot;: &quot;Kuwait&quot;, &quot;cc&quot;: &quot;KW&quot;},
+{&quot;countryName&quot;: &quot;Kirgizistan&quot;, &quot;cc&quot;: &quot;KG&quot;},
+{&quot;countryName&quot;: &quot;Laos&quot;, &quot;cc&quot;: &quot;LA&quot;},
+{&quot;countryName&quot;: &quot;Lettland&quot;, &quot;cc&quot;: &quot;LV&quot;},
+{&quot;countryName&quot;: &quot;Libanon&quot;, &quot;cc&quot;: &quot;LB&quot;},
+{&quot;countryName&quot;: &quot;Lesotho&quot;, &quot;cc&quot;: &quot;LS&quot;},
+{&quot;countryName&quot;: &quot;Liberia&quot;, &quot;cc&quot;: &quot;LR&quot;},
+{&quot;countryName&quot;: &quot;Libyen&quot;, &quot;cc&quot;: &quot;LY&quot;},
+{&quot;countryName&quot;: &quot;Liechtenstein&quot;, &quot;cc&quot;: &quot;LI&quot;},
+{&quot;countryName&quot;: &quot;Litauen&quot;, &quot;cc&quot;: &quot;LT&quot;},
+{&quot;countryName&quot;: &quot;Luxemburg&quot;, &quot;cc&quot;: &quot;LU&quot;},
+{&quot;countryName&quot;: &quot;Macao, S.A.R. Kina&quot;, &quot;cc&quot;: &quot;MO&quot;},
+{&quot;countryName&quot;: &quot;Makedonien&quot;, &quot;cc&quot;: &quot;MK&quot;},
+{&quot;countryName&quot;: &quot;Madagaskar&quot;, &quot;cc&quot;: &quot;MG&quot;},
+{&quot;countryName&quot;: &quot;Malawi&quot;, &quot;cc&quot;: &quot;MW&quot;},
+{&quot;countryName&quot;: &quot;Malaysia&quot;, &quot;cc&quot;: &quot;MY&quot;},
+{&quot;countryName&quot;: &quot;Maldiverna&quot;, &quot;cc&quot;: &quot;MV&quot;},
+{&quot;countryName&quot;: &quot;Mali&quot;, &quot;cc&quot;: &quot;ML&quot;},
+{&quot;countryName&quot;: &quot;Malta&quot;, &quot;cc&quot;: &quot;MT&quot;},
+{&quot;countryName&quot;: &quot;Marshallöarna&quot;, &quot;cc&quot;: &quot;MH&quot;},
+{&quot;countryName&quot;: &quot;Martinique&quot;, &quot;cc&quot;: &quot;MQ&quot;},
+{&quot;countryName&quot;: &quot;Mauretanien&quot;, &quot;cc&quot;: &quot;MR&quot;},
+{&quot;countryName&quot;: &quot;Mauritius&quot;, &quot;cc&quot;: &quot;MU&quot;},
+{&quot;countryName&quot;: &quot;Mayotte&quot;, &quot;cc&quot;: &quot;YT&quot;},
+{&quot;countryName&quot;: &quot;Mexiko&quot;, &quot;cc&quot;: &quot;MX&quot;},
+{&quot;countryName&quot;: &quot;Mikronesien&quot;, &quot;cc&quot;: &quot;FM&quot;},
+{&quot;countryName&quot;: &quot;Moldavien&quot;, &quot;cc&quot;: &quot;MD&quot;},
+{&quot;countryName&quot;: &quot;Monaco&quot;, &quot;cc&quot;: &quot;MC&quot;},
+{&quot;countryName&quot;: &quot;Mongoliet&quot;, &quot;cc&quot;: &quot;MN&quot;},
+{&quot;countryName&quot;: &quot;Montserrat&quot;, &quot;cc&quot;: &quot;MS&quot;},
+{&quot;countryName&quot;: &quot;Marocko&quot;, &quot;cc&quot;: &quot;MA&quot;},
+{&quot;countryName&quot;: &quot;Moçambique&quot;, &quot;cc&quot;: &quot;MZ&quot;},
+{&quot;countryName&quot;: &quot;Namibia&quot;, &quot;cc&quot;: &quot;NA&quot;},
+{&quot;countryName&quot;: &quot;Nauru&quot;, &quot;cc&quot;: &quot;NR&quot;},
+{&quot;countryName&quot;: &quot;Nepal&quot;, &quot;cc&quot;: &quot;NP&quot;},
+{&quot;countryName&quot;: &quot;Nederländerna&quot;, &quot;cc&quot;: &quot;NL&quot;},
+{&quot;countryName&quot;: &quot;Nya Kaledonien&quot;, &quot;cc&quot;: &quot;NC&quot;},
+{&quot;countryName&quot;: &quot;Nya Zeeland&quot;, &quot;cc&quot;: &quot;NZ&quot;},
+{&quot;countryName&quot;: &quot;Nicaragua&quot;, &quot;cc&quot;: &quot;NI&quot;},
+{&quot;countryName&quot;: &quot;Niger&quot;, &quot;cc&quot;: &quot;NE&quot;},
+{&quot;countryName&quot;: &quot;Nigeria&quot;, &quot;cc&quot;: &quot;NG&quot;},
+{&quot;countryName&quot;: &quot;Niue&quot;, &quot;cc&quot;: &quot;NU&quot;},
+{&quot;countryName&quot;: &quot;Norfolkön&quot;, &quot;cc&quot;: &quot;NF&quot;},
+{&quot;countryName&quot;: &quot;Nordmarianerna&quot;, &quot;cc&quot;: &quot;MP&quot;},
+{&quot;countryName&quot;: &quot;Norge&quot;, &quot;cc&quot;: &quot;NO&quot;},
+{&quot;countryName&quot;: &quot;Oman&quot;, &quot;cc&quot;: &quot;OM&quot;},
+{&quot;countryName&quot;: &quot;Pakistan&quot;, &quot;cc&quot;: &quot;PK&quot;},
+{&quot;countryName&quot;: &quot;Palau&quot;, &quot;cc&quot;: &quot;PW&quot;},
+{&quot;countryName&quot;: &quot;Palestinska territorierna&quot;, &quot;cc&quot;: &quot;PS&quot;},
+{&quot;countryName&quot;: &quot;Panama&quot;, &quot;cc&quot;: &quot;PA&quot;},
+{&quot;countryName&quot;: &quot;Papua Nya Guinea&quot;, &quot;cc&quot;: &quot;PG&quot;},
+{&quot;countryName&quot;: &quot;Paraguay&quot;, &quot;cc&quot;: &quot;PY&quot;},
+{&quot;countryName&quot;: &quot;Peru&quot;, &quot;cc&quot;: &quot;PE&quot;},
+{&quot;countryName&quot;: &quot;Filippinerna&quot;, &quot;cc&quot;: &quot;PH&quot;},
+{&quot;countryName&quot;: &quot;Pitcairnöarna&quot;, &quot;cc&quot;: &quot;PN&quot;},
+{&quot;countryName&quot;: &quot;Polen&quot;, &quot;cc&quot;: &quot;PL&quot;},
+{&quot;countryName&quot;: &quot;Portugal&quot;, &quot;cc&quot;: &quot;PT&quot;},
+{&quot;countryName&quot;: &quot;Puerto Rico&quot;, &quot;cc&quot;: &quot;PR&quot;},
+{&quot;countryName&quot;: &quot;Qatar&quot;, &quot;cc&quot;: &quot;QA&quot;},
+{&quot;countryName&quot;: &quot;Réunion&quot;, &quot;cc&quot;: &quot;RE&quot;},
+{&quot;countryName&quot;: &quot;Rumänien&quot;, &quot;cc&quot;: &quot;RO&quot;},
+{&quot;countryName&quot;: &quot;Ryssland&quot;, &quot;cc&quot;: &quot;RU&quot;},
+{&quot;countryName&quot;: &quot;Rwanda&quot;, &quot;cc&quot;: &quot;RW&quot;},
+{&quot;countryName&quot;: &quot;S:t Kitts och Nevis&quot;, &quot;cc&quot;: &quot;KN&quot;},
+{&quot;countryName&quot;: &quot;S:t Lucia&quot;, &quot;cc&quot;: &quot;LC&quot;},
+{&quot;countryName&quot;: &quot;S:t Vincent och Grenadinerna&quot;, &quot;cc&quot;: &quot;VC&quot;},
+{&quot;countryName&quot;: &quot;Samoa&quot;, &quot;cc&quot;: &quot;WS&quot;},
+{&quot;countryName&quot;: &quot;San Marino&quot;, &quot;cc&quot;: &quot;SM&quot;},
+{&quot;countryName&quot;: &quot;São Tomé och Príncipe&quot;, &quot;cc&quot;: &quot;ST&quot;},
+{&quot;countryName&quot;: &quot;Saudiarabien&quot;, &quot;cc&quot;: &quot;SA&quot;},
+{&quot;countryName&quot;: &quot;Senegal&quot;, &quot;cc&quot;: &quot;SN&quot;},
+{&quot;countryName&quot;: &quot;Seychellerna&quot;, &quot;cc&quot;: &quot;SC&quot;},
+{&quot;countryName&quot;: &quot;Sierra Leone&quot;, &quot;cc&quot;: &quot;SL&quot;},
+{&quot;countryName&quot;: &quot;Singapore&quot;, &quot;cc&quot;: &quot;SG&quot;},
+{&quot;countryName&quot;: &quot;Slovakien&quot;, &quot;cc&quot;: &quot;SK&quot;},
+{&quot;countryName&quot;: &quot;Slovenien&quot;, &quot;cc&quot;: &quot;SI&quot;},
+{&quot;countryName&quot;: &quot;Salomonöarna&quot;, &quot;cc&quot;: &quot;SB&quot;},
+{&quot;countryName&quot;: &quot;Somalia&quot;, &quot;cc&quot;: &quot;SO&quot;},
+{&quot;countryName&quot;: &quot;Sydafrika&quot;, &quot;cc&quot;: &quot;ZA&quot;},
+{&quot;countryName&quot;: &quot;Sydgeorgien och Sydsandwichöarna&quot;, &quot;cc&quot;: &quot;GS&quot;},
+{&quot;countryName&quot;: &quot;Sydkorea&quot;, &quot;cc&quot;: &quot;KR&quot;},
+{&quot;countryName&quot;: &quot;Spanien&quot;, &quot;cc&quot;: &quot;ES&quot;},
+{&quot;countryName&quot;: &quot;Sri Lanka&quot;, &quot;cc&quot;: &quot;LK&quot;},
+{&quot;countryName&quot;: &quot;S:t Helena&quot;, &quot;cc&quot;: &quot;SH&quot;},
+{&quot;countryName&quot;: &quot;S:t Pierre och Miquelon&quot;, &quot;cc&quot;: &quot;PM&quot;},
+{&quot;countryName&quot;: &quot;Surinam&quot;, &quot;cc&quot;: &quot;SR&quot;},
+{&quot;countryName&quot;: &quot;Svalbard och Jan Mayen&quot;, &quot;cc&quot;: &quot;SJ&quot;},
+{&quot;countryName&quot;: &quot;Swaziland&quot;, &quot;cc&quot;: &quot;SZ&quot;},
+{&quot;countryName&quot;: &quot;Sverige&quot;, &quot;cc&quot;: &quot;SE&quot;},
+{&quot;countryName&quot;: &quot;Schweiz&quot;, &quot;cc&quot;: &quot;CH&quot;},
+{&quot;countryName&quot;: &quot;Taiwan&quot;, &quot;cc&quot;: &quot;TW&quot;},
+{&quot;countryName&quot;: &quot;Tadzjikistan&quot;, &quot;cc&quot;: &quot;TJ&quot;},
+{&quot;countryName&quot;: &quot;Tanzania&quot;, &quot;cc&quot;: &quot;TZ&quot;},
+{&quot;countryName&quot;: &quot;Thailand&quot;, &quot;cc&quot;: &quot;TH&quot;},
+{&quot;countryName&quot;: &quot;Togo&quot;, &quot;cc&quot;: &quot;TG&quot;},
+{&quot;countryName&quot;: &quot;Tokelau&quot;, &quot;cc&quot;: &quot;TK&quot;},
+{&quot;countryName&quot;: &quot;Tonga&quot;, &quot;cc&quot;: &quot;TO&quot;},
+{&quot;countryName&quot;: &quot;Trinidad och Tobago&quot;, &quot;cc&quot;: &quot;TT&quot;},
+{&quot;countryName&quot;: &quot;Tunisien&quot;, &quot;cc&quot;: &quot;TN&quot;},
+{&quot;countryName&quot;: &quot;Turkiet&quot;, &quot;cc&quot;: &quot;TR&quot;},
+{&quot;countryName&quot;: &quot;Turkmenistan&quot;, &quot;cc&quot;: &quot;TM&quot;},
+{&quot;countryName&quot;: &quot;Turks- och Caicosöarna&quot;, &quot;cc&quot;: &quot;TC&quot;},
+{&quot;countryName&quot;: &quot;Tuvalu&quot;, &quot;cc&quot;: &quot;TV&quot;},
+{&quot;countryName&quot;: &quot;Uganda&quot;, &quot;cc&quot;: &quot;UG&quot;},
+{&quot;countryName&quot;: &quot;Ukraina&quot;, &quot;cc&quot;: &quot;UA&quot;},
+{&quot;countryName&quot;: &quot;Förenade Arabemiraten&quot;, &quot;cc&quot;: &quot;AE&quot;},
+{&quot;countryName&quot;: &quot;Storbritannien&quot;, &quot;cc&quot;: &quot;GB&quot;},
+{&quot;countryName&quot;: &quot;USA:s yttre öar&quot;, &quot;cc&quot;: &quot;UM&quot;},
+{&quot;countryName&quot;: &quot;Uruguay&quot;, &quot;cc&quot;: &quot;UY&quot;},
+{&quot;countryName&quot;: &quot;USA&quot;, &quot;cc&quot;: &quot;US&quot;},
+{&quot;countryName&quot;: &quot;Uzbekistan&quot;, &quot;cc&quot;: &quot;UZ&quot;},
+{&quot;countryName&quot;: &quot;Vanuatu&quot;, &quot;cc&quot;: &quot;VU&quot;},
+{&quot;countryName&quot;: &quot;Vatikanstaten&quot;, &quot;cc&quot;: &quot;VA&quot;},
+{&quot;countryName&quot;: &quot;Venezuela&quot;, &quot;cc&quot;: &quot;VE&quot;},
+{&quot;countryName&quot;: &quot;Vietnam&quot;, &quot;cc&quot;: &quot;VN&quot;},
+{&quot;countryName&quot;: &quot;Brittiska Jungfruöarna&quot;, &quot;cc&quot;: &quot;VG&quot;},
+{&quot;countryName&quot;: &quot;Amerikanska Jungfruöarna&quot;, &quot;cc&quot;: &quot;VI&quot;},
+{&quot;countryName&quot;: &quot;Wallis- och Futunaöarna&quot;, &quot;cc&quot;: &quot;WF&quot;},
+{&quot;countryName&quot;: &quot;Västsahara&quot;, &quot;cc&quot;: &quot;EH&quot;},
+{&quot;countryName&quot;: &quot;Jemen&quot;, &quot;cc&quot;: &quot;YE&quot;},
+{&quot;countryName&quot;: &quot;Zambia&quot;, &quot;cc&quot;: &quot;ZM&quot;},
+{&quot;countryName&quot;: &quot;Zimbabwe&quot;, &quot;cc&quot;: &quot;ZW&quot;}
+]">
+         <!----></span> 
+        <label for="country">Land</label> 
+        <span class="select-box" ng-class="{'invalid': form.Country.validatable &amp;&amp; !form.Country.$valid}"> <select name="Country" ng-model="contactForm.user.country" id="country" field-blur-validation="form.Country.validatable" required> <option selected value="">Select...</option> <option ng-repeat="country in contactForm.countries" value="{[country.cc]}">{[country.countryName]}</option> </select> </span> 
+        <div class="errors"> 
+         <span class="error" ng-show="form.Country.validatable &amp;&amp; form.Country.$error.required">This is required</span> 
+        </div> 
+       </div> 
+       <div class="field full"> 
+        <span ng-init="programs = [ {'english': 'Google for Education Services Track', 'translated': 'Google for Education Services Track' }
+]">
+         <!----></span> 
+        <label for="program-track">Program Track</label> 
+        <span class="select-box" ng-class="{'invalid': form.eduPartnerTrack.validatable &amp;&amp; !form.eduPartnerTrack.$valid}"> <select name="eduPartnerTrack" ng-model="contactForm.user.programTrack" id="program-track" field-blur-validation="form.eduPartnerTrack.validatable" required> <option selected value="">Select...</option> <option ng-repeat="program in programs" value="{[program.english]}">{[program.translated]}</option> </select> </span> 
+        <div class="errors"> 
+         <span class="error" ng-show="form.eduPartnerTrack.validatable &amp;&amp; form.eduPartnerTrack.$error.required">This is required</span> 
+        </div> 
+       </div> 
+       <div class="field full"> 
+        <span ng-init="products = [  {'english': 'Chrome', 'translated': 'Chrome' },
+  {'english': 'G Suite for Education (outside of North America only)', 'translated': 'G Suite for Education (outside of North America only)' }
+]">
+         <!----></span> 
+        <label>Product focus</label> 
+        <div class="checkbox" ng-repeat="product in products"> 
+         <label><input type="checkbox" name="partnerProductFocus[]" value="{[product.english]}"> {[product.translated]}</label> 
+        </div> 
+        <div class="errors"> 
+         <span class="error" ng-show="form.partnerProductFocus.validatable &amp;&amp; form.partnerProductFocus.$error.required">This is required</span> 
+        </div> 
+       </div> 
+       <div class="field full buttons"> 
+        <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect" type="button" ng-click="modal.close()">Cancel</button> 
+        <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" type="submit">Skicka</button> 
+       </div> 
+       <div class="hidden"> 
+        <div> 
+         <input id="partner-opt-in" name="Opt_In_Partner__c" type="hidden" value="No"> 
+         <input type="hidden" name="LeadSource" value="Website"> 
+         <input id="utm_campaign__c" name="utm_campaign__c" type="hidden" value="organic"> 
+         <input id="utm_source__c" name="utm_source__c" type="hidden" value="google"> 
+         <input id="utm_medium" name="utm_medium" type="hidden" value="organic"> 
+         <input id="utm_term" name="utm_term" type="hidden" value=""> 
+         <input id="utm_content" name="utm_content" type="hidden" value=""> 
+         <input id="00N60000001fchv" name="OSO_Test_Tracking__c" type="hidden" value=""> 
+         <input name="Lead_Source_Descr__c" type="hidden" value="Website: Google for Education - Partner"> 
+         <input name="Most_Recent_Lead_Source_Description__c" type="hidden" value="Website: Google for Education - Partner"> 
+         <input name="lpId" type="hidden" value="54251"> 
+         <input name="industry" type="hidden" value="Education"> 
+         <input name="formid" type="hidden" value="4942"> 
+         <input name="subId" type="hidden" value="95"> 
+         <input name="munchkinId" type="hidden" value="248-TPC-286"> 
+         <input type="hidden" name="retURL" value="{[contactForm.returnUrl]}">
+        </div> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <script type="text/javascript">
+  setTimeout(function() {
+    var modalForm = document.querySelector('.contact-form');
+    modalForm.classList.remove('contact-form--hide');
+  }, 2000);
+</script> 
+   <!-- Apply section --> 
+   <div class="maia-aux apply-footer"> 
+    <h2 class="maia-col-12 mdl-typography--font-light heading center">Bli nästa Google for Education-partner</h2> 
+    <a class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent apply-now cta" href="#learnmore-form" data-g-event="Services Track Partner - Google for Work" data-g-action="Apply now" data-g-label="Footer">Ansök nu</a> 
+   </div> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Produkter</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/products/devices/">Enheter</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/products/productivity-tools/">Produktivitetsverktyg</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/products/more-products/">Fler produkter</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Utbildning</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=sv" target="_blank">Utbildning för pedagoger</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">Utbildning för IT-admin</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">Partnerregister</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/resources/communities/">Grupper</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Resurser</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:News &amp;amp; Events" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/resources/news-and-events/">Nyheter och event</a></li> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/resources/programs/">Program</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/resources/computerscience/">Utbildning inom datavetenskap</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/resources/global-education/">Global utbildning</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/it/">IT</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">Resurser för utvecklare</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/access/">Åtkomst</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/contact/">Försäljning</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">Support</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/partners/">Partnerprogram</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/case-studies/">Fallstudier</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">Visa skolor som använder Chromebooks</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">Blogg</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="Sök på den här webbplatsen" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/partners/services-track/annual-requirements/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/partners/services-track/annual-requirements/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/da/partners/services-track/annual-requirements/"> dansk (Danmark) </option><option value="/intl/en_au/partners/services-track/annual-requirements/"> English (Australia) </option><option value="/intl/en_ca/partners/services-track/annual-requirements/"> English (Canada) </option><option value="/intl/en_in/partners/services-track/annual-requirements/"> English (India) </option><option value="/intl/en_nz/partners/services-track/annual-requirements/"> English (New Zealand) </option><option value="/intl/en_uk/partners/services-track/annual-requirements/"> English (United Kingdom) </option><option value="/partners/services-track/annual-requirements/"> English (United States) </option><option value="/intl/es-419_mx/partners/services-track/annual-requirements/"> español (México) </option><option value="/intl/es-419/partners/services-track/annual-requirements/"> español (Latinoamérica) </option><option value="/intl/fi/partners/services-track/annual-requirements/"> suomi (Suomi) </option><option value="/intl/fr_be/partners/services-track/annual-requirements/"> français (Belgique) </option><option value="/intl/id/partners/services-track/annual-requirements/"> Indonesia (Indonesia) </option><option value="/intl/ja/partners/services-track/annual-requirements/"> 日本語 (日本) </option><option value="/intl/ms/partners/services-track/annual-requirements/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/partners/services-track/annual-requirements/"> Nederlands (Nederland) </option><option value="/intl/no/partners/services-track/annual-requirements/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/partners/services-track/annual-requirements/"> português (Brasil) </option><option selected value="/intl/sv/partners/services-track/annual-requirements/"> svenska (Sverige) </option><option value="/intl/th/partners/services-track/annual-requirements/"> ไทย (ไทย) </option><option value="/intl/tr/partners/services-track/annual-requirements/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/sv/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/sv/policies/privacy/">Sekretess</a> </li> 
+      <li> <a href="https://www.google.com/intl/sv/policies/terms/">Villkor</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script>  
+ </body>
+</html>

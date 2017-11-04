@@ -1,0 +1,253 @@
+<!doctype html>
+<html lang="hu">
+ <head> 
+  <script>(function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)</script> 
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"> 
+  <meta charset="utf-8"> 
+  <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"> 
+  <meta property="og:url" content="www.google.com/intl/hu_ALL/drive/download/"> 
+  <meta name="twitter:url" content="www.google.com/intl/hu_ALL/drive/download/"> 
+  <meta name="twitter:title" content="A Google Drive letöltése"> 
+  <meta name="twitter:image" content="https://www.google.com/drive/static/images/drive/logo-drive.png"> 
+  <meta name="twitter:description" content="Fájljait bárhol elérheti és szinkronizálhatja"> 
+  <meta name="twitter:creator" content="google"> 
+  <!-- Open Graph --> 
+  <meta content="A Google Drive letöltése" property="og:title"> 
+  <meta content="https://www.google.com/drive/static/images/drive/logo-drive.png" property="og:image"> 
+  <meta content="Fájljait bárhol elérheti és szinkronizálhatja" property="og:description"> 
+  <meta property="og:type" content="website"> 
+  <!-- Doc Meta --> 
+  <title>A Google Drive letöltése</title> 
+  <meta content="Fájljait bárhol elérheti és szinkronizálhatja" name="description"> 
+  <link rel="prefetch" href="//www.google.com/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png"> 
+  <link rel="stylesheet" href="//www.gstatic.com/external_hosted/normalize/normalize.css"> 
+  <link rel="stylesheet" href="//www.google.com/css/maia.experimental.css"> 
+  <link rel="stylesheet" href="//www.google.com/css/gweb/lightbox.css"> 
+  <script src="//www.google.com/js/google.js"></script> 
+  <script>
+      var _gaq = _gaq || [];
+      _gaq.push(['_cookiePathCopy', '/a/']);
+      _gaq.push(['_cookiePathCopy', '/apps/']);
+      _gaq.push(['_cookiePathCopy', '/work/']);
+      _gaq.push(['_cookiePathCopy', '/work/apps/business/']);
+      _gaq.push(['_cookiePathCopy', '/intl/']);
+      _gaq.push(['_cookiePathCopy', '/intx/']);
+      _gaq.push(['_cookiePathCopy', '/work/']);
+    new gweb.analytics.AutoTrack({profile: "UA-28613865-1"});
+  </script> 
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Product+Sans" rel="stylesheet"> 
+  <!-- External Scripts --> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/modernizr.js"></script> 
+  <!-- Favicon --> 
+  <link href="/drive/static/images/drive/favicon.ico" rel="icon" type="image/png"> 
+  <!-- Stylesheet --> 
+  <link href="/drive/static/dist/css/main.min.css" rel="stylesheet"> 
+  <link rel="canonical" href="https://www.google.com/intl/hu_ALL/drive/download/"> 
+ </head> 
+ <body class="download-page nav-dark"> 
+  <span itemscope itemtype="http://schema.org/LocalBusiness"> 
+   <!-- Header --> 
+   <header class="header" role="banner"> 
+    <div class="header-item with-site-logo"> 
+     <a class="site-logo site-logo-link" href="/intl/hu_ALL/drive/" data-g-event="Drive" data-g-action="Header" data-g-label="Drive logo"> 
+      <div class="lockup  js-lockup" dir="ltr"> 
+       <span class="lockup-logo js-site-logo-image"></span> 
+       <span class="lockup-text"></span> 
+       <span class="lockup-brand">Drive</span> 
+      </div> </a> 
+    </div> 
+    <nav class="nav-site" data-nav-name="mobile"> 
+     <img itemprop="image" alt="Drive logo" src="/drive/static/images/drive/logo-drive.png"> 
+     <ul> 
+      <li> <a class="meet" href="/intl/hu_ALL/drive/" data-g-event="Drive" data-g-action="Header" data-g-label="Ismerje meg a Drive-ot!">Ismerje meg a Drive-ot!</a> </li> 
+      <li> <a class="using-drive" href="/intl/hu_ALL/drive/using-drive/" data-g-event="Drive" data-g-action="Header" data-g-label="A Drive használata">A Drive használata</a> </li> 
+      <li> <a class="price" href="/intl/hu_ALL/drive/pricing/" data-g-event="Drive" data-g-action="Pricing" data-g-label="Árak">Árak</a> </li> 
+      <li class="mobile-is-hidden device-is-hidden"> <a class="download" href="/intl/hu_ALL/drive/download/" data-g-event="Drive" data-g-action="Header" data-g-label="Letöltés">Letöltés</a> </li> 
+      <li> <a class="work" href="//gsuite.google.com/intl/hu_ALL/driveforwork/?utm_medium=et&amp;utm_source=aboutdrive&amp;utm_content=consnav&amp;utm_campaign=hu" data-g-event="Drive" data-g-action="Header" data-g-label="Munkához">Munkához</a> </li> 
+      <li class="last-default"> <a class="help" href="//support.google.com/drive/answer/2424384?hl=hu" data-g-event="Drive" data-g-action="Header" data-g-label="Súgó">Súgó</a> </li> 
+      <li class="mobile-is-hidden float-in"> <a class="go-to-drive get-started" href="https://accounts.google.com/ServiceLogin?service=wise&amp;passive=true&amp;continue=http://drive.google.com/?utm_source=hu&amp;utm_medium=button&amp;utm_campaign=web&amp;utm_content=gotodrive&amp;usp=gtd&amp;ltmpl=drive" data-g-event="Drive" data-g-action="Header" data-g-label="Ugrás a Google&nbsp;Drive-ba">Ugrás a Google&nbsp;Drive-ba</a> </li> 
+      <li class="download-app mobile-is-visible crushed-is-visible"> <a class="download-mobile-android boxed-in" href="//play.google.com/store/apps/details?id=com.google.android.apps.docs&amp;hl=hu" data-g-event="Drive" data-g-action="Header" data-g-label="Letöltés Androidra">Letöltés Androidra</a> <a class="download-mobile-ios boxed-in" href="//itunes.apple.com/en/app/google-drive/id507874739" data-g-event="Drive" data-g-action="Header" data-g-label="Letöltés iOS-re">Letöltés iOS-re</a> <a class="download-mobile boxed-in get-started" href="" data-g-event="Drive" data-g-action="Header" data-g-label="Bejelentkezés">Bejelentkezés</a> </li> 
+     </ul> 
+    </nav> 
+    <div class="mobile-nav-toggle js-mobilenav"> 
+     <div class="icon icon-mobile-open toggle-nav-open js-mobilenav-toggle" data-target-nav="mobile"></div> 
+     <div class="icon icon-mobile-close toggle-nav-closed js-mobilenav-toggle-close" data-target-nav="mobile"></div> 
+    </div> 
+   </header> </span> 
+  <!-- End Header --> 
+  <section class="download"> 
+   <div class="mobile-is-hidden"> 
+    <div class="download__hero-image"> 
+     <h1> Fájljait bárhol elérheti és szinkronizálhatja </h1> 
+    </div> 
+    <section class="download__panel-wrapper"> 
+     <div class="download__panel personal"> 
+      <h2 class="download__panel-title">Személyes</h2> 
+      <div class="download__panel-logo"> 
+       <img src="/drive/static/svgs/logo_backup_and_sync.svg" alt="Biztonsági mentés és szinkronizálás icon"> 
+       <span>Biztonsági mentés és szinkronizálás</span> 
+      </div> 
+      <p class="download__panel-description">Számítógépén, fényképezőgépén és SD-kártyáján tárolt fájljairól biztonsági másolatot készthet a felhőben. Fájljait bármilyen eszközön vagy számítógépen megtalálhatja a Google Drive-val, fényképeit pedig megnézheti a Google Fotókban.</p> 
+      <a class="maia-button button-download download__button" data-eula-trigger href="javascript:void(0);" data-g-event="Drive" data-g-action="Letöltés" data-g-label="Letöltés">Letöltés</a> 
+      <a class="download__button--learn-more" href="/intl/hu_ALL/drive/download/backup-and-sync/" data-g-event="Drive" data-g-action="További információ." data-g-label="További információ.">További információ.</a> 
+     </div> 
+     <div class="download__panel business"> 
+      <h2 class="download__panel-title">Céges</h2> 
+      <div class="download__panel-logo"> 
+       <img src="/drive/static/svgs/logo_drive_file_stream.svg" alt="Drive File Stream icon"> 
+       <span>Drive File Stream</span> 
+      </div> 
+      <p class="download__panel-description">Újszerű módon, közvetlenül Macről vagy PC-ről érheti el igény szerint a Google Drive-on tárolt fájljait anélkül, hogy elfogyna a lemezén a szabad hely.</p> 
+      <a class="maia-button button-download download__button" href="https://support.google.com/a/answer/7491144?utm_medium=et&amp;utm_source=aboutdrive&amp;utm_content=getstarted&amp;utm_campaign=hu" data-g-event="Drive" data-g-action="Kezdő lépések" data-g-label="Kezdő lépések">Kezdő lépések</a> 
+     </div> 
+    </section> 
+   </div> 
+   <section class="download__mobile-wrapper"> 
+    <img src="/drive/static/svgs/logo_drive_round.svg" alt="Google Drive Icon"> 
+    <h2>A Google Drive-hoz telefonról vagy táblagépről is hozzáférhet</h2> 
+    <p>A Google Drive alkalmazást letöltve az összes fájljához hozzáférhet Android vagy iOS rendszerű eszközéről.</p> 
+    <div class="download__mobile-icons"> 
+     <a href="//play.google.com/store/apps/details?id=com.google.android.apps.docs"> <img src="/drive/static/images/google-play.png" alt="Letöltés a Google Playről"> </a> 
+     <a href="//itunes.apple.com/app/google-drive/id507874739"> <img src="/drive/static/images/app-store.jpg" alt="Letöltés az Apple App&nbsp;Store-ból"> </a> 
+    </div> 
+   </section> 
+  </section> 
+  <div class="eula-modal"> 
+   <header> 
+    <h2 class="eula-header--win">A Backup and Sync (Windows) letöltése</h2> 
+    <h2 class="eula-header--mac">A Backup and Sync (Mac) letöltése</h2> 
+    <h3>A Google Drive Általános Szerződési Feltételei</h3> 
+   </header> 
+   <article class="terms"> 
+    <p class="eula-modal__body backup-sync">A Backup and Sync alkalmazás használatával elfogadja a <a href="http://www.google.com/policies/terms/">Google Általános Szerződési Feltételeit</a>. Ha Ön Google Apps-felhasználó, a használatra a vonatkozó <a href="http://www.google.com/apps/intl/hu/terms/standard_terms.html">Google Apps Általános Szerződési Feltételek</a>, vagy a szerződésben rögzített Google Apps-feltételek alkalmazandók.</p> 
+    <p class="eula-modal__body drive">A Google Drive használatával elfogadja a <a href="http://www.google.com/policies/terms/" target="_blank">Google Általános Szerződési Feltételeit</a>. Ha Ön a Google Appsfelhasználója, a szolgáltatás használata vagy a vonatkozó <a href="http://www.google.com/apps/intl/en/terms/standard_terms.html" target="_blank">Google AppsÁltalános Szerződési Feltételek</a> vagy a megállapodás szerinti Google Apps szerződésifeltételek hatálya alá esik, ha vannak ilyenek.</p> 
+   </article> 
+   <footer> 
+    <a href="javascript:void(0);" class="dismiss-button">Mégse</a> 
+    <a href="javascript:void(0);" class="cta-button cta-button--confirm">Elfogadom és letöltöm</a> 
+   </footer> 
+  </div> 
+  <div class="eula-modal__overlay"></div> 
+  <!-- Footer --> 
+  <div class="signature-wrapper">
+   <div id="maia-signature"></div>
+  </div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="maia-cols first"> 
+      <div class="maia-col-3 footer-top social">
+        Google Apps-webhely megosztása: 
+       <span class="plusone-button" id="plusone-httpwwwgooglecoma"></span> 
+       <script>
+    window.___gcfg = {
+      lang: 'hu',
+      parsetags: 'explicit'
+    };
+
+    var gweb = gweb || {};  // namespace
+    gweb.plusOneButton = {};
+    gweb.plusOneButton.callbacks = {};
+    gweb.plusOneButton.onPlusOneLoad = function() {
+      for (var slug in gweb.plusOneButton.callbacks) {
+        gapi.plusone.render(slug, gweb.plusOneButton.callbacks[slug]);
+      }
+      gweb.plusOneButton.callbacks = {};
+    };
+              </script> 
+       <script src="//apis.google.com/js/platform.js">
+              </script> 
+       <script>
+              gweb.plusOneButton.callbacks['plusone-httpwwwgooglecoma'] = {
+      'annotation': 'none',
+      'href': 'http://www.google.com/a/',
+      'size': 'standard',
+      'callback': '',
+      'recommendations': 'true'
+    };
+    gweb.plusOneButton.onPlusOneLoad();
+  </script> 
+      </div> 
+      <div class="maia-col-3 footer-top social">
+        Követés: 
+       <span class="follow"> <a href="//plus.google.com/+GoogleDrive" rel="publisher"><img alt="Google+" src="//www.google.com/images/branding/google_plus/2x/gplus_icon_flush_30dp.png" height="16" width="16" data-retina="16x16"></a> <a href="//twitter.com/googledrive/"><img alt="YouTube" src="/drive/static/images/drive/footer_twitter.png" data-retina="16x16"></a> <a href="//googledrive.blogspot.com/"><img alt="Blogger" src="/drive/static/images/drive/footer_blogger.jpg" data-retina="16x16"></a> </span> 
+      </div> 
+     </div> 
+     <div class="maia-cols"> 
+      <div class="footer-unit"> 
+       <h4>A Google Drive-ról</h4> 
+       <ul> 
+        <li> <a href="/intl/hu_ALL/drive/">Ismerje meg a Google Drive-ot</a> </li> 
+        <li> <a href="/intl/hu_ALL/drive/using-drive/">A Drive használata</a> </li> 
+        <li> <a href="//support.google.com/drive/answer/2424384?hl=hu">Kezdje meg a Google Drive használatát</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>Konstrukciók és díjszabás</h4> 
+       <ul> 
+        <li> <a href="//www.google.com/settings/storage">Tárhelykonstrukciók megtekintése és frissítése</a> </li> 
+        <li> <a href="//support.google.com/drive/answer/2375123?hl=hu">Tárhelyek díjszabása</a> </li> 
+        <li> <a href="//support.google.com/drive/topic/2375005?hl=hu">Tárhely – GYIK</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>Letöltések</h4> 
+       <ul> 
+        <li> <a href="https://www.google.com/intl/hu_ALL/drive/download/">Drive Mac rendszerű vagy asztali számítógéphez</a> </li> 
+        <li> <a href="//play.google.com/store/apps/details?id=com.google.android.apps.docs">Drive Android rendszerre</a> </li> 
+        <li> <a href="//itunes.apple.com/app/google-drive/id507874739">Drive iOS rendszerre</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>Támogatás</h4> 
+       <ul> 
+        <li> <a href="//support.google.com/drive/answer/2424384?hl=hu">A Drive súgóközpontja</a> </li> 
+        <li> <a href="//productforums.google.com/forum/#!forum/drive">A Google Drive súgófóruma</a> </li> 
+        <li> <a href="//support.google.com/drive/?hl=hu#topic=14940&amp;contact=1">Kapcsolatfelvétel</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>Kapcsolódó megoldások</h4> 
+       <ul> 
+        <li> <a href="/intl/hu_ALL/docs/about/">Google Dokumentumok</a> </li> 
+        <li> <a href="/intl/hu_ALL/sheets/about/">Google Táblázatok</a> </li> 
+        <li> <a href="/intl/hu_ALL/slides/about/">Google Diák</a> </li> 
+        <li> <a href="/intl/hu_ALL/forms/about/">Google Űrlapok</a> </li> 
+        <li> <a href="//gsuite.google.com/intl/hu_ALL/driveforwork/?utm_medium=et&amp;utm_source=aboutdrive&amp;utm_content=footer&amp;utm_campaign=hu">Google Drive for Work</a> </li> 
+        <li> <a href="//cloud.google.com/?utm_medium=et&amp;utm_source=aboutdrive&amp;utm_content=footer&amp;utm_campaign=hu">Google Cloud Platform</a> </li> 
+        <li> <a href="/intl/hu_ALL/edu/">Google Apps iskoláknak</a> </li> 
+        <li> <a href="/intl/hu_ALL/work/apps/government/">Google Apps kormányzati szerveknek</a> </li> 
+        <li> <a href="/intl/hu_ALL/services/">Google Üzleti megoldások</a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Nyelv módosítása:</span> <select onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="/intl/af_ALL/drive/download/"> Afrikaans </option> <option value="/intl/ar_ALL/drive/download/"> العربية </option> <option value="/intl/az_ALL/drive/download/"> azərbaycan dili </option> <option value="/intl/bg_ALL/drive/download/"> български </option> <option value="/intl/bn_ALL/drive/download/"> বাংলা </option> <option value="/intl/ca_ALL/drive/download/"> català </option> <option value="/intl/cs_ALL/drive/download/"> čeština </option> <option value="/intl/da_ALL/drive/download/"> dansk </option> <option value="/intl/de_ALL/drive/download/"> Deutsch </option> <option value="/intl/el_ALL/drive/download/"> Ελληνικά </option> <option value="/drive/download/"> English (United States) </option> <option value="/intl/en-GB_ALL/drive/download/"> English (United Kingdom) </option> <option value="/intl/es-419_ALL/drive/download/"> español (Latinoamérica) </option> <option value="/intl/es_ALL/drive/download/"> español </option> <option value="/intl/et_ALL/drive/download/"> eesti </option> <option value="/intl/eu_ALL/drive/download/"> euskara </option> <option value="/intl/fa_ALL/drive/download/"> فارسی </option> <option value="/intl/fi_ALL/drive/download/"> suomi </option> <option value="/intl/fil_ALL/drive/download/"> Filipino </option> <option value="/intl/fr_ALL/drive/download/"> français </option> <option value="/intl/fr-CA_ALL/drive/download/"> français (Canada) </option> <option value="/intl/gl_ALL/drive/download/"> galego </option> <option value="/intl/gu_ALL/drive/download/"> ગુજરાતી </option> <option value="/intl/hi_ALL/drive/download/"> हिन्दी </option> <option value="/intl/iw_ALL/drive/download/"> עברית </option> <option value="/intl/hr_ALL/drive/download/"> hrvatski </option> <option value="/intl/hu_ALL/drive/download/" selected> magyar </option> <option value="/intl/hy_ALL/drive/download/"> հայերեն </option> <option value="/intl/id_ALL/drive/download/"> Indonesia </option> <option value="/intl/is_ALL/drive/download/"> íslenska </option> <option value="/intl/it_ALL/drive/download/"> italiano </option> <option value="/intl/ja_ALL/drive/download/"> 日本語 </option> <option value="/intl/ka_ALL/drive/download/"> ქართული </option> <option value="/intl/km_ALL/drive/download/"> ខ្មែរ </option> <option value="/intl/kn_ALL/drive/download/"> ಕನ್ನಡ </option> <option value="/intl/ko_ALL/drive/download/"> 한국어 </option> <option value="/intl/lo_ALL/drive/download/"> ລາວ </option> <option value="/intl/lt_ALL/drive/download/"> lietuvių </option> <option value="/intl/lv_ALL/drive/download/"> latviešu </option> <option value="/intl/ml_ALL/drive/download/"> മലയാളം </option> <option value="/intl/mn_ALL/drive/download/"> монгол </option> <option value="/intl/mr_ALL/drive/download/"> मराठी </option> <option value="/intl/ms_ALL/drive/download/"> Bahasa Melayu </option> <option value="/intl/ne_ALL/drive/download/"> नेपाली </option> <option value="/intl/nl_ALL/drive/download/"> Nederlands </option> <option value="/intl/no_ALL/drive/download/"> norsk bokmål </option> <option value="/intl/pa_ALL/drive/download/"> ਪੰਜਾਬੀ </option> <option value="/intl/pl_ALL/drive/download/"> polski </option> <option value="/intl/pt-BR_ALL/drive/download/"> português (Brasil) </option> <option value="/intl/pt-PT_ALL/drive/download/"> português (Portugal) </option> <option value="/intl/ro_ALL/drive/download/"> română </option> <option value="/intl/ru_ALL/drive/download/"> русский </option> <option value="/intl/si_ALL/drive/download/"> සිංහල </option> <option value="/intl/sk_ALL/drive/download/"> slovenčina </option> <option value="/intl/sl_ALL/drive/download/"> slovenščina </option> <option value="/intl/sr_ALL/drive/download/"> српски </option> <option value="/intl/sv_ALL/drive/download/"> svenska </option> <option value="/intl/sw_ALL/drive/download/"> Kiswahili </option> <option value="/intl/ta_ALL/drive/download/"> தமிழ் </option> <option value="/intl/te_ALL/drive/download/"> తెలుగు </option> <option value="/intl/th_ALL/drive/download/"> ไทย </option> <option value="/intl/tr_ALL/drive/download/"> Türkçe </option> <option value="/intl/uk_ALL/drive/download/"> українська </option> <option value="/intl/ur_ALL/drive/download/"> اردو </option> <option value="/intl/vi_ALL/drive/download/"> Tiếng Việt </option> <option value="/intl/zh-CN_ALL/drive/download/"> 中文 (简体, 中国) </option> <option value="/intl/zh-HK_ALL/drive/download/"> 中文 (繁體字, 中華人民共和國香港特別行政區) </option> <option value="/intl/zh-TW_ALL/drive/download/"> 中文 (繁體, 台灣) </option> <option value="/intl/zu_ALL/drive/download/"> isiZulu </option> </select></label> 
+     </div> 
+     <ul> 
+      <li> <a href="//www.google.com">Google</a> </li> 
+      <li> <a href="//www.google.com/about/">About Google</a> </li> 
+      <li> <a href="//www.google.com/intl/hu/policies/privacy/">Privacy</a> </li> 
+      <li> <a href="//www.google.com/policies/terms/?hl=hu">Terms</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Scripts --> 
+  <script src="//www.google.com/js/gweb/uri/updatelinks.js"></script> 
+  <script src="//www.gstatic.com/external_hosted/gsap/TweenMax.min.js"></script> 
+  <script src="//www.gstatic.com/external_hosted/morlock/morlock.min.js"></script> 
+  <script src="/drive/static/dist/js/drive-site.min.js"></script> 
+  <script>
+      var manageParams = new drive.QueryParamManager();
+    </script> 
+  <script>
+  var download = new drive.SetUp('download');
+</script>  
+ </body>
+</html>

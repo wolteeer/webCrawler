@@ -1,0 +1,252 @@
+<!doctype html>
+<html class="google mmfb" dir="ltr" lang="en">
+ <head> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script> 
+  <meta charset="utf-8"> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <title>
+      Google AdSense Best Practices
+    </title> 
+  <meta content="What is the best way to make money with Google AdSense? Focus on these Google AdSense Best Practices to optimize your earnings." name="description"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;lang=en" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto+Slab:300,400,500&amp;lang=en" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Product+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/adsense/start/css/adsense.min.css" rel="stylesheet"> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/v2_8_3/basic.js">
+    </script> 
+  <link href="/adsense/start/images/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://www.google.com/adsense/start/resources/google-adsense-best-practices.html" rel="canonical"> 
+  <meta content="AdSense, make money with AdSense" name="keywords"> 
+  <style>
+    svg.c1 {enable-background:new 0 0 23 15;}
+    </style> 
+ </head> 
+ <body data-ng-app="rs.adsense"> 
+  <header class="header" role="banner"> 
+   <h1 class="product-logo"> <a href="../../../adsense/start/"><img alt="Google" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" srcset="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png 2x"> <span class="site-name">AdSense</span></a> </h1> 
+   <nav class="main-navigation contains-sub-nav" data-ng-controller="rs.navigation.NavCtrl as navCtrl"> 
+    <h1> AdSense </h1> 
+    <ul class="outer-nav"> 
+     <li> <a href="../../../adsense/start/">Home</a> </li> 
+     <li> <a href="../../../adsense/start/benefits/">Benefits</a> </li> 
+     <li> <a href="../../../adsense/start/how-it-works/">How It Works</a> </li> 
+     <li> <a href="../../../adsense/start/success-stories/">Success Stories</a> </li> 
+     <li class="parent">Resources 
+      <ul class="sub-nav"> 
+       <li> <a href="../../../adsense/start/resources/">Featured Resources</a> </li> 
+       <li> <a href="../../../adsense/start/resources/learning/">Learning &amp; Support</a> </li> 
+      </ul> </li> 
+     <li> <a href="../../../adsense/start/get-started/">Get Started</a> </li> 
+    </ul> 
+    <div class="cta cta-wrapper"> 
+     <a class="adsense-signin-link cta-signin" href="https://www.google.com/adsense/?hl=en&amp;sourceid=aso&amp;marketing=true&amp;noaccount=false"> Sign in</a> 
+     <a class="cta-signup adsense-signup-tracking" href="https://www.google.com/adsense/g-app-single-1?hl=en&amp;subid=ww-ww-org-signup&amp;signup=rs"> Sign up</a> 
+    </div> 
+   </nav>
+   <button class="nav-toggle-button"><span class="icon-menu-els"><span class="menu-bar"> 
+      <!----></span> <span class="menu-bar">
+      <!----></span> <span class="menu-bar"> 
+      <!----></span></span></button> 
+  </header> 
+  <div class="main" role="main"> 
+   <section class="section-adsense-resources"> 
+    <section class="section section-dark google-blue"> 
+     <div class="site-width"> 
+      <div class="cols-row"> 
+       <div class="col-12"> 
+        <h1> Best Practices for Google AdSense </h1> 
+       </div> 
+      </div> 
+      <div class="cols-row"> 
+       <div class="col-9"> 
+        <p> To make money with Google AdSense, it's important that you follow these Google AdSense best practices. They will not only ensure that you continue to increase your Google AdSense revenue, but they will also help you ensure that your site itself continues to grow and flourish. </p> 
+       </div> 
+      </div> 
+     </div> 
+    </section> 
+    <section class="section site-width"> 
+     <section class="cols-row site-width"> 
+      <aside class="col-4"> 
+       <h4 class="section-sub-heading border-yellow"> What are the best practices for Google AdSense? See our recommendations to ensure that you make money with AdSense. </h4> 
+      </aside> 
+      <div class="col-7 col-offset-1"> 
+       <article class="col-12"> 
+        <h2 class="list-bullet-item list-bullet-item-1"> Experiment with different ad units. </h2> 
+        <p> Google AdSense provides different ad styles for a reason. Different visitors to your site will be attracted to and click on different types of ads. Some will click on links. Some will click on large banners. Some will click on videos blocks. </p> 
+        <p> And it's not so much the ad style, but who the advertiser is that is using that particular style and the visitor that gets matched up to that advertiser. For example, let's say that someone is coming to your site who was just at a major retailer's site. If that retailer has remarketing ads at a certain size, and you are using an ad block that matches, then you're going to increase your chances of getting a click on your ad. </p> 
+        <p> So definitely experiment with different ad units. You might find that your leaderboard, skyscraper, and link ad units perform best. </p> 
+        <h2 class="list-bullet-item list-bullet-item-2"> Find the best ad placements for your type of site. </h2> 
+        <p> If you're unsure where to place your Google AdSense ads, then you can start with these resources for best ad placements for <a href="https://support.google.com/adsense/answer/187643?hl=en&amp;ref_topic=29875&amp;rd=1"> news sites</a>, <a href="https://support.google.com/adsense/answer/187645?hl=en&amp;ref_topic=29876&amp;rd=1"> classified sites</a>, <a href="https://support.google.com/adsense/answer/187659?hl=en&amp;ref_topic=29878&amp;rd=1"> gaming sites</a>, <a href="https://support.google.com/adsense/answer/187649?hl=en&amp;ref_topic=29879&amp;rd=1"> forums</a>, <a href="https://support.google.com/adsense/answer/187651?hl=en&amp;ref_topic=29880&amp;rd=1"> blogs</a>, <a href="https://support.google.com/adsense/answer/6025981?hl=en&amp;ref_topic=6025994&amp;rd=1"> sports sites</a>, and <a href="https://support.google.com/adsense/answer/6026100?hl=en&amp;ref_topic=6026098&amp;rd=1"> travel sites</a>. </p> 
+        <p> Another way to know what will work best for your audience is to find the most popular sites that are similar to yours and look at what they are doing. Even if they are not using Google AdSense, look closely at where they are placing their advertisements. Chances are, they have done their homework regarding the placements that will receive the most impressions or clicks for their advertisers. </p> 
+        <p> Once you've done your research, you can do a testing. Try Google's recommendations for a week, then laying out your Google AdSense like other popular sites have their ads laid out for a week. See which week performs the best in earnings, and you will know what layout works best for your audience. </p> 
+        <h2 class="list-bullet-item list-bullet-item-3"> Decide whether your ads need to be responsive. </h2> 
+        <p> First off, your site design, if possible, needs to be responsive as that is the <a href="https://developers.google.com/webmasters/mobile-sites/mobile-seo/responsive-design#using_meta_nameviewport"> Google-recommended way to be mobile-friendly</a>. But the more important question is, do your ads need to be? First off, you will want to look at your site on your smartphone to see how your ads look. If you have leaderboards that are running off your header, then you may want to consider changing a static leaderboard to a responsive leaderboard ad unit instead. </p> 
+        <p> But before doing that, you may first want to see if mobile traffic is important to your site and your AdSense earnings at all. This is something you can do by going into your Google Analytics. In particular, you will want to link your <a href="https://support.google.com/adsense/answer/6084409?hl=en">Google Analytics and AdSense accounts</a> together so you can learn more about your desktop versus your mobile users and how often they click on your ads. </p>
+        <!--[if !IE]> --> 
+        <picture>
+         <source sizes="(max-width: 768px) 500px, (max-width: 1024px) 500px, 500px" srcset="https://lh3.googleusercontent.com/hiDGralIaoa1UFddx7bvQXPQ4cX6HSGfbRH_mFuvBKoEL6qb0iI3VDUStqABY8_9E2Fw1SHvaUYOVH13_ybAR6fhjzO58RI4BKai2uE=w0 720w"> 
+         <img alt="" class="">
+        </picture> 
+        <!-- <![endif]--> 
+        <!--[if IE]>
+<picture  >
+  <img src="https://lh3.googleusercontent.com/hiDGralIaoa1UFddx7bvQXPQ4cX6HSGfbRH_mFuvBKoEL6qb0iI3VDUStqABY8_9E2Fw1SHvaUYOVH13_ybAR6fhjzO58RI4BKai2uE=w0" class=""  alt="">
+</picture>
+<![endif]--> 
+        <p> You might find that if you optimize your ads to be mobile-friendly, you’ll make more money with AdSense across the board instead of just with desktop users. </p> 
+        <h2 class="list-bullet-item list-bullet-item-4"> Continue to create new content. </h2> 
+        <p> Most types of sites depend on new content to drive new visitors and entice previous visitors to return again. In most cases, new content comes in the form of new blog posts, new discussions, or new user-generated content. No matter what type of content it is that you create, make sure that you create it often so that you continue to drive visitors to your site. </p> 
+        <p> To make sure that your new content continues to bring traffic to your site, follow <a href="https://support.google.com/webmasters/answer/35769?hl=en">Google Webmaster Guidelines</a> to optimize it for search engines for a particular keyword phrase that you have researched using <a href="https://adwords.google.com/KeywordPlanner">Google AdWords Keyword Planner</a>. The more optimized content you create, the more traffic you will receive in the long run from search engine users. </p> 
+        <p> In addition to creating new content, give visitors a way back to your site. Encourage them to subscribe to your site via email or other top social media networks so that you can promote your latest content to them. The goal is to have channels that you can reach your fans upon so that you can get them back to your site so that they will hopefully click on more of your ads. </p> 
+        <h2 class="list-bullet-item list-bullet-item-5"> Continue to promote your content and your site. </h2> 
+        <p> If you want to maintain a strong Google AdSense revenue, then you should always continue promoting your content and your site. Always. Again, follow <a href="https://support.google.com/webmasters/answer/35769?hl=en">Google Webmaster Guidelines</a> and make sure you are not violating <a href="https://support.google.com/adsense/answer/48182?hl=en">Google AdSense policies</a> when promoting your site. </p> 
+        <p> With that said, you should always look for opportunities to promote your content and your site in natural ways. If you are highly active on social media, then your social media profiles should contain links back to your site. As you engage with others and build quality relationships, people will likely connect with you and ultimately want to learn more about you by clicking through to your site. </p> 
+        <p> You can also join social media groups and forums that match the topic of your site and engage with members of those groups and forums. There will likely be times that your site will come up as a relevant resource as an answer to a question, or people who you talk to will simply look at your profile to learn more about you and click through to your site. </p> 
+        <p> Also, be sure in particular to network with bloggers who write about the topic of your site. Chances are, if you build quality relationships with them through blog comments and social networking, they might end up mentioning your site in their blog posts. </p> 
+       </article> 
+      </div> 
+     </section> 
+    </section> 
+   </section> 
+  </div> 
+  <footer class="footer" id="footer" role="contentinfo"> 
+   <div class="site-width"> 
+    <div class="footer-upper cols-row"> 
+     <div class="footer-social col-6"> 
+      <dl> 
+       <dt>
+         Follow us on: 
+       </dt> 
+       <dd> 
+        <a href="https://plus.google.com/+AdSense/posts" target="_blank">
+         <svg class="icon-footer-gplus c1" height="20px" version="1.1" viewbox="0 0 23 15" width="30px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <polygon points="23,6 21,6 21,4 19,4 19,6 17,6 17,8 19,8 19,10 21,10 21,8 23,8"> 
+          </polygon> 
+          <path d="M11.8,8.9c-0.1,1.3-1.3,3.4-4.3,3.4c-2.6,0-4.6-2.1-4.6-4.7S5,2.9,7.5,2.9c1.5,0,2.4,0.6,3,1.1 l0,0l2-2c-1.3-1.2-3-2-5-2C3.4,0.1,0,3.5,0,7.6s3.4,7.5,7.5,7.5c4.3,0,7.2-3,7.2-7.3c0-0.6-0.1-1.1-0.2-1.5h-7V9L11.8,8.9L11.8,8.9 z"> 
+          </path>
+         </svg> <img alt="Google+" class="icon-footer-gplus" height="20" src="//www.google.com/ads/images/icons/icon-footer-gplus.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a href="https://adsense.blogspot.com/" target="_blank">
+         <svg class="icon-footer-blogger" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,0H3.2C1.4,0,0,1.4,0,3.2l0,25.6C0,30.6,1.4,32,3.2,32h25.6c1.8,0,3.2-1.4,3.2-3.2V3.2 C32,1.4,30.6,0,28.8,0 M22.4,11.2v1.6c0,0.9,0.7,1.6,1.6,1.6c0.9,0,1.6,0.7,1.6,1.6v4.8c0,2.7-2.1,4.8-4.8,4.8h-9.6 c-2.7,0-4.8-2.1-4.8-4.8V9.6c0-2.6,2.1-4.8,4.8-4.8h6.4c2.7,0,4.8,2.2,4.8,4.8V11.2z M12.7,12.8h4.2c0.9,0,1.6-0.7,1.6-1.6 s-0.7-1.6-1.6-1.6h-4.2c-0.9,0-1.6,0.7-1.6,1.6S11.8,12.8,12.7,12.8 M19.2,17.6h-6.5c-0.9,0-1.6,0.7-1.6,1.6c0,0.9,0.7,1.6,1.6,1.6 h6.5c0.9,0,1.6-0.7,1.6-1.6C20.8,18.3,20.1,17.6,19.2,17.6"> 
+          </path>
+         </svg> <img alt="Blogger" class="icon-footer-blogger" height="20" src="//www.google.com/ads/images/icons/icon-footer-blogger.png" width="20"></a> 
+       </dd> 
+      </dl> 
+     </div> 
+    </div> 
+    <nav class="footer-nav cols-row"> 
+     <dl class="col-3"> 
+      <dt>
+        Learning &amp; Support 
+      </dt> 
+      <dd> 
+       <a href="https://support.google.com/adsense/?hl=en#topic=3373519">Help Center</a> 
+      </dd> 
+      <dd> 
+       <a href="https://optimizingadsense.withgoogle.com/course">Optimizing AdSense</a> 
+      </dd> 
+      <dd> 
+       <a href=""></a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.en.advertisercommunity.com/t5/Google-Small-Business/ct-p/Google_Small_Business"> Google Small Business Community</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Developers 
+      </dt> 
+      <dd> 
+       <a href="https://developers.google.com/?hl=en">Google Developers Site</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/adsense/host/">AdSense Host API</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/adsense/management/">AdSense Management API</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/custom-search-ads/">AdSense Custom Search Ads</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Related Products 
+      </dt> 
+      <dd> 
+       <a href="https://adwords.google.com/home/?sourceid=awo&amp;subid=ww-ww-et-as-rsftr">AdWords</a> 
+      </dd> 
+      <dd> 
+       <a href="https://support.google.com/adsense/answer/6078274?hl=en">AdSense for Shopping</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.doubleclickbygoogle.com/">DoubleClick</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.blogger.com/features?hl=en">Blogger</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/admob/?subid=ww-ww-et-adsense-home-page&amp;utm_source=internal&amp;utm_medium=et&amp;utm_campaign=adsense-home-page&amp;utm_content=footer"> AdMob</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        More Solutions from Google 
+      </dt> 
+      <dd> 
+       <a href="https://www.google.com/services/">Business Solutions</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/retail/">Google for Retail</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/intx/en/work/apps/business/">Google Apps for Work</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/analytics/">Google Analytics</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.thinkwithgoogle.com/topics/programmatic.html">Think with Google</a> 
+      </dd> 
+     </dl> 
+    </nav> 
+    <div class="footer-lower cols-row"> 
+     <div class="footer-meta-links col-9"> 
+      <ul> 
+       <li> <a href="https://support.google.com/adsense/?hl=en#topic=3373519">
+         <svg class="icon-footer-help" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path clip-rule="evenodd" d="M16,0C7.2,0,0,7.2,0,16c0,3,0.9,5.9,2.3,8.3L0,32l7.7-2.3 C10.2,31.1,13,32,16,32c8.8,0,16-7.2,16-16C32,7.2,24.8,0,16,0z M17.3,24.6c-0.3,0.3-0.7,0.5-1.2,0.5s-1-0.2-1.2-0.5 c-0.3-0.3-0.4-0.7-0.4-1.1c0-0.2,0-0.4,0.1-0.6c0.1-0.2,0.2-0.4,0.3-0.5c0.1-0.1,0.3-0.3,0.5-0.3c0.2-0.1,0.4-0.1,0.7-0.1 c0.3,0,0.5,0,0.7,0.1c0.2,0.1,0.4,0.2,0.5,0.3c0.1,0.1,0.3,0.3,0.3,0.5c0.1,0.2,0.1,0.4,0.1,0.6C17.7,24,17.6,24.3,17.3,24.6z M21.1,13.2c-0.2,0.5-0.4,0.9-0.6,1.3c-0.3,0.4-0.6,0.8-0.9,1.2c-0.3,0.4-0.7,0.8-1,1.1c-0.4,0.4-0.7,0.9-0.9,1.4 c-0.2,0.5-0.2,0.8-0.3,1.8h-2.8c0-1,0-1.2,0.1-1.6c0.1-0.4,0.2-1,0.3-1.3c0.2-0.3,0.4-0.7,0.6-1c0.2-0.3,0.6-0.7,0.9-1 c0.2-0.3,0.5-0.5,0.7-0.7c0.2-0.2,0.4-0.5,0.6-0.7c0.2-0.3,0.3-0.5,0.4-0.8c0.1-0.3,0.1-0.6,0.1-1c0-0.8-0.2-1.4-0.6-1.8 c-0.4-0.4-1-0.6-1.7-0.6c-0.3,0-0.6,0.1-0.9,0.1c-0.3,0.1-0.5,0.2-0.8,0.4s-0.4,0.6-0.5,0.8c-0.1,0.3-0.2,1.2-0.2,1.2h-3 c0-2,0.2-1.6,0.4-2.2c0.3-0.6,0.7-1.2,1.1-1.6c0.5-0.4,1-0.7,1.7-0.9C14.6,7,15.3,6.9,16,6.9c0.8,0,1.6,0.1,2.2,0.3 c0.7,0.2,1.2,0.5,1.7,0.9c0.5,0.4,0.8,0.9,1,1.5c0.2,0.6,0.4,1.3,0.4,2.1C21.3,12.3,21.2,12.8,21.1,13.2z" fill-rule="evenodd"></path>
+         </svg> <img alt="Help" class="icon-footer-help" height="20" src="//www.google.com/ads/images/icons/icon-footer-help.png" width="20"> Help</a> </li> 
+       <li> <a href="//www.google.com">Google</a> </li> 
+       <li> <a href="//www.google.com/intl/en/policies/privacy/">Privacy</a> </li> 
+       <li> <a href="//www.google.com/intl/en/policies/terms/">Terms</a> </li> 
+      </ul> 
+     </div> 
+     <div class="footer-locale-switcher col-3"> 
+      <label class="visually-hidden" for="footer-locales"><span>Change language or region:</span></label> 
+      <select class="footer-locales" id="footer-locales" onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="//www.google.co.id/intl/id/adsense/start/"> Bahasa Indonesia – Indonesia </option> <option value="//www.google.com/intl/ms/adsense/start/"> Bahasa Melayu </option> <option value="//www.google.cz/intl/cs/adsense/start/"> Čeština – Česká republika </option> <option value="//www.google.dk/intl/da/adsense/start/"> Dansk – Danmark </option> <option value="//www.google.de/intl/de/adsense/start/"> Deutsch – Deutschland </option> <option selected value="//www.google.com/intl/en/adsense/start/"> English </option> <option value="//www.google.co.in/intl/en/adsense/start/"> English – India </option> <option value="//www.google.co.uk/intl/en/adsense/start/"> English – United Kingdom </option> <option value="//www.google.es/intl/es/adsense/start/"> Español – España </option> <option value="//www.google.com.ph/intl/fil/adsense/start/"> Filipino – Pilipinas </option> <option value="//www.google.fr/intl/fr/adsense/start/"> Français – France </option> <option value="//www.google.hr/intl/hr/adsense/start/"> Hrvatski – Hrvatska </option> <option value="//www.google.it/intl/it/adsense/start/"> Italiano – Italia </option> <option value="//www.google.lv/intl/lv/adsense/start/"> Latviešu – Latvija </option> <option value="//www.google.lt/intl/lt/adsense/start/"> Lietuvių – Lietuva </option> <option value="//www.google.hu/intl/hu/adsense/start/"> Magyar – Magyarország </option> <option value="//www.google.nl/intl/nl/adsense/start/"> Nederlands – Nederland </option> <option value="//www.google.no/intl/no/adsense/start/"> Norsk – Norge </option> <option value="//www.google.pl/intl/pl/adsense/start/"> Polski – Polska </option> <option value="//www.google.com.br/intl/pt-BR/adsense/start/"> Português (Brasil) – Brasil </option> <option value="//www.google.pt/intl/pt-PT/adsense/start/"> Português (Portugal) – Portugal </option> <option value="//www.google.ro/intl/ro/adsense/start/"> Română – România </option> <option value="//www.google.sk/intl/sk/adsense/start/"> Slovenčina – Slovensko </option> <option value="//www.google.fi/intl/fi/adsense/start/"> Suomi – Suomi </option> <option value="//www.google.se/intl/sv/adsense/start/"> Svenska – Sverige </option> <option value="//www.google.com.vn/intl/vi/adsense/start/"> Tiếng Việt – Việt Nam </option> <option value="//www.google.com.tr/intl/tr/adsense/start/"> Türkçe – Türkiye </option> <option value="//www.google.gr/intl/el/adsense/start/"> Ελληνικά – Ελλάδα </option> <option value="//www.google.bg/intl/bg/adsense/start/"> Български – България </option> <option value="//www.google.ru/intl/ru/adsense/start/"> Русский – Россия </option> <option value="//www.google.rs/intl/sr/adsense/start/"> Српски – Србија </option> <option value="//www.google.com.ua/intl/uk/adsense/start/"> Українська – Україна </option> <option value="//www.google.co.il/intl/iw/adsense/start/"> ‫עברית – ישראל‬ </option> <option value="//www.google.com/intl/ar/adsense/start/"> ‫العربية‬ </option> <option value="//www.google.co.in/intl/hi/adsense/start/"> हिन्दी – भारत </option> <option value="//www.google.co.th/intl/th/adsense/start/"> ไทย – ไทย </option> <option value="//www.google.co.kr/intl/ko/adsense/start/"> 한국어 – 대한민국 </option> <option value="http://www.google.cn/intl/zh-CN/adsense/start/"> 中文（简体中文） – 中国 </option> <option value="//www.google.com.tw/intl/zh-TW/adsense/start/"> 中文（繁體中文） – 台灣 </option> <option value="//www.google.co.jp/intl/ja/adsense/start/"> 日本語 – 日本 </option> </select> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <script src="//www.gstatic.com/external_hosted/picturefill/picturefill.min.js">
+    </script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js">
+    </script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.min.js">
+    </script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-messages.min.js">
+    </script> 
+  <script async data-gtmid="GTM-M9NJC2" src="//www.google.com/ads/js/peitho2/peitho2.min.js">
+    </script> 
+  <script src="/adsense/start/js/adsense.min.js">
+    </script> 
+  <script>
+    var srcURL="//www.google.com/adsense/start/marketing/ooga/";var params=document.location.search;var referrer=document.referrer;srcURL+=(params?params+"&":"?")+"referrer="+encodeURIComponent(referrer);var ifrm=document.createElement("iframe");ifrm.setAttribute("src",srcURL);ifrm.setAttribute("id","ooga_iframe");ifrm.style.width="1";ifrm.style.height="1";ifrm.style.frameborder="0";ifrm.style.display="none";document.body.appendChild(ifrm);
+    </script>  
+ </body>
+</html>

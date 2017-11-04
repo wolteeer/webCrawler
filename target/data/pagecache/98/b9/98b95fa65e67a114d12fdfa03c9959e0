@@ -1,0 +1,727 @@
+<!doctype html>
+<html class="google mmfb" lang="tr" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/tr/products/devices/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="Chromebook ve tabletler destek ve yönetim avantajının yanı sıra G Suite ve eğitsel içeriklere yerleşik erişim olanağına sahiptir." name="description"> 
+  <title>
+    Google for Education: Kullanıma hazır bir öğrenim çözümü
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/tr/products/devices/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Kullanıma hazır bir öğrenim çözümü" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/tr/products/devices/" property="og:url"> 
+  <meta content="https://www.google.com/images/video-geg_2x.png" property="og:image"> 
+  <meta content="Chromebook ve tabletler destek ve yönetim avantajının yanı sıra G Suite ve eğitsel içeriklere yerleşik erişim olanağına sahiptir." property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/tr/products/devices/" name="twitter:url"> 
+  <meta content="Google for Education: Kullanıma hazır bir öğrenim çözümü" name="twitter:title"> 
+  <meta content="https://www.google.com/images/video-geg_2x.png" name="twitter:image"> 
+  <meta content="Chromebook ve tabletler destek ve yönetim avantajının yanı sıra G Suite ve eğitsel içeriklere yerleşik erişim olanağına sahiptir." name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Kullanıma hazır bir öğrenim çözümü" itemprop="name"> 
+  <meta content="Chromebook ve tabletler destek ve yönetim avantajının yanı sıra G Suite ve eğitsel içeriklere yerleşik erişim olanağına sahiptir." itemprop="description"> 
+  <meta content="https://www.google.com/images/video-geg_2x.png" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Kullanıma hazır bir öğrenim çözümü",
+    "description": "Chromebook ve tabletler destek ve yönetim avantajının yanı sıra G Suite ve eğitsel içeriklere yerleşik erişim olanağına sahiptir.",
+    "url": "https://edu.google.com/intl/tr/products/devices/",
+    "logo": "https://www.google.com/images/video-geg_2x.png",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="devices ng-scope"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/tr/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Google Ürünleri Edinin</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">Size Nasıl Yardımcı Olabiliriz?</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>Üretkenlik Araçlarını Edinin</h5> 
+        <p>Classroom, Google Dokümanlar, Drive, Hangouts, e-posta ve diğer uygulamalarla ücretsiz olarak verilen ve reklam içermeyen Google üretkenlik araçlarını edinin.</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=tr#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">G Suite'a Kaydolun</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Cihazları Edinin</h5> 
+        <p>Okulunuza toplu Chromebook veya Android cihaz alımı yapmayı mı düşünüyorsunuz? Ekibimiz doğru seçimi yapmanıza yardımcı olabilir.</p> 
+        <a class="maia-button overlay-button" href="/intl/tr/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Bir Uzmanla Görüşün</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Diğer Eğitimcilerle Konuşun</h5> 
+        <p>Google araçlarına geçiş yapmış kişilerle konuşmak ister misiniz? Eğitimciler topluluğumuzdan yardım alın.</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Diğer Eğitimcileri Bulun</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/" target="_self">Ana Sayfa</a> </li> 
+     <li class=" active  global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">Ürünler</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/products/productivity-tools/" target="_self">Üretkenlik Araçları <br><span class="dropdown-item-description">Docs, Gmail and More</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/products/productivity-tools/classroom/" target="_self">Classroom <br><span class="dropdown-item-description">Mission control for teachers and students</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtual reality field trips</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/products/more-products/" target="_self">Diğer Ürünler <br><span class="dropdown-item-description">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">Eğitim</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=tr" target="_self">Eğitimci Eğitimi <br><span class="dropdown-item-description">Google for Education araçları için</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">BT Yöneticisi Eğitimi <br><span class="dropdown-item-description">G Suite Yöneticileri için</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">İş Ortakları Dizini <br><span class="dropdown-item-description">to help your school go Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/resources/communities/" target="_self">Topluluklar <br><span class="dropdown-item-description">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">Kaynaklar</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/resources/programs/" target="_self">Programlar <br><span class="dropdown-item-description">for students and teachers</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/case-studies/" target="_self">Örnek Olaylar </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/resources/computerscience/" target="_self">Bilgisayar Bilimi Eğitimi <br><span class="dropdown-item-description">Programs, Funding, and Research</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/resources/global-education/" target="_self">Global Eğitim </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/tr/it/" target="_self">IT Guides</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/tr/higher-education/" target="_self">Yüksek Öğrenim</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Ürünler</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/products/productivity-tools/" target="_self">Üretkenlik Araçları <span class="nav-subtext">Docs, Gmail and More</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/products/productivity-tools/classroom/" target="_self">Classroom <span class="nav-subtext">Mission control for teachers and students</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtual reality field trips</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/products/more-products/" target="_self">Diğer Ürünler <span class="nav-subtext">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Eğitim</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=tr" target="_self">Eğitimci Eğitimi <span class="nav-subtext">Google for Education araçları için</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">BT Yöneticisi Eğitimi <span class="nav-subtext">G Suite Yöneticileri için</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">İş Ortakları Dizini <span class="nav-subtext">to help your school go Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/resources/communities/" target="_self">Topluluklar <span class="nav-subtext">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Kaynaklar</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/resources/programs/" target="_self">Programlar <span class="nav-subtext">for students and teachers</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/case-studies/" target="_self">Örnek Olaylar </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/resources/computerscience/" target="_self">Bilgisayar Bilimi Eğitimi <span class="nav-subtext">Programs, Funding, and Research</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/resources/global-education/" target="_self">Global Eğitim </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">IT Guides</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/it/" target="_self">BT </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/trust/" target="_self">Gizlilik Sayfaları </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Yüksek Öğrenim</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/higher-education/" target="_self">Yüksek Öğrenim </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Google Ürünleri Edinin</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">Size Nasıl Yardımcı Olabiliriz?</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>Üretkenlik Araçlarını Edinin</h5> 
+         <p>Classroom, Google Dokümanlar, Drive, Hangouts, e-posta ve diğer uygulamalarla ücretsiz olarak verilen ve reklam içermeyen Google üretkenlik araçlarını edinin.</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=tr#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">G Suite'a Kaydolun</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Cihazları Edinin</h5> 
+         <p>Okulunuza toplu Chromebook veya Android cihaz alımı yapmayı mı düşünüyorsunuz? Ekibimiz doğru seçimi yapmanıza yardımcı olabilir.</p> 
+         <a class="maia-button overlay-button" href="/intl/tr/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Bir Uzmanla Görüşün</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Diğer Eğitimcilerle Konuşun</h5> 
+         <p>Google araçlarına geçiş yapmış kişilerle konuşmak ister misiniz? Eğitimciler topluluğumuzdan yardım alın.</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Diğer Eğitimcileri Bulun</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="maia-aux section solution products-hero no-padding-bottom edu-devices-container"> 
+    <div class="maia-cols"> 
+     <div class="maia-col-5 products-hero-headlines"> 
+      <h1 class="headline"> Kullanıma hazır bir öğrenim çözümü </h1> 
+      <h2 class="subheadline top-subheadline"></h2> 
+      <p> Chromebook ve tabletler destek ve yönetim avantajının yanı sıra <a data-g-action="Google Apps" data-g-event="Edu: Hero" data-g-label="Hero" href="/intl/tr/products/productivity-tools/" target="_self">G Suite</a> ve <a data-g-action="Educational Content" data-g-event="Edu: Hero" data-g-label="Hero" href="/intl/tr/products/class-content/" target="_self">eğitsel içeriklere</a> yerleşik erişim olanağına sahiptir. <span class="starting-at">Başlangıç fiyatı ise $219 olarak belirlenmiştir.</span> </p>
+      <a class="maia-button" data-g-action="Get Google Products" data-g-event="Edu: Hero" data-g-label="Hero" href="https://eduproducts.withgoogle.com/?lb=apps-edu-account&amp;__utma=173272373.1747364230.1435774722.1439328292.1439332527.2&amp;__utmb=173272373.136.6.1439336137873&amp;__utmc=173272373&amp;__utmx=173272373.lBgmrTO8R3uEDwsxNxa_Nw$71218119-7:0&amp;__utmz=173272373.1439328292.1.1.utmcsr&amp;__utmv=-&amp;__utmk=55877227" target="_self">Başlayın</a> 
+     </div> 
+     <div class="maia-col-7"> 
+      <div class="devices-wrapper desktop"> 
+       <img alt="" class="product-icon chromebook-tablet" data-retina="839x410" src="/images/products/devices/chrome_devices_new.jpg"> 
+      </div> 
+      <div class="devices-wrapper mobile"> 
+       <div class="device-wrapper chromebook"> 
+        <img alt="" class="product-icon chromebook" src="/images/products/devices/chrome_devices_new.jpg"> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="maia-aux section solution products-hero"> 
+    <div class="maia-cols product-tool-info-container"> 
+     <div class="maia-col-4 product-tool-info"> 
+      <h5> Ekonomik </h5> 
+      <p> Chromebook'lar ve Android tabletler, sahip olma maliyetini aşağıya çekecek şekilde tasarlanmıştır. Cihazların başlangıç fiyatı $219, yönetim ve destek ücreti ise $30 olarak belirlenmiştir. </p> 
+     </div> 
+     <div class="maia-col-4 product-tool-info"> 
+      <h5> Yönetimi kolay </h5> 
+      <p> Kurulumu birkaç dakikada yapıp, ister 10 ister 10.000 cihazı okul, bölge ya da ülke çapında merkezi olarak yönetebilirsiniz. </p> 
+     </div> 
+     <div class="maia-col-4 product-tool-info"> 
+      <h5> Paylaşım için mükemmel çözüm </h5> 
+      <p> Öğrenciler tek bir cihazı başka öğrencilerle paylaşırken bile, yalnızca oturum açarak kişisel bir deneyim yaşayabilirler. </p> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="planning-rollout full-bleed-section girls"> 
+    <h1 class="planning-rollout-title"> Cihazları okulunuzda kullanıma almayı mı planlıyorsunuz? </h1>
+    <a class="maia-button" data-g-action="See IT Guide" data-g-event="Edu: Canvas" data-g-label="Rollout" href="/intl/tr/it/" target="_self">BT Kılavuzumuza bakın</a> 
+   </div> 
+   <div class="gray-section chromebook-and-tablet ng-scope" ng-controller="DevicesController as devicesCtrl"> 
+    <div class="tab-wrapper"> 
+     <ul class="device-tabs"> 
+      <li class="tab active" data-history="true" id="chromebook-tab"> <a data-g-action="Tab: Chromebooks" data-g-click="true" data-g-event="Edu: Canvas" data-g-label="Chromebooks Tab" target="_self">Chromebook'lar</a> </li> 
+     </ul> 
+     <div class="content-tab"> 
+      <div class="info-sections-container chromebook"> 
+       <h2 class="headline"> Chromebook - PC karşılaştırması </h2> 
+       <div class="flip desktop"> 
+        <div class="card ng-scope" data-fliptile="" ng-class="tile.classesForTile();" ng-click="tile.flipCard();"> 
+         <div class="face front"> 
+          <div class="statistic large">
+            61% 
+          </div> 
+          <div class="statistic small">
+            daha düşük toplam sahip olma maliyeti 
+          </div> 
+          <div class="arrow-icon"></div> 
+         </div> 
+         <div class="face back"> 
+          <div class="card-details">
+            Diğer cihazların 3 yıla yayılmış toplam maliyeti: Cihaz başına 1.507 ABD doları
+           <br>
+           <br>Chromebook'ların 3 yıla yayılmış toplam maliyeti: Cihaz başına 588 ABD doları 
+           <p class="learn-more"> <a href="https://www.g4w.co/cb-economicvalue-whitepaper-pdf-google-drive" target="_blank">DEVAMINI OKUYUN</a> </p> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="card ng-scope" data-fliptile="" ng-class="tile.classesForTile();" ng-click="tile.flipCard();"> 
+         <div class="face front"> 
+          <div class="statistic large">
+            93% 
+          </div> 
+          <div class="statistic small">
+            dağıtım için harcanan daha az zaman 
+          </div> 
+          <div class="arrow-icon"></div> 
+         </div> 
+         <div class="face back"> 
+          <div class="card-details">
+            Diğer cihazlar için kurulum süresi: Cihaz başına 1,8 saat
+           <br>
+           <br>Chromebook'lar için kurulum süresi: Cihaz başına 7 dakika 
+           <p class="learn-more"> <a href="https://www.g4w.co/cb-economicvalue-whitepaper-pdf-google-drive" target="_blank">DEVAMINI OKUYUN</a> </p> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="card ng-scope" data-fliptile="" ng-class="tile.classesForTile();" ng-click="tile.flipCard();"> 
+         <div class="face front"> 
+          <div class="statistic large">
+            68% 
+          </div> 
+          <div class="statistic small">
+            destekleyecek daha az iş gücü 
+          </div> 
+          <div class="arrow-icon"></div> 
+         </div> 
+         <div class="face back"> 
+          <div class="card-details">
+            Diğer cihazlar için yıllık yönetim süresi: Cihaz başına 4,3 saat
+           <br>
+           <br>Chromebook'lar için yıllık yönetim süresi: Cihaz başına 1,4 saat 
+           <p class="learn-more"> <a href="https://www.g4w.co/cb-economicvalue-whitepaper-pdf-google-drive" target="_blank">DEVAMINI OKUYUN</a> </p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="flip mobile-flip"> 
+        <div class="ent-tile-links maia-cols"> 
+         <div class="ent-tile-unit group-one first ng-scope" data-mobilefliptile="" ng-class="tile.classesForTile()" ng-click="tile.flipCard();"> 
+          <div class="ent-tile-unit-break-wrapper"> 
+           <div class="section-header"> 
+            <div class="statistic large">
+              61% 
+            </div> 
+            <div class="statistic small">
+              daha düşük toplam sahip olma maliyeti 
+            </div> 
+            <div class="arrow-icon"></div> 
+           </div> 
+           <ul> 
+            <li> 
+             <div class="card-details">
+               Diğer cihazların 3 yıla yayılmış toplam maliyeti: Cihaz başına 1.507 ABD doları
+              <br>
+              <br>Chromebook'ların 3 yıla yayılmış toplam maliyeti: Cihaz başına 588 ABD doları 
+              <p class="learn-more"> <a href="https://www.g4w.co/cb-economicvalue-whitepaper-pdf-google-drive" target="_blank">DEVAMINI OKUYUN</a> </p> 
+             </div> </li> 
+           </ul> 
+          </div> 
+         </div> 
+         <div class="ent-tile-unit group-one first ng-scope" data-mobilefliptile="" ng-class="tile.classesForTile()" ng-click="tile.flipCard();"> 
+          <div class="ent-tile-unit-break-wrapper"> 
+           <div class="section-header"> 
+            <div class="statistic large">
+              93% 
+            </div> 
+            <div class="statistic small">
+              dağıtım için harcanan daha az zaman 
+            </div> 
+            <div class="arrow-icon"></div> 
+           </div> 
+           <ul> 
+            <li> 
+             <div class="card-details">
+               Diğer cihazlar için kurulum süresi: Cihaz başına 1,8 saat
+              <br>
+              <br>Chromebook'lar için kurulum süresi: Cihaz başına 7 dakika 
+              <p class="learn-more"> <a href="https://www.g4w.co/cb-economicvalue-whitepaper-pdf-google-drive" target="_blank">DEVAMINI OKUYUN</a> </p> 
+             </div> </li> 
+           </ul> 
+          </div> 
+         </div> 
+         <div class="ent-tile-unit group-one first ng-scope" data-mobilefliptile="" ng-class="tile.classesForTile()" ng-click="tile.flipCard();"> 
+          <div class="ent-tile-unit-break-wrapper"> 
+           <div class="section-header"> 
+            <div class="statistic large">
+              68% 
+            </div> 
+            <div class="statistic small">
+              destekleyecek daha az iş gücü 
+            </div> 
+            <div class="arrow-icon"></div> 
+           </div> 
+           <ul> 
+            <li> 
+             <div class="card-details">
+               Diğer cihazlar için yıllık yönetim süresi: Cihaz başına 4,3 saat
+              <br>
+              <br>Chromebook'lar için yıllık yönetim süresi: Cihaz başına 1,4 saat 
+              <p class="learn-more"> <a href="https://www.g4w.co/cb-economicvalue-whitepaper-pdf-google-drive" target="_blank">DEVAMINI OKUYUN</a> </p> 
+             </div> </li> 
+           </ul> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="chromebook-cta"> 
+        <p> <a class="maia-button secondary" href="//roianalyst.alinean.com/idc/AutoLogin.do?d=847988795968028587" target="_blank" data-g-event="Edu: Canvas" data-g-action="Calculate Cost Savings" data-g-label="Chromebooks Tab">Okulunuzun Ne Kadar Tasarruf Edebileceğini Hesaplayın</a> </p> 
+       </div> 
+       <div class="maia-aux"> 
+        <div class="devices-accordion-section"> 
+         <div class="device-accordion"> 
+          <h2 class="headline accordion-title"> 10 veya 10.000 Chromebook'u kolayca yönetin </h2> 
+          <h3 class="subheadline accordion-description"> Chromebook yönetim lisansı, web tabanlı yönetim konsoluna erişme olanağı sağlar. Bu konsolu kullanarak Chromebook'ları okul, bölge veya ülke genelinde yapılandırıp yönetebilirsiniz. </h3> 
+          <div class="stui-zippy" data-g-action="Accordian: Create user groups" data-g-click="true" data-g-event="Edu: Canvas" data-g-label="Chromebooks Tab" id="chrome-zippy1"> 
+           <h3 class="stui-toggle-control" id=":0"> Kullanıcı grupları oluşturun </h3> 
+           <div class="stui-drawer" id=":1" style="height: 0px;"> 
+            <div class="stui-drawer-content"> 
+             <p> Farklı kullanıcı gruplarına özel politika, uygulama ve ayarlar belirleyin. Öğrencileri sınıf veya konuya göre gruplandırın. Öğrencilerle eğitim kadrosunu birbirinden ayırın. </p> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="stui-zippy" data-g-action="Accordian: Pre-install and block apps" data-g-click="true" data-g-event="Edu: Canvas" data-g-label="Chromebooks Tab" id="chrome-zippy2"> 
+           <h3 class="stui-toggle-control" id=":2"> Uygulamaları önceden yükleyin ve engelleyin </h3> 
+           <div class="stui-drawer" id=":3" style="height: 0px;"> 
+            <div class="stui-drawer-content"> 
+             <p> Uygulamalar, dosya uzantıları veya URL'leri kara veya beyaz listeye ekleyin ya da önceden yükleyin. </p> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="stui-zippy" data-g-action="Accordian: Track assets" data-g-click="true" data-g-event="Edu: Canvas" data-g-label="Chromebooks Tab" id="chrome-zippy3"> 
+           <h3 class="stui-toggle-control" id=":4"> Cihaz takibi yapın </h3> 
+           <div class="stui-drawer" id=":5" style="height: 0px;"> 
+            <div class="stui-drawer-content"> 
+             <p> Belirli öğrencilere ve eğitim kadrosuna cihaz atayın. Yapılandırma ve kullanım raporları alın. </p> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="stui-zippy" data-g-action="Accordian: Manage user access" data-g-click="true" data-g-event="Edu: Canvas" data-g-label="Chromebooks Tab" id="chrome-zippy4"> 
+           <h3 class="stui-toggle-control" id=":6"> Kullanıcı erişimini yönetin </h3> 
+           <div class="stui-drawer" id=":7" style="height: 0px;"> 
+            <div class="stui-drawer-content"> 
+             <p> Chrome cihazlarınızı kimlerin kullanacağını siz belirleyin: Harici kullanıcıların giriş yapmasını engelleyin, Misafir Modu'nu devre dışı bırakın veya cihazlarınız için belirli türde kullanıcılar atayın. </p> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="stui-zippy" data-g-action="Accordian: Configure network access" data-g-click="true" data-g-event="Edu: Canvas" data-g-label="Chromebooks Tab" id="chrome-zippy5"> 
+           <h3 class="stui-toggle-control" id=":8"> Ağ erişimini yapılandırın </h3> 
+           <div class="stui-drawer" id=":9" style="height: 0px;"> 
+            <div class="stui-drawer-content"> 
+             <p> Kullanıcılarınızın cihazlarını kolayca kullanmaya başlayabilmesi için ağ ve proxy ayarlarını yapın. Web filtreleri ve güvenlik duvarlarıyla kullanıcılarınızı koruyun. </p> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="stui-zippy" data-g-action="Accordian: Customize user features" data-g-click="true" data-g-event="Edu: Canvas" data-g-label="Chromebooks Tab" id="chrome-zippy6"> 
+           <h3 class="stui-toggle-control" id=":10"> Kullanıcı özelliklerini özelleştirin </h3> 
+           <div class="stui-drawer" id=":11" style="height: 0px;"> 
+            <div class="stui-drawer-content"> 
+             <p> Çok sayıda bilgisayarda yer işaretleri ve uygulama senkronizasyonu gibi ayarları değiştirin. Özelleştirilen Chrome masaüstü temalarıyla cihazlarınıza okulunuzun ruhunu yansıtın. </p> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="device-accordion-image"> 
+          <a class="lb maia-media" data-g-action="Video: Managing Chromebooks" data-g-event="Edu: Canvas" data-g-label="Chromebooks Tab" data-lightbox-height="394" data-lightbox-width="700" href="https://www.youtube.com/watch?v=I_vLX1BvV4A&amp;amp;feature=youtu.be&amp;amp;autoplay=1&amp;amp;cc_load_policy=1" target="_self" data-lightbox-index="0"> <img alt="" class="full-width" data-retina="483x322" src="/images/products/devices/dell_chrome_v2.png"> 
+           <div class="view-film">
+             View film 
+           </div></a> 
+         </div> 
+        </div> 
+        <div class="devices-accordion-section"> 
+         <div class="device-accordion"> 
+          <h2 class="headline accordion-title"> Sıkıntı yok, kolaylık var </h2> 
+          <h3 class="subheadline accordion-description"> Chromebook'lar, doğrudan Google'ın sağladığı 7/24 destek, otomatik güncelleme ve çok katmanlı güvenlik avantajıyla sunulur. Bu da, öğrenciler ve öğretmenler için daha fazla verim, daha az endişe demektir. </h3> 
+          <div class="stui-zippy" data-g-action="Accordian: No waiting" data-g-click="true" data-g-event="Edu: Canvas" data-g-label="Chromebooks Tab" id="hassle-zippy1"> 
+           <h3 class="stui-toggle-control" id=":0"> Bekleme yok </h3> 
+           <div class="stui-drawer" id=":1" style="height: 0px;"> 
+            <div class="stui-drawer-content"> 
+             <p> Chromebook'lar 10 saniyeden daha kısa sürede açılır, çalışmaya devam etmek istediğinizde sizi bekletmez, diğer bilgisayarlarda olduğu gibi eskiyen yazılımlarla şişip zamanla yavaşlamaz. </p> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="stui-zippy" data-g-action="Accordian: No maintenance" data-g-click="true" data-g-event="Edu: Canvas" data-g-label="Chromebooks Tab" id="hassle-zippy2"> 
+           <h3 class="stui-toggle-control" id=":2"> Bakım derdi yok </h3> 
+           <div class="stui-drawer" id=":3" style="height: 0px;"> 
+            <div class="stui-drawer-content"> 
+             <p> Chromebook'lar, otomatik güncellemeler sayesinde güvenlik ve yazılım güncellemelerini, müdahaleye gerek kalmadan kendileri indirip yükler. Yama yüklemek için saatler harcamanıza gerek kalmaz. </p> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="stui-zippy" data-g-action="Accordian: No worries" data-g-click="true" data-g-event="Edu: Canvas" data-g-label="Chromebooks Tab" id="hassle-zippy3"> 
+           <h3 class="stui-toggle-control" id=":4"> Endişeye yer yok </h3> 
+           <div class="stui-drawer" id=":5" style="height: 0px;"> 
+            <div class="stui-drawer-content"> 
+             <p> Chromebook'lar, herhangi ek bir güvenlik yazılımına gerek duymadan virüs ve kötü amaçlı yazılımlara karşı koruma sağlayan birden çok güvenlik katmanına sahiptir. Google Drive sayesinde, Chromebook'unuz yanlışlıkla denize düşse bile tüm dosyalarınız internette, güvenli şekilde yedeklenir. </p> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="device-accordion-image"> 
+          <img alt="" class="hp_chromebook" data-retina="483x268" src="/images/products/devices/hp_chromebook.png"> 
+         </div> 
+        </div> 
+        <div class="devices-accordion-section"> 
+         <div class="device-accordion"> 
+          <h2 class="headline accordion-title"> Sınırsız sayıda kullanıcıyla paylaşım imkanı </h2> 
+          <h3 class="subheadline accordion-description"> Chromebook'lar sınıflar arasında paylaşıldığında bile her öğrenciye tamamen kişiselleştirilmiş bir öğrenim deneyimi sunulur. Sınıf çalışmaları, uygulamalar, kitaplar ve videolara erişim de buna dahildir. </h3> 
+          <div class="stui-zippy" data-g-action="Accordian: Multiple profiles, made easy" data-g-click="true" data-g-event="Edu: Canvas" data-g-label="Chromebooks Tab" id="share-zippy1"> 
+           <h3 class="stui-toggle-control" id=":0"> Birden çok profil kullanımı artık çok kolay </h3> 
+           <div class="stui-drawer" id=":1" style="height: 0px;"> 
+            <div class="stui-drawer-content"> 
+             <p> Birden çok kullanıcının oturum açabilmesi sayesinde Chromebook'unuzu sınıf arkadaşlarınız, arkadaşlarınız ve ailenizle kolayca ve güvenli şekilde paylaşabilirsiniz. Oturum açan tüm kullanıcılar kendi kişiselleştirilmiş uygulamalarını, ayarlarını ve yer işaretlerini kullanabilir. </p> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="stui-zippy" data-g-action="Accordian: Guests welcomed" data-g-click="true" data-g-event="Edu: Canvas" data-g-label="Chromebooks Tab" id="share-zippy2"> 
+           <h3 class="stui-toggle-control" id=":2"> Misafirlere kapımız açık </h3> 
+           <div class="stui-drawer" id=":3" style="height: 0px;"> 
+            <div class="stui-drawer-content"> 
+             <p> Misafir Modu, diğer kullanıcıların, Chromebook'u bir kullanıcı hesabı olmadan kullanmasına olanak tanır. Misafirler, Chromebook'ta depolanan verilere erişemez ve oturumlarını sona erdirdiklerinde tüm tarama geçmişleri silinir. </p> 
+            </div> 
+           </div> 
+          </div> 
+          <div class="stui-zippy" data-g-action="Accordian: Share away" data-g-click="true" data-g-event="Edu: Canvas" data-g-label="Chromebooks Tab" id="share-zippy3"> 
+           <h3 class="stui-toggle-control" id=":4"> Çekinmeden paylaşın </h3> 
+           <div class="stui-drawer" id=":5" style="height: 0px;"> 
+            <div class="stui-drawer-content"> 
+             <p> Öğrenciler ve öğretmenler Chromebook'un yerleşik güvenlik özellikleri sayesinde, yanlışlıkla yüklenen yazılımlar, kötü amaçlı yazılımlar ya da ayarların bozulması gibi sık karşılaşılan bilgisayar sorunlarından korkmadan cihazlarını başkalarıyla paylaşabilir. </p> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="device-accordion-image"> 
+          <img alt="" class="align-share" data-retina="410x250" src="/images/products/devices/share-chromebook.jpg"> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="carousel-nav-container"> 
+   <div class="carousel-overlay"></div> 
+   <ul> 
+    <li class="parent" edu-nav-item> <a class="nav see-apps">Cihazları İş Başında Görün<img src="/images/carousel-toggle-icon.png"></a> 
+     <div class="dropdown"> 
+      <ul class="child-nav"> 
+       <li class="child dropdown-item pt-england-school"><a class="list-item" href="/intl/tr/case-studies/pt-england-school/">Point England School</a></li> 
+       <li class="child dropdown-item colegio-banting"><a class="list-item" href="/intl/tr/case-studies/colegio-banting/">Centro de Formación Escolar Banting</a></li> 
+      </ul> 
+     </div> </li> 
+   </ul> 
+  </div> 
+  <div class="carousel-wrap" set-ng-animate="false"> 
+   <div data-carousel data-interval="6000" template-url="/templates/devices/carousel.html" data-ga="Edu: Canvas;Devices in Action Slider"> 
+    <div data-video-slide youtube-id="iz_s0lr1eu0" template-url="/templates/home/video-slide.html"> 
+     <div class="section-wrapper pt-england-school"> 
+      <div class="section hero-section"> 
+       <div class="text section-four"> 
+        <h1 class="headline slider-headline">Point England School, G Suite for Education ile okur yazarlıkta önemli aşamalar kaydetti</h1> 
+        <p class="subheadline"> <a href="/intl/tr/case-studies/pt-england-school/" data-g-event="Edu: Canvas" data-g-action="Learn More: Point England School" data-g-label="Devices in Action Slider"> Daha fazla bilgi edinin </a> </p> 
+        <p> <a class="maia-media play-btn"> <img src="/images/play-btn.png" alt="Video Thumbnail"></a> </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div data-slide template-url="/templates/home/slide.html"> 
+     <div class="section-wrapper colegio-banting"> 
+      <div class="section hero-section"> 
+       <div class="text section-four"> 
+        <h1 class="headline slider-headline">Centro de Formación Escolar Banting (Colegio Banting), Google for Education ile eğitimi ve etkileşimi iyileştiriyor</h1> 
+        <p class="subheadline"> <a href="/intl/tr/case-studies/colegio-banting/" data-g-event="Edu: Canvas" data-g-action="Learn More: Centro de Formación Escolar Banting" data-g-label="Devices in Action Slider"> Daha fazla bilgi edinin </a> </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="/compiled/products-devices.min.js"></script>  
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Ürünler</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/products/productivity-tools/">Üretkenlik Araçları</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/products/more-products/">Diğer Ürünler</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Eğitim</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=tr" target="_blank">Eğitimci Eğitimi</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">BT Yöneticisi Eğitimi</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">İş Ortakları Dizini</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/resources/communities/">Topluluklar</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Kaynaklar</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/resources/programs/">Programlar</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/resources/computerscience/">Bilgisayar Bilimi Eğitimi</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/resources/global-education/">Global Eğitim</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/it/">BT</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">Geliştirici Kaynakları</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/access/">Erişim</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/contact/">Satış</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">Destek</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/partners/">İş Ortağı Programı</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/case-studies/">Örnek Olaylar</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">Chromebook Kullanan Okulları Görün</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">Blog</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="Bu sitede arayın" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/products/devices/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/products/devices/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/da/products/devices/"> dansk (Danmark) </option><option value="/intl/en_au/products/devices/"> English (Australia) </option><option value="/intl/en_ca/products/devices/"> English (Canada) </option><option value="/intl/en_in/products/devices/"> English (India) </option><option value="/intl/en_nz/products/devices/"> English (New Zealand) </option><option value="/intl/en_uk/products/devices/"> English (United Kingdom) </option><option value="/products/devices/"> English (United States) </option><option value="/intl/es-419_mx/products/devices/"> español (México) </option><option value="/intl/es-419/products/devices/"> español (Latinoamérica) </option><option value="/intl/fi/products/devices/"> suomi (Suomi) </option><option value="/intl/fr_be/products/devices/"> français (Belgique) </option><option value="/intl/id/products/devices/"> Indonesia (Indonesia) </option><option value="/intl/ja/products/devices/"> 日本語 (日本) </option><option value="/intl/ms/products/devices/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/products/devices/"> Nederlands (Nederland) </option><option value="/intl/no/products/devices/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/products/devices/"> português (Brasil) </option><option value="/intl/sv/products/devices/"> svenska (Sverige) </option><option value="/intl/th/products/devices/"> ไทย (ไทย) </option><option selected value="/intl/tr/products/devices/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/tr/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/tr/policies/privacy/">Gizlilik</a> </li> 
+      <li> <a href="https://www.google.com/intl/tr/policies/terms/">Şartlar</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script>  
+ </body>
+</html>

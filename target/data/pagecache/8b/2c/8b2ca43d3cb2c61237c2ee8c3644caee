@@ -1,0 +1,778 @@
+<!doctype html>
+<html class="google mmfb" lang="en" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/en_ca/resources/communities/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="Connect with a Google Educator Group near you to learn, share and inspire ideas" name="description"> 
+  <title>
+    Google for Education: Meet Local Educators
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/en_ca/resources/communities/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Meet Local Educators" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/en_ca/resources/communities/" property="og:url"> 
+  <meta content="" property="og:image"> 
+  <meta content="Connect with a Google Educator Group near you to learn, share and inspire ideas" property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/en_ca/resources/communities/" name="twitter:url"> 
+  <meta content="Google for Education: Meet Local Educators" name="twitter:title"> 
+  <meta content="" name="twitter:image"> 
+  <meta content="Connect with a Google Educator Group near you to learn, share and inspire ideas" name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Meet Local Educators" itemprop="name"> 
+  <meta content="Connect with a Google Educator Group near you to learn, share and inspire ideas" itemprop="description"> 
+  <meta content="" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Meet Local Educators",
+    "description": "Connect with a Google Educator Group near you to learn, share and inspire ideas",
+    "url": "https://edu.google.com/intl/en_ca/resources/communities/",
+    "logo": "",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="resource-communities"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/en_ca/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Get Google Products</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">How can we help you?</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>Get Productivity Tools</h5> 
+        <p>Get Google productivity tools, with Classroom, Google Docs, Drive, Hangouts, email and more included free of charge, with no ads.</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=en#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Sign up for G Suite</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Get Devices</h5> 
+        <p>Interested in getting Chromebooks or Android devices for your institution? Our team can help you find the right path.</p> 
+        <a class="maia-button overlay-button" href="/intl/en_ca/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Contact an Expert</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Talk to Other Educators</h5> 
+        <p>Want to talk to people similar to you who have gone Google? Tap into our community of educators.</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Find Other Educators</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/" target="_self">Home</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">Products</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/products/devices/" target="_self">Devices <br><span class="dropdown-item-description">Chromebooks and Tablets</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/products/productivity-tools/" target="_self">Productivity Tools <br><span class="dropdown-item-description">Docs, Gmail and More</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/products/productivity-tools/classroom/" target="_self">Classroom <br><span class="dropdown-item-description">Mission control for teachers and students</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtual reality field trips</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/products/more-products/" target="_self">More Products <br><span class="dropdown-item-description">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">Training</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=en" target="_self">Educator Training <br><span class="dropdown-item-description">on Google for Education tools</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT Admin Training <br><span class="dropdown-item-description">for G Suite Administrators</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Directory of Partners <br><span class="dropdown-item-description">to help your school go Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/resources/communities/" target="_self">Communities <br><span class="dropdown-item-description">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" active  global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">Resources</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Privacy &amp; Security" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/trust/" target="_self">Privacy &amp; Security </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/resources/programs/" target="_self">Programmes <br><span class="dropdown-item-description">for students and teachers</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/case-studies/" target="_self">Case Studies </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/resources/computerscience/" target="_self">Computer Science Education <br><span class="dropdown-item-description">Programs, Funding, and Research</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/resources/global-education/" target="_self">Global Education </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/en_ca/it/" target="_self">IT Guides</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/en_ca/higher-education/" target="_self">Higher Ed</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Products</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/products/devices/" target="_self">Devices <span class="nav-subtext">Chromebooks and Tablets</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/products/productivity-tools/" target="_self">Productivity Tools <span class="nav-subtext">Docs, Gmail and More</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/products/productivity-tools/classroom/" target="_self">Classroom <span class="nav-subtext">Mission control for teachers and students</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtual reality field trips</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/products/more-products/" target="_self">More Products <span class="nav-subtext">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Training</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=en" target="_self">Educator Training <span class="nav-subtext">on Google for Education tools</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT Admin Training <span class="nav-subtext">for G Suite Administrators</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Directory of Partners <span class="nav-subtext">to help your school go Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/resources/communities/" target="_self">Communities <span class="nav-subtext">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Resources</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Privacy &amp; Security" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/trust/" target="_self">Privacy &amp; Security </a> </li> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/resources/programs/" target="_self">Programmes <span class="nav-subtext">for students and teachers</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/case-studies/" target="_self">Case Studies </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/resources/computerscience/" target="_self">Computer Science Education <span class="nav-subtext">Programs, Funding, and Research</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/resources/global-education/" target="_self">Global Education </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">IT Guides</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/it/" target="_self">IT </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/trust/" target="_self">Privacy Pages </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Higher Ed</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_ca/higher-education/" target="_self">Higher Ed </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Get Google Products</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">How can we help you?</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>Get Productivity Tools</h5> 
+         <p>Get Google productivity tools, with Classroom, Google Docs, Drive, Hangouts, email and more included free of charge, with no ads.</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=en#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Sign up for G Suite</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Get Devices</h5> 
+         <p>Interested in getting Chromebooks or Android devices for your institution? Our team can help you find the right path.</p> 
+         <a class="maia-button overlay-button" href="/intl/en_ca/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Contact an Expert</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Talk to Other Educators</h5> 
+         <p>Want to talk to people similar to you who have gone Google? Tap into our community of educators.</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Find Other Educators</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="section title"> 
+    <h1 class="headline">Meet local educators</h1> 
+    <h3 class="subheadline">Connect with a Google Educator Group near you to learn, share and inspire each other to meet the needs of your students.</h3> 
+    <div class="it-rollout"> 
+     <div class="it-rollout-text"> 
+      <a href="http://www.google.com/intl/en/landing/geg/" target="_blank"><img class="it-rollout-icon" src="/images/rollout-icon.png"> Visit the Google Educators Group</a> 
+     </div> 
+    </div> 
+    <div class="map-social"> 
+     <div class="map-social-wrapper"> 
+     </div> 
+    </div> 
+    <div class="map"> 
+     <div class="map-wrapper"> 
+      <div id="map-canvas"></div> 
+     </div> 
+     <div class="map-legend"> 
+      <div class="map-legend-wrap"> 
+       <span class="legend-item red">Current Group</span> 
+       <span class="legend-item yellow">Incubating</span> 
+       <span class="legend-item blue">Coming Soon</span> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="gray-section social"> 
+    <h2 class="headline">Join an online community</h2> 
+    <h3 class="subheadline">Keep up to date on how educators like you and institutions like yours are using Google to make an impact.<br>Connect with peers to share strategies and get your questions answered.</h3> 
+    <div class="social-section"> 
+     <div class="social-section-wrap"> 
+      <a class="social-badge-link" href="https://plus.google.com/+GoogleforEducation" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> 
+       <div class="social-badge plus"> 
+        <div class="badge"> 
+         <div class="badge-wrap"> 
+          <div class="badge-title"> 
+           <div class="badge-title-wrap">
+            Join our Google+ Group!
+           </div> 
+          </div> 
+          <div class="badge-stats"> 
+           <div class="badge-stats-wrap"> 
+            <div class="badge-number">
+             624k
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> </a> 
+      <a class="social-badge-link" href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> 
+       <div class="social-badge twitter"> 
+        <div class="badge"> 
+         <div class="badge-wrap"> 
+          <div class="badge-title"> 
+           <div class="badge-title-wrap">
+            Follow us on Twitter!
+           </div> 
+          </div> 
+          <div class="badge-stats"> 
+           <div class="badge-stats-wrap"> 
+            <div class="badge-number">
+             32k
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> </a> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="section connect"> 
+    <div id="impact"> 
+     <h1 class="headline">Connect with a peer</h1> 
+     <h3 class="subheadline">Tap into Google's Education Directory to talk with our community of educators and institution leaders who have successfully gone Google. Get advice and insights from educators like you.</h3> 
+     <div class="carousel-wrap card-carousel desktop" set-ng-animate="false"> 
+      <div data-carousel data-interval="-1" data-ga="Edu: Canvas;Impact Portraits" template-url="/templates/home/card-carousel.html"> 
+       <div data-slide> 
+        <div class="carousel-card yellow"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/6e8a2846e0b82e03e90493f7003d132e" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Allison Mollica: Trainer"></a> 
+         <img class="card-image Allison Mollica" src="/images/connect/allison-mollica.jpg" srcset="/images/connect/allison-mollica.jpg 1x, /images/connect/allison-mollica.jpg 2x"> 
+         <h5 class="card-title">Allison Mollica</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Trainer</p> 
+          <p class="card-description-text">AM Technology EDU</p> 
+          <p class="card-description-text">Sunapee, NH, USA</p> 
+         </div> 
+        </div> 
+        <div class="carousel-card blue"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/c5d4995497f9d49edc919d915976fef1" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Ann Witherspoon: Instructional Technologist"></a> 
+         <img class="card-image Ann Witherspoon" src="/images/connect/ann-witherspoon.jpg" srcset="/images/connect/ann-witherspoon.jpg 1x, /images/connect/ann-witherspoon.jpg 2x"> 
+         <h5 class="card-title">Ann Witherspoon</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Instructional Technologist</p> 
+          <p class="card-description-text">Midlothian ISD</p> 
+          <p class="card-description-text">Midlothian, TX, USA</p> 
+         </div> 
+        </div> 
+        <div class="carousel-card green"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/a7fddf5e2368766afee9e39b9a982bff" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Chris Aviles: Classroom Teacher"></a> 
+         <img class="card-image Chris Aviles" src="/images/connect/chris-aviles.jpg" srcset="/images/connect/chris-aviles.jpg 1x, /images/connect/chris-aviles.jpg 2x"> 
+         <h5 class="card-title">Chris Aviles</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Classroom Teacher</p> 
+          <p class="card-description-text">Barnegat Township Schools</p> 
+          <p class="card-description-text">Barnegat, NJ, USA</p> 
+         </div> 
+        </div> 
+        <div class="carousel-card red"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/f39a56ba1e900de4eec65c54f37805c0" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Chris Harte: World Languages Teacher"></a> 
+         <img class="card-image Chris Harte" src="/images/connect/chris-harte.jpg" srcset="/images/connect/chris-harte.jpg 1x, /images/connect/chris-harte.jpg 2x"> 
+         <h5 class="card-title">Chris Harte</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">World Languages Teacher</p> 
+          <p class="card-description-text">John Monash Science School</p> 
+          <p class="card-description-text">Melbourne, Victoria, Australia</p> 
+         </div> 
+        </div> 
+       </div> 
+       <div data-slide> 
+        <div class="carousel-card yellow"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/afd7e78fca0272540ecba7dd737becbd" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Donna Teuber: Team Lead, Tech Integration"></a> 
+         <img class="card-image Donna Teuber" src="/images/connect/donna-teuber.jpg" srcset="/images/connect/donna-teuber.jpg 1x, /images/connect/donna-teuber.jpg 2x"> 
+         <h5 class="card-title">Donna Teuber</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Team Lead, Tech Integration</p> 
+          <p class="card-description-text">Richland School District Two</p> 
+          <p class="card-description-text">Columbia, SC, USA</p> 
+         </div> 
+        </div> 
+        <div class="carousel-card blue"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/98d1af67fdd38d59e3dae7fccf3e1869" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Henry Thiele: Assistant Superintendent"></a> 
+         <img class="card-image Henry Thiele" src="/images/connect/henry-thiele.jpg" srcset="/images/connect/henry-thiele.jpg 1x, /images/connect/henry-thiele.jpg 2x"> 
+         <h5 class="card-title">Henry Thiele</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Assistant Education Officer</p> 
+          <p class="card-description-text">Maine Township High School</p> 
+          <p class="card-description-text">Park Ridge, IL, USA</p> 
+         </div> 
+        </div> 
+        <div class="carousel-card green"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/7d2c9ff6edef253aba496381531b7f82" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Jarunee Sinchairojkul: Consultant"></a> 
+         <img class="card-image Jarunee Sinchairojkul" src="/images/connect/jarunee-sinchairojkul.jpg" srcset="/images/connect/jarunee-sinchairojkul.jpg 1x, /images/connect/jarunee-sinchairojkul.jpg 2x"> 
+         <h5 class="card-title">Jarunee Sinchairojkul</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Consultant</p> 
+          <p class="card-description-text">CRM and Cloud Consulting</p> 
+          <p class="card-description-text">Bangkok, Thailand</p> 
+         </div> 
+        </div> 
+        <div class="carousel-card red"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/ddc0e9a65c9b89bce79c896315d11a80" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Jay Atwood: Educator"></a> 
+         <img class="card-image Jay Atwood" src="/images/connect/jay-atwood.jpg" srcset="/images/connect/jay-atwood.jpg 1x, /images/connect/jay-atwood.jpg 2x"> 
+         <h5 class="card-title">Jay Atwood</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Educator</p> 
+          <p class="card-description-text">Singapore American School</p> 
+          <p class="card-description-text">Singapore, Singapore</p> 
+         </div> 
+        </div> 
+       </div> 
+       <div data-slide> 
+        <div class="carousel-card yellow"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/2020d0e7e5b405184a2fa2e024b2f5d8" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Jill Duman: Education Advisor ICT"></a> 
+         <img class="card-image Jill Duman" src="/images/connect/jill-duman.jpg" srcset="/images/connect/jill-duman.jpg 1x, /images/connect/jill-duman.jpg 2x"> 
+         <h5 class="card-title">Jill Duman</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Education Adviser ICT</p> 
+          <p class="card-description-text">Norfolk Children's Services</p> 
+          <p class="card-description-text">Norwich, Norfolk, UK</p> 
+         </div> 
+        </div> 
+        <div class="carousel-card blue"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/9294e824e5f56272be4873e113e41eb9" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Michael Hernandez: Classroom Teacher"></a> 
+         <img class="card-image Michael Hernandez" src="/images/connect/michael-hernandez.jpg" srcset="/images/connect/michael-hernandez.jpg 1x, /images/connect/michael-hernandez.jpg 2x"> 
+         <h5 class="card-title">Michael Hernandez</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Classroom Teacher</p> 
+          <p class="card-description-text">Mira Costa High School</p> 
+          <p class="card-description-text">Manhattan Beach, CA, USA</p> 
+         </div> 
+        </div> 
+        <div class="carousel-card green"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/fdbce1fac48073870396d2d5777bb397" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Rachel-Wente Chaney: Chief Information Officer"></a> 
+         <img class="card-image Rachel-Wente Chaney" src="/images/connect/rachel-wente-chaney.jpg" srcset="/images/connect/rachel-wente-chaney.jpg 1x, /images/connect/rachel-wente-chaney.jpg 2x"> 
+         <h5 class="card-title">Rachel-Wente Chaney</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Chief Information Officer</p> 
+          <p class="card-description-text">High Desert Education Service</p> 
+          <p class="card-description-text">Bend, OR, USA</p> 
+         </div> 
+        </div> 
+        <div class="carousel-card red"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/755b836dcd6a910af5f11416fedb779f" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Rich Kiker: Director of Online Learning"></a> 
+         <img class="card-image Rich Kiker" src="/images/connect/rich-kiker.jpg" srcset="/images/connect/rich-kiker.jpg 1x, /images/connect/rich-kiker.jpg 2x"> 
+         <h5 class="card-title">Rich Kiker</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Director of Online Learning</p> 
+          <p class="card-description-text">Palisades School District</p> 
+          <p class="card-description-text">Philadelphia, PA, USA</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="carousel-wrap card-carousel card-carousel__impact mobile" set-ng-animate="false"> 
+      <div data-carousel data-interval="-1" data-ga="Edu: Canvas;Impact Portraits" template-url="/templates/home/card-carousel.html"> 
+       <div data-slide> 
+        <div class="carousel-card yellow"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/6e8a2846e0b82e03e90493f7003d132e" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Allison Mollica: Trainer"></a> 
+         <img class="card-image Allison Mollica" src="/images/connect/allison-mollica.jpg" srcset="/images/connect/allison-mollica.jpg 1x, /images/connect/allison-mollica.jpg 2x"> 
+         <h5 class="card-title">Allison Mollica</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Trainer</p> 
+          <p class="card-description-text">AM Technology EDU</p> 
+          <p class="card-description-text">Sunapee, NH, USA</p> 
+         </div> 
+        </div> 
+        <div class="carousel-card blue"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/c5d4995497f9d49edc919d915976fef1" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Ann Witherspoon: Instructional Technologist"></a> 
+         <img class="card-image Ann Witherspoon" src="/images/connect/ann-witherspoon.jpg" srcset="/images/connect/ann-witherspoon.jpg 1x, /images/connect/ann-witherspoon.jpg 2x"> 
+         <h5 class="card-title">Ann Witherspoon</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Instructional Technologist</p> 
+          <p class="card-description-text">Midlothian ISD</p> 
+          <p class="card-description-text">Midlothian, TX, USA</p> 
+         </div> 
+        </div> 
+       </div> 
+       <div data-slide> 
+        <div class="carousel-card green"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/a7fddf5e2368766afee9e39b9a982bff" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Chris Aviles: Classroom Teacher"></a> 
+         <img class="card-image Chris Aviles" src="/images/connect/chris-aviles.jpg" srcset="/images/connect/chris-aviles.jpg 1x, /images/connect/chris-aviles.jpg 2x"> 
+         <h5 class="card-title">Chris Aviles</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Classroom Teacher</p> 
+          <p class="card-description-text">Barnegat Township Schools</p> 
+          <p class="card-description-text">Barnegat, NJ, USA</p> 
+         </div> 
+        </div> 
+        <div class="carousel-card red"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/f39a56ba1e900de4eec65c54f37805c0" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Chris Harte: World Languages Teacher"></a> 
+         <img class="card-image Chris Harte" src="/images/connect/chris-harte.jpg" srcset="/images/connect/chris-harte.jpg 1x, /images/connect/chris-harte.jpg 2x"> 
+         <h5 class="card-title">Chris Harte</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">World Languages Teacher</p> 
+          <p class="card-description-text">John Monash Science School</p> 
+          <p class="card-description-text">Melbourne, Victoria, Australia</p> 
+         </div> 
+        </div> 
+       </div> 
+       <div data-slide> 
+        <div class="carousel-card yellow"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/afd7e78fca0272540ecba7dd737becbd" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Donna Teuber: Team Lead, Tech Integration"></a> 
+         <img class="card-image Donna Teuber" src="/images/connect/donna-teuber.jpg" srcset="/images/connect/donna-teuber.jpg 1x, /images/connect/donna-teuber.jpg 2x"> 
+         <h5 class="card-title">Donna Teuber</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Team Lead, Tech Integration</p> 
+          <p class="card-description-text">Richland School District Two</p> 
+          <p class="card-description-text">Columbia, SC, USA</p> 
+         </div> 
+        </div> 
+        <div class="carousel-card blue"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/98d1af67fdd38d59e3dae7fccf3e1869" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Henry Thiele: Assistant Superintendent"></a> 
+         <img class="card-image Henry Thiele" src="/images/connect/henry-thiele.jpg" srcset="/images/connect/henry-thiele.jpg 1x, /images/connect/henry-thiele.jpg 2x"> 
+         <h5 class="card-title">Henry Thiele</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Assistant Education Officer</p> 
+          <p class="card-description-text">Maine Township High School</p> 
+          <p class="card-description-text">Park Ridge, IL, USA</p> 
+         </div> 
+        </div> 
+       </div> 
+       <div data-slide> 
+        <div class="carousel-card green"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/7d2c9ff6edef253aba496381531b7f82" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Jarunee Sinchairojkul: Consultant"></a> 
+         <img class="card-image Jarunee Sinchairojkul" src="/images/connect/jarunee-sinchairojkul.jpg" srcset="/images/connect/jarunee-sinchairojkul.jpg 1x, /images/connect/jarunee-sinchairojkul.jpg 2x"> 
+         <h5 class="card-title">Jarunee Sinchairojkul</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Consultant</p> 
+          <p class="card-description-text">CRM and Cloud Consulting</p> 
+          <p class="card-description-text">Bangkok, Thailand</p> 
+         </div> 
+        </div> 
+        <div class="carousel-card red"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/ddc0e9a65c9b89bce79c896315d11a80" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Jay Atwood: Educator"></a> 
+         <img class="card-image Jay Atwood" src="/images/connect/jay-atwood.jpg" srcset="/images/connect/jay-atwood.jpg 1x, /images/connect/jay-atwood.jpg 2x"> 
+         <h5 class="card-title">Jay Atwood</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Educator</p> 
+          <p class="card-description-text">Singapore American School</p> 
+          <p class="card-description-text">Singapore, Singapore</p> 
+         </div> 
+        </div> 
+       </div> 
+       <div data-slide> 
+        <div class="carousel-card yellow"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/2020d0e7e5b405184a2fa2e024b2f5d8" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Jill Duman: Education Advisor ICT"></a> 
+         <img class="card-image Jill Duman" src="/images/connect/jill-duman.jpg" srcset="/images/connect/jill-duman.jpg 1x, /images/connect/jill-duman.jpg 2x"> 
+         <h5 class="card-title">Jill Duman</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Education Adviser ICT</p> 
+          <p class="card-description-text">Norfolk Children's Services</p> 
+          <p class="card-description-text">Norwich, Norfolk, UK</p> 
+         </div> 
+        </div> 
+        <div class="carousel-card blue"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/9294e824e5f56272be4873e113e41eb9" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Michael Hernandez: Classroom Teacher"></a> 
+         <img class="card-image Michael Hernandez" src="/images/connect/michael-hernandez.jpg" srcset="/images/connect/michael-hernandez.jpg 1x, /images/connect/michael-hernandez.jpg 2x"> 
+         <h5 class="card-title">Michael Hernandez</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Classroom Teacher</p> 
+          <p class="card-description-text">Mira Costa High School</p> 
+          <p class="card-description-text">Manhattan Beach, CA, USA</p> 
+         </div> 
+        </div> 
+       </div> 
+       <div data-slide> 
+        <div class="carousel-card green"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/fdbce1fac48073870396d2d5777bb397" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Rachel-Wente Chaney: Chief Information Officer"></a> 
+         <img class="card-image Rachel-Wente Chaney" src="/images/connect/rachel-wente-chaney.jpg" srcset="/images/connect/rachel-wente-chaney.jpg 1x, /images/connect/rachel-wente-chaney.jpg 2x"> 
+         <h5 class="card-title">Rachel-Wente Chaney</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Chief Information Officer</p> 
+          <p class="card-description-text">High Desert Education Service</p> 
+          <p class="card-description-text">Bend, OR, USA</p> 
+         </div> 
+        </div> 
+        <div class="carousel-card red"> 
+         <a class="card-profile-link" href="https://edudirectory.withgoogle.com/profile/755b836dcd6a910af5f11416fedb779f" target="_blank" data-g-event="Edu: Canvas" data-g-action="Case Studies: Impact Portraits" data-g-label="Rich Kiker: Director of Online Learning"></a> 
+         <img class="card-image Rich Kiker" src="/images/connect/rich-kiker.jpg" srcset="/images/connect/rich-kiker.jpg 1x, /images/connect/rich-kiker.jpg 2x"> 
+         <h5 class="card-title">Rich Kiker</h5> 
+         <div class="card-description"> 
+          <p class="card-description-text">Director of Online Learning</p> 
+          <p class="card-description-text">Palisades School District</p> 
+          <p class="card-description-text">Philadelphia, PA, USA</p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="maia-aux"> 
+     <a href="//edudirectory.withgoogle.com/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Training: Hire A Trainer" data-g-label="Trainers"><button class="maia-button small-btn">Hire a Trainer</button></a> 
+    </div> 
+   </div> 
+   <div class="blue-section" data-ng-controller="OverlayController as overlayCtrl" ng-cloak> 
+    <!-- "directive" --> 
+    <div class="page-overlay" ng-hide="overlayCtrl.pageOverlayHidden" ng-cloak></div> 
+    <div class="overlay how-to-get-overlay thank-you-sign-up" ng-show="overlayCtrl.pageOverlayHidden === false &amp;&amp; overlayCtrl.signUpShow === true" ng-cloak> 
+     <div class="how-to-get return-overlay" ng-click="overlayCtrl.removeOverlay();"></div> 
+     <h2 class="headline">Thanks for signing up!</h2> 
+     <div class="thank-you-section"> 
+      <p>Thanks for signing up!</p> 
+      <img class="envelope-image" src="/images/envelope.png"> 
+     </div> 
+    </div> 
+    <!-- END directive --> 
+    <div class="maia-aux form-content"> 
+     <div class="maia-cols"> 
+      <div class="maia-col-6 mailing-half"> 
+       <div class="mailing-half-wrap mailing-title">
+        Want updates about Google for Education?
+       </div> 
+      </div> 
+      <div class="maia-col-6 mailing-half"> 
+       <div class="mailing-half-wrap"> 
+        <div data-ng-controller="SignupController as signupCtrl"> 
+         <form action="https://lp.google-mkto.com/index.php/leadCapture/save" enctype="application/x-www-form-urlencoded" id="newsletter-signup" method="POST" ng-submit="signupCtrl.submit(form, $event)"> 
+          <input id="input_email" type="email" name="Email" ng-model="signupCtrl.email" tabindex="1" required placeholder="Enter your email address"> 
+          <button data-g-event="Edu: Canvas" data-g-action="Sign Up for Email" data-g-label="Updates" tabindex="-1" id="email-submit" type="submit" class="maia-button gray" ng-cloak>Sign up</button> 
+          <span ng-show="signupCtrl.invalid" class="error">Please enter a valid email address.</span> 
+          <input id="partner-opt-in" name="Opt_In_Partner__c" type="hidden" value="False"> 
+          <input name="LeadSource" type="hidden" value="Website"> 
+          <input id="utm_campaign__c" name="utm_campaign__c" type="hidden" value="organic"> 
+          <input id="utm_source__c" name="utm_source__c" type="hidden" value="google"> 
+          <input id="utm_medium" name="utm_medium" type="hidden" value="organic"> 
+          <input id="utm_term" name="utm_term" type="hidden" value=""> 
+          <input id="utm_content" name="utm_content" type="hidden" value=""> 
+          <input id="00N60000001fchv" name="OSO_Test_Tracking__c" type="hidden" value=""> 
+          <input name="formid" type="hidden" value="3180"> 
+          <input name="subId" type="hidden" value="95"> 
+          <input name="munchkinId" type="hidden" value="248-TPC-286"> 
+          <input name="retURL" type="hidden" value="{[signupCtrl.returnUrl]}"> 
+         </form> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div>
+   </div> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Products</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_ca/products/devices/">Devices</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_ca/products/productivity-tools/">Productivity Tools</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_ca/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_ca/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_ca/products/more-products/">More Products</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Training</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=en" target="_blank">Educator Training</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">IT Admin Training</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">Directory of Partners</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_ca/resources/communities/">Communities</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Resources</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_ca/resources/programs/">Programmes</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_ca/resources/computerscience/">Computer Science Education</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_ca/resources/global-education/">Global Education</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_ca/it/">IT</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">Developer Resources</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_ca/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_ca/access/">Access</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_ca/contact/">Sales</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">Support</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_ca/partners/">Partner Programme</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_ca/case-studies/">Case Studies</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">See Chromebooks Institutions</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">Blog</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="Search this site" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/resources/communities/"> Afrikaans (Suid-Afrika) </option><option value="/intl/da/resources/communities/"> dansk (Danmark) </option><option value="/intl/en_au/resources/communities/"> English (Australia) </option><option selected value="/intl/en_ca/resources/communities/"> English (Canada) </option><option value="/intl/en_in/resources/communities/"> English (India) </option><option value="/intl/en_nz/resources/communities/"> English (New Zealand) </option><option value="/intl/en_uk/resources/communities/"> English (United Kingdom) </option><option value="/resources/communities/"> English (United States) </option><option value="/intl/es-419_mx/resources/communities/"> español (México) </option><option value="/intl/es-419/resources/communities/"> español (Latinoamérica) </option><option value="/intl/fi/resources/communities/"> suomi (Suomi) </option><option value="/intl/fr_be/resources/communities/"> français (Belgique) </option><option value="/intl/id/resources/communities/"> Indonesia (Indonesia) </option><option value="/intl/ja/resources/communities/"> 日本語 (日本) </option><option value="/intl/ms/resources/communities/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/resources/communities/"> Nederlands (Nederland) </option><option value="/intl/no/resources/communities/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/resources/communities/"> português (Brasil) </option><option value="/intl/sv/resources/communities/"> svenska (Sverige) </option><option value="/intl/th/resources/communities/"> ไทย (ไทย) </option><option value="/intl/tr/resources/communities/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/en/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/en/policies/privacy/">Privacy</a> </li> 
+      <li> <a href="https://www.google.com/intl/en/policies/terms/">Terms</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//maps.google.com/maps/api/js?sensor=false&amp;language=en&amp;key=AIzaSyBJ-vgL--pHamKD3CEIVF4hqRbwn8P3Ag4" type="text/javascript"></script> 
+  <script src="//www.google.com/jsapi"></script> 
+  <script>
+  google.load('visualization', '1');
+</script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script>  
+ </body>
+</html>

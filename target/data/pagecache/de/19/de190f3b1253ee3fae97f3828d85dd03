@@ -1,0 +1,955 @@
+<!doctype html>
+<html class="google mmfb" dir="rtl" lang="ar" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/ar/resources/computerscience/research/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." name="description"> 
+  <title>
+    Google for Education: Computer Science Research
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/ar/resources/computerscience/research/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Computer Science Research" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/ar/resources/computerscience/research/" property="og:url"> 
+  <meta content="" property="og:image"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/ar/resources/computerscience/research/" name="twitter:url"> 
+  <meta content="Google for Education: Computer Science Research" name="twitter:title"> 
+  <meta content="" name="twitter:image"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Computer Science Research" itemprop="name"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." itemprop="description"> 
+  <meta content="" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Computer Science Research",
+    "description": "Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu.",
+    "url": "https://edu.google.com/intl/ar/resources/computerscience/research/",
+    "logo": "",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="computerscience-research"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/ar/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">الحصول على منتجات Google</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">كيف يمكننا مساعدتك؟</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>الحصول على أدوات الإنتاجية</h5> 
+        <p>الحصول على أدوات الإنتاجية من Google، مع Classroom ومستندات Google وDrive وHangouts والبريد الإلكتروني والمزيد. كل ذلك مجانًا وبدون إعلانات.</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=ar#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">الاشتراك في G Suite</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>الحصول على الأجهزة</h5> 
+        <p>هل أنت مهتم بالحصول على أجهزة Chromebook أو أجهزة Android لمدرستك؟ يمكن أن يقدم فريقنا يد العون لك للوصول إلى المسار الصحيح.</p> 
+        <a class="maia-button overlay-button" href="/intl/ar/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">اتصل بخبير</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>تحدث إلى معلمين آخرين</h5> 
+        <p>هل تريد التحدث إلى أشخاص مثلك جربوا استخدام Google؟ كن جزءًا من مجتمع المعلمين لدينا.</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">البحث عن معلمين آخرين</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/" target="_self">الصفحة الرئيسية</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">المنتجات</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/devices/" target="_self">الأجهزة <br><span class="dropdown-item-description">أجهزة Chromebook‏</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/productivity-tools/" target="_self">أدوات الإنتاجية <br><span class="dropdown-item-description">‎المستندات وGmail والمزيد</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/productivity-tools/classroom/" target="_self">Classroom <br><span class="dropdown-item-description">تطبيق التحكم في المهام للمعلمين والطلاب</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">الرحلات الميدانية للواقعالافتراضي</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/more-products/" target="_self">المزيد من المنتجات <br><span class="dropdown-item-description">‏السحاب ومتصفح Chrome والمزيد‏</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">التدريب</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=ar" target="_self">تدريب المعلمين <br><span class="dropdown-item-description">على أدوات Google for Education‏</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">تدريب مشرفي تكنولوجيا المعلومات <br><span class="dropdown-item-description">لمشرفي G Suite</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">دليل الشركاء <br><span class="dropdown-item-description">لمساعدة مدرستك على اعتماد حلول Google‏</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/communities/" target="_self">المنتديات <br><span class="dropdown-item-description">للمعلمين الذين يستخدمون Google‏</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" active  global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">الموارد</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/programs/" target="_self">البرامج <br><span class="dropdown-item-description">للطلاب والمعلمين</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/case-studies/" target="_self">دراسات الحالة </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/computerscience/" target="_self">تعليم علوم الكمبيوتر <br><span class="dropdown-item-description">البرامج والتمويل والأبحاث</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/global-education/" target="_self">التعليم العالمي </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/ar/it/" target="_self">دليل تكنولوجيا المعلومات</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/ar/higher-education/" target="_self">التعليم العالي</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">المنتجات</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/devices/" target="_self">الأجهزة <span class="nav-subtext">أجهزة Chromebook‏</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/productivity-tools/" target="_self">أدوات الإنتاجية <span class="nav-subtext">‎المستندات وGmail والمزيد</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/productivity-tools/classroom/" target="_self">Classroom <span class="nav-subtext">تطبيق التحكم في المهام للمعلمين والطلاب</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/expeditions/" target="_self">Expeditions <span class="nav-subtext">الرحلات الميدانية للواقعالافتراضي</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/more-products/" target="_self">المزيد من المنتجات <span class="nav-subtext">‏السحاب ومتصفح Chrome والمزيد‏</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">التدريب</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=ar" target="_self">تدريب المعلمين <span class="nav-subtext">على أدوات Google for Education‏</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">تدريب مشرفي تكنولوجيا المعلومات <span class="nav-subtext">لمشرفي G Suite</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">دليل الشركاء <span class="nav-subtext">لمساعدة مدرستك على اعتماد حلول Google‏</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/communities/" target="_self">المنتديات <span class="nav-subtext">للمعلمين الذين يستخدمون Google‏</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">الموارد</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/programs/" target="_self">البرامج <span class="nav-subtext">للطلاب والمعلمين</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/case-studies/" target="_self">دراسات الحالة </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/computerscience/" target="_self">تعليم علوم الكمبيوتر <span class="nav-subtext">البرامج والتمويل والأبحاث</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/global-education/" target="_self">التعليم العالمي </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">دليل تكنولوجيا المعلومات</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/it/" target="_self"> تكنولوجيا المعلومات </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/trust/" target="_self">صفحات الخصوصية </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">التعليم العالي</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/higher-education/" target="_self">التعليم العالي </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">الحصول على منتجات Google</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">كيف يمكننا مساعدتك؟</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>الحصول على أدوات الإنتاجية</h5> 
+         <p>الحصول على أدوات الإنتاجية من Google، مع Classroom ومستندات Google وDrive وHangouts والبريد الإلكتروني والمزيد. كل ذلك مجانًا وبدون إعلانات.</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=ar#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">الاشتراك في G Suite</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>الحصول على الأجهزة</h5> 
+         <p>هل أنت مهتم بالحصول على أجهزة Chromebook أو أجهزة Android لمدرستك؟ يمكن أن يقدم فريقنا يد العون لك للوصول إلى المسار الصحيح.</p> 
+         <a class="maia-button overlay-button" href="/intl/ar/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">اتصل بخبير</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>تحدث إلى معلمين آخرين</h5> 
+         <p>هل تريد التحدث إلى أشخاص مثلك جربوا استخدام Google؟ كن جزءًا من مجتمع المعلمين لدينا.</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">البحث عن معلمين آخرين</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <!-- Headline --> 
+   <section class="stage headline research"> 
+    <div class="cols-864"> 
+     <div class="col-12"> 
+      <h1>أبحاث تعليم علوم الكمبيوتر</h1> 
+      <p class="body1"> علوم الكمبيوتر أمر بالغ الأهمية لمستقبلنا، وليس فقط بسبب عدد الوظائف المتعلقة بالكمبيوتر التي تظهر في كل عام، ولكن أيضًا لأنها تنمي مهارات التفكير النقدي اللازمة لحل المشكلات المعقدة والإبداع الذي يعزز الأفكار الجديدة والمهارات اللازمة لدفع الابتكار في التكنولوجيا وغيرها من المجالات. </p> 
+     </div> 
+    </div> 
+    <menuitem> <a href="/intl/ar/resources/computerscience/"><img src="/images/resources/computerscience/header_nav_back.png">Google Computer Science</a> </menuitem> 
+   </section> 
+   <!-- Subheadline --> 
+   <section class="stage subheadline research"> 
+    <div class="cols-864"> 
+     <div class="col-12"> 
+      <h3>ويحدد بحثنا استراتيجيات لتحسين تصورات علوم الكمبيوتر وتوسيع فرص التعلم لجميع الطلاب.</h3> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- Reports --> 
+   <section class="reports research"> 
+    <a class="anchor-link" id="community-college-pathways"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="reports-c-c-img" src="/images/resources/computerscience/research-hero-reports-community-college.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-12"> 
+         <p class="subheadlineSemiBold">Community College Pathways to Computer Science Bachelor's Degrees</p> 
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">We partnered with the Community College Research Center (CCRC) and ETR on two complementary research reports that explore ways to encourage community college students to pursue bachelor’s degrees in computer science and related fields.</p> 
+        </div> 
+       </div> 
+       <div class="row "> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Students who transferred and earned CS bachelor’s degrees were particularly focused and fortunate</strong> among the 1.8M students who entered U.S. community colleges in 2007 (CCRC).</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Community college students are confused about computer science transfer pathways</strong> from their community college to their target four-year institution, yet 60% of participants intended to transfer (ETR).</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>CS bachelor's degree earners in the dataset followed 1,213 distinct paths to graduation</strong> when accounting for lengths of enrollment, switches between schools, and numbers and durations of leaves (CCRC).</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Community college students have limited knowledge of CS careers</strong> and how to prepare for jobs in CS-related fields (ETR).</p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">Read the reports, <a href="https://goo.gl/Eiz33G" target="_blank">A Longitudinal Analysis of Community College Pathways to Computer Science Bachelor`s Degrees</a> with CCRC and <a href="https://goo.gl/Q0wJJv" target="_blank">Student Perspectives of Community College Pathways to Computer Science Bachelor`s Degrees</a> with ETR. Share the <a href="https://goo.gl/r7kEB5" target="_blank">infographic.</a></p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="anchor-link" id="diversity-gaps-in-cs"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="firstImg" src="/images/resources/computerscience/research-hero-diversity-gaps-in-cs.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-8"> 
+         <p class="subheadlineSemiBold">تأثير فجوات الاختلاف في تعلم علوم الكمبيوتر: استكشاف انخفاض تمثيل الفتيات والسود وذوي الأصول الإسبانية</p> 
+        </div> 
+        <div class="col-4">
+         <a data-g-event="Edu: Canvas" data-g-action="Read Report" data-g-label="تأثير فجوات الاختلاف في تعلم علوم الكمبيوتر: استكشاف انخفاض تمثيل الفتيات والسود وذوي الأصول الإسبانية" href="http://goo.gl/PG34aH" class="cta2 blue" target="_blank">تقرير READ</a>
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">This special report from Year 2 of our Google-Gallup study explores the structural and social barriers underrepresented groups face at home, in schools, and in society that could influence their likelihood to enter the computer science field. We found:</p> 
+        </div> 
+       </div> 
+       <div class="row "> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>تُعتبر الفتيات أقل عرضة من الفتيان</strong> لدراسة علوم الكمبيوتر خارج المدرسة أو أقل عرضة للتشجيع من قبل المُعلمين أو أولياء الأمور لدراستها أو أقل اهتمامًا بتعلم علوم الكمبيوتر.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>يعير الطلاب السود وذوي الأصول الإسبانية اهتمامًا أكبر لعلوم الكمبيوتر كما يعتبر أولياء أمورهم أكثر اهتمامًا بتعليمهم علوم الكمبيوتر</strong> مقارنة بنظرائهم من البيض.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>يواجه الطلاب السود وذوي الأصول الإسبانية العديد من الاختلافات والتناقضات عند الدخول إلى صفوف علوم الكمبيوتر أو التعرض لها </strong> وكذلك عند استخدام أجهزة الكمبيوتر في المنزل والمدرسة.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>نادرًا ما يرى الطلاب علماء الكمبيوتر المشابهين لهم في وسائل الإعلام</strong>، خاصة العلماء من الفتيات أو ذوي الأصول الإسبانية.</p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">Share the <a href="http://goo.gl/2Kbfmz" target="_blank">infographic</a> and read our focus briefs on <a href="https://goo.gl/dF7shN" target="_blank">girls</a>, <a href="https://goo.gl/FIhXKp" target="_blank">Black students</a>, and <a href="http://goo.gl/i662yI" target="_blank">Hispanic students</a></p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="anchor-link" id="trends-in-cs"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="firstImg" src="/images/resources/computerscience/research-hero-trends-in-cs.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-8"> 
+         <p class="subheadlineSemiBold">الاتجاهات في مجال علوم الكمبيوتر في مدارس الولايات المتحدة من مرحلة رياض الأطفال حتى نهاية التعليم الثانوي</p> 
+        </div> 
+        <div class="col-4">
+         <a data-g-event="Edu: Canvas" data-g-action="Read Report" data-g-label="الاتجاهات في مجال علوم الكمبيوتر في مدارس الولايات المتحدة من مرحلة رياض الأطفال حتى نهاية التعليم الثانوي" href="http://goo.gl/j291E0" class="cta2 blue" target="_blank">تقرير READ</a>
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">يستكشف هذا التقرير الخاص بدراسة Google-Gallup للعام الثاني التغييرات التي تطرأ على التدابير الأساسية بدءًا من العام الأول بالإضافة إلى كشف إحصاءات جديدة من خلال إجراء الدراسات على أكثر من 1600 طالب و1600 ولي أمر و1000 مُعلم و9800 مدير مدرسة و2300 مشرف. وقد تبيّن لنا ما يلي:</p> 
+        </div> 
+       </div> 
+       <div class="row "> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>أبلغ 40% من مديري المدارس عن زيادة صفوف علوم الكمبيوتر التي تحتوي على البرمجة والترميز </strong> ، عن النسبة التي تم الإبلاغ عنها في العام الأول، وهي 25%.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>تستمر التصورات الإيجابية لتعلم علوم الكمبيوتر بالإضافة إلى فرص العمل المرتبطة بها </strong> ضمن جميع المجموعات.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>أعرب القليل من أولياء الأمور والمُعلمين عن دعمهم لتعليم علوم الكمبيوتر</strong> لمسؤولي المدرسة، بالرغم من إدراكهم للقيمة العالية لتعليم علوم الكمبيوتر.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>تُعتبر الفرص متاحة</strong> لتضمين علوم الكمبيوتر في المواد الدراسية الأخرى وتدريب المُعلمين المُتحمسين.</p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">Share the <a href="http://goo.gl/hp4KKV" target="_blank">infographic</a>.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="anchor-link" id="cs-edu-in-spain"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="cs-in-span-img" src="/images/resources/computerscience/research-hero-cs-in-spain-2015.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-8"> 
+         <p class="subheadlineSemiBold">تعليم علوم الكمبيوتر في إسبانيا عام 2015</p> 
+        </div> 
+        <div class="col-4">
+         <a data-g-event="Edu: Canvas" data-g-action="Read Report" data-g-label="تعليم علوم الكمبيوتر في إسبانيا عام 2015" href="http://goo.gl/aFP5yC" class="cta2 blue" target="_blank">تقرير READ</a>
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">In collaboration with Spanish Foundation for Science and Technology (FECYT) and everis, we conducted a landscape study to understand the current state of CS education in primary and secondary schools in Spain, examining the awareness of computer science by key stakeholders, and identifying existing barriers and opportunities to making CS education available to all Spanish students. Some findings include:</p> 
+        </div> 
+       </div> 
+       <div class="row "> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>يُعد تحسين قلة الفهم لعلوم الكمبيوتر والوعي </strong> بأهميتها وتطبيقاتها العملية ضمن الطلاب وأولياء الأمور أحد أهم العوامل الحاسمة للنهوض بتعليم علوم الكمبيوتر.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>تُشكل مخاوف أولياء الأمور حاجزًا</strong> يمنعهم من تشجيع أبنائهم على دراسة علوم الكمبيوتر، بما في ذلك مخاوفهم بشأن مدى صعوبتها أو الاستخدام المفرط للأجهزة الرقمية ومشكلات الأمان على الإنترنت.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>يلعب أولياء الأمور دورًا هامًا</strong> في ما يتعلق بقرارات الطلاب للسعي نحو دراسة علوم الكمبيوتر، وخاصة بالنسبة إلى الفتيات، اللاتي تدركن أحيانًا عدم تشجيع أولياء أمورهن لهن للسعي نحو دراسة علوم الكمبيوتر.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>ويُعتبر تشجيع ودعم التطور المهني للمُعلمين أمرًا مهمًا </strong> لتسهيل تكامل علوم الكمبيوتر على نطاق واسع ضمن المناهج الدراسية.</p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">Read the <a href="http://goo.gl/3nVGM1" target="_blank">report</a> in Spanish and share the <a href="http://goo.gl/yLyF9Z" target="_blank">infographic</a> in Spanish.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="anchor-link" id="state-reports"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="firstImg" src="/images/resources/computerscience/research_hero_04.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-12"> 
+         <p class="subheadlineSemiBold">K-12 Computer Science Education: U.S. State Reports</p> 
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">The following reports summarize the status of computer science education for 11 U.S. states from our 2014- 15 Google-Gallup survey of 9,693 K-12 school principals and offer recommendations for each state to broaden access to and participation in computer science learning.</p> 
+        </div> 
+       </div> 
+       <div class="row bullet-list"> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="California" href="http://goo.gl/khfJds">California</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Florida" href="http://goo.gl/JbNyWa">Florida</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Georgia" href="http://goo.gl/tIajv8">Georgia</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Illinois" href="http://goo.gl/MNihyr">Illinois</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Michigan" href="http://goo.gl/wXLpgt">Michigan</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="North Carolina" href="http://goo.gl/JlmXWf">North Carolina</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="New York" href="http://goo.gl/b5HfMH">New York</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Ohio" href="http://goo.gl/ByA6oV">Ohio</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Pennsylvania" href="http://goo.gl/PS2w7t">Pennsylvania</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Texas" href="http://goo.gl/ReNrSP">Texas</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Wisconsin" href="http://goo.gl/0V0alH">Wisconsin</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="All reports" href="http://goo.gl/zwd31q">All reports</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">See <a href="http://goo.gl/h89gwL" target="_blank">full methodology</a>.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="anchor-link" id="images-of-cs"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="firstImg" src="/images/resources/computerscience/research_hero_03.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-8"> 
+         <p class="subheadlineSemiBold">صور علوم الكمبيوتر: التصورات بين الطلاب وأولياء الأمور والمعلمين في الولايات المتحدة.</p> 
+        </div> 
+        <div class="col-4">
+         <a data-g-event="Edu: Canvas" data-g-action="Read Report" data-g-label="صور علوم الكمبيوتر: التصورات بين الطلاب وأولياء الأمور والمعلمين في الولايات المتحدة." href="https://goo.gl/F3SSWH" class="cta2 blue" target="_blank">تقرير READ</a>
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">يُحلل التقرير الثاني لدراستنا البحثية مع شركة Gallup (غالوب) البيانات من ما يقرب من 16000 مشترك لاستكشاف تصورات علوم الكمبيوتر والمشاركة فيها وفرص العمل ذات الصلة بها بالإضافة إلى الاختلافات الديمغرافية ذات الصلة. وقد تبيّن لنا ما يلي:</p> 
+        </div> 
+       </div> 
+       <div class="row "> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>أن الخلط بين أنشطة علوم الكمبيوتر والإلمام العام بمعرفة الكمبيوتر أمر سائد</strong> بين الطلاب وأولياء الأمور والمعلمين.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>تظل الصور النمطية لمن يمكنه المشاركة في علوم الكمبيوتر قائمة</strong> في تصوير وسائل الإعلام بالإضافة إلى التصورات الشخصية للطلاب وأولياء الأمور والمعلمين.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>تُعتبر فرص العمل ذات الصلة بعلوم الكمبيوتر هي المفضلة لدى الكثيرين،</strong> وأكثر الأشخاص تقديرًا لعلوم الكمبيوتر هم أولياء الأمور في الأسر ذات الدخل المنخفض والمعلمون الذين لديهم عدد أكبر من الطلاب الذين يحصلون على الوجبات المجانية أو المخفضة.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>تعتبر الفتيات من أصل إسباني أو الطلاب ذوي الدخل المنخفض أقل عرضة لتعلم علوم الكمبيوتر</strong> مقارنة مع نظرائهم.</p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">Read our <a href="https://goo.gl/D5JEk5" target="_blank">recommendations</a> based on the research and share our <a href="https://goo.gl/CBTqUX" target="_blank">infographic</a>.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="anchor-link" id="searching-for-cs"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="" src="/images/resources/computerscience/research_hero_01.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-8"> 
+         <p class="subheadlineSemiBold">البحث عن علوم الكمبيوتر: إمكانية الوصول والحواجز في التعليم بدءًا من مرحلة رياض الأطفال حتى نهاية التعليم الثانوي في الولايات المتحدة</p> 
+        </div> 
+        <div class="col-4">
+         <a data-g-event="Edu: Canvas" data-g-action="Read Report" data-g-label="البحث عن علوم الكمبيوتر: إمكانية الوصول والحواجز في التعليم بدءًا من مرحلة رياض الأطفال حتى نهاية التعليم الثانوي في الولايات المتحدة" href="https://goo.gl/oX311J" class="cta2 blue" target="_blank">تقرير READ</a>
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">To understand perceptions of computer science and associated opportunities, participation, and barriers, we worked with Gallup, Inc. to survey over 1,600 students, 1,600 parents, 1,000 teachers, 9,600 principals, and 1,800 superintendents. We found:</p> 
+        </div> 
+       </div> 
+       <div class="row "> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>أن التعرض لتكنولوجيا الكمبيوتر أمر مهم لبناء ثقة الطالب </strong> لتعلم علوم الكمبيوتر.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>أن فرص تعلم علوم الكمبيوتر في المدارس محدودة بالنسبة إلى معظم الطلاب.</strong> وعندما تتوفر هذه الفرص، فإن الدورات التدريبية غير شاملة.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>أن هناك زيادة في الطلب على علوم الكمبيوتر في المدارس بين كل من الطلاب وأولياء الأمور</strong>، ولكن لا يعطي مديرو المدارس والمنطقة هذا الاهتمام حقه.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>أن الحواجز التي تحول دون تقديم علوم الكمبيوتر</strong> في المدارس تتضمن متطلبات اختبار لمواد أخرى والتوفر المحدود والميزانية المحدودة للمعلمين المؤهلين.</p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">Read our <a href="https://goo.gl/AzFfwn" target="_blank">recommendations</a> based on the research and share our <a href="https://goo.gl/eIQf6f" target="_blank">infographic</a>.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="anchor-link" id="women-who-choose"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="firstImg" src="/images/resources/computerscience/research_hero_02.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-8"> 
+         <p class="subheadlineSemiBold">النساء اللاتي اخترن علوم الكمبيوتر—الأمور الهامة حقًا</p> 
+        </div> 
+        <div class="col-4">
+         <a data-g-event="Edu: Canvas" data-g-action="Read Report" data-g-label="النساء اللاتي اخترن علوم الكمبيوتر—الأمور الهامة حقًا" href="https://goo.gl/rLX6ax" class="cta2 blue" target="_blank">تقرير READ</a>
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">لقد انخفضت نسبة شهادة البكالوريوس التي حصلت عليها المرأة في علوم الكمبيوتر من 37% في عام 1984 إلى 18% في عام 2014. ولفهم كيفية عكس هذا الاتجاه، أجرينا دراسات حول 1700 طالب في الولايات المتحدة لتحديد الأسباب الرئيسية التي تدفع الفتيات إلى محاولة تعلم علوم الكمبيوتر. لقد اكتشفنا أن:</p> 
+        </div> 
+       </div> 
+       <div class="row "> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>التشجيع الاجتماعي</strong> من أولياء الأمور والمعلمين والأسرة والأصدقاء ووسائل الإعلام يلعب دورًا كبيرًا في التأثير على الفتيات لمحاولة تعلم علوم الكمبيوتر.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>الفهم الوظيفي</strong> غالبًا ما يكون غير مكتمل، لذلك نحن بحاجة إلى تقديم صور متنوعة من علماء الكمبيوتر وإظهار التطبيق الواسع لعلوم الكمبيوتر عبر مختلف المجالات المهنية.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>الممارسة الأكاديمية</strong> تبني الاهتمام بعلوم الكمبيوتر والكفاءة؛ بحيث يستطيع أي شخص الترويج لعلوم الكمبيوتر في المدارس وتحديد الفرص المتاحة سواء في المجتمع أو عبر الإنترنت.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>الفهم الذاتي</strong> يلعب دورًا رئيسيًا وينبغي تعزيزه من خلال ثقافة حيادية.</p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">Read the report in <a href="https://goo.gl/Sh63Oa" target="_blank">Spanish</a> or <a href="https://goo.gl/vaeAUk" target="_blank">Japanese</a>.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">المنتجات</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/products/devices/">الأجهزة</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/products/productivity-tools/">أدوات الإنتاجية</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/products/more-products/">المزيد من المنتجات</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">التدريب</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=ar" target="_blank">تدريب المعلمين</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">تدريب مشرفي تكنولوجيا المعلومات</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">دليل الشركاء</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/resources/communities/">المنتديات</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">الموارد</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/resources/programs/">البرامج</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/resources/computerscience/">تعليم علوم الكمبيوتر</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/resources/global-education/">التعليم العالمي</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/it/"> تكنولوجيا المعلومات</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">موارد مطوّري البرامج</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/access/">الدخول</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/contact/">المبيعات</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">الدعم</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/partners/">برنامج الشركاء</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/case-studies/">دراسات الحالة</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">الاطلاع على المدارس التي تستخدم أجهزة Chromebook</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">المدونة</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="البحث في هذا الموقع" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/resources/computerscience/research/"> Afrikaans (Suid-Afrika) </option><option selected value="/intl/ar/resources/computerscience/research/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/da/resources/computerscience/research/"> dansk (Danmark) </option><option value="/intl/en_au/resources/computerscience/research/"> English (Australia) </option><option value="/intl/en_ca/resources/computerscience/research/"> English (Canada) </option><option value="/intl/en_in/resources/computerscience/research/"> English (India) </option><option value="/intl/en_nz/resources/computerscience/research/"> English (New Zealand) </option><option value="/intl/en_uk/resources/computerscience/research/"> English (United Kingdom) </option><option value="/resources/computerscience/research/"> English (United States) </option><option value="/intl/es-419_mx/resources/computerscience/research/"> español (México) </option><option value="/intl/es-419/resources/computerscience/research/"> español (Latinoamérica) </option><option value="/intl/fi/resources/computerscience/research/"> suomi (Suomi) </option><option value="/intl/fr_be/resources/computerscience/research/"> français (Belgique) </option><option value="/intl/id/resources/computerscience/research/"> Indonesia (Indonesia) </option><option value="/intl/ja/resources/computerscience/research/"> 日本語 (日本) </option><option value="/intl/ms/resources/computerscience/research/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/resources/computerscience/research/"> Nederlands (Nederland) </option><option value="/intl/no/resources/computerscience/research/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/resources/computerscience/research/"> português (Brasil) </option><option value="/intl/sv/resources/computerscience/research/"> svenska (Sverige) </option><option value="/intl/th/resources/computerscience/research/"> ไทย (ไทย) </option><option value="/intl/tr/resources/computerscience/research/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/ar/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/ar/policies/privacy/">الخصوصية</a> </li> 
+      <li> <a href="https://www.google.com/intl/ar/policies/terms/">البنود</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script>  
+ </body>
+</html>

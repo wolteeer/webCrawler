@@ -1,0 +1,708 @@
+<!doctype html>
+<html class="google mmfb" dir="ltr" lang="en">
+ <head> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script> 
+  <meta charset="utf-8"> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <title>
+      Marketing Data Analysis &amp; Reporting Features - Google Analytics – Google
+    </title> 
+  <meta content="Learn about the standard analytics product or Google Analytics 360 features that help you improve your marketing and business across sites and apps." name="description"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;lang=en" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto+Slab:300,400,500&amp;lang=en" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Product+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/analytics/css/analytics.min.css" rel="stylesheet"> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/v2_8_3/basic.js"></script> 
+  <script>
+    dataLayer=[{"country":"us","region":"noram","language":"en","pageCategory":"Analytics","pageSubCategory":"Features","eID":"index.html","visitorType":"recognized"}];
+    </script> 
+  <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KLXF7H');
+    </script> 
+  <link href="//www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://www.google.com/analytics/analytics/features/" rel="canonical"> 
+  <style type="text/css">
+    iframe.c2 {display:none;visibility:hidden}
+    svg.c1 {enable-background:new 0 0 23 15;}
+    </style> 
+ </head> 
+ <body data-ng-app="rs.analytics"> 
+  <header class="header contains-cta" data-rs-header="" role="banner"> 
+   <div class="upper-header"> 
+    <h1 class="product-logo has-product"> <a data-g-action="Logo" data-g-event="Analytics: Features" data-g-label="Global Nav" href="../../../analytics/"><img alt="Google" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" srcset="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png 2x"> <span class="site-name">Analytics Solutions</span></a> <a data-g-action="Logo" data-g-event="Analytics: Features" data-g-label="Global Nav" href="../../../analytics/"><span class="site-name site-name-product">Analytics</span></a> </h1> 
+    <div class="nav-dropdown-wrapper" data-rs-popupmenu="" ng-cloak=""> 
+     <a class="nav-dropdown-trigger partners-link-desktop" data-g-action="Partners" data-g-event="Analytics: Features" data-g-label="Global Nav" href="https://www.google.com/analytics/partner-services/"><span>Partners</span></a> 
+     <a class="nav-dropdown-trigger support-link-desktop" data-g-action="Support" data-g-event="Analytics: Features" data-g-label="Global Nav" href="https://www.google.com/analytics/services-support"><span>Support</span></a> 
+     <a class="nav-dropdown-trigger" data-g-action="Sign In Menu" data-g-event="Analytics: Features" data-g-label="Global Nav CTA" ng-click="dropdownExpanded = !dropdownExpanded"><span>Sign in</span> 
+      <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+       <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+       <path d="M0 0h36v36H0z" fill="none"></path>
+      </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+     <div class="nav-dropdown" ng-class="{'nav-dropdown-expanded': dropdownExpanded}"> 
+      <a class="nav-dropdown-close" ng-click="dropdownExpanded = false">
+       <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+        <path d="M0 0h36v36H0z" fill="none"></path>
+       </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+      <ul> 
+       <li class="nav-dropdown-close-mobile"> <a ng-click="dropdownExpanded = false">Sign in 
+         <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+          <path d="M0 0h36v36H0z" fill="none"></path>
+         </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> </li> 
+       <li> <a data-g-action="Analytics Sign In" data-g-event="Analytics: Features" data-g-label="Global Nav CTA" href="https://analytics.google.com/analytics/web/" target="_blank">Analytics</a> </li> 
+       <li> <a data-g-action="Tag Manager Sign In" data-g-event="Analytics: Features" data-g-label="Global Nav CTA" href="https://tagmanager.google.com/?hl=en" target="_blank">Tag Manager</a> </li> 
+       <li> <a data-g-action="Optimize Sign In" data-g-event="Analytics: Features" data-g-label="Global Nav CTA" href="https://optimize.google.com/" target="_blank">Optimize</a> </li> 
+       <li> <a data-g-action="Data Studio Sign In" data-g-event="Analytics: Features" data-g-label="Global Nav CTA" href="https://datastudio.google.com/?hl=en" target="_blank">Data Studio</a> </li> 
+       <li> <a data-g-action="Surveys Sign In" data-g-event="Analytics: Features" data-g-label="Global Nav CTA" href="https://surveys.google.com/" target="_blank">Surveys</a> </li> 
+       <li> <a data-g-action="Attribution Sign In" data-g-event="Analytics: Features" data-g-label="Global Nav CTA" href="https://attribution.google.com/" target="_blank">Attribution</a> </li> 
+       <li> <a data-g-action="Audience Center Sign In" data-g-event="Analytics: Features" data-g-label="Global Nav CTA" href="https://audiencecenter.google.com/" target="_blank">Audience Center</a> </li> 
+       <li> <a data-g-action="Analytics 360 Suite Sign In" data-g-event="Analytics: Features" data-g-label="Global Nav CTA" href="https://360suite.google.com/" target="_blank">Analytics 360 Suite</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="cta cta-wrapper"> 
+     <a class="cta-signup" data-g-action="Sign Up For Free" data-g-event="Analytics: Features" data-g-label="Global Nav CTA" href="https://analytics.google.com/analytics/web/provision/?authuser=0#provision/SignUp/" target="_blank">Sign Up For Free</a> 
+    </div> 
+   </div> 
+   <nav class="main-navigation contains-sub-nav contains-double-cta"> 
+    <h1> Analytics </h1> 
+    <ul class="nav-no-padding"> 
+     <li class="active"> <a data-g-action="Analytics" data-g-event="Analytics: Features" data-g-label="Global Nav" href="../../../analytics/analytics/">Analytics</a> 
+      <ul class="sub-nav"> 
+       <li data-g-action="Analytics: Overview" data-g-event="Analytics: Features" data-g-label="Analytics Sub-Nav"> <a href="../../../analytics/analytics/">Overview</a> </li> 
+       <li data-g-action="Analytics: Capabilities" data-g-event="Analytics: Features" data-g-label="Analytics Sub-Nav"> <a href="../../../analytics/analytics/capabilities/">Capabilities</a> </li> 
+       <li class="active" data-g-action="Analytics: Features" data-g-event="Analytics: Features" data-g-label="Analytics Sub-Nav"> <a href="../../../analytics/analytics/features/">Features</a> </li> 
+       <li data-g-action="Analytics: Compare" data-g-event="Analytics: Features" data-g-label="Analytics Sub-Nav"> <a href="../../../analytics/analytics/compare/">Compare</a> </li> 
+       <li data-g-action="Analytics: Mobile Access" data-g-event="Analytics: Features" data-g-label="Analytics Sub-Nav"> <a href="../../../analytics/analytics/app/">Mobile Access</a> </li> 
+       <li data-g-action="Analytics: Success Stories" data-g-event="Analytics: Features" data-g-label="Analytics Sub-Nav"> <a href="../../../analytics/success-stories/#?product_filters=analytics">Success Stories</a> </li> 
+       <li data-g-action="Analytics: Resources" data-g-event="Analytics: Features" data-g-label="Analytics Sub-Nav"> <a href="../../../analytics/resources/#?type_filters=digital-analytics">Resources</a> </li> 
+      </ul> </li> 
+     <li> <a data-g-action="Tag Manager" data-g-event="Analytics: Features" data-g-label="Global Nav" href="../../../analytics/tag-manager/">Tag Manager</a> </li> 
+     <li> <a data-g-action="Optimize" data-g-event="Analytics: Features" data-g-label="Global Nav" href="../../../analytics/optimize/">Optimize</a> </li> 
+     <li> <a data-g-action="Data Studio" data-g-event="Analytics: Features" data-g-label="Global Nav" href="../../../analytics/data-studio/">Data Studio</a> </li> 
+     <li> <a data-g-action="Surveys" data-g-event="Analytics: Features" data-g-label="Global Nav" href="../../../analytics/surveys/">Surveys</a> </li> 
+     <li> <a data-g-action="Attribution" data-g-event="Analytics: Features" data-g-label="Global Nav" href="../../../analytics/attribution/">Attribution</a> </li> 
+     <li> <a data-g-action="Audience Center" data-g-event="Analytics: Features" data-g-label="Global Nav" href="../../../analytics/audience-center/">Audience Center</a> </li> 
+     <li> <a data-g-action="360 Suite" data-g-event="Analytics: Features" data-g-label="Global Nav" href="../../../analytics/360-suite/">Analytics 360 Suite</a> </li> 
+     <li class="partners-link-mobile"> <a class="partners-link" data-g-action="Partners" data-g-event="Analytics: Features" data-g-label="Global Nav" href="/analytics/partner-services">Partners</a> </li> 
+     <li class="support-link-mobile"> <a class="support-link" data-g-action="Support" data-g-event="Analytics: Features" data-g-label="Global Nav" href="/analytics/services-support">Support</a> </li> 
+    </ul> 
+    <div class="nav-dropdown-wrapper" data-rs-popupmenu="" ng-cloak=""> 
+     <a class="nav-dropdown-trigger partners-link-desktop" data-g-action="Partners" data-g-event="Analytics: Features" data-g-label="Global Nav" href="https://www.google.com/analytics/partner-services/"><span>Partners</span></a> 
+     <a class="nav-dropdown-trigger support-link-desktop" data-g-action="Support" data-g-event="Analytics: Features" data-g-label="Global Nav" href="https://www.google.com/analytics/services-support"><span>Support</span></a> 
+     <a class="nav-dropdown-trigger" data-g-action="Sign In Menu" data-g-event="Analytics: Features" data-g-label="Global Nav CTA" ng-click="dropdownExpanded = !dropdownExpanded"><span>Sign in</span> 
+      <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+       <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+       <path d="M0 0h36v36H0z" fill="none"></path>
+      </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+     <div class="nav-dropdown" ng-class="{'nav-dropdown-expanded': dropdownExpanded}"> 
+      <a class="nav-dropdown-close" ng-click="dropdownExpanded = false">
+       <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+        <path d="M0 0h36v36H0z" fill="none"></path>
+       </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+      <ul> 
+       <li class="nav-dropdown-close-mobile"> <a ng-click="dropdownExpanded = false">Sign in 
+         <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+          <path d="M0 0h36v36H0z" fill="none"></path>
+         </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> </li> 
+       <li> <a data-g-action="Analytics Sign In" data-g-event="Analytics: Features" data-g-label="Global Nav CTA" href="https://analytics.google.com/analytics/web/" target="_blank">Analytics</a> </li> 
+       <li> <a data-g-action="Tag Manager Sign In" data-g-event="Analytics: Features" data-g-label="Global Nav CTA" href="https://tagmanager.google.com/?hl=en" target="_blank">Tag Manager</a> </li> 
+       <li> <a data-g-action="Optimize Sign In" data-g-event="Analytics: Features" data-g-label="Global Nav CTA" href="https://optimize.google.com/" target="_blank">Optimize</a> </li> 
+       <li> <a data-g-action="Data Studio Sign In" data-g-event="Analytics: Features" data-g-label="Global Nav CTA" href="https://datastudio.google.com/?hl=en" target="_blank">Data Studio</a> </li> 
+       <li> <a data-g-action="Surveys Sign In" data-g-event="Analytics: Features" data-g-label="Global Nav CTA" href="https://surveys.google.com/" target="_blank">Surveys</a> </li> 
+       <li> <a data-g-action="Attribution Sign In" data-g-event="Analytics: Features" data-g-label="Global Nav CTA" href="https://attribution.google.com/" target="_blank">Attribution</a> </li> 
+       <li> <a data-g-action="Audience Center Sign In" data-g-event="Analytics: Features" data-g-label="Global Nav CTA" href="https://audiencecenter.google.com/" target="_blank">Audience Center</a> </li> 
+       <li> <a data-g-action="Analytics 360 Suite Sign In" data-g-event="Analytics: Features" data-g-label="Global Nav CTA" href="https://360suite.google.com/" target="_blank">Analytics 360 Suite</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="cta cta-wrapper"> 
+     <a class="cta-signup" data-g-action="Sign Up For Free" data-g-event="Analytics: Features" data-g-label="Global Nav CTA" href="https://analytics.google.com/analytics/web/provision/?authuser=0#provision/SignUp/" target="_blank">Sign Up For Free</a> 
+    </div> 
+   </nav>
+   <button class="nav-toggle-button"><span class="icon-menu-els"><span class="menu-bar"></span> <span class="menu-bar"></span> <span class="menu-bar"></span></span></button> 
+  </header> 
+  <div class="main" role="main"> 
+   <div class="app-toaster-container" data-app-toaster=""> 
+    <div class="app-toaster ml-pushup"> 
+     <div> 
+      <div class="app-toaster-header"> 
+       <div class="app-toaster-header-icon"> 
+        <div class="ml-branding-icon-analytics-logo"></div> 
+       </div> 
+       <div class="app-toaster-text-header"> 
+        <span>Try the new Google Analytics mobile app</span> 
+       </div> 
+       <div class="app-toaster-text"> 
+        <span>The new Google Analytics mobile app lets you quickly access your key metrics anytime, anywhere.</span> 
+       </div> 
+      </div> 
+      <div class="app-toaster-buttons"> 
+       <div class="app-toaster-action-row-right"> 
+        <div class="app-toaster-action-container"> 
+         <span class="app-toaster-action-button app-toaster-no-button app-toaster-no-thanks" ng-click="appToasterCtrl.appToasterDisable()">NO THANKS</span> 
+        </div> 
+        <div class="app-toaster-action-container"> 
+         <a class="app-toaster-android-only app-toaster-action-button app-toaster-yes-button app-toaster-use-the-app-button" href="https://play.google.com/store/apps/details?id=com.google.android.apps.giant&amp;referrer=utm_source%3Dreferral%26utm_medium%3DmarketingSiteBanner%26utm_campaign%3DmarketingSiteBanner&amp;hl=en"> INSTALL</a> 
+         <a class="app-toaster-ios-only app-toaster-action-button app-toaster-yes-button app-toaster-use-the-app-button" href="https://itunes.apple.com/app/apple-store/id881599038?pt=9008&amp;ct=marketingSiteBanner&amp;mt=8"> INSTALL</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <section class="section section-dark google-blue section-features-hero"> 
+    <div class="site-width"> 
+     <div class="col-5-fixed"> 
+      <h1> Features </h1> 
+      <p class="font-large"> Whether you want to boost sales or find more users, Google Analytics features help you improve your business across your sites and apps. </p> 
+     </div> 
+    </div> 
+    <div class="section-hero-media section-hero-media-right device-animation-right" data-rs-trigger=""> 
+     <picture>
+      <source media="(min-width: 768px)" srcset="../../../analytics/images/analytics/features/hero_1x.png, ../../../analytics/images/analytics/features/hero_2x.png 2x"> 
+      <img alt="" class="analytics-features-hero" srcset="../../../analytics/images/analytics/features/hero_m_1x.png, ../../../analytics/images/analytics/features/hero_m_2x.png 2x"> 
+     </picture> 
+    </div> 
+   </section> 
+   <section class="section"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-5"> 
+       <h2> Data Collection &amp; Management </h2> 
+       <p class="font-large"> Data collection and management with Google Analytics provides a single, comprehensive view of the customer that can be customized to your needs and shared across the organization. </p> 
+      </div> 
+      <div class="col-6 col-offset-1 glue-zippy-set" data-ng-cloak=""> 
+       <div class="glue-zippy-toggle-all"> 
+        <span class="expand" data-g-action="Expand All" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management">Expand all 
+         <svg class="icon-expand" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M4.7,4.7c-6.3,6.3-6.3,16.4,0,22.6s16.4,6.3,22.6,0c6.3-6.3,6.3-16.4,0-22.6S10.9-1.6,4.7,4.7z M26,14v4h-8v8h-4v-8H6v-4h8 V6h4v8H26z"> 
+          </path>
+         </svg> <img alt="expand icon" class="icon-expand" height="12" src="//www.google.com/ads/images/icons/icon-expand.png" width="12"></span> 
+        <span class="collapse" data-g-action="Expand All" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management">Close all 
+         <svg class="icon-collapse" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M4.7,4.7c-6.3,6.3-6.3,16.4,0,22.6s16.4,6.3,22.6,0c6.3-6.3,6.3-16.4,0-22.6S10.9-1.6,4.7,4.7z M26,14v4H6v-4H26z"> 
+          </path>
+         </svg> <img alt="collapse icon" class="icon-collapse" height="12" src="//www.google.com/ads/images/icons/icon-collapse.png" width="12"></span> 
+       </div> 
+       <ul class="rs-zippy"> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="collection-apis"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: Collection APIs">
+           Collection APIs 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Google Analytics features Javascript libraries, mobile app <a data-g-action="SDKs" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: Collection APIs" href="https://support.google.com/analytics/answer/2587086?hl=en" target="_blank">SDKs</a> (iOS and Android), and an open <a data-g-action="Measurement Protocol" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: Collection APIs" href="https://support.google.com/analytics/answer/6086079?hl=en" target="_blank">measurement protocol</a> for comprehensive data collection. The open measurement protocol can be used to import interaction data from any internet-connected third-party system (i.e. CRM, point of sale, kiosk, call center, desktop app, intranet, device, etc.) into Google Analytics. </p> 
+         </div> </li> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="tag-management-support"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: Tag Management Support">
+           Tag Management Support 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Google Analytics is supported by all leading tag management systems and is seamlessly integrated into Google Tag Manager and Tag Manager 360. </p> 
+         </div> </li> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="configuration-apis"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: Configuration APIs">
+           Configuration APIs 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Explore flexible and programmatic ways to manage your Google Analytics account with our <a data-g-action="Configuration APIs" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: Configuration APIs" href="https://developers.google.com/analytics/devguides/config/" target="_blank">configuration APIs</a>. </p> 
+         </div> </li> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="custom-variables"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: Custom Variables">
+           Custom Variables 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Google Analytics offers a number of ways to bring in customized data. Custom variables, including <a data-g-action="Custom Dimensions" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: Custom Variables" href="https://support.google.com/analytics/answer/2709828?hl=en" target="_blank">custom dimensions</a>, <a data-g-action="Custom Metrics" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: Custom Variables" href="https://support.google.com/analytics/answer/2709828?hl=en" target="_blank">custom metrics</a>, and <a data-g-action="Calculated Metrics" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: Custom Variables" href="https://support.google.com/analytics/answer/6121409?hl=en" target="_blank">calculated metrics</a>, can track a wide variety of structured or unstructured text or metrics. </p> 
+         </div> </li> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="data-import"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: Data Import">
+           Data Import 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> <a data-g-action="Upload data" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: Data Import" href="https://support.google.com/analytics/answer/3191589?hl=en" target="_blank">Upload data</a> from external sources and combine it with data collected via Google Analytics to extend and cleanse existing data. Use either the step-by-step user interface or the API to upload the data. </p> 
+         </div> </li> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="native-data-onboarding-integrations"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: Native Data Onboarding Integrations">
+           Native Data Onboarding Integrations 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Analytics offers native data onboarding integrations with <a data-g-action="AdWords" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: Native Data Onboarding Integrations" href="https://www.google.com/adwords/" target="_blank">AdWords</a>, <a data-g-action="AdSense" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: Native Data Onboarding Integrations" href="https://www.google.com/adsense/start/#?modal_active=none" target="_blank">AdSense</a>, <a data-g-action="Search Console" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: Native Data Onboarding Integrations" href="https://www.google.com/webmasters/tools/home?hl=en" target="_blank">Search Console</a> (formerly Webmaster Tools), and <a data-g-action="DoubleClick AdExchange" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: Native Data Onboarding Integrations" href="https://www.doubleclickbygoogle.com/solutions/revenue-management/ad-exchange/" target="_blank">DoubleClick AdExchange</a>. For Analytics 360 users, there are additional data onboarding integrations with <a data-g-action="DoubleClick Campaign Manager" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: Native Data Onboarding Integrations" href="https://www.doubleclickbygoogle.com/solutions/digital-marketing/campaign-manager/" target="_blank">DoubleClick Campaign Manager</a>, <a data-g-action="DoubleClick Bid Manager" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: Native Data Onboarding Integrations" href="https://www.doubleclickbygoogle.com/solutions/digital-marketing/bid-manager/" target="_blank">DoubleClick Bid Manager</a>, <a data-g-action="DoubleClick Search" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: Native Data Onboarding Integrations" href="https://www.doubleclickbygoogle.com/solutions/digital-marketing/search/" target="_blank">DoubleClick Search</a>, and <a data-g-action="DoubleClick for Publishers" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: Native Data Onboarding Integrations" href="https://www.doubleclickbygoogle.com/solutions/revenue-management/dfp/" target="_blank">DoubleClick for Publishers</a>. These integrations pull data into Google Analytics for deeper analysis. </p> 
+         </div> </li> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="user-access-controls"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: User Access Controls">
+           User Access Controls 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> <a data-g-action="User Access Controls" data-g-event="Analytics: Features" data-g-label="Data Collection &amp; Management: User Access Controls" href="https://support.google.com/analytics/answer/2884495?hl=en" target="_blank">User access controls</a> in Google Analytics let you choose the right levels of access for different users of your Google Analytics account. Let some people manage your entire account, while others can simply view and analyze. If you’re using the Google Analytics 360 Suite, you can manage these controls at the Suite level. </p> 
+         </div> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section light-gray"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-5"> 
+       <h2> Data Analysis, Visualization, and Reporting </h2> 
+       <p class="font-large"> Reports can be segmented and filtered to reflect the needs of your business. Access an array of reporting and analysis tools that help you understand your customers from acquisition to purchase. </p> 
+      </div> 
+      <div class="col-6 col-offset-1 glue-zippy-set" data-ng-cloak=""> 
+       <div class="glue-zippy-toggle-all"> 
+        <span class="expand" data-g-action="Expand All" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting">Expand all 
+         <svg class="icon-expand" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M4.7,4.7c-6.3,6.3-6.3,16.4,0,22.6s16.4,6.3,22.6,0c6.3-6.3,6.3-16.4,0-22.6S10.9-1.6,4.7,4.7z M26,14v4h-8v8h-4v-8H6v-4h8 V6h4v8H26z"> 
+          </path>
+         </svg> <img alt="expand icon" class="icon-expand" height="12" src="//www.google.com/ads/images/icons/icon-expand.png" width="12"></span> 
+        <span class="collapse" data-g-action="Expand All" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting">Close all 
+         <svg class="icon-collapse" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M4.7,4.7c-6.3,6.3-6.3,16.4,0,22.6s16.4,6.3,22.6,0c6.3-6.3,6.3-16.4,0-22.6S10.9-1.6,4.7,4.7z M26,14v4H6v-4H26z"> 
+          </path>
+         </svg> <img alt="collapse icon" class="icon-collapse" height="12" src="//www.google.com/ads/images/icons/icon-collapse.png" width="12"></span> 
+       </div> 
+       <ul class="rs-zippy"> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="data-access"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Data Access">
+           Data Access 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Google Analytics provides a rich set of options for accessing your analytics data. In addition to our web application, we provide an official Google Analytics mobile app, email notifications and alerts, an external <a data-g-action="Reporting API" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Data Access" href="https://developers.google.com/analytics/devguides/reporting/" target="_blank">reporting API</a>, and integrations to multiple Google products that allow you to see your data in those products — e.g. <a data-g-action="AdWords" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Data Access" href="https://www.google.com/adwords/" target="_blank">AdWords</a>, <a data-g-action="Google Sheets" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Data Access" href="https://www.google.com/sheets/about/" target="_blank">Google Sheets</a>, <a data-g-action="Firebase" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Data Access" href="https://firebase.google.com/" target="_blank">Firebase</a>, <a data-g-action="AdMob" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Data Access" href="https://www.google.com/admob/" target="_blank">AdMob</a>, <a data-g-action="DoubleClick Bid Manager" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Data Access" href="https://www.doubleclickbygoogle.com/solutions/digital-marketing/bid-manager/" target="_blank">DoubleClick Bid Manager</a> (Analytics 360 only), <a data-g-action="DoubleClick Search" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Data Access" href="https://www.doubleclickbygoogle.com/solutions/digital-marketing/search/" target="_blank">DoubleClick Search</a> (Analytics 360 only), <a data-g-action="BigQuery" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Data Access" href="https://cloud.google.com/bigquery/" target="_blank">BigQuery</a> (Analytics 360 and mobile apps connected to Firebase only), etc. </p> 
+         </div> </li> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="filtering-and-manipulation"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Filtering and Manipulation">
+           Filtering and Manipulation 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> In our tracking libraries you can filter, include, exclude, and modify the primary data fields collected. For data that has already been collected and processed, <a data-g-action="Advanced Filters" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Filtering and Manipulation" href="https://support.google.com/analytics/answer/1034836?hl=en" target="_blank">advanced filters</a> on views or segmentation in reports can filter out unwanted data for analysis, including automated filters for excluding bot traffic and spam. Custom <a data-g-action="Channel Groupings" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Filtering and Manipulation" href="https://support.google.com/analytics/answer/6010097?hl=en" target="_blank">channel groupings</a>, <a data-g-action="Content Groupings" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Filtering and Manipulation" href="https://support.google.com/analytics/answer/2853423?hl=en" target="_blank">content groupings</a>, and <a data-g-action="Calculated Metrics" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Filtering and Manipulation" href="https://support.google.com/analytics/answer/6121409?hl=en" target="_blank">calculated metrics</a> are available for defining additional views, metadata, calculations, and reports that closely align with your business. </p> 
+          <p> For even deeper filtering and manipulation, customers can use our integrations with Google’s Cloud Platform and <a data-g-action="BigQuery" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Filtering and Manipulation" href="https://cloud.google.com/bigquery/" target="_blank">BigQuery</a> (Analytics 360 and apps connected to Firebase only). </p> 
+         </div> </li> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="funnel-analysis"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Funnel Analysis">
+           Funnel Analysis 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Google Analytics offers a few tools for insightful funnel analysis on your sites and apps. </p> 
+          <ul> 
+           <li> <strong><a data-g-action="Shopping and Checkout Funnels" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Funnel Analysis" href="https://support.google.com/analytics/answer/6014872?hl=en" target="_blank">Shopping and Checkout Funnels</a></strong><br> Analyze the customer path to purchase and determine where customers drop off at each stage in the funnel. </li> 
+           <li> <strong><a data-g-action="Custom Funnels" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Funnel Analysis" href="https://support.google.com/analytics/answer/6180923?hl=en" target="_blank">Custom Funnels</a> (Analytics 360 only)</strong><br> Configure these funnels at any time (not just during implementation) to customize your funnel analysis to your business. </li> 
+           <li> <strong><a data-g-action="Multi-Channel Funnels" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Funnel Analysis" href="https://support.google.com/analytics/answer/1191180?hl=en" target="_blank">Multi-Channel Funnels</a></strong><br> Visualize and report on the multiple campaign touchpoints that users engage in across sessions along the path to conversion. </li> 
+           <li> <strong>App Event Funnels</strong><br> Configure visualization of in-app events into logical sequences to better understand how one action relates to another. </li> 
+          </ul> 
+         </div> </li> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="mobile-app-reporting"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Mobile App Reporting">
+           Mobile App Reporting 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> When it comes to how critically important mobile apps are to today’s businesses, Google Analytics has you covered. Free and unlimited app event reporting provides key insights with app-specific metrics like mobile ARPU and ARPPU, configurable conversion events, and specialized in-app purchase reporting. Our app reporting also provides cross-network attribution with third-party postbacks and much more. </p> 
+         </div> </li> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="real-time-reporting"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Real-Time Reporting">
+           Real-Time Reporting 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> <a data-g-action="Real-time reporting" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Real-Time Reporting" href="https://support.google.com/analytics/answer/1638635?hl=en" target="_blank">Real-time reporting</a> support is natively available for many metrics right out of the box. This data is available at scale within seconds after activity is measured on your site and includes API access for this same data. </p> 
+          <p> Additionally, audiences created using Google Analytics segments for purposes like remarketing (on display and search ads) and for personalization/experimentation (using Optimize or Optimize 360) are available and processed in real-time. </p> 
+         </div> </li> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="segmentation"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Segmentation">
+           Segmentation 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> In addition to built-in <a data-g-action="Segments" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Segmentation" href="https://support.google.com/analytics/answer/3123951?hl=en" target="_blank">segments</a>, over 250 signals including demographic information (in connection with Google Analytics advertiser features), behavior information, e-commerce data, marketing data, CRM data, or other external data can be used to create different types of custom segments at the session or the user level. </p> 
+          <p> You can create a segment of website visitors or app users and then export that list to a DoubleClick (Analytics 360 only) or Google product, like <a data-g-action="AdWords" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Segmentation" href="https://www.google.com/adwords/" target="_blank">AdWords</a>, where an ad campaign can be created specifically for those users. </p> 
+         </div> </li> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="user-flow-reporting"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: User Flow Reporting">
+           User Flow Reporting 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> For an aggregate understanding of user flow on a site, Google Analytics offers <a data-g-action="Flow Visualization Reporting" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: User Flow Reporting" href="https://support.google.com/analytics/answer/2519986?hl=en" target="_blank">flow visualization reporting</a> which allows you to see how visitors flow through your websites and other channels. <a data-g-action="Content Groupings" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: User Flow Reporting" href="https://support.google.com/analytics/answer/2853423?hl=en" target="_blank">Content groupings</a> let you group like pages together to see how groups of content perform. </p> 
+          <p> For more granular analysis, our <a data-g-action="User Explorer" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: User Flow Reporting" href="https://support.google.com/analytics/answer/6339208?hl=en" target="_blank">user explorer</a> functionality lets you analyze the actions that a user has taken on your site or app. </p> 
+         </div> </li> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="visualization-and-monitoring"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Visualization and Monitoring">
+           Visualization and Monitoring 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Our built-in reports offer many alternate visualizations including multiple-axes charts, pivot tables, pie charts, bar charts, data tables, and motion charts. Customers can also create customizable, shareable <a data-g-action="Dashboards" data-g-event="Analytics: Features" data-g-label="Data Analysis, Visualization, and Reporting: Visualization and Monitoring" href="https://support.google.com/analytics/answer/1068216?hl=en" target="_blank">dashboards</a> which can display a variety of widgets. </p> 
+         </div> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-5"> 
+       <h2> Data Activation </h2> 
+       <p class="font-large"> Make smarter marketing decisions. Google Analytics allows you to seamlessly activate your data to improve marketing campaigns and experiment with new channels and content. </p> 
+      </div> 
+      <div class="col-6 col-offset-1 glue-zippy-set" data-ng-cloak=""> 
+       <div class="glue-zippy-toggle-all"> 
+        <span class="expand" data-g-action="Expand All" data-g-event="Analytics: Features" data-g-label="Data Activation">Expand all 
+         <svg class="icon-expand" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M4.7,4.7c-6.3,6.3-6.3,16.4,0,22.6s16.4,6.3,22.6,0c6.3-6.3,6.3-16.4,0-22.6S10.9-1.6,4.7,4.7z M26,14v4h-8v8h-4v-8H6v-4h8 V6h4v8H26z"> 
+          </path>
+         </svg> <img alt="expand icon" class="icon-expand" height="12" src="//www.google.com/ads/images/icons/icon-expand.png" width="12"></span> 
+        <span class="collapse" data-g-action="Expand All" data-g-event="Analytics: Features" data-g-label="Data Activation">Close all 
+         <svg class="icon-collapse" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M4.7,4.7c-6.3,6.3-6.3,16.4,0,22.6s16.4,6.3,22.6,0c6.3-6.3,6.3-16.4,0-22.6S10.9-1.6,4.7,4.7z M26,14v4H6v-4H26z"> 
+          </path>
+         </svg> <img alt="collapse icon" class="icon-collapse" height="12" src="//www.google.com/ads/images/icons/icon-collapse.png" width="12"></span> 
+       </div> 
+       <ul class="rs-zippy"> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="audience-demographics"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Activation: Audience Demographics">
+           Audience Demographics 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> <a data-g-action="Demographic and interest data" data-g-event="Analytics: Features" data-g-label="Data Activation: Audience Demographics" href="https://support.google.com/analytics/answer/2799357?hl=en" target="_blank">Demographic and interest data</a> provide information about the age and gender of your users, along with the interests they express in their online purchasing activities. By creating audience lists using your app data, you can re-engage with them through remarketing. To take advantage of these features, users can activate the advertiser features in Google Analytics. </p> 
+         </div> </li> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="intelligence-and-anomaly-detection"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Activation: Intelligence and Anomaly Detection">
+           Intelligence and Anomaly Detection 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Google Analytics offers automated anomaly detection and proactive alerts in a number of areas: tracking, configuration, site health, product adoption, product usage, and product integration anomalies. Our <a data-g-action="Diagnostics Tool" data-g-event="Analytics: Features" data-g-label="Data Activation: Intelligence and Anomaly Detection" href="https://support.google.com/analytics/answer/6006306?hl=en" target="_blank">diagnostics tool</a> alerts users to a variety of events or metrics that are outside an expected range of values. </p> 
+          <p> Beyond basic anomaly detection and our diagnostics tool, we have the Analytics Assistant. This tool uses statistical methods paired with machine learning to surface relevant business insights and, over time, customize which insights are relevant for which user. </p> 
+         </div> </li> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="multi-touch-attribution"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Activation: Multi-Touch Attribution">
+           Multi-Touch Attribution 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Google Analytics provides functionality to <a data-g-action="Analyze the path to conversion" data-g-event="Analytics: Features" data-g-label="Data Activation: Multi-Touch Attribution" href="https://support.google.com/analytics/answer/1662518?hl=en" target="_blank">analyze the path to conversion</a> across marketing touch points. This includes a data-driven, algorithmic attribution model that uses a machine learning methodology to distribute conversion credit across multiple touchpoints (Analytics 360 only). The model applies credit across touchpoints from all major digital channels, including display and video impressions. </p> 
+         </div> </li> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="predictive-analytics"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Activation: Predictive Analytics">
+           Predictive Analytics 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Google Analytics features capabilities to help you predict things like which users are most likely to convert. <a data-g-action="Smart Lists" data-g-event="Analytics: Features" data-g-label="Data Activation: Predictive Analytics" href="https://support.google.com/analytics/answer/4628577?hl=en" target="_blank">Smart lists</a> tell you which users are the most valuable for you to re-engage with via remarketing, while <a data-g-action="Smart Goals" data-g-event="Analytics: Features" data-g-label="Data Activation: Predictive Analytics" href="https://support.google.com/analytics/answer/6153083?hl=en" target="_blank">Smart goals</a> predicts which on-site user behaviors represent high quality engagements (e.g. engagements that are likely to lead to a conversion). </p> 
+         </div> </li> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="publisher-integrations"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Activation: Publisher Integrations">
+           Publisher Integrations 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Integrations with publisher tools such as <a data-g-action="DoubleClick for Publishers" data-g-event="Analytics: Features" data-g-label="Data Activation: Publisher Integrations" href="https://www.doubleclickbygoogle.com/solutions/revenue-management/dfp/" target="_blank">DoubleClick for Publishers</a> (Analytics 360 only), <a data-g-action="AdSense" data-g-event="Analytics: Features" data-g-label="Data Activation: Publisher Integrations" href="https://www.google.com/adsense/start/#?modal_active=none" target="_blank">Adsense</a>, and <a data-g-action="DoubleClick Ad Excahnge" data-g-event="Analytics: Features" data-g-label="Data Activation: Publisher Integrations" href="https://www.doubleclickbygoogle.com/solutions/revenue-management/ad-exchange/" target="_blank">DoubleClick Ad Exchange</a> help publishers optimize their sites for user experience and monetization. </p> 
+         </div> </li> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="remarketing-integrations"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Activation: Remarketing Integrations">
+           Remarketing Integrations 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Google Analytics provides native integrations with display and search ads solutions like <a data-g-action="AdWords" data-g-event="Analytics: Features" data-g-label="Data Activation: Remarketing Integrations" href="https://www.google.com/adwords/" target="_blank">AdWords</a>, the <a data-g-action="Google Display Network" data-g-event="Analytics: Features" data-g-label="Data Activation: Remarketing Integrations" href="https://www.google.com/ads/displaynetwork/" target="_blank">Google Display Network</a>, <a data-g-action="DoubleClick Bid Manager" data-g-event="Analytics: Features" data-g-label="Data Activation: Remarketing Integrations" href="https://www.doubleclickbygoogle.com/solutions/digital-marketing/bid-manager/" target="_blank">DoubleClick Bid Manager</a> (Analytics 360 only), and <a data-g-action="DoubleClick Search" data-g-event="Analytics: Features" data-g-label="Data Activation: Remarketing Integrations" href="https://www.doubleclickbygoogle.com/solutions/digital-marketing/search/" target="_blank">DoubleClick Search</a> (Analytics 360 only). Create remarketing lists based on user behavior on your site with Google Analytics and send them directly to your media products. </p> 
+         </div> </li> 
+        <li class="glue-zippy" data-glue-zippy-expand="" data-rs-zippy-state="" id="app-notifications-and-remote-configs"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Analytics: Features" data-g-label="Data Activation: App Notifications and Remote Configs">
+           App Notifications and Remote Configs 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Create audiences for your mobile app users when you connect to <a data-g-action="Firebase" data-g-event="Analytics: Features" data-g-label="Data Activation: App Notifications and Remote Configs" href="https://firebase.google.com/" target="_blank">Firebase</a> and use them to send push notifications and remote configurations across other app developer features. </p> 
+         </div> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-dark section-features-learn-more light-blue"> 
+    <div class="site-width"> 
+     <h1> Learn More About Analytics </h1> 
+     <p> Need more details about Google Analytics? </p> 
+     <p class="download-item"> <a class="link-more" data-g-action="View PDF" data-g-event="Analytics: Features" data-g-label="Analytics 360 Product Overview For Advertisers" href="https://services.google.com/fh/files/misc/ga360s_productoverview_analytics-advertisers.pdf" target="_blank">Download The Analytics 360 Product Overview For Advertisers 
+       <svg class="icon-link-download" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M29.2,11.3h-7.5V0H10.4v11.3H2.8L16,24.5L29.2,11.3z M3,28.2V32h26v-3.8H3z"> 
+        </path>
+       </svg> <img alt="download link icon" class="icon-link-download" height="16" src="//www.google.com/ads/images/icons/icon-link-download.png" width="16"></a> </p> 
+     <p class="download-item"> <a class="link-more" data-g-action="View PDF" data-g-event="Analytics: Features" data-g-label="Analytics 360 Product Overview For Publishers" href="https://services.google.com/fh/files/misc/ga360s_productoverview_analytics-publishers.pdf" target="_blank">Download THE Analytics 360 Product Overview For Publishers 
+       <svg class="icon-link-download" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M29.2,11.3h-7.5V0H10.4v11.3H2.8L16,24.5L29.2,11.3z M3,28.2V32h26v-3.8H3z"> 
+        </path>
+       </svg> <img alt="download link icon" class="icon-link-download" height="16" src="//www.google.com/ads/images/icons/icon-link-download.png" width="16"></a> </p> 
+    </div> 
+   </section> 
+  </div> 
+  <footer class="footer" id="footer" role="contentinfo"> 
+   <div class="site-width"> 
+    <div class="footer-upper cols-row"> 
+     <div class="footer-social col-6"> 
+      <dl> 
+       <dt>
+         Follow us on: 
+       </dt> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Analytics: Features" data-g-label="GPlus" href="https://plus.google.com/+GoogleAnalytics/" rel="noopener nofollow" target="_blank" title="Google+">
+         <svg class="icon-footer-gplus c1" height="20px" version="1.1" viewbox="0 0 23 15" width="30px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <polygon points="23,6 21,6 21,4 19,4 19,6 17,6 17,8 19,8 19,10 21,10 21,8 23,8"> 
+          </polygon> 
+          <path d="M11.8,8.9c-0.1,1.3-1.3,3.4-4.3,3.4c-2.6,0-4.6-2.1-4.6-4.7S5,2.9,7.5,2.9c1.5,0,2.4,0.6,3,1.1 l0,0l2-2c-1.3-1.2-3-2-5-2C3.4,0.1,0,3.5,0,7.6s3.4,7.5,7.5,7.5c4.3,0,7.2-3,7.2-7.3c0-0.6-0.1-1.1-0.2-1.5h-7V9L11.8,8.9L11.8,8.9 z"> 
+          </path>
+         </svg> <img alt="Google+" class="icon-footer-gplus" height="20" src="//www.google.com/ads/images/icons/icon-footer-gplus.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Analytics: Features" data-g-label="Blogger" href="https://analytics.googleblog.com/" rel="noopener" target="_blank" title="Blogger">
+         <svg class="icon-footer-blogger" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,0H3.2C1.4,0,0,1.4,0,3.2l0,25.6C0,30.6,1.4,32,3.2,32h25.6c1.8,0,3.2-1.4,3.2-3.2V3.2 C32,1.4,30.6,0,28.8,0 M22.4,11.2v1.6c0,0.9,0.7,1.6,1.6,1.6c0.9,0,1.6,0.7,1.6,1.6v4.8c0,2.7-2.1,4.8-4.8,4.8h-9.6 c-2.7,0-4.8-2.1-4.8-4.8V9.6c0-2.6,2.1-4.8,4.8-4.8h6.4c2.7,0,4.8,2.2,4.8,4.8V11.2z M12.7,12.8h4.2c0.9,0,1.6-0.7,1.6-1.6 s-0.7-1.6-1.6-1.6h-4.2c-0.9,0-1.6,0.7-1.6,1.6S11.8,12.8,12.7,12.8 M19.2,17.6h-6.5c-0.9,0-1.6,0.7-1.6,1.6c0,0.9,0.7,1.6,1.6,1.6 h6.5c0.9,0,1.6-0.7,1.6-1.6C20.8,18.3,20.1,17.6,19.2,17.6"> 
+          </path>
+         </svg> <img alt="Blogger" class="icon-footer-blogger" height="20" src="//www.google.com/ads/images/icons/icon-footer-blogger.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Analytics: Features" data-g-label="Linkedin" href="https://www.linkedin.com/company/google-analytics" rel="nofollow" target="_blank" title="LinkedIn">
+         <svg class="icon-footer-linkedin" enable-background="new 0 0 36 36" height="20px" version="1.1" viewbox="0 0 36 36" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M33.334,0.001H2.655C1.19,0.001,0,1.163,0,2.595v30.809c0,1.434,1.19,2.598,2.655,2.598h30.679 c1.468,0,2.667-1.164,2.667-2.598V2.595C36.001,1.163,34.802,0.001,33.334,0.001z M10.68,30.677H5.335V13.498h5.345V30.677z M8.009,11.148c-1.716,0-3.098-1.387-3.098-3.097c0-1.707,1.382-3.095,3.098-3.095c1.708,0,3.095,1.388,3.095,3.095 C11.104,9.761,9.717,11.148,8.009,11.148z M30.675,30.677H25.34v-8.354c0-1.992-0.038-4.556-2.774-4.556 c-2.779,0-3.203,2.17-3.203,4.411v8.498h-5.333V13.498h5.118v2.347h0.073c0.712-1.351,2.455-2.775,5.053-2.775 c5.402,0,6.401,3.557,6.401,8.184V30.677z"> 
+          </path>
+         </svg> <img alt="Linkedin" class="icon-footer-linkedin" height="20" src="//www.google.com/ads/images/icons/icon-footer-linkedin.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Analytics: Features" data-g-label="Twitter" href="https://twitter.com/googleanalytics" rel="nofollow" target="_blank" title="Twitter">
+         <svg class="icon-footer-twitter" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,0H3.2C1.4,0,0,1.4,0,3.2l0,25.6C0,30.6,1.4,32,3.2,32h25.6c1.8,0,3.2-1.4,3.2-3.2V3.2 C32,1.4,30.6,0,28.8,0z M25.1,11.7c-0.1,7.4-4.8,12.5-11.9,12.8c-2.9,0.1-5-0.8-6.9-2c2.2,0.3,4.8-0.5,6.2-1.7 c-2.1-0.2-3.4-1.3-3.9-3c0.6,0.1,1.2,0.1,1.8,0c-1.9-0.6-3.3-1.8-3.3-4.3C7.7,13.7,8.3,13.9,9,14c-1.4-0.8-2.5-3.8-1.3-5.7 c2.1,2.3,4.7,4.2,8.8,4.5c-1-4.5,4.9-6.9,7.4-3.9c1.1-0.2,1.9-0.6,2.7-1c-0.3,1-1,1.8-1.8,2.4c0.9-0.1,1.6-0.3,2.3-0.7 C26.8,10.3,25.9,11.1,25.1,11.7z"> 
+          </path>
+         </svg> <img alt="Twitter" class="icon-footer-twitter" height="20" src="//www.google.com/ads/images/icons/icon-footer-twitter.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Analytics: Features" data-g-label="Youtube" href="https://www.youtube.com/user/googleanalytics" rel="noopener" target="_blank" title="YouTube">
+         <svg class="icon-footer-youtube" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,3.8c-1-0.3-6.9-0.6-12.8-0.6c-5.9,0-11.8,0.3-12.8,0.6C0.7,4.6,0,10.2,0,16s0.7,11.4,3.2,12.2c1,0.3,6.9,0.6,12.8,0.6 c5.9,0,11.8-0.3,12.8-0.6C31.3,27.4,32,21.8,32,16S31.3,4.7,28.8,3.8 M12.8,22.4V9.6l8.8,6.4L12.8,22.4z"> 
+          </path>
+         </svg> <img alt="YouTube" class="icon-footer-youtube" height="20" src="//www.google.com/ads/images/icons/icon-footer-youtube.png" width="20"></a> 
+       </dd> 
+      </dl> 
+     </div> 
+     <div class="footer-meta-links col-6"> 
+      <ul> 
+       <li> <a href="https://www.google.com/appsstatus#hl=en">Apps Status Dashboard</a> </li> 
+       <li> <a href="https://support.google.com/analytics/answer/7108387" target="_blank">Terms of Service</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <nav class="footer-nav cols-row"> 
+     <dl class="col-3"> 
+      <dt>
+        Learning &amp; Support 
+      </dt> 
+      <dd> 
+       <a href="https://support.google.com/analytics/go/analytics_solutions" rel="noopener" target="_blank">Help Center</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.en.advertisercommunity.com/t5/Google-Analytics/ct-p/Google_Analytics" rel="noopener" target="_blank">User Forum</a> 
+      </dd> 
+      <dd> 
+       <a href="https://analytics.google.com/analytics/gallery/#landing/start/" rel="noopener" target="_blank">Solutions Gallery</a> 
+      </dd> 
+      <dd> 
+       <a href="https://analytics.googleblog.com/" rel="noopener" target="_blank">Analytics Solution Blog</a> 
+      </dd> 
+      <dd> 
+       <a href="https://analyticsacademy.withgoogle.com/" rel="noopener" target="_blank">Analytics Academy</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/analytics/partners/search/apps" rel="noopener" target="_blank">Partner Gallery</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Developers 
+      </dt> 
+      <dd> 
+       <a href="https://developers.google.com/analytics/?hl=en" rel="noopener" target="_blank">Analytics Developer Site</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/tag-manager/?hl=en" rel="noopener" target="_blank">Tag Manager Developer Site</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/surveys/?hl=en" rel="noopener" target="_blank">Surveys Developer Site</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Related Products 
+      </dt> 
+      <dd> 
+       <a href="https://adwords.google.com/home/?subid=ww-ww-et-g-aw-a-rs_ga_solutions_1-!o2" rel="noopener" target="_blank">AdWords</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.doubleclickbygoogle.com/" rel="noopener" target="_blank">DoubleClick</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/adsense/start/?subid=ww-ww-et-analytics-site&amp;utm_source=internal&amp;utm_medium=et&amp;utm_campaign=analytics-site" rel="noopener" target="_blank">AdSense</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/admob/?subid=ww-ww-et-analytics-site&amp;utm_source=internal&amp;utm_medium=et&amp;utm_campaign=analytics-site" rel="noopener" target="_blank">AdMob</a> 
+      </dd> 
+      <dd> 
+       <a href="https://cloud.google.com/bigquery/?hl=en" rel="noopener" target="_blank">BigQuery</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        More from Google 
+      </dt> 
+      <dd> 
+       <a href="https://www.google.com/services/?subid=ww-ww-et-g-aw-a-rs_ga_solutions_2-!o2" rel="noopener" target="_blank">Business Solutions</a> 
+      </dd> 
+      <dd> 
+       <a href="https://cloud.google.com/?hl=en" rel="noopener" target="_blank">Google Cloud Platform</a> 
+      </dd> 
+      <dd> 
+       <a href="https://apps.google.com/" rel="noopener" target="_blank">Google Apps for Work</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.thinkwithgoogle.com/topics/measurement.html" rel="noopener" target="_blank">Think with Google</a> 
+      </dd> 
+      <dd> 
+       <a href="https://testmysite.thinkwithgoogle.com/?utm_source=ga&amp;utm_medium=referral&amp;utm_content=ww-ww-ga" rel="noopener" target="_blank">Test My Site</a> 
+      </dd> 
+     </dl> 
+    </nav> 
+    <div class="footer-lower cols-row"> 
+     <div class="footer-meta-links col-9"> 
+      <ul> 
+       <li> <a href="https://support.google.com/analytics/?hl=en#topic=3544906">
+         <svg class="icon-footer-help" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path clip-rule="evenodd" d="M16 0C7.2 0 0 7.2 0 16c0 3 .9 5.9 2.3 8.3L0 32l7.7-2.3C10.2 31.1 13 32 16 32c8.8 0 16-7.2 16-16S24.8 0 16 0zm1.3 24.6c-.3.3-.7.5-1.2.5s-1-.2-1.2-.5c-.3-.3-.4-.7-.4-1.1 0-.2 0-.4.1-.6.1-.2.2-.4.3-.5.1-.1.3-.3.5-.3.2-.1.4-.1.7-.1.3 0 .5 0 .7.1.2.1.4.2.5.3.1.1.3.3.3.5.1.2.1.4.1.6 0 .5-.1.8-.4 1.1zm3.8-11.4c-.2.5-.4.9-.6 1.3l-.9 1.2c-.3.4-.7.8-1 1.1-.4.4-.7.9-.9 1.4-.2.5-.2.8-.3 1.8h-2.8c0-1 0-1.2.1-1.6.1-.4.2-1 .3-1.3.2-.3.4-.7.6-1 .2-.3.6-.7.9-1 .2-.3.5-.5.7-.7.2-.2.4-.5.6-.7.2-.3.3-.5.4-.8.1-.3.1-.6.1-1 0-.8-.2-1.4-.6-1.8-.4-.4-1-.6-1.7-.6-.3 0-.6.1-.9.1-.3.1-.5.2-.8.4s-.4.6-.5.8c-.1.3-.2 1.2-.2 1.2h-3c0-2 .2-1.6.4-2.2.3-.6.7-1.2 1.1-1.6.5-.4 1-.7 1.7-.9.8-.3 1.5-.4 2.2-.4.8 0 1.6.1 2.2.3.7.2 1.2.5 1.7.9s.8.9 1 1.5c.2.6.4 1.3.4 2.1 0 .6-.1 1.1-.2 1.5z" fill-rule="evenodd"></path>
+         </svg> <img alt="Help" class="icon-footer-help" height="20" src="//www.google.com/ads/images/icons/icon-footer-help.png" width="20"> Help</a> </li> 
+       <li> <a href="//www.google.com">Google</a> </li> 
+       <li> <a href="//www.google.com/intl/en/policies/privacy/">Privacy</a> </li> 
+       <li> <a href="//www.google.com/intl/en/policies/terms/">Terms</a> </li> 
+      </ul> 
+     </div> 
+     <div class="footer-locale-switcher col-3"> 
+      <label class="visually-hidden" for="footer-locales"><span>Change language or region:</span></label> 
+      <select class="footer-locales" id="footer-locales" onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="//www.google.com/intl/id/analytics/"> Bahasa Indonesia </option> <option value="//www.google.com/intl/ca/analytics/"> Català </option> <option value="//www.google.com/intl/cs/analytics/"> Čeština </option> <option value="//www.google.com/intl/da/analytics/"> Dansk </option> <option value="//www.google.com/intl/de/analytics/"> Deutsch </option> <option value="//www.google.com/intl/en/analytics/"> English </option> <option selected value="//www.google.com/intl/en/analytics/"> English </option> <option value="//www.google.co.uk/intl/en/analytics/"> English – United Kingdom </option> <option value="//www.google.com/intl/es/analytics/"> Español </option> <option value="//www.google.com/intl/tl/analytics/"> Filipino </option> <option value="//www.google.com/intl/fr/analytics/"> Français </option> <option value="//www.google.com/intl/it/analytics/"> Italiano </option> <option value="//www.google.com/intl/lt/analytics/"> Lietuvių </option> <option value="//www.google.com/intl/hu/analytics/"> Magyar </option> <option value="//www.google.com/intl/nl/analytics/"> Nederlands </option> <option value="//www.google.com/intl/no/analytics/"> Norsk </option> <option value="//www.google.com/intl/pl/analytics/"> Polski </option> <option value="//www.google.com/intl/pt-BR/analytics/"> Português (Brasil) </option> <option value="//www.google.com/intl/pt-PT/analytics/"> Português (Portugal) </option> <option value="//www.google.com/intl/sk/analytics/"> Slovenčina </option> <option value="//www.google.com/intl/fi/analytics/"> Suomi </option> <option value="//www.google.com/intl/sv/analytics/"> Svenska </option> <option value="//www.google.com/intl/vi/analytics/"> Tiếng Việt </option> <option value="//www.google.com/intl/tr/analytics/"> Türkçe </option> <option value="//www.google.com/intl/el/analytics/"> Ελληνικά </option> <option value="//www.google.com/intl/bg/analytics/"> Български </option> <option value="//www.google.com/intl/ru/analytics/"> Русский </option> <option value="//www.google.com/intl/th/analytics/"> ไทย </option> <option value="//www.google.com/intl/ko/analytics/"> 한국어 </option> <option value="//www.google.com/intl/zh-CN/analytics/"> 中文（简体中文） </option> <option value="//www.google.com/intl/zh-TW/analytics/"> 中文（繁體中文） </option> <option value="//www.google.com/intl/ja/analytics/"> 日本語 </option> </select> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <script src="//www.gstatic.com/external_hosted/picturefill/picturefill.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-messages.min.js"></script> 
+  <script src="/analytics/js/analytics.min.js"></script> 
+  <noscript>
+   <iframe class="c2" height="0" src="//www.googletagmanager.com/ns.html?id=GTM-KLXF7H" width="0"></iframe>
+  </noscript>  
+ </body>
+</html>

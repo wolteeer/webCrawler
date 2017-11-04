@@ -1,0 +1,2763 @@
+<!doctype html>
+<html class="google mmfb" lang="en">
+ <head> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="Learn how to grow your app business with AdMob tools designed to help you with app monetization, user analysis and mediation." name="description"> 
+  <title>
+      Mobile App Monetization, Analysis &amp; Mediation – Google AdMob
+    </title> 
+  <script src="//www.google.com/js/google.js"></script> 
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Product+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/admob/css/default.css" rel="stylesheet"> 
+  <link href="/admob/images/admob-favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://www.google.com/admob/businesskit/thinking-big/" rel="canonical"> 
+  <link href="https://www.google.com.br/admob/businesskit/thinking-big/" hreflang="pt-BR" rel="alternate"> 
+  <link href="https://www.google.de/admob/businesskit/thinking-big/" hreflang="de" rel="alternate"> 
+  <link href="https://www.google.es/admob/businesskit/thinking-big/" hreflang="es" rel="alternate"> 
+  <link href="https://www.google.fr/admob/businesskit/thinking-big/" hreflang="fr" rel="alternate"> 
+  <link href="https://www.google.it/admob/businesskit/thinking-big/" hreflang="it" rel="alternate"> 
+  <link href="https://www.google.co.jp/admob/businesskit/thinking-big/" hreflang="ja" rel="alternate"> 
+  <link href="https://www.google.co.kr/admob/businesskit/thinking-big/" hreflang="ko" rel="alternate"> 
+  <link href="https://www.google.com.tw/admob/businesskit/thinking-big/" hreflang="zh-TW" rel="alternate"> 
+  <link href="https://www.google.co.uk/admob/businesskit/thinking-big/" hreflang="en-GB" rel="alternate"> 
+ </head> 
+ <body class="page-index"> 
+  <noscript>
+   <iframe class="gtm-iframe" height="0" src="//www.googletagmanager.com/ns.html?id=GTM-WLDTKH" width="0"></iframe>
+  </noscript> 
+  <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WLDTKH');
+    </script> 
+  <div class="maia-nav" id="maia-nav-root" role="navigation"> 
+   <div class="maia-aux"> 
+    <a href="../../../services/sitemap.html">Looking to grow your business? We can help.</a> 
+   </div> 
+  </div> 
+  <div class="maia-header" id="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <h1> <a href="../../../admob/"><img alt="AdMob by Google" class="logo" height="48" src="/admob/images/admob_logo_2x.png"></a> </h1> 
+    <div id="sign-in-link-container"> 
+     <a class="pass-params" href="https://apps.admob.com">Sign into AdMob</a> or 
+     <a class="maia-button doubletrack pass-params" href="https://apps.admob.com/signup" id="sign-in-link">Sign up</a> 
+    </div>
+    <a class="maia-teleport" href="#content">Skip to content</a> 
+   </div> 
+  </div> 
+  <div class="maia-nav" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <ul id="menu-list"> 
+     <li>Overview </li> 
+     <li> <a class="pass-params" href="../../../admob/platform.html">Why AdMob?</a> </li> 
+     <li> <a class="pass-params" href="../../../admob/success.html">Success Stories</a> </li> 
+     <li> <a class="pass-params" href="../../../admob/resources/index.html">Featured Resources</a> </li> 
+    </ul>
+    <a class="maia-button doubletrack pass-params" href="https://apps.admob.com/signup" id="sign-in-link-fixed">Sign up</a> 
+   </div> 
+  </div> 
+  <div class="businesskit-page" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="section-4 full-width-container" id="businesskit-container"> 
+    <div class="main-cover" id="businesskit-cover"></div> 
+    <div class="main-header" id="businesskit-header"> 
+     <div class="chapter-header-container" id="businesskit-header-text"> 
+      <div class="header-text-container section-1"> 
+       <h1 class="section-text-color"> The App Developer Business Kit </h1>
+       <span class="subtitle">Learn how to grow your app idea into a successful business.</span> 
+       <div class="cta-button" data-g-action="BizKit Header" data-g-event="BizKit Header Explore Click" data-g-label="Explore Introduction"> 
+        <span>Explore Introduction</span> 
+       </div> 
+      </div> 
+      <div class="header-text-container section-2"> 
+       <h1 class="section-text-color"> From an Idea to an App </h1>
+       <span class="subtitle">Understand the principles for success, and hear advice from some of the world’s top app developers.</span> 
+       <div class="cta-button" data-g-action="BizKit Header" data-g-event="BizKit Header Explore Click" data-g-label="Explore from an idea to an app"> 
+        <span>Explore from an idea to an app</span> 
+       </div> 
+      </div> 
+      <div class="header-text-container section-3"> 
+       <h1 class="section-text-color"> Growth </h1>
+       <span class="subtitle">Attract more users, expand into more markets and use analytics to improve your app.</span> 
+       <div class="cta-button" data-g-action="BizKit Header" data-g-event="BizKit Header Explore Click" data-g-label="Explore Growth"> 
+        <span>Explore Growth</span> 
+       </div> 
+      </div> 
+      <div class="header-text-container section-4 selected"> 
+       <h1 class="section-text-color"> Thinking Big </h1>
+       <span class="subtitle">How to go from one great app to a portfolio of great apps and important considerations for expanding your business.</span> 
+       <div class="cta-button" data-g-action="BizKit Header" data-g-event="BizKit Header Explore Click" data-g-label="Explore Thinking Big"> 
+        <span>Explore Thinking Big</span> 
+       </div> 
+      </div> 
+      <div class="header-text-container section-5"> 
+       <h1 class="section-text-color"> Nine Tips </h1>
+       <span class="subtitle">Quick tips to help you shape your app project.</span> 
+       <div class="cta-button" data-g-action="BizKit Header" data-g-event="BizKit Header Explore Click" data-g-label="Explore Nine Tips"> 
+        <span>Explore Nine Tips</span> 
+       </div> 
+      </div> 
+      <div class="businesskit-title"> 
+       <span class="dark">Google Admob</span> 
+       <span class="light">Business Kit</span> 
+      </div> 
+     </div> 
+     <div class="mobile-illustration-container"> 
+      <img alt="section 1 mobile" class="img-layer" src="/admob/images/businesskit/header/section-1-mobile.png"> 
+      <img alt="section 2 mobile" class="img-layer" src="/admob/images/businesskit/header/section-2-mobile.png"> 
+      <img alt="section 3 mobile" class="img-layer" src="/admob/images/businesskit/header/section-3-mobile.png"> 
+      <img alt="section 4 mobile" class="img-layer selected" src="/admob/images/businesskit/header/section-4-mobile.png"> 
+      <img alt="section 5 mobile" class="img-layer" src="/admob/images/businesskit/header/section-1-mobile.png"> 
+     </div> 
+     <div class="illustration-container"> 
+      <img alt="background layer" class="img-layer" height="900" src="/admob/images/businesskit/header/illustrations-layer3-1.png" width="4250"> 
+      <img alt="midground layer" class="img-layer" height="900" src="/admob/images/businesskit/header/illustrations-layer2-1.png" width="3887"> 
+      <div class="foreground-container"> 
+       <img alt="building 1" height="215" id="building-1" src="/admob/images/businesskit/header/building-1.png" width="586"> 
+       <img alt="building 2" height="312" id="building-2" src="/admob/images/businesskit/header/building-2.png" width="825"> 
+       <img alt="building 3" height="675" id="building-3" src="/admob/images/businesskit/header/building-3.png" width="1490"> 
+      </div> 
+     </div> 
+     <div class="nav-container" id="businesskit-nav"> 
+      <div class="nav-bg section-bg-color"></div> 
+      <div class="nav"> 
+       <ul> 
+        <li> <a class="pass-params businesskit-nav-button yellow-button" href="../../../admob/businesskit/introduction/"><span class="center-block">Introduction</span></a> </li> 
+        <li> <a class="pass-params businesskit-nav-button green-button" href="../../../admob/businesskit/from-an-idea-to-an-app/"><span class="center-block">From an Idea to an App</span></a> 
+         <ul class="module" data-module="subnav"> 
+          <li> <a class="pass-params green-button" href="../../../admob/businesskit/from-an-idea-to-an-app/#chapter-1"><span class="center-block"><span>01</span>Ingredients for a<br> Successful App</span></a> </li> 
+          <li> <a class="pass-params green-button" href="../../../admob/businesskit/from-an-idea-to-an-app/#chapter-2"><span class="center-block"><span>02</span>Funding Your App</span></a> </li> 
+          <li> <a class="pass-params green-button" href="../../../admob/businesskit/from-an-idea-to-an-app/#chapter-3"><span class="center-block"><span>03</span>Building Your App</span></a> </li> 
+          <li> <a class="pass-params green-button" href="../../../admob/businesskit/from-an-idea-to-an-app/#chapter-4"><span class="center-block"><span>04</span>Making Money</span></a> </li> 
+         </ul> </li> 
+        <li> <a class="pass-params businesskit-nav-button blue-button" href="../../../admob/businesskit/growth/"><span class="center-block">Growth</span></a> 
+         <ul class="module" data-module="subnav"> 
+          <li> <a class="pass-params blue-button" href="../../../admob/businesskit/growth/#chapter-5"><span class="center-block"><span>05</span>Marketing Your App</span></a> </li> 
+          <li> <a class="pass-params blue-button" href="../../../admob/businesskit/growth/#chapter-6"><span class="center-block"><span>06</span>Going Global</span></a> </li> 
+          <li> <a class="pass-params blue-button" href="../../../admob/businesskit/growth/#chapter-7"><span class="center-block"><span>07</span>Market Insights</span></a> </li> 
+          <li> <a class="pass-params blue-button" href="../../../admob/businesskit/growth/#chapter-8"><span class="center-block"><span>08</span>Optimizing for Success</span></a> </li> 
+         </ul> </li> 
+        <li> <a class="pass-params businesskit-nav-button red-button selected" href="../../../admob/businesskit/thinking-big/"><span class="center-block">Thinking Big</span></a> 
+         <ul class="module" data-module="subnav"> 
+          <li> <a class="pass-params red-button" href="../../../admob/businesskit/thinking-big/#chapter-9"><span class="center-block"><span>09</span>Expansion and<br> Innovation</span></a> </li> 
+         </ul> </li> 
+        <li> <a class="pass-params businesskit-nav-button yellow-button" href="../../../admob/businesskit/takeaways/"><span class="center-block">Nine Tips</span></a> 
+         <ul class="module" data-module="subnav"> 
+          <li> <a class="pass-params yellow-button" href="../../../admob/businesskit/takeaways/#nine-tips"><span class="center-block">Key Takeaways</span></a> </li> 
+         </ul> </li> 
+       </ul> 
+      </div> 
+      <div class="sprite-icon down-arrow-icon section-bg-color"></div> 
+     </div> 
+    </div> 
+    <div class="mobile-nav-wrap" id="businesskit-mobile-nav"> 
+     <div class="mobile-nav"> 
+      <div class="top section-bg-color"> 
+       <span class="title"><span>06</span> Go Global</span> 
+       <div class="open-nav section-bg-tint"></div> 
+      </div> 
+      <ul> 
+       <li class=""> <a class="pass-params" href="/admob/businesskit/introduction/">Introduction</a> </li> 
+       <li class=""> <a class="pass-params" href="/admob/businesskit/from-an-idea-to-an-app/">From an idea to an app</a> 
+        <ul class=""> 
+         <li> <a class="pass-params" href="/admob/businesskit/from-an-idea-to-an-app/#chapter-1"><span>01</span>A Successful App</a> </li> 
+         <li> <a class="pass-params" href="/admob/businesskit/from-an-idea-to-an-app/#chapter-2"><span>02</span>Funding Your App</a> </li> 
+         <li> <a class="pass-params" href="/admob/businesskit/from-an-idea-to-an-app/#chapter-3"><span>03</span>Building Your App</a> </li> 
+         <li> <a class="pass-params" href="/admob/businesskit/from-an-idea-to-an-app/#chapter-4"><span>04</span>Making Money</a> </li> 
+        </ul> </li> 
+       <li class=""> <a class="pass-params" href="/admob/businesskit/growth/">Growth</a> 
+        <ul class=""> 
+         <li> <a class="pass-params" href="/admob/businesskit/growth/#chapter-5"><span>05</span>Marketing Your App</a> </li> 
+         <li> <a class="pass-params" href="/admob/businesskit/growth/#chapter-6"><span>06</span>Go Global</a> </li> 
+         <li> <a class="pass-params" href="/admob/businesskit/growth/#chapter-7"><span>07</span>Market Insights</a> </li> 
+         <li> <a class="pass-params" href="/admob/businesskit/growth/#chapter-8"><span>08</span>Optimizing for Success</a> </li> 
+        </ul> </li> 
+       <li class="section-bg-color selected"> <a class="pass-params" href="/admob/businesskit/thinking-big/">Thinking Big</a> 
+        <ul class="section-tint-color"> 
+         <li> <a class="pass-params" href="/admob/businesskit/thinking-big/#chapter-9"><span>09</span>Expansion and Innovation</a> </li> 
+        </ul> </li> 
+       <li class=""> <a class="pass-params" href="/admob/businesskit/takeaways/">Nine Tips</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div id="article-container"> 
+     <div class="maia-aux"> 
+      <div class="module chapter-top" data-hash="chapter-9" data-module="chapterheader"> 
+       <div class="chapter-breadcrumbs"> 
+        <div class="icon-text section-bg-color">
+          09 
+        </div>
+        <span class="title">Expansion and Innovation</span> 
+       </div> 
+       <div class="social"> 
+        <a class="googleplus-share" href="#"> 
+         <div class="sprite-icon google-plus-icon" title="Share (Google+)"></div></a> 
+        <a class="twitter-share" href="#"> 
+         <div class="sprite-icon twitter-icon" title="Share (Twitter)">
+           The App Developer Business Kit by AdMob – Learn how to grow your app idea into a successful business. 
+         </div></a> 
+        <a class="email-share" href="mailto:?subject=The%20App%20Developer%20Business%20Kit%20by%20AdMob&amp;body=Learn%20how%20to%20grow%20your%20app%20idea%20into%20a%20successful%20business."> 
+         <div class="sprite-icon email-icon" title="Share (Email)"></div></a> 
+        <a class="print-share" href="/admob/pdf/bizkit/chapter-9-expansion-and-innovation.pdf" rel="noopener" target="_blank"> 
+         <div class="sprite-icon print-icon" title="Print"></div></a> 
+       </div> 
+      </div> 
+      <div class="chapter-header-container"> 
+       <h2 class="section-text-color"> Expanding your business<br> and sustaining innovation </h2>
+       <span class="subtitle">How do you go from a lone engineer with an idea, to a business employing five or six others, all working towards the same goal? Here we consider why you should expand your business, explain how, and share developers’ thoughts on innovation.</span> 
+      </div> 
+      <div class="text-column-container"> 
+       <p> <span class="subheader">Why expand your app business?</span>Unless you have a compelling urge to socialize with other people, chances are you’ll want to hire more people into your business to increase revenue. Only you can decide when’s the right time to do that, but here are some of the drivers that may influence your decision.<br> <br> <strong class="section-text-color">The network effect</strong><br> While it’s possible to sustain your business with just one app, it’s more advantageous to have several apps. Having a network of apps enables you to cross-promote within your user base and transition users to a new app as they tire of the one they’re currently using. Nearly half of users surveyed by AdMob say they stop using an app because they lose interest.<sup>[35]</sup> More apps mean more users, but you’ll need more hands on deck to help develop and maintain them. </p> 
+      </div> 
+      <div class="module bar-chart section-bg-color section-text-tint clearfix bar-chart-fallback-14" data-module="barchart"> 
+       <div class="chart-structure"> 
+        <div class="head-label">
+          Market Statistics 
+        </div> 
+        <div class="info"> 
+         <div class="headline">
+           Reasons for Discontinuing App Use, by Country 
+         </div> 
+         <div class="bold">
+           Thinking about the apps you have tried but no longer use, which of the following explain why you stopped using them? 
+         </div> 
+         <div class="desc">
+           Losing interest is the #1 reason smartphone app users in all markets discotninue app use 
+         </div> 
+         <div class="question-prefix">
+           Question 
+         </div> 
+         <div class="question-suffix">
+           of 
+         </div> 
+         <div class="question-list-title">
+           Choose Question 
+         </div> 
+        </div> 
+        <div class="questions"> 
+         <div class="question"> 
+          <div class="headline-question">
+            Thinking about the apps you have tried but no longer use, which of the following explain why you stopped using them? 
+          </div> 
+          <div class="headline-tagline">
+            1 - Lost interest 
+          </div> 
+          <div class="y-label">
+            % Selecting Reason 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               52 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               48 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               60 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               49 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               44 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="question"> 
+          <div class="headline-question">
+            Thinking about the apps you have tried but no longer use, which of the following explain why you stopped using them? 
+          </div> 
+          <div class="headline-tagline">
+            2 - No longer needed app 
+          </div> 
+          <div class="y-label">
+            % Selecting Reason 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               34 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               38 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               42 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               34 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               37 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="question"> 
+          <div class="headline-question">
+            Thinking about the apps you have tried but no longer use, which of the following explain why you stopped using them? 
+          </div> 
+          <div class="headline-tagline">
+            3 - Found better app 
+          </div> 
+          <div class="y-label">
+            % Selecting Reason 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               37 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               36 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               41 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               41 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               29 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="question"> 
+          <div class="headline-question">
+            Thinking about the apps you have tried but no longer use, which of the following explain why you stopped using them? 
+          </div> 
+          <div class="headline-tagline">
+            4 - Too many ads 
+          </div> 
+          <div class="y-label">
+            % Selecting Reason 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               28 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               25 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               34 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               40 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               18 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="question"> 
+          <div class="headline-question">
+            Thinking about the apps you have tried but no longer use, which of the following explain why you stopped using them? 
+          </div> 
+          <div class="headline-tagline">
+            5 - App did not fulfill purpose well 
+          </div> 
+          <div class="y-label">
+            % Selecting Reason 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               34 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               27 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               29 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               21 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               26 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="question"> 
+          <div class="headline-question">
+            Thinking about the apps you have tried but no longer use, which of the following explain why you stopped using them? 
+          </div> 
+          <div class="headline-tagline">
+            6 - Difficult to use 
+          </div> 
+          <div class="y-label">
+            % Selecting Reason 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               22 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               20 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               27 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               34 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               20 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="question"> 
+          <div class="headline-question">
+            Thinking about the apps you have tried but no longer use, which of the following explain why you stopped using them? 
+          </div> 
+          <div class="headline-tagline">
+            7 - App had technical problems 
+          </div> 
+          <div class="y-label">
+            % Selecting Reason 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               32 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               26 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               20 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               28 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               15 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="question"> 
+          <div class="headline-question">
+            Thinking about the apps you have tried but no longer use, which of the following explain why you stopped using them? 
+          </div> 
+          <div class="headline-tagline">
+            8 - Lack of fresh content 
+          </div> 
+          <div class="y-label">
+            % Selecting Reason 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               19 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               17 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               31 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               41 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               9 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="question"> 
+          <div class="headline-question">
+            Thinking about the apps you have tried but no longer use, which of the following explain why you stopped using them? 
+          </div> 
+          <div class="headline-tagline">
+            9 - Finished/Completed game 
+          </div> 
+          <div class="y-label">
+            % Selecting Reason 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               19 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               18 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               21 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               23 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               10 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="question"> 
+          <div class="headline-question">
+            Thinking about the apps you have tried but no longer use, which of the following explain why you stopped using them? 
+          </div> 
+          <div class="headline-tagline">
+            10 - Didn't have time for use 
+          </div> 
+          <div class="y-label">
+            % Selecting Reason 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               15 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               9 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               19 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               15 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               16 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="question"> 
+          <div class="headline-question">
+            Thinking about the apps you have tried but no longer use, which of the following explain why you stopped using them? 
+          </div> 
+          <div class="headline-tagline">
+            11 - App became too costly 
+          </div> 
+          <div class="y-label">
+            % Selecting Reason 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               6 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               6 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               12 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               24 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               5 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="question"> 
+          <div class="headline-question">
+            Thinking about the apps you have tried but no longer use, which of the following explain why you stopped using them? 
+          </div> 
+          <div class="headline-tagline">
+            12 - Friends stopped using app 
+          </div> 
+          <div class="y-label">
+            % Selecting Reason 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               7 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               4 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               10 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               11 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               2 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="text-column-container"> 
+       <strong class="section-text-color">Going cross-platform</strong>
+       <br> To increase your market reach, you need to make your app available across multiple platforms. If you don’t possess the skills or have the time to learn, you’ll need dedicated developers for Android, iOS and other platforms.
+       <br> 
+       <br> 
+       <strong class="section-text-color">Better customer support</strong>
+       <br> It’s important to build an efficient support system to keep your users happy. Even the most simple, non-transactional app can yield support questions, and your ability to respond can impact how users rate your app. In our five-market survey, we found that on average, 42.5% of respondents contacted an app’s customer support team for help. The top reasons for doing so included app crashes or certain features failing to function as intended.
+       <sup>[36]</sup> Inevitably, these enquiries will increase as your user base grows. 
+      </div> 
+      <div class="module bar-chart section-bg-color section-text-tint clearfix bar-chart-fallback-15" data-module="barchart"> 
+       <div class="chart-structure"> 
+        <div class="head-label">
+          Market Statistics 
+        </div> 
+        <div class="info"> 
+         <div class="headline">
+           Reasons for Contacting Customer Support 
+         </div> 
+         <div class="bold">
+           Why did you contact customer support? 
+         </div> 
+         <div class="desc">
+           App performance issues are top reasons for contacting technical support in every market 
+         </div> 
+         <div class="question-prefix">
+           Question 
+         </div> 
+         <div class="question-suffix">
+           of 
+         </div> 
+         <div class="question-list-title">
+           Choose Question 
+         </div> 
+        </div> 
+        <div class="questions"> 
+         <div class="question"> 
+          <div class="headline-question">
+            Why did you contact customer support? 
+          </div> 
+          <div class="headline-tagline">
+            1 - App was crashing/would not open 
+          </div> 
+          <div class="y-label">
+            % Selecting Reason 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               51 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               39 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               41 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               39 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               31 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="question"> 
+          <div class="headline-question">
+            Why did you contact customer support? 
+          </div> 
+          <div class="headline-tagline">
+            2 - Specific app features not functioning properly 
+          </div> 
+          <div class="y-label">
+            % Selecting Reason 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               33 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               33 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               44 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               47 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               37 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="question"> 
+          <div class="headline-question">
+            Why did you contact customer support? 
+          </div> 
+          <div class="headline-tagline">
+            3 - Needed help understanding how to use app 
+          </div> 
+          <div class="y-label">
+            % Selecting Reason 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               23 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               17 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               24 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               31 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               22 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="question"> 
+          <div class="headline-question">
+            Why did you contact customer support? 
+          </div> 
+          <div class="headline-tagline">
+            4 - Forgot my username or password 
+          </div> 
+          <div class="y-label">
+            % Selecting Reason 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               17 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               9 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               8 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               9 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               6 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="question"> 
+          <div class="headline-question">
+            Why did you contact customer support? 
+          </div> 
+          <div class="headline-tagline">
+            5 - Needed help updating the app 
+          </div> 
+          <div class="y-label">
+            % Selecting Reason 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               17 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               16 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               15 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               27 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               6 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="question"> 
+          <div class="headline-question">
+            Why did you contact customer support? 
+          </div> 
+          <div class="headline-tagline">
+            6 - Suspected app was infect with virus/malware 
+          </div> 
+          <div class="y-label">
+            % Selecting Reason 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               12 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               12 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               9 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               27 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               6 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="question"> 
+          <div class="headline-question">
+            Why did you contact customer support? 
+          </div> 
+          <div class="headline-tagline">
+            7 - I wanted a refund 
+          </div> 
+          <div class="y-label">
+            % Selecting Reason 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               7 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               5 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               8 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               7 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               4 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="text-column-container"> 
+       <p> <strong class="section-text-color">Manage and improve an existing app</strong><br> As we’ve mentioned here, losing interest is the number one reason why users discontinue using an app. Developers need to keep their apps fresh to keep users interested and engaged. You should continually update your apps to make them more user friendly, intuitive, and to keep up with platform-specific design principles. In our research, we found that most users expect an app to be updated monthly.<sup>[37]</sup> </p> 
+      </div> 
+      <div class="module bar-chart section-bg-color section-text-tint clearfix bar-chart-fallback-16" data-module="barchart"> 
+       <div class="chart-structure"> 
+        <div class="head-label">
+          Market Statistics 
+        </div> 
+        <div class="info"> 
+         <div class="headline">
+           Preferred Frequency of App Updating, by Country 
+         </div> 
+         <div class="bold">
+           How often should an app be updated to improve the experience or add new features? 
+         </div> 
+         <div class="desc">
+           App users in all markets most prefer app updates to occur monthly 
+         </div> 
+         <div class="question-prefix">
+           Question 
+         </div> 
+         <div class="question-suffix">
+           of 
+         </div> 
+         <div class="question-list-title">
+           Choose Question 
+         </div> 
+        </div> 
+        <div class="questions"> 
+         <div class="question"> 
+          <div class="headline-question">
+            How often should an app be updated to improve the experience or add new features? 
+          </div> 
+          <div class="headline-tagline">
+            1 - Weekly 
+          </div> 
+          <div class="y-label">
+            % Specifying Timeframe 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               25 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               18 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               40 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               33 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               32 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="question"> 
+          <div class="headline-question">
+            How often should an app be updated to improve the experience or add new features? 
+          </div> 
+          <div class="headline-tagline">
+            2 - Monthly 
+          </div> 
+          <div class="y-label">
+            % Specifying Timeframe 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               43 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               50 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               47 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               44 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               50 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="question"> 
+          <div class="headline-question">
+            How often should an app be updated to improve the experience or add new features? 
+          </div> 
+          <div class="headline-tagline">
+            3 - Every 2-5 months 
+          </div> 
+          <div class="y-label">
+            % Specifying Timeframe 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               15 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               14 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               11 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               18 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               15 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="question"> 
+          <div class="headline-question">
+            How often should an app be updated to improve the experience or add new features? 
+          </div> 
+          <div class="headline-tagline">
+            4 - Every 6 months, or less frequently 
+          </div> 
+          <div class="y-label">
+            % Specifying Timeframe 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               1 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               3 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               0 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               1 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               0 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="question"> 
+          <div class="headline-question">
+            How often should an app be updated to improve the experience or add new features? 
+          </div> 
+          <div class="headline-tagline">
+            5 - Does not matter to me 
+          </div> 
+          <div class="y-label">
+            % Specifying Timeframe 
+          </div> 
+          <div class="steps"> 
+           <div class="step1">
+             0% 
+           </div> 
+           <div class="step2">
+             25% 
+           </div> 
+           <div class="step3">
+             50% 
+           </div> 
+           <div class="step4">
+             75% 
+           </div> 
+           <div class="step5">
+             100% 
+           </div> 
+          </div> 
+          <div class="bars"> 
+           <div class="bar"> 
+            <div class="label">
+              United States 
+            </div> 
+            <div class="short-label">
+              USA 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               16 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              United Kingdom 
+            </div> 
+            <div class="short-label">
+              UK 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               15 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              South Korea 
+            </div> 
+            <div class="short-label">
+              S Korea 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               2 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              China 
+            </div> 
+            <div class="short-label">
+              China 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               4 
+             </div> 
+            </div> 
+           </div> 
+           <div class="bar"> 
+            <div class="label">
+              Japan 
+            </div> 
+            <div class="short-label">
+              Japan 
+            </div> 
+            <div class="values"> 
+             <div class="value">
+               3 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="text-column-container"> 
+       <p> Consider too that if you have a global user base, you should localize your apps to give them the best experience. See chapter six on app localization for tips and best practices. </p> 
+      </div> 
+      <div class="text-column-container"> 
+       <p> <span class="subheader">Challenges you’ll face as you expand, and how to tackle them.</span><strong class="section-text-color">Hiring good developer talent</strong><br> Recruiting the best talent is the first step towards success. Ilkka Paananen, the CEO of successful games app developer, <a class="section-text-color" href="http://www.supercell.net/" target="_blank">Supercell</a>, attributes the success of his company to the caliber of his team, all of whom had at least a decade of experience in the gaming industry. “When you set up a company, the only thing - the only thing - you should care about is getting the best people” he says, “From that, good things will happen.”<sup>[38]</sup>. </p> 
+      </div> 
+      <div class="module text-column-container" data-module="textcolumns"> 
+       <p class="no-spacing"> <i><strong>Family and friends.</strong></i><br> Recruiting friends and family is a great way to find people you know and trust. Due to their familiarity, they may make a better cultural fit, but you may not be recruiting the best employees.<br> <br> <i><strong>Staffing agencies.</strong></i><br> A staffing agency can help you recruit from a wider pool. The advantage is they do the work for you: posting job descriptions; screening applicants; and, setting up interviews with candidates deemed most qualified. However, as with any external service provider, hiring a staffing agency will incur fees.<br> <br> <i><strong>Professional networks.</strong></i><br> Another way is to recruit through your professional networks. Present and former co-workers make good candidates because you already know what they have to offer and what their weaknesses may be. You may also want to consider networking sites like LinkedIn, Quora, and Github to find talent. </p> 
+      </div> 
+      <div class="text-column-container"> 
+       <p> <strong class="section-text-color">Building a sales team</strong><br> If your passion is app development, and you want to continue focusing on that as the business grows, hire people who can put energy into other areas of the business, such as sales.<br> <br> A business development manager can help you identify new revenue opportunities. If your revenue model is based on advertising, you should expect your business development manager to create a core value proposition which is compelling to advertisers, and build up a portfolio of clients.<br> <br> As your client list grows, you’ll have a more difficult task balancing the needs of your users versus the needs of your advertisers. For example, advertisers may want a larger ad unit to showcase their products, which you don’t yet support. Do you assign development time to that or to building a highly-requested feature from users? A business development manager can help define and prioritize these requests. </p> 
+      </div> 
+      <div class="module quote-block section-text-color" data-module="quote"> 
+       <div class="sprite-icon quote-icon section-bg-color"></div>
+       <span class="main-text">When you set up a company, the only thing - the only thing - you should care about is getting the best people.</span> 
+       <span class="author">Ilkka Paananen</span> 
+       <span class="description">CEO and Founder, <span class="company">Supercell</span></span> 
+      </div> 
+      <div class="text-column-container"> 
+       <p> <strong class="section-text-color">Investing in user acquisition</strong><br> User acquisition should be treated as a science if you want to get the best results. Finding new users at the right price point, retaining them, and maximizing your income from each one, can take an enormous amount of effort.<br> <br> An external marketing agency can help define the key metrics that will make your business successful and build a customer acquisition model. They can do this through in-app advertising campaigns, cross-promotions, social media, and many other channels. If you don’t have expertise in this area, outside help can generate a positive return on investment for your marketing spend. A good agency will continually seek to improve marketing campaigns to make them work as efficiently as possible through optimization, and apply learnings on an ongoing basis. </p> 
+      </div> 
+      <div class="module quote-block section-text-color" data-module="quote"> 
+       <div class="sprite-icon quote-icon section-bg-color"></div>
+       <span class="main-text">We base updates and games on user feedback. It doesn’t matter where the user is from, it’s about what they tell us.</span> 
+       <span class="author">Toni Fingerroos</span> 
+       <span class="description">CEO and Founder, <span class="company">Fingersoft</span></span> 
+      </div> 
+      <div class="text-column-container"> 
+       <p> <strong class="section-text-color">Innovating</strong><br> 
+        <!--NOTYPO-->One of the the hardest aspects of app development is improving an existing app, or following one successful app with another. We spoke with top app developers to understand how they approach this challenge.<br> <br> <i><strong>Add new features</strong></i><br> One way is to improve your existing app is by adding new features. Finnish developer, Fingersoft, did this by improving on its <a class="section-text-color" href="https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb&amp;hl=en" target="_blank">Hill Climb Racing</a> game. They asked users what they’d like to see in the game and implemented the most popular requests, such as adding a tractor that users could race. “We base updates and games on user feedback. It doesn’t matter where the user is from, it’s about what they tell us,” says Toni Fingerroos, Fingersoft’s CEO.<sup>[39]</sup><br> <br> <i><strong>Build similar apps</strong></i><br> It’s better to build an app that appeals to your current user base than to build an app that requires generating a different user base. Japheth Dillman is the co-founder and Chief Creative Officer of <a class="section-text-color" href="http://yetizen.com/" target="_blank">Yetizen</a>, a start-up accelerator focused on gaming apps. He explains, “If you already have a successful app, creating an app that is contrary to the user base you’ve already built is a waste of time because you can’t cross-promote in the network you’ve built.” Instead, Dillman encourages developers to figure out what they’re passionate about and build up a suite of apps based around that demographic. </p> 
+      </div> 
+      <div class="module quote-block section-text-color" data-module="quote"> 
+       <div class="sprite-icon quote-icon section-bg-color"></div>
+       <span class="main-text">If you already have a successful app, creating an app that is contrary to the user base you’ve already built is a waste of time because you can’t cross-promote in the network you’ve built.</span> 
+       <span class="author">Japheth Dillman</span> 
+       <span class="description">Chief Creative Officer &amp; co-Founder, <span class="company">Yetizen</span></span> 
+      </div> 
+      <div class="text-column-container"> 
+       <p> <i><strong>Identify trends</strong></i><br> When building a new app, look at popular apps, identify their strengths, and consider how to iterate on those to make something new. In fact, many innovative apps result from small tweaks in existing apps, says Japheth Dillman.<br> <br> “If you look at some of the most innovative products that redefine a genre, they didn’t innovate the entire experience, they worked on a small part of it. For example they’ve combined two different experiences so their understanding was the combination of the two.“<br> <br> Consider combining the best elements of two or three apps and tailor them to a certain kind of demographic. If people love to do one thing on one app and another thing on another app, an app that enables users to do both can have a unique advantage.<br> <br> One example is <a class="section-text-color" href="https://play.google.com/store/apps/details?id=com.pheed.android&amp;hl=en" target="_blank">Pheed</a>, a popular social-media app that lets users share videos, photos, audio, and more in one convenient place. The app not only combines elements of other social media - Twitter, SoundCloud, Tumblr, Ustream, Instagram - but also expands on their capabilities. Pheed users can send longer messages, filter content, rate their own channels and copyright content. </p> 
+      </div> 
+      <div class="module quote-block section-text-color" data-module="quote"> 
+       <div class="sprite-icon quote-icon section-bg-color"></div>
+       <span class="main-text">If you look at some of the most innovative products that redefine a genre, they didn’t innovate the entire experience, they worked on a small part of it. For example they’ve combined two different experiences so their understanding was the combination of the two.</span> 
+       <span class="author">Japheth Dillman</span> 
+       <span class="description">Chief Creative Officer &amp; co-Founder, <span class="company">Yetizen</span></span> 
+      </div> 
+      <div class="checklist-block"> 
+       <div class="container"> 
+        <span class="title">Best<br> <strong>Practices</strong></span> 
+        <ul> 
+         <li> 
+          <div class="sprite-icon checkbox-icon section-bg-color"></div> 
+          <div class="checklist-text">
+            It’s more advantageous to have several apps. Having a network of apps enables you to cross-promote within your user base and transition users to a new app as they tire of the one they’re currently using. 
+          </div> </li> 
+         <li> 
+          <div class="sprite-icon checkbox-icon section-bg-color"></div> 
+          <div class="checklist-text">
+            It’s important to build an efficient support system to keep your users happy. Even the most simple, non-transactional app can yield support questions, and your ability to respond can impact how users rate your app. 
+          </div> </li> 
+         <li> 
+          <div class="sprite-icon checkbox-icon section-bg-color"></div> 
+          <div class="checklist-text">
+            It’s better to build an app that appeals to your current user base than to build an app that requires generating a different user base. 
+          </div> </li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="module text-column-container" data-module="textcolumns"> 
+       <p> <i><strong>Solve for practical needs.</strong></i><br> Sometimes the best innovation comes from thinking about how an app could solve your own, everyday problems.<br> <br> We spoke with Edward Kim, the developer of <a class="section-text-color" href="https://play.google.com/store/apps/details?id=com.edwardkim.android.carlocatorfull&amp;hl=en" target="_blank">Car Locator</a>, an app that helps users find their parked cars. “I came up with the Car Locator idea because I had a poor memory. I would park my car in the parking lot and not be able to find my way back to it after shopping. I thought that it would be cool to write an app to find where you parked your car.” Car Locator became a huge success, winning third place in the travel category of the Android Developer Challenge 2 contest.<br> <br> “My advice is to just build something that you yourself want because its likely other people will want it as well. As long as you focus on that, the rest will fall into place. You don’t really have to push it onto others or convince others,” says Kim. </p> 
+      </div> 
+      <div class="text-column-container"> 
+       <p> Continue reading to the next section: <a href="../takeaways/">Nine tips</a>. </p> 
+      </div> 
+      <div class="footer-block"> 
+       <div class="container"> 
+        <span class="title">Chapter 9<br> <strong>Sources</strong></span> 
+        <ul> 
+         <li> 
+          <div class="sprite-icon chapter-icon">
+            35 
+          </div><span class="source-name">Mobile Apps Consumer Study,</span><i>AdMob and Parks Associates, Oct 2013</i> </li> 
+         <li> 
+          <div class="sprite-icon chapter-icon">
+            36 
+          </div><span class="source-name">Mobile Apps Consumer Study,</span><i>AdMob and Parks Associates, Oct 2013</i> </li> 
+         <li> 
+          <div class="sprite-icon chapter-icon">
+            37 
+          </div><span class="source-name">Mobile Apps Consumer Study,</span><i>AdMob and Parks Associates, Oct 2013</i> </li> 
+         <li> 
+          <div class="sprite-icon chapter-icon">
+            38 
+          </div><span class="source-name">Why Culture Matters: SuperCell’s Calculated Path to the Top of The App Store</span> </li> 
+         <li> 
+          <div class="sprite-icon chapter-icon">
+            39 
+          </div><span class="source-name">Fingersoft case study</span> </li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div id="footer-follow"> 
+      <h3> Follow us on: <a href="https://plus.google.com/+AdMob?hl=en" rel="publisher" target="_blank"><img alt="Google+" src="../../../images/icons/product/gplus-16.png"></a> <a href="https://admob.blogspot.com/" target="_blank"><img alt="Blog" src="../../../images/icons/about_blogger.gif"></a> <a href="https://twitter.com/admob" target="_blank"><img alt="Twitter" src="../../../images/icons/thirdparty/twitter-16.png"></a> </h3> 
+     </div> 
+     <div class="suez-sitemap suez-sitemap-compact"> 
+      <h3> AdMob resources </h3> 
+      <ul> 
+       <li> <a href="https://developers.google.com/mobile-ads-sdk/?hl=en">SDK</a> </li> 
+       <li> <a href="https://groups.google.com/forum/#!forum/google-admob-ads-sdk">AdMob Forum</a> </li> 
+       <li> <a href="https://support.google.com/admob">Help Center</a> </li> 
+       <li> <a href="https://services.google.com/fb/forms/requestadmobconsult/">Request Initial Consultation</a> </li> 
+      </ul> 
+     </div> 
+     <div id="suez-footer-univ"> 
+      <a href="../../../services/sitemap.html">Looking to grow your business? We can help.</a> 
+     </div> 
+     <script src="../../../services/js/sitemap-compact.min.js"></script> 
+    </div> 
+   </div> 
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change region:</span> <select onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="//www.google.de/intl/de/admob/businesskit/thinking-big/"> Deutsch – Deutschland </option> <option selected value="//www.google.com/intl/en/admob/businesskit/thinking-big/"> English </option> <option value="//www.google.co.uk/intl/en/admob/businesskit/thinking-big/"> English – United Kingdom </option> <option value="//www.google.es/intl/es/admob/businesskit/thinking-big/"> Español – España </option> <option value="//www.google.fr/intl/fr/admob/businesskit/thinking-big/"> Français – France </option> <option value="//www.google.it/intl/it/admob/businesskit/thinking-big/"> Italiano – Italia </option> <option value="//www.google.com.br/intl/pt-BR/admob/businesskit/thinking-big/"> Português (Brasil) – Brasil </option> <option value="//www.google.co.kr/intl/ko/admob/businesskit/thinking-big/"> 한국어 – 대한민국 </option> <option value="//www.google.cn/intl/zh-CN/admob/businesskit/thinking-big/"> 中文（简体中文） – 中国 </option> <option value="//www.google.com.tw/intl/zh-TW/admob/businesskit/thinking-big/"> 中文（繁體中文） – 台灣 </option> <option value="//www.google.co.jp/intl/ja/admob/businesskit/thinking-big/"> 日本語 – 日本 </option> </select></label> 
+     </div> 
+     <ul> 
+      <li> <a href="/">Google</a> </li> 
+      <li> <a href="/intl/en/about/">About Google</a> </li> 
+      <li> <a href="/intl/en/policies/privacy/">Privacy</a> </li> 
+      <li> <a href="/intl/en/policies/terms/">Terms</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-messages.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.min.js"></script> 
+  <script src="/admob/js/view.min.js"></script> 
+  <script src="//www.google.com/js/gweb/analytics/doubletrack.js"></script> 
+  <script>
+    var tracker = new gweb.analytics.DoubleTrack('floodlight', {
+          src: 2507573,
+          type: 'admob328',
+          cat: 'Admob001'
+      });
+      tracker.trackClass('doubletrack');
+    </script> 
+  <script>
+    gweb.analytics.DoubleTrack.track('floodlight', {
+          src: 2507573,
+          type: 'admob328',
+          cat: 'Admob002'
+      });
+    </script> 
+  <script src="//www.gstatic.com/external_hosted/gsap/TweenMax.min.js"></script> 
+  <script src="/admob/js/businesskit.min.js"></script> 
+  <script src="//www.google.com/js/maia.js"></script>   
+ </body>
+</html>

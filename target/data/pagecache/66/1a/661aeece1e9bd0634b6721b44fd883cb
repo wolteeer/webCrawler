@@ -1,0 +1,210 @@
+<!doctype html>
+<html class="google mmfb" dir="rtl" lang="ar">
+ <head> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <title>
+      Google AdMob
+    </title> 
+  <script src="//www.google.com/js/google.js"></script> 
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Product+Sans:400&amp;lang=ar" rel="stylesheet"> 
+  <link href="/admob/css/default.css" rel="stylesheet"> 
+  <link href="/admob/images/admob-favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://www.google.ae/admob/app-insights.html" rel="canonical"> 
+  <link href="https://www.google.ae/admob/app-insights.html" hreflang="ae" rel="alternate"> 
+  <link href="https://www.google.com.br/admob/app-insights.html" hreflang="pt-BR" rel="alternate"> 
+  <link href="https://www.google.de/admob/app-insights.html" hreflang="de" rel="alternate"> 
+  <link href="https://www.google.es/admob/app-insights.html" hreflang="es" rel="alternate"> 
+  <link href="https://www.google.fr/admob/app-insights.html" hreflang="fr" rel="alternate"> 
+  <link href="https://www.google.co.id/admob/app-insights.html" hreflang="id" rel="alternate"> 
+  <link href="https://www.google.it/admob/app-insights.html" hreflang="it" rel="alternate"> 
+  <link href="https://www.google.co.jp/admob/app-insights.html" hreflang="ja" rel="alternate"> 
+  <link href="https://www.google.co.kr/admob/app-insights.html" hreflang="ko" rel="alternate"> 
+  <link href="https://www.google.pl/admob/app-insights.html" hreflang="pl" rel="alternate"> 
+  <link href="https://www.google.ru/admob/app-insights.html" hreflang="ru" rel="alternate"> 
+  <link href="https://www.google.co.th/admob/app-insights.html" hreflang="th" rel="alternate"> 
+  <link href="https://www.google.com.tw/admob/app-insights.html" hreflang="zh-TW" rel="alternate"> 
+  <link href="https://www.google.co.uk/admob/app-insights.html" hreflang="en-GB" rel="alternate"> 
+  <link href="https://www.google.com.vn/admob/app-insights.html" hreflang="vi" rel="alternate"> 
+  <link href="https://www.google.com/admob/app-insights.html" hreflang="en-US" rel="alternate"> 
+  <link href="https://www.google.com/admob/app-insights.html" hreflang="en" rel="alternate"> 
+ </head> 
+ <body class="page-app-insights"> 
+  <noscript>
+   <iframe class="gtm-iframe" height="0" src="//www.googletagmanager.com/ns.html?id=GTM-WLDTKH" width="0"></iframe>
+  </noscript> 
+  <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WLDTKH');
+    </script> 
+  <div class="maia-nav" id="maia-nav-root" role="navigation"> 
+   <div class="maia-aux"> 
+    <a href="../services/sitemap.html">هل تتطلع إلى تحقيق الازدهار لنشاطك التجاري؟ يمكننا مساعدتك.</a> 
+   </div> 
+  </div> 
+  <div class="maia-header" id="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <h1> <a href="../admob/"><img alt="AdMob من Google" class="logo" height="48" src="/admob/images/admob_logo_2x.png"></a> </h1> 
+    <div id="sign-in-link-container"> 
+     <a class="pass-params" href="https://apps.admob.com">تسجيل الدخول إلى AdMob‏</a> أو 
+     <a class="maia-button doubletrack pass-params" href="https://apps.admob.com/signup" id="sign-in-link">الاشتراك</a> 
+    </div>
+    <a class="maia-teleport" href="#content">تخطى إلى المحتوى</a> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <ul id="menu-list"> 
+     <li> <a class="pass-params" href="../admob/index.html">نظرة عامة</a> </li> 
+     <li> <a class="pass-params" href="../admob/platform.html">لماذا ينبغي استخدام AdMob؟</a> </li> 
+     <li> <a class="pass-params" href="../admob/success.html">قصص النجاح</a> </li> 
+     <li class="active"> <a class="pass-params" href="../admob/resources.html">الموارد</a> 
+      <ul class="sub-nav"> 
+       <li> <a class="pass-params" href="../admob/resources.html">الموارد</a> </li> 
+       <li>إحصاءات تطبيقات AdMob </li> 
+      </ul> </li> 
+    </ul>
+    <a class="maia-button doubletrack pass-params" href="https://apps.admob.com/signup" id="sign-in-link-fixed">اشتراك</a> 
+   </div> 
+  </div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="" data-ng-app="admob.app"> 
+    <div class="site-width"> 
+     <div class="intro"> 
+      <h1> إحصاءات تطبيقات AdMob </h1> 
+      <p> أدلة واضحة وقابلة للتنفيذ وغنية بالإحصاءات تضم الكثير من نصائح الخبراء المصمّمة لمساعدتك في تحقيق أقصى استفادة من تطبيقاتك. </p> 
+     </div> 
+     <div class="maia-cols"> 
+      <div class="maia-col-4"> 
+       <div class="material-card card-with-banner cta js-features-equalheights"> 
+        <div class="gweb-picture" data-alt=""> 
+         <div data-src="../admob/images/growing-your-mobile-app.png"></div> 
+         <div data-media="(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)" data-src="../admob/images/growing-your-mobile-app_2x.png"> 
+         </div>
+         <noscript>
+          <img alt="growing your mobile app" class="card-banner" src="../admob/images/growing-your-mobile-app.png">
+         </noscript> 
+        </div> 
+        <div class="card-content"> 
+         <h3> الدليل الفعّال لتحقيق النمو لتطبيق الجوّال </h3> 
+         <p> احصل على نصائح عملية حول زيادة تفاعل المستخدمين مع تطبيقاتك. </p> 
+         <p> <a href="https://services.google.com/fb/forms/admobappgrowthguide" target="_blank">مزيد من المعلومات</a> </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="maia-col-4"> 
+       <div class="material-card card-with-banner cta js-features-equalheights"> 
+        <div class="gweb-picture" data-alt=""> 
+         <div data-src="../admob/images/app-monetization.png"></div> 
+         <div data-media="(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)" data-src="../admob/images/app-monetization_2x.png"></div>
+         <noscript>
+          <img alt="app monetization" class="card-banner" src="../admob/images/app-monetization.png">
+         </noscript> 
+        </div> 
+        <div class="card-content"> 
+         <h3> دليل تحقيق الدخل من التطبيقات </h3> 
+         <p> اطّلع على مزيد من المعلومات حول كيفية تحقيق أقصى أرباح من تطبيقاتك، والكثير غير ذلك. </p> 
+         <p> <a href="https://services.google.com/fb/forms/admobmonetizationplaybook" target="_blank">مزيد من المعلومات</a> </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="maia-col-4"> 
+       <div class="material-card card-with-banner cta js-features-equalheights"> 
+        <div class="gweb-picture" data-alt=""> 
+         <div data-src="../admob/images/winning-combination.png"></div> 
+         <div data-media="(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)" data-src="../admob/images/winning-combination_2x.png"></div>
+         <noscript>
+          <img alt="winning combination" class="card-banner" src="../admob/images/winning-combination.png">
+         </noscript> 
+        </div> 
+        <div class="card-content"> 
+         <h3> مجموعة ناجحة </h3> 
+         <p> شاهد كيف تدفع عمليات الشراء داخل التطبيق والإعلانات نجاح تطبيقك. </p> 
+         <p> <a href="https://services.google.com/fb/forms/admobhybridmonetization" target="_blank">مزيد من المعلومات</a> </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="maia-col-4"> 
+       <div class="material-card card-with-banner cta js-features-equalheights"> 
+        <div class="gweb-picture" data-alt=""> 
+         <div data-src="../admob/images/holiday-app.png"></div> 
+         <div data-media="(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)" data-src="../admob/images/holiday-app_2x.png"></div>
+         <noscript>
+          <img alt="holiday app" class="card-banner" src="../admob/images/holiday-app.png">
+         </noscript> 
+        </div> 
+        <div class="card-content"> 
+         <h3> دليل أداء التطبيقات في موسم العطلات </h3> 
+         <p> وفّر لتطبيقك فرصة تحقيق المزيد من النجاح خلال موسم العطلات. </p> 
+         <p> <a href="https://services.google.com/fb/forms/admobholidayappperformance" target="_blank">مزيد من المعلومات</a> </p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div id="footer-follow"> 
+      <h3> تابع أخبارنا على: <a href="https://plus.google.com/+AdMob?hl=ar" rel="publisher" target="_blank"><img alt="Google+" src="../images/icons/product/gplus-16.png"></a> <a href="https://admob.blogspot.com/" target="_blank"><img alt="Blog" src="../images/icons/about_blogger.gif"></a> <a href="https://twitter.com/admob" target="_blank"><img alt="Twitter" src="../images/icons/thirdparty/twitter-16.png"></a> </h3> 
+     </div> 
+     <div class="suez-sitemap suez-sitemap-compact"> 
+      <h3> موارد AdMob </h3> 
+      <ul> 
+       <li> <a href="https://developers.google.com/mobile-ads-sdk/?hl=ar">حزمة SDK</a> </li> 
+       <li> <a href="https://groups.google.com/forum/#!forum/google-admob-ads-sdk">منتدى AdMob</a> </li> 
+       <li> <a href="https://support.google.com/admob">مركز المساعدة</a> </li> 
+       <li> <a href="https://services.google.com/fb/forms/requestadmobconsultar/">طلب استشارة أولية</a> </li> 
+      </ul> 
+     </div> 
+     <div id="suez-footer-univ"> 
+      <a href="../services/sitemap.html">Looking to grow your business? We can help.</a> 
+     </div> 
+     <script src="../services/js/sitemap-compact.min.js"></script> 
+    </div> 
+   </div> 
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <ul> 
+      <li> <a href="/">Google</a> </li> 
+      <li> <a href="/intl/ar/about/">معلومات عن Google</a> </li> 
+      <li> <a href="/intl/ar/policies/privacy/">الخصوصية</a> </li> 
+      <li> <a href="/intl/ar/policies/terms/">بنود</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-messages.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.min.js"></script> 
+  <script src="/admob/js/view.min.js"></script> 
+  <script src="//www.google.com/js/gweb/analytics/doubletrack.js"></script> 
+  <script>
+    var tracker = new gweb.analytics.DoubleTrack('floodlight', {
+          src: 2507573,
+          type: 'admob328',
+          cat: 'Admob001'
+      });
+      tracker.trackClass('doubletrack');
+    </script> 
+  <script>
+    gweb.analytics.DoubleTrack.track('floodlight', {
+          src: 2507573,
+          type: 'admob328',
+          cat: 'Admob002'
+      });
+    </script> 
+  <script src="//www.google.com/js/maia.js"></script>  
+ </body>
+</html>

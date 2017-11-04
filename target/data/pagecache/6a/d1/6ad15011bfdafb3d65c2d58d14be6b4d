@@ -1,0 +1,814 @@
+<!doctype html>
+<html class="google mmfb" dir="ltr" lang="en">
+ <head> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script> 
+  <meta charset="utf-8"> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <title>
+      Features for Web and Mobile Tag Management - Google Tag Manager – Google
+    </title> 
+  <meta content="Learn about the features of Google Tag Manager, including integration with most website tags directly or through custom code, triggers, and more." name="description"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;lang=en" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto+Slab:300,400,500&amp;lang=en" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Product+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/analytics/css/tag-manager.min.css" rel="stylesheet"> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/v2_8_3/basic.js"></script> 
+  <script>
+    dataLayer=[{"country":"us","region":"noram","language":"en","pageCategory":"Google Tag Manager","pageSubCategory":"Features","eID":"index.html","visitorType":"recognized"}];
+    </script> 
+  <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KLXF7H');
+    </script> 
+  <link href="//www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://www.google.com/analytics/tag-manager/features/" rel="canonical"> 
+  <style type="text/css">
+    iframe.c2 {display:none;visibility:hidden}
+    svg.c1 {enable-background:new 0 0 23 15;}
+    </style> 
+ </head> 
+ <body data-ng-app="rs.analytics.tagmanager"> 
+  <header class="header contains-cta" data-rs-header="" role="banner"> 
+   <div class="upper-header"> 
+    <h1 class="product-logo has-product"> <a data-g-action="Logo" data-g-event="Tag Manager: Features" data-g-label="Global Nav" href="../../../analytics/"><img alt="Google" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" srcset="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png 2x"> <span class="site-name">Analytics Solutions</span></a> <a data-g-action="Logo" data-g-event="Tag Manager: Features" data-g-label="Global Nav" href="../../../analytics/tag-manager/"><span class="site-name site-name-product">Tag Manager</span></a> </h1> 
+    <div class="nav-dropdown-wrapper" data-rs-popupmenu="" ng-cloak=""> 
+     <a class="nav-dropdown-trigger partners-link-desktop" data-g-action="Partners" data-g-event="Tag Manager: Features" data-g-label="Global Nav" href="https://www.google.com/analytics/partner-services/"><span>Partners</span></a> 
+     <a class="nav-dropdown-trigger support-link-desktop" data-g-action="Support" data-g-event="Tag Manager: Features" data-g-label="Global Nav" href="https://www.google.com/analytics/services-support"><span>Support</span></a> 
+     <a class="nav-dropdown-trigger" data-g-action="Sign In Menu" data-g-event="Tag Manager: Features" data-g-label="Global Nav CTA" ng-click="dropdownExpanded = !dropdownExpanded"><span>Sign in</span> 
+      <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+       <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+       <path d="M0 0h36v36H0z" fill="none"></path>
+      </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+     <div class="nav-dropdown" ng-class="{'nav-dropdown-expanded': dropdownExpanded}"> 
+      <a class="nav-dropdown-close" ng-click="dropdownExpanded = false">
+       <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+        <path d="M0 0h36v36H0z" fill="none"></path>
+       </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+      <ul> 
+       <li class="nav-dropdown-close-mobile"> <a ng-click="dropdownExpanded = false">Sign in 
+         <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+          <path d="M0 0h36v36H0z" fill="none"></path>
+         </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> </li> 
+       <li> <a data-g-action="Analytics Sign In" data-g-event="Tag Manager: Features" data-g-label="Global Nav CTA" href="https://analytics.google.com/analytics/web/" target="_blank">Analytics</a> </li> 
+       <li> <a data-g-action="Tag Manager Sign In" data-g-event="Tag Manager: Features" data-g-label="Global Nav CTA" href="https://tagmanager.google.com/?hl=en" target="_blank">Tag Manager</a> </li> 
+       <li> <a data-g-action="Optimize Sign In" data-g-event="Tag Manager: Features" data-g-label="Global Nav CTA" href="https://optimize.google.com/" target="_blank">Optimize</a> </li> 
+       <li> <a data-g-action="Data Studio Sign In" data-g-event="Tag Manager: Features" data-g-label="Global Nav CTA" href="https://datastudio.google.com/?hl=en" target="_blank">Data Studio</a> </li> 
+       <li> <a data-g-action="Surveys Sign In" data-g-event="Tag Manager: Features" data-g-label="Global Nav CTA" href="https://surveys.google.com/" target="_blank">Surveys</a> </li> 
+       <li> <a data-g-action="Attribution Sign In" data-g-event="Tag Manager: Features" data-g-label="Global Nav CTA" href="https://attribution.google.com/" target="_blank">Attribution</a> </li> 
+       <li> <a data-g-action="Audience Center Sign In" data-g-event="Tag Manager: Features" data-g-label="Global Nav CTA" href="https://audiencecenter.google.com/" target="_blank">Audience Center</a> </li> 
+       <li> <a data-g-action="Analytics 360 Suite Sign In" data-g-event="Tag Manager: Features" data-g-label="Global Nav CTA" href="https://360suite.google.com/" target="_blank">Analytics 360 Suite</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="cta cta-wrapper"> 
+     <a class="cta-signup" data-g-action="Sign Up For Free" data-g-event="Tag Manager: Features" data-g-label="Global Nav CTA" href="https://tagmanager.google.com/?hl=en" target="_blank">Sign Up For Free</a> 
+    </div> 
+   </div> 
+   <nav class="main-navigation contains-sub-nav contains-double-cta"> 
+    <h1> Tag Manager </h1> 
+    <ul class="nav-no-padding"> 
+     <li> <a data-g-action="Analytics" data-g-event="Tag Manager: Features" data-g-label="Global Nav" href="../../../analytics/analytics/">Analytics</a> </li> 
+     <li class="active"> <a data-g-action="Tag Manager" data-g-event="Tag Manager: Features" data-g-label="Global Nav" href="../../../analytics/tag-manager/">Tag Manager</a> 
+      <ul class="sub-nav"> 
+       <li data-g-action="Tag Manager: Overview" data-g-event="Tag Manager: Features" data-g-label="Tag Manager Sub-Nav"> <a href="../../../analytics/tag-manager/">Overview</a> </li> 
+       <li data-g-action="Tag Manager: Capabilities" data-g-event="Tag Manager: Features" data-g-label="Tag Manager Sub-Nav"> <a href="../../../analytics/tag-manager/capabilities/">Capabilities</a> </li> 
+       <li class="active" data-g-action="Tag Manager: Features" data-g-event="Tag Manager: Features" data-g-label="Tag Manager Sub-Nav"> <a href="../../../analytics/tag-manager/features/">Features</a> </li> 
+       <li data-g-action="Tag Manager: Compare" data-g-event="Tag Manager: Features" data-g-label="Tag Manager Sub-Nav"> <a href="../../../analytics/tag-manager/compare/">Compare</a> </li> 
+       <li data-g-action="Tag Manager: Success Stories" data-g-event="Tag Manager: Features" data-g-label="Tag Manager Sub-Nav"> <a href="../../../analytics/success-stories/#?product_filters=tag-manager">Success Stories</a> </li> 
+       <li data-g-action="Tag Manager: Resources" data-g-event="Tag Manager: Features" data-g-label="Tag Manager Sub-Nav"> <a href="../../../analytics/resources/#?type_filters=tag-management">Resources</a> </li> 
+      </ul> </li> 
+     <li> <a data-g-action="Optimize" data-g-event="Tag Manager: Features" data-g-label="Global Nav" href="../../../analytics/optimize/">Optimize</a> </li> 
+     <li> <a data-g-action="Data Studio" data-g-event="Tag Manager: Features" data-g-label="Global Nav" href="../../../analytics/data-studio/">Data Studio</a> </li> 
+     <li> <a data-g-action="Surveys" data-g-event="Tag Manager: Features" data-g-label="Global Nav" href="../../../analytics/surveys/">Surveys</a> </li> 
+     <li> <a data-g-action="Attribution" data-g-event="Tag Manager: Features" data-g-label="Global Nav" href="../../../analytics/attribution/">Attribution</a> </li> 
+     <li> <a data-g-action="Audience Center" data-g-event="Tag Manager: Features" data-g-label="Global Nav" href="../../../analytics/audience-center/">Audience Center</a> </li> 
+     <li> <a data-g-action="360 Suite" data-g-event="Tag Manager: Features" data-g-label="Global Nav" href="../../../analytics/360-suite/">Analytics 360 Suite</a> </li> 
+     <li class="partners-link-mobile"> <a class="partners-link" data-g-action="Partners" data-g-event="Tag Manager: Features" data-g-label="Global Nav" href="/analytics/partner-services">Partners</a> </li> 
+     <li class="support-link-mobile"> <a class="support-link" data-g-action="Support" data-g-event="Tag Manager: Features" data-g-label="Global Nav" href="/analytics/services-support">Support</a> </li> 
+    </ul> 
+    <div class="nav-dropdown-wrapper" data-rs-popupmenu="" ng-cloak=""> 
+     <a class="nav-dropdown-trigger partners-link-desktop" data-g-action="Partners" data-g-event="Tag Manager: Features" data-g-label="Global Nav" href="https://www.google.com/analytics/partner-services/"><span>Partners</span></a> 
+     <a class="nav-dropdown-trigger support-link-desktop" data-g-action="Support" data-g-event="Tag Manager: Features" data-g-label="Global Nav" href="https://www.google.com/analytics/services-support"><span>Support</span></a> 
+     <a class="nav-dropdown-trigger" data-g-action="Sign In Menu" data-g-event="Tag Manager: Features" data-g-label="Global Nav CTA" ng-click="dropdownExpanded = !dropdownExpanded"><span>Sign in</span> 
+      <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+       <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+       <path d="M0 0h36v36H0z" fill="none"></path>
+      </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+     <div class="nav-dropdown" ng-class="{'nav-dropdown-expanded': dropdownExpanded}"> 
+      <a class="nav-dropdown-close" ng-click="dropdownExpanded = false">
+       <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+        <path d="M0 0h36v36H0z" fill="none"></path>
+       </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+      <ul> 
+       <li class="nav-dropdown-close-mobile"> <a ng-click="dropdownExpanded = false">Sign in 
+         <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+          <path d="M0 0h36v36H0z" fill="none"></path>
+         </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> </li> 
+       <li> <a data-g-action="Analytics Sign In" data-g-event="Tag Manager: Features" data-g-label="Global Nav CTA" href="https://analytics.google.com/analytics/web/" target="_blank">Analytics</a> </li> 
+       <li> <a data-g-action="Tag Manager Sign In" data-g-event="Tag Manager: Features" data-g-label="Global Nav CTA" href="https://tagmanager.google.com/?hl=en" target="_blank">Tag Manager</a> </li> 
+       <li> <a data-g-action="Optimize Sign In" data-g-event="Tag Manager: Features" data-g-label="Global Nav CTA" href="https://optimize.google.com/" target="_blank">Optimize</a> </li> 
+       <li> <a data-g-action="Data Studio Sign In" data-g-event="Tag Manager: Features" data-g-label="Global Nav CTA" href="https://datastudio.google.com/?hl=en" target="_blank">Data Studio</a> </li> 
+       <li> <a data-g-action="Surveys Sign In" data-g-event="Tag Manager: Features" data-g-label="Global Nav CTA" href="https://surveys.google.com/" target="_blank">Surveys</a> </li> 
+       <li> <a data-g-action="Attribution Sign In" data-g-event="Tag Manager: Features" data-g-label="Global Nav CTA" href="https://attribution.google.com/" target="_blank">Attribution</a> </li> 
+       <li> <a data-g-action="Audience Center Sign In" data-g-event="Tag Manager: Features" data-g-label="Global Nav CTA" href="https://audiencecenter.google.com/" target="_blank">Audience Center</a> </li> 
+       <li> <a data-g-action="Analytics 360 Suite Sign In" data-g-event="Tag Manager: Features" data-g-label="Global Nav CTA" href="https://360suite.google.com/" target="_blank">Analytics 360 Suite</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="cta cta-wrapper"> 
+     <a class="cta-signup" data-g-action="Sign Up For Free" data-g-event="Tag Manager: Features" data-g-label="Global Nav CTA" href="https://tagmanager.google.com/?hl=en" target="_blank">Sign Up For Free</a> 
+    </div> 
+   </nav>
+   <button class="nav-toggle-button"><span class="icon-menu-els"><span class="menu-bar"></span> <span class="menu-bar"></span> <span class="menu-bar"></span></span></button> 
+  </header> 
+  <div class="main" role="main"> 
+   <section class="section section-dark google-blue section-features-hero"> 
+    <div class="site-width"> 
+     <div class="col-5-fixed"> 
+      <h1> Features </h1> 
+      <p class="font-large"> We’ve packed Google Tag Manager with lots of great solutions to take the pain out of website tagging. </p> 
+     </div> 
+    </div> 
+    <div class="section-hero-media section-hero-media-right device-animation-right" data-rs-trigger=""> 
+     <picture>
+      <source media="(min-width: 768px)" srcset="../../../analytics/images/tag-manager/features/hero_1x.png, ../../../analytics/images/tag-manager/features/hero_2x.png 2x"> 
+      <img alt="" class="tag-manager-features-hero" srcset="../../../analytics/images/tag-manager/features/hero_m_1x.png, ../../../analytics/images/tag-manager/features/hero_m_2x.png 2x"> 
+     </picture> 
+    </div> 
+   </section> 
+   <section class="section"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-4"> 
+       <h2> Tag Technology </h2> 
+       <p class="font-large"> Google Tag Manager gives you full control over how your tags fire and are defined. </p> 
+      </div> 
+      <div class="col-7 col-offset-1 features-accordion glue-zippy-set" data-ng-cloak=""> 
+       <div class="glue-zippy-toggle-all"> 
+        <span class="expand" data-g-action="Expand All" data-g-event="Tag Manager: Features" data-g-label="Tag Technology">Expand all 
+         <svg class="icon-expand" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M4.7,4.7c-6.3,6.3-6.3,16.4,0,22.6s16.4,6.3,22.6,0c6.3-6.3,6.3-16.4,0-22.6S10.9-1.6,4.7,4.7z M26,14v4h-8v8h-4v-8H6v-4h8 V6h4v8H26z"> 
+          </path>
+         </svg> <img alt="expand icon" class="icon-expand" height="12" src="//www.google.com/ads/images/icons/icon-expand.png" width="12"></span> 
+        <span class="collapse" data-g-action="Expand All" data-g-event="Tag Manager: Features" data-g-label="Tag Technology">Close all 
+         <svg class="icon-collapse" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M4.7,4.7c-6.3,6.3-6.3,16.4,0,22.6s16.4,6.3,22.6,0c6.3-6.3,6.3-16.4,0-22.6S10.9-1.6,4.7,4.7z M26,14v4H6v-4H26z"> 
+          </path>
+         </svg> <img alt="collapse icon" class="icon-collapse" height="12" src="//www.google.com/ads/images/icons/icon-collapse.png" width="12"></span> 
+       </div> 
+       <ul class="rs-zippy"> 
+        <li class="glue-zippy" id="accelerated-mobile-pages-amp-support"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Tag Technology: Accelerated Mobile Pages (AMP) Support">
+           Accelerated Mobile Pages (AMP) Support 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Use Google Tag Manager to simplify your tag deployment on AMP sites. In addition to Google Analytics, AMP containers in Tag Manager provide support across Google’s ad platforms including AdWords and DoubleClick. There are multiple tag types available out of the box including a variety of 3rd party vendor tags. Firing your tags is a breeze with great coverage of AMP’s triggers as readily available built-in Tag Manager triggers. See the full list of <a data-g-action="Supported tags" data-g-event="Tag Manager: Features" data-g-label="Tag Technology: Accelerated Mobile Pages (AMP) Support" href="https://support.google.com/tagmanager/answer/6106924" target="_blank">supported tags</a> and information on how to use <a data-g-action="Built-in variables" data-g-event="Tag Manager: Features" data-g-label="Tag Technology: Accelerated Mobile Pages (AMP) Support" href="https://support.google.com/tagmanager/topic/7182737" target="_blank">built-in variables</a>. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="asynchronous-tag-loading"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Tag Technology: Asynchronous Tag Loading">
+           Asynchronous Tag Loading 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Google Tag Manager fires tags asynchronously, so all tags load independently from one another and in parallel with other page elements. Slow tags won’t create lag, so elements can load faster and data collection can start even before all content appears. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="define-reusable-vars"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Tag Technology: Define Reusable Variables">
+           Define Reusable Variables 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Pick the most important data elements on your pages and easily collect them with <a data-g-action="Variables" data-g-event="Tag Manager: Features" data-g-label="Tag Technology: Define Reusable Variables" href="https://support.google.com/tagmanager/answer/6106899?hl=en&amp;ctx=cb&amp;src=cb&amp;cbid=1t61p0lar5hpb" target="_blank">variables</a>. For example, define where “total price” is found, and Google Tag Manager can pass that value through to all of your tags. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="mobile-app-support"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Tag Technology: Mobile App Support">
+           Mobile App Support 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Google Tag Manager works with <a data-g-action="Firebase" data-g-event="Tag Manager: Features" data-g-label="Tag Technology: Mobile App Support" href="https://firebase.google.com/?utm_campaign=Firebase_featureoverview_awareness_analytics_en_05-18-16_&amp;utm_source=Firebase&amp;utm_medium=ads" target="_blank">Firebase</a> — Google's platform for mobile developers — making it easier than ever for marketing and development teams to work together. Firebase standardizes in-app instrumentation and Google Tag Manager listens to these events so that it can modify and reroute them based on rules you create. Using Google Tag Manager, marketers can update what they’re measuring at any time and can send that data to other destinations at Google and to third parties, such as Kochava, Tune, Adjust, and more. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="smart-caching"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Tag Technology: Smart Caching">
+           Smart Caching 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Google Tag Manager uses intelligent caching to cut the number of requests made to our servers, allowing bandwidth to be spent on firing all your other tags. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="tag-blacklist"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Tag Technology: Tag Blacklist">
+           Tag Blacklist 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Our <a data-g-action="Tag Blacklist" data-g-event="Tag Manager: Features" data-g-label="Tag Technology: Tag Blacklist" href="https://developers.google.com/tag-manager/devguide?hl=en&amp;home#security" target="_blank">Tag Blacklist</a> lets developers define specific tags or tag types that can never be added to the site to help you maintain control over your site’s security. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="tag-sequencing"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Tag Technology: Tag Sequencing">
+           Tag Sequencing 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Not all tags work independently, sometimes it’s important for your tags to fire in a specific order. With <a data-g-action="Tag Sequencing" data-g-event="Tag Manager: Features" data-g-label="Tag Technology: Tag Sequencing" href="https://support.google.com/tagmanager/answer/6238868" target="_blank">tag sequencing</a> you can specify tags to fire immediately before or after a given tag to ensure that things happen just the way you expect. </p> 
+         </div> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section light-gray"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-4"> 
+       <h2> Usability </h2> 
+       <p class="font-large"> Google Tag Manager was designed with marketers in mind, but its user-friendly design makes it a hit among webmasters and IT folks as well. </p> 
+      </div> 
+      <div class="col-7 col-offset-1 glue-zippy-set" data-ng-cloak=""> 
+       <div class="glue-zippy-toggle-all"> 
+        <span class="expand" data-g-action="Expand All" data-g-event="Tag Manager: Features" data-g-label="Usability">Expand all 
+         <svg class="icon-expand" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M4.7,4.7c-6.3,6.3-6.3,16.4,0,22.6s16.4,6.3,22.6,0c6.3-6.3,6.3-16.4,0-22.6S10.9-1.6,4.7,4.7z M26,14v4h-8v8h-4v-8H6v-4h8 V6h4v8H26z"> 
+          </path>
+         </svg> <img alt="expand icon" class="icon-expand" height="12" src="//www.google.com/ads/images/icons/icon-expand.png" width="12"></span> 
+        <span class="collapse" data-g-action="Expand All" data-g-event="Tag Manager: Features" data-g-label="Usability">Close all 
+         <svg class="icon-collapse" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M4.7,4.7c-6.3,6.3-6.3,16.4,0,22.6s16.4,6.3,22.6,0c6.3-6.3,6.3-16.4,0-22.6S10.9-1.6,4.7,4.7z M26,14v4H6v-4H26z"> 
+          </path>
+         </svg> <img alt="collapse icon" class="icon-collapse" height="12" src="//www.google.com/ads/images/icons/icon-collapse.png" width="12"></span> 
+       </div> 
+       <ul class="rs-zippy"> 
+        <li class="glue-zippy" id="easy-to-use-web-interface"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Usability: Easy-To-Use Web Interface">
+           Easy-to-Use Web Interface 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Google Tag Manager is designed to be intuitive and easy to use. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="folders"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Usability: Folders">
+           Folders 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> As your containers grow over time, it can become difficult to keep track of all of your tags, triggers, and variables. With folders, you can organize these items into logical groupings, making them easier for you and your team to work with. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="instant-search-and-autocomplete"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Usability: Instant Search And Autocomplete">
+           Instant Search and Autocomplete 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> With instant search and autocomplete features, Google Tag Manager allows you to quickly and easily find anything within your containers. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="publish-in-seconds"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Usability: Publish In Seconds">
+           Publish in Seconds 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Add new tags or edit existing ones with just a few clicks, then publish these changes to your users in seconds. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="preview-mode"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Usability: Preview Mode">
+           Preview Mode 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Want to see how the changes you’ve made actually work before deploying live to your site? Preview Mode shows you how a new tagging configuration would work before you publish it, while the debug console allows you to check which tags are firing. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="site-tag-overview"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Usability: Site Tag Overview">
+           Site Tag Overview 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> See all tags within your container, and any associated triggers, at a glance. You can select any tags you’d like to change or remove with the ability to add new tags at any time. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="version-history"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Usability: Version History">
+           Version History 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> With version history, you can keep a robust record of what’s been published on your site with the ability to easily return to a prior version at any time. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="workspaces"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Usability: Workspaces">
+           Workspaces 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Workspaces give you more than one space to do your work. Teammates can easily work on tags at the same time, or make quick changes without publishing everything that’s in the works. Simply create a new workspace, make your changes, and hit publish. Tags, triggers, and variables being worked on in other workspaces will remain unaffected. </p> 
+         </div> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-4"> 
+       <h2> Accounts &amp; User Roles </h2> 
+       <p class="font-large"> Share the right access with all the right people. Control permissions to ensure marketers and developers can work together safely and effectively. </p> 
+      </div> 
+      <div class="col-7 col-offset-1 glue-zippy-set" data-ng-cloak=""> 
+       <div class="glue-zippy-toggle-all"> 
+        <span class="expand" data-g-action="Expand All" data-g-event="Tag Manager: Features" data-g-label="Accounts &amp; User Roles">Expand all 
+         <svg class="icon-expand" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M4.7,4.7c-6.3,6.3-6.3,16.4,0,22.6s16.4,6.3,22.6,0c6.3-6.3,6.3-16.4,0-22.6S10.9-1.6,4.7,4.7z M26,14v4h-8v8h-4v-8H6v-4h8 V6h4v8H26z"> 
+          </path>
+         </svg> <img alt="expand icon" class="icon-expand" height="12" src="//www.google.com/ads/images/icons/icon-expand.png" width="12"></span> 
+        <span class="collapse" data-g-action="Expand All" data-g-event="Tag Manager: Features" data-g-label="Accounts &amp; User Roles">Close all 
+         <svg class="icon-collapse" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M4.7,4.7c-6.3,6.3-6.3,16.4,0,22.6s16.4,6.3,22.6,0c6.3-6.3,6.3-16.4,0-22.6S10.9-1.6,4.7,4.7z M26,14v4H6v-4H26z"> 
+          </path>
+         </svg> <img alt="collapse icon" class="icon-collapse" height="12" src="//www.google.com/ads/images/icons/icon-collapse.png" width="12"></span> 
+       </div> 
+       <ul class="rs-zippy"> 
+        <li class="glue-zippy" id="multi-account-support"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Accounts &amp; User Roles: Multi-Account Support">
+           Multi-Account Support 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Agencies that manage multiple accounts for different clients can see all of their accounts in one place, and switch between them seamlessly. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="multi-user-support"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Accounts &amp; User Roles: Multi-User Support">
+           Multi-User Support 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Many people can use the same account, so it’s easy to work with all of the members of your team. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="user-level-permissions"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Accounts &amp; User Roles: User Level Permissions">
+           User Level Permissions 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Our <a data-g-action="User-Permissions" data-g-event="Tag Manager: Features" data-g-label="Accounts &amp; User Roles: User Level Permissions" href="https://support.google.com/tagmanager/answer/6107011?hl=en" target="_blank">user-permissions</a> system allows you to select the level of access for different users. For example, you can decide that marketers can make changes but only trusted IT webmaster teams can push those changes live. </p> 
+         </div> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section light-gray"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-4"> 
+       <h2> Triggers </h2> 
+       <p class="font-large"> Control when and how your tags fire, to get all of the data you need. </p> 
+      </div> 
+      <div class="col-7 col-offset-1 glue-zippy-set" data-ng-cloak=""> 
+       <div class="glue-zippy-toggle-all"> 
+        <span class="expand" data-g-action="Expand All" data-g-event="Tag Manager: Features" data-g-label="Triggers">Expand all 
+         <svg class="icon-expand" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M4.7,4.7c-6.3,6.3-6.3,16.4,0,22.6s16.4,6.3,22.6,0c6.3-6.3,6.3-16.4,0-22.6S10.9-1.6,4.7,4.7z M26,14v4h-8v8h-4v-8H6v-4h8 V6h4v8H26z"> 
+          </path>
+         </svg> <img alt="expand icon" class="icon-expand" height="12" src="//www.google.com/ads/images/icons/icon-expand.png" width="12"></span> 
+        <span class="collapse" data-g-action="Expand All" data-g-event="Tag Manager: Features" data-g-label="Triggers">Close all 
+         <svg class="icon-collapse" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M4.7,4.7c-6.3,6.3-6.3,16.4,0,22.6s16.4,6.3,22.6,0c6.3-6.3,6.3-16.4,0-22.6S10.9-1.6,4.7,4.7z M26,14v4H6v-4H26z"> 
+          </path>
+         </svg> <img alt="collapse icon" class="icon-collapse" height="12" src="//www.google.com/ads/images/icons/icon-collapse.png" width="12"></span> 
+       </div> 
+       <ul class="rs-zippy"> 
+        <li class="glue-zippy" id="auto-event-triggers"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Triggers: Auto-Event Triggers">
+           Auto-Event Triggers 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Set a tag to fire based on certain on-site events — page views, clicks, form submissions, errors, timers, and more — without any extra code. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="click"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Triggers: Click">
+           Click 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Set a tag to fire when a particular element is clicked — for example, when a user clicks the ‘buy now’ button or a link that leads away from your site. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="custom-event"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Triggers: Custom Event">
+           Custom Event 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Set a tag to fire based on a custom logged event, such as a user watching a video on your site or scrolling to a certain point on the page. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="form-submission"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Triggers: Form Submission">
+           Form Submission 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Set a tag to fire when a particular form is submitted — no additional code required. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="page-view"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Triggers: Page View">
+           Page View 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Set a tag to fire when a particular page is viewed, like when the page URL matches your thank-you page. </p> 
+         </div> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-4"> 
+       <h2> Integration &amp; Templates </h2> 
+       <p class="font-large"> Google Tag Manager supports Google and third-party measurement and marketing tags — many with built-in templates — so you can quickly adopt new marketing solutions whenever you’re ready. </p> 
+      </div> 
+      <div class="col-7 col-offset-1 glue-zippy-set" data-ng-cloak=""> 
+       <div class="glue-zippy-toggle-all"> 
+        <span class="expand" data-g-action="Expand All" data-g-event="Tag Manager: Features" data-g-label="Integration &amp; Templates">Expand all 
+         <svg class="icon-expand" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M4.7,4.7c-6.3,6.3-6.3,16.4,0,22.6s16.4,6.3,22.6,0c6.3-6.3,6.3-16.4,0-22.6S10.9-1.6,4.7,4.7z M26,14v4h-8v8h-4v-8H6v-4h8 V6h4v8H26z"> 
+          </path>
+         </svg> <img alt="expand icon" class="icon-expand" height="12" src="//www.google.com/ads/images/icons/icon-expand.png" width="12"></span> 
+        <span class="collapse" data-g-action="Expand All" data-g-event="Tag Manager: Features" data-g-label="Integration &amp; Templates">Close all 
+         <svg class="icon-collapse" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M4.7,4.7c-6.3,6.3-6.3,16.4,0,22.6s16.4,6.3,22.6,0c6.3-6.3,6.3-16.4,0-22.6S10.9-1.6,4.7,4.7z M26,14v4H6v-4H26z"> 
+          </path>
+         </svg> <img alt="collapse icon" class="icon-collapse" height="12" src="//www.google.com/ads/images/icons/icon-collapse.png" width="12"></span> 
+       </div> 
+       <ul class="rs-zippy"> 
+        <li class="glue-zippy" id="common-tag-templates"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Integration &amp; Templates: Common Tag Templates">
+           Common Tag Templates 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Google Tag Manager comes with built-in templates from <a data-g-action="Third-Party Vendors" data-g-event="Tag Manager: Features" data-g-label="Integration &amp; Templates: Common Tag Templates" href="https://support.google.com/tagmanager/answer/6106924" target="_blank">third-party vendors</a> as well as Google tags. We are constantly adding additional <a data-g-action="Tag Templates" data-g-event="Tag Manager: Features" data-g-label="Integration &amp; Templates: Common Tag Templates" href="https://support.google.com/tagmanager/answer/2574372?hl=en&amp;topic=2574304&amp;ctx=topic" target="_blank">tag templates</a>. </p> 
+          <p> If your company provides tag technology and you’d like Google Tag Manager to include a template for your tag, please contact us here to become a <a data-g-action="Tag Vendor" data-g-event="Tag Manager: Features" data-g-label="Integration &amp; Templates: Common Tag Templates" href="https://www.google.com/appserve/fb/forms/tagvendorprogram/" target="_blank">tag vendor</a>. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="custom-html-tags"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Integration &amp; Templates: Custom HTML Tags">
+           Custom HTML Tags 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Add an <a data-g-action="HTML Tag" data-g-event="Tag Manager: Features" data-g-label="Integration &amp; Templates: Custom HTML Tags" href="https://support.google.com/tagmanager/answer/2574372?hl=en&amp;topic=2574304&amp;ctx=topic#CustomHTML" target="_blank">HTML tag</a> that’s not yet included as a tag template by selecting the Custom HTML tag type. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="custom-image-tags"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Integration &amp; Templates: Custom Image Tags">
+           Custom Image Tags 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Add an <a data-g-action="Image Tag" data-g-event="Tag Manager: Features" data-g-label="Integration &amp; Templates: Custom Image Tags" href="https://support.google.com/tagmanager/answer/2574372?hl=en&amp;topic=2574304&amp;ctx=topic#CustomImage" target="_blank">image tag</a> that’s not yet included as a tag template by selecting the Custom Image tag type. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="custom-js"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Integration &amp; Templates: Custom Javascript">
+           Custom Javascript 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Custom JavaScript variables let you use JavaScript to normalize or return a value. Custom JavaScript tags can be added using the <a data-g-action="Custom HTML Feature" data-g-event="Tag Manager: Features" data-g-label="Integration &amp; Templates: Custom Javascript" href="https://support.google.com/tagmanager/answer/2574372?hl=en&amp;topic=2574304&amp;ctx=topic#CustomHTML" target="_blank">Custom HTML feature</a>. </p> 
+         </div> </li> 
+        <li class="glue-zippy" id="double-click-campaign-manager-integration"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Integration &amp; Templates: DoubleClick Campaign Manager Integration">
+           DoubleClick Campaign Manager Integration 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> Link your Google Tag Manager containers to DoubleClick Campaign Manager and let your marketers and agencies push DoubleClick Floodlight activities directly from the DoubleClick Campaign Manager user interface to Google Tag Manager for approval. </p> 
+         </div> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section light-gray"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-4"> 
+       <h2> Automated Tag Management </h2> 
+       <p class="font-large"> Customize your infrastructure with the full-featured Google Tag Manager API. Build your own solutions and set better integrations to fit your existing workflow. </p> 
+      </div> 
+      <div class="col-7 col-offset-1"> 
+       <ul class="rs-zippy"> 
+        <li class="glue-zippy glue-zippy-open" data-rs-zippy-state="" id="API"> 
+         <div class="glue-zippy-btn font-medium" data-g-action="Expand" data-g-event="Tag Manager: Features" data-g-label="Automated Tag Management: API">
+           API 
+          <svg class="icon-arrow-down" enable-background="new 0 0 32 32" height="12px" version="1.1" viewbox="0 0 32 32" width="12px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"> 
+           </polygon>
+          </svg> 
+          <img alt="down arrow icon" class="icon-arrow-down" height="12" src="//www.google.com/ads/images/icons/icon-arrow-down.png" width="12"> 
+         </div> 
+         <div class="glue-zippy-content"> 
+          <p> The Tag Manager API integrates easily into your systems to provide all the power of the web interface — manage user access, preview and publish containers and tags, and much more. </p> 
+         </div> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-dark section-features-learn-more light-blue"> 
+    <div class="site-width"> 
+     <h1> Learn More about Tag Manager </h1> 
+     <p> Need more details about Tag Manager 360? </p> 
+     <p class="download-item"> <a class="link-more" data-g-action="View PDF" data-g-event="Tag Manager: Features" data-g-label="Tag Manager 360 Product Overview" href="https://services.google.com/fh/files/misc/ga360s_productoverview_tag-manager.pdf" target="_blank">Download The Tag Manager 360 Product Overview 
+       <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+        </path>
+       </svg></a> </p> 
+    </div> 
+   </section> 
+  </div> 
+  <footer class="footer" id="footer" role="contentinfo"> 
+   <div class="site-width"> 
+    <div class="footer-upper cols-row"> 
+     <div class="footer-social col-6"> 
+      <dl> 
+       <dt>
+         Follow us on: 
+       </dt> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Tag Manager: Features" data-g-label="GPlus" href="https://plus.google.com/+GoogleAnalytics/" rel="noopener nofollow" target="_blank" title="Google+">
+         <svg class="icon-footer-gplus c1" height="20px" version="1.1" viewbox="0 0 23 15" width="30px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <polygon points="23,6 21,6 21,4 19,4 19,6 17,6 17,8 19,8 19,10 21,10 21,8 23,8"> 
+          </polygon> 
+          <path d="M11.8,8.9c-0.1,1.3-1.3,3.4-4.3,3.4c-2.6,0-4.6-2.1-4.6-4.7S5,2.9,7.5,2.9c1.5,0,2.4,0.6,3,1.1 l0,0l2-2c-1.3-1.2-3-2-5-2C3.4,0.1,0,3.5,0,7.6s3.4,7.5,7.5,7.5c4.3,0,7.2-3,7.2-7.3c0-0.6-0.1-1.1-0.2-1.5h-7V9L11.8,8.9L11.8,8.9 z"> 
+          </path>
+         </svg> <img alt="Google+" class="icon-footer-gplus" height="20" src="//www.google.com/ads/images/icons/icon-footer-gplus.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Tag Manager: Features" data-g-label="Blogger" href="https://analytics.googleblog.com/" rel="noopener" target="_blank" title="Blogger">
+         <svg class="icon-footer-blogger" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,0H3.2C1.4,0,0,1.4,0,3.2l0,25.6C0,30.6,1.4,32,3.2,32h25.6c1.8,0,3.2-1.4,3.2-3.2V3.2 C32,1.4,30.6,0,28.8,0 M22.4,11.2v1.6c0,0.9,0.7,1.6,1.6,1.6c0.9,0,1.6,0.7,1.6,1.6v4.8c0,2.7-2.1,4.8-4.8,4.8h-9.6 c-2.7,0-4.8-2.1-4.8-4.8V9.6c0-2.6,2.1-4.8,4.8-4.8h6.4c2.7,0,4.8,2.2,4.8,4.8V11.2z M12.7,12.8h4.2c0.9,0,1.6-0.7,1.6-1.6 s-0.7-1.6-1.6-1.6h-4.2c-0.9,0-1.6,0.7-1.6,1.6S11.8,12.8,12.7,12.8 M19.2,17.6h-6.5c-0.9,0-1.6,0.7-1.6,1.6c0,0.9,0.7,1.6,1.6,1.6 h6.5c0.9,0,1.6-0.7,1.6-1.6C20.8,18.3,20.1,17.6,19.2,17.6"> 
+          </path>
+         </svg> <img alt="Blogger" class="icon-footer-blogger" height="20" src="//www.google.com/ads/images/icons/icon-footer-blogger.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Tag Manager: Features" data-g-label="Linkedin" href="https://www.linkedin.com/company/google-analytics" rel="nofollow" target="_blank" title="LinkedIn">
+         <svg class="icon-footer-linkedin" enable-background="new 0 0 36 36" height="20px" version="1.1" viewbox="0 0 36 36" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M33.334,0.001H2.655C1.19,0.001,0,1.163,0,2.595v30.809c0,1.434,1.19,2.598,2.655,2.598h30.679 c1.468,0,2.667-1.164,2.667-2.598V2.595C36.001,1.163,34.802,0.001,33.334,0.001z M10.68,30.677H5.335V13.498h5.345V30.677z M8.009,11.148c-1.716,0-3.098-1.387-3.098-3.097c0-1.707,1.382-3.095,3.098-3.095c1.708,0,3.095,1.388,3.095,3.095 C11.104,9.761,9.717,11.148,8.009,11.148z M30.675,30.677H25.34v-8.354c0-1.992-0.038-4.556-2.774-4.556 c-2.779,0-3.203,2.17-3.203,4.411v8.498h-5.333V13.498h5.118v2.347h0.073c0.712-1.351,2.455-2.775,5.053-2.775 c5.402,0,6.401,3.557,6.401,8.184V30.677z"> 
+          </path>
+         </svg> <img alt="Linkedin" class="icon-footer-linkedin" height="20" src="//www.google.com/ads/images/icons/icon-footer-linkedin.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Tag Manager: Features" data-g-label="Twitter" href="https://twitter.com/googleanalytics" rel="nofollow" target="_blank" title="Twitter">
+         <svg class="icon-footer-twitter" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,0H3.2C1.4,0,0,1.4,0,3.2l0,25.6C0,30.6,1.4,32,3.2,32h25.6c1.8,0,3.2-1.4,3.2-3.2V3.2 C32,1.4,30.6,0,28.8,0z M25.1,11.7c-0.1,7.4-4.8,12.5-11.9,12.8c-2.9,0.1-5-0.8-6.9-2c2.2,0.3,4.8-0.5,6.2-1.7 c-2.1-0.2-3.4-1.3-3.9-3c0.6,0.1,1.2,0.1,1.8,0c-1.9-0.6-3.3-1.8-3.3-4.3C7.7,13.7,8.3,13.9,9,14c-1.4-0.8-2.5-3.8-1.3-5.7 c2.1,2.3,4.7,4.2,8.8,4.5c-1-4.5,4.9-6.9,7.4-3.9c1.1-0.2,1.9-0.6,2.7-1c-0.3,1-1,1.8-1.8,2.4c0.9-0.1,1.6-0.3,2.3-0.7 C26.8,10.3,25.9,11.1,25.1,11.7z"> 
+          </path>
+         </svg> <img alt="Twitter" class="icon-footer-twitter" height="20" src="//www.google.com/ads/images/icons/icon-footer-twitter.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Tag Manager: Features" data-g-label="Youtube" href="https://www.youtube.com/user/googleanalytics" rel="noopener" target="_blank" title="YouTube">
+         <svg class="icon-footer-youtube" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,3.8c-1-0.3-6.9-0.6-12.8-0.6c-5.9,0-11.8,0.3-12.8,0.6C0.7,4.6,0,10.2,0,16s0.7,11.4,3.2,12.2c1,0.3,6.9,0.6,12.8,0.6 c5.9,0,11.8-0.3,12.8-0.6C31.3,27.4,32,21.8,32,16S31.3,4.7,28.8,3.8 M12.8,22.4V9.6l8.8,6.4L12.8,22.4z"> 
+          </path>
+         </svg> <img alt="YouTube" class="icon-footer-youtube" height="20" src="//www.google.com/ads/images/icons/icon-footer-youtube.png" width="20"></a> 
+       </dd> 
+      </dl> 
+     </div> 
+     <div class="footer-meta-links col-6"> 
+      <ul> 
+       <li> <a href="https://www.google.com/appsstatus#hl=en">Apps Status Dashboard</a> </li> 
+       <li> <a href="https://support.google.com/analytics/answer/7108387" target="_blank">Terms of Service</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <nav class="footer-nav cols-row"> 
+     <dl class="col-3"> 
+      <dt>
+        Learning &amp; Support 
+      </dt> 
+      <dd> 
+       <a href="https://support.google.com/analytics/go/analytics_solutions" rel="noopener" target="_blank">Help Center</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.en.advertisercommunity.com/t5/Google-Analytics/ct-p/Google_Analytics" rel="noopener" target="_blank">User Forum</a> 
+      </dd> 
+      <dd> 
+       <a href="https://analytics.google.com/analytics/gallery/#landing/start/" rel="noopener" target="_blank">Solutions Gallery</a> 
+      </dd> 
+      <dd> 
+       <a href="https://analytics.googleblog.com/" rel="noopener" target="_blank">Analytics Solution Blog</a> 
+      </dd> 
+      <dd> 
+       <a href="https://analyticsacademy.withgoogle.com/" rel="noopener" target="_blank">Analytics Academy</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/analytics/partners/search/apps" rel="noopener" target="_blank">Partner Gallery</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Developers 
+      </dt> 
+      <dd> 
+       <a href="https://developers.google.com/analytics/?hl=en" rel="noopener" target="_blank">Analytics Developer Site</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/tag-manager/?hl=en" rel="noopener" target="_blank">Tag Manager Developer Site</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/surveys/?hl=en" rel="noopener" target="_blank">Surveys Developer Site</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Related Products 
+      </dt> 
+      <dd> 
+       <a href="https://adwords.google.com/home/?subid=ww-ww-et-g-aw-a-rs_ga_solutions_1-!o2" rel="noopener" target="_blank">AdWords</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.doubleclickbygoogle.com/" rel="noopener" target="_blank">DoubleClick</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/adsense/start/?subid=ww-ww-et-analytics-site&amp;utm_source=internal&amp;utm_medium=et&amp;utm_campaign=analytics-site" rel="noopener" target="_blank">AdSense</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/admob/?subid=ww-ww-et-analytics-site&amp;utm_source=internal&amp;utm_medium=et&amp;utm_campaign=analytics-site" rel="noopener" target="_blank">AdMob</a> 
+      </dd> 
+      <dd> 
+       <a href="https://cloud.google.com/bigquery/?hl=en" rel="noopener" target="_blank">BigQuery</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        More from Google 
+      </dt> 
+      <dd> 
+       <a href="https://www.google.com/services/?subid=ww-ww-et-g-aw-a-rs_ga_solutions_2-!o2" rel="noopener" target="_blank">Business Solutions</a> 
+      </dd> 
+      <dd> 
+       <a href="https://cloud.google.com/?hl=en" rel="noopener" target="_blank">Google Cloud Platform</a> 
+      </dd> 
+      <dd> 
+       <a href="https://apps.google.com/" rel="noopener" target="_blank">Google Apps for Work</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.thinkwithgoogle.com/topics/measurement.html" rel="noopener" target="_blank">Think with Google</a> 
+      </dd> 
+      <dd> 
+       <a href="https://testmysite.thinkwithgoogle.com/?utm_source=ga&amp;utm_medium=referral&amp;utm_content=ww-ww-ga" rel="noopener" target="_blank">Test My Site</a> 
+      </dd> 
+     </dl> 
+    </nav> 
+    <div class="footer-lower cols-row"> 
+     <div class="footer-meta-links col-9"> 
+      <ul> 
+       <li> <a href="https://support.google.com/analytics/?hl=en#topic=3544906">
+         <svg class="icon-footer-help" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path clip-rule="evenodd" d="M16 0C7.2 0 0 7.2 0 16c0 3 .9 5.9 2.3 8.3L0 32l7.7-2.3C10.2 31.1 13 32 16 32c8.8 0 16-7.2 16-16S24.8 0 16 0zm1.3 24.6c-.3.3-.7.5-1.2.5s-1-.2-1.2-.5c-.3-.3-.4-.7-.4-1.1 0-.2 0-.4.1-.6.1-.2.2-.4.3-.5.1-.1.3-.3.5-.3.2-.1.4-.1.7-.1.3 0 .5 0 .7.1.2.1.4.2.5.3.1.1.3.3.3.5.1.2.1.4.1.6 0 .5-.1.8-.4 1.1zm3.8-11.4c-.2.5-.4.9-.6 1.3l-.9 1.2c-.3.4-.7.8-1 1.1-.4.4-.7.9-.9 1.4-.2.5-.2.8-.3 1.8h-2.8c0-1 0-1.2.1-1.6.1-.4.2-1 .3-1.3.2-.3.4-.7.6-1 .2-.3.6-.7.9-1 .2-.3.5-.5.7-.7.2-.2.4-.5.6-.7.2-.3.3-.5.4-.8.1-.3.1-.6.1-1 0-.8-.2-1.4-.6-1.8-.4-.4-1-.6-1.7-.6-.3 0-.6.1-.9.1-.3.1-.5.2-.8.4s-.4.6-.5.8c-.1.3-.2 1.2-.2 1.2h-3c0-2 .2-1.6.4-2.2.3-.6.7-1.2 1.1-1.6.5-.4 1-.7 1.7-.9.8-.3 1.5-.4 2.2-.4.8 0 1.6.1 2.2.3.7.2 1.2.5 1.7.9s.8.9 1 1.5c.2.6.4 1.3.4 2.1 0 .6-.1 1.1-.2 1.5z" fill-rule="evenodd"></path>
+         </svg> <img alt="Help" class="icon-footer-help" height="20" src="//www.google.com/ads/images/icons/icon-footer-help.png" width="20"> Help</a> </li> 
+       <li> <a href="//www.google.com">Google</a> </li> 
+       <li> <a href="//www.google.com/intl/en/policies/privacy/">Privacy</a> </li> 
+       <li> <a href="//www.google.com/intl/en/policies/terms/">Terms</a> </li> 
+      </ul> 
+     </div> 
+     <div class="footer-locale-switcher col-3"> 
+      <label class="visually-hidden" for="footer-locales"><span>Change language or region:</span></label> 
+      <select class="footer-locales" id="footer-locales" onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="//www.google.com/intl/id/analytics/"> Bahasa Indonesia </option> <option value="//www.google.com/intl/ca/analytics/"> Català </option> <option value="//www.google.com/intl/cs/analytics/"> Čeština </option> <option value="//www.google.com/intl/da/analytics/"> Dansk </option> <option value="//www.google.com/intl/de/analytics/"> Deutsch </option> <option value="//www.google.com/intl/en/analytics/"> English </option> <option selected value="//www.google.com/intl/en/analytics/"> English </option> <option value="//www.google.co.uk/intl/en/analytics/"> English – United Kingdom </option> <option value="//www.google.com/intl/es/analytics/"> Español </option> <option value="//www.google.com/intl/tl/analytics/"> Filipino </option> <option value="//www.google.com/intl/fr/analytics/"> Français </option> <option value="//www.google.com/intl/it/analytics/"> Italiano </option> <option value="//www.google.com/intl/lt/analytics/"> Lietuvių </option> <option value="//www.google.com/intl/hu/analytics/"> Magyar </option> <option value="//www.google.com/intl/nl/analytics/"> Nederlands </option> <option value="//www.google.com/intl/no/analytics/"> Norsk </option> <option value="//www.google.com/intl/pl/analytics/"> Polski </option> <option value="//www.google.com/intl/pt-BR/analytics/"> Português (Brasil) </option> <option value="//www.google.com/intl/pt-PT/analytics/"> Português (Portugal) </option> <option value="//www.google.com/intl/sk/analytics/"> Slovenčina </option> <option value="//www.google.com/intl/fi/analytics/"> Suomi </option> <option value="//www.google.com/intl/sv/analytics/"> Svenska </option> <option value="//www.google.com/intl/vi/analytics/"> Tiếng Việt </option> <option value="//www.google.com/intl/tr/analytics/"> Türkçe </option> <option value="//www.google.com/intl/el/analytics/"> Ελληνικά </option> <option value="//www.google.com/intl/bg/analytics/"> Български </option> <option value="//www.google.com/intl/ru/analytics/"> Русский </option> <option value="//www.google.com/intl/th/analytics/"> ไทย </option> <option value="//www.google.com/intl/ko/analytics/"> 한국어 </option> <option value="//www.google.com/intl/zh-CN/analytics/"> 中文（简体中文） </option> <option value="//www.google.com/intl/zh-TW/analytics/"> 中文（繁體中文） </option> <option value="//www.google.com/intl/ja/analytics/"> 日本語 </option> </select> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <script src="//www.gstatic.com/external_hosted/picturefill/picturefill.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-messages.min.js"></script> 
+  <script src="/analytics/js/tag-manager.min.js"></script> 
+  <noscript>
+   <iframe class="c2" height="0" src="//www.googletagmanager.com/ns.html?id=GTM-KLXF7H" width="0"></iframe>
+  </noscript>  
+ </body>
+</html>

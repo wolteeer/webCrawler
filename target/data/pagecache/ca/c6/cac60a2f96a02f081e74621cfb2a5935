@@ -1,0 +1,658 @@
+<!doctype html>
+<html class="google mmfb" lang="pt" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/pt-BR/products/productivity-tools/classroom/apps/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="Centenas de aplicativos se integram ao Google Sala de aula. Esses aplicativos podem auxiliar a sala de aula de várias formas, desde ajudar os alunos a aprender codificação até simplificar o diário de classe de um professor." name="description"> 
+  <title>
+    Google for Education: Aplicativos que funcionam #comoGoogleSaladeaula
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/pt-BR/products/productivity-tools/classroom/apps/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Aplicativos que funcionam #comoGoogleSaladeaula" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/pt-BR/products/productivity-tools/classroom/apps/" property="og:url"> 
+  <meta content="" property="og:image"> 
+  <meta content="Centenas de aplicativos se integram ao Google Sala de aula. Esses aplicativos podem auxiliar a sala de aula de várias formas, desde ajudar os alunos a aprender codificação até simplificar o diário de classe de um professor." property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/pt-BR/products/productivity-tools/classroom/apps/" name="twitter:url"> 
+  <meta content="Google for Education: Aplicativos que funcionam #comoGoogleSaladeaula" name="twitter:title"> 
+  <meta content="" name="twitter:image"> 
+  <meta content="Centenas de aplicativos se integram ao Google Sala de aula. Esses aplicativos podem auxiliar a sala de aula de várias formas, desde ajudar os alunos a aprender codificação até simplificar o diário de classe de um professor." name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Aplicativos que funcionam #comoGoogleSaladeaula" itemprop="name"> 
+  <meta content="Centenas de aplicativos se integram ao Google Sala de aula. Esses aplicativos podem auxiliar a sala de aula de várias formas, desde ajudar os alunos a aprender codificação até simplificar o diário de classe de um professor." itemprop="description"> 
+  <meta content="" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Aplicativos que funcionam #comoGoogleSaladeaula",
+    "description": "Centenas de aplicativos se integram ao Google Sala de aula. Esses aplicativos podem auxiliar a sala de aula de várias formas, desde ajudar os alunos a aprender codificação até simplificar o diário de classe de um professor.",
+    "url": "https://edu.google.com/intl/pt-BR/products/productivity-tools/classroom/apps/",
+    "logo": "",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+  <link href="/css/access.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="classroom-apps"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/pt-BR/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-help-desktop" class="maia-button expert-desktop nl" data-g-event="Edu: Global Header" data-g-action="Talk to an Expert" data-g-label="Header" href="/intl/pt-BR/contact/">Entre em contato com um especialista</a>
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Usar os produtos do Google</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">Como podemos ajudar você?</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>Ferramentas de produtividade</h5> 
+        <p>Tenha acesso às ferramentas de produtividade do Google: Google Sala de aula, Documentos Google, Google Drive, Hangouts, e-mail e muito mais incluídos gratuitamente e sem anúncios.</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=pt#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Inscrever-se no G Suite</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Adquira dispositivos</h5> 
+        <p>Está interessado em adquirir Chromebooks ou dispositivos Android para sua escola? Nossa equipe pode ajudar você a encontrar o caminho mais adequado.</p> 
+        <a class="maia-button overlay-button" href="/intl/pt-BR/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Entre em contato com um especialista</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Converse com outros professores</h5> 
+        <p>Quer conversar com pessoas como você que mudaram para o Google? Tenha acesso a nossa comunidade de professores.</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Encontre outros professores</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/" target="_self">Início</a> </li> 
+     <li class=" active  global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">Produtos</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/devices/" target="_self">Dispositivos <br><span class="dropdown-item-description">Chromebooks and Tablets</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/productivity-tools/" target="_self">Ferramentas de produtividade <br><span class="dropdown-item-description">Docs, Gmail and More</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/productivity-tools/classroom/" target="_self">Google Sala de aula <br><span class="dropdown-item-description">Mission control for teachers and students</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtual reality field trips</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/more-products/" target="_self">Mais produtos <br><span class="dropdown-item-description">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">Treinamento</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=pt_BR" target="_self">Treinamento para professores <br><span class="dropdown-item-description">sobre as ferramentas do Google for Education</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">Treinamento para administradores de TI <br><span class="dropdown-item-description">para administradores do G Suite</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Diretório de parceiros <br><span class="dropdown-item-description">to help your school go Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/communities/" target="_self">Comunidades <br><span class="dropdown-item-description">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">Recursos</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/programs/" target="_self">Programas <br><span class="dropdown-item-description">for students and teachers</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/case-studies/" target="_self">Estudos de caso </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/computerscience/" target="_self">Ciência da computação <br><span class="dropdown-item-description">Programs, Funding, and Research</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/global-education/" target="_self">Educação global </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/pt-BR/it/" target="_self">Guia de TI</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/pt-BR/higher-education/" target="_self">Ensino superior</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Produtos</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/devices/" target="_self">Dispositivos <span class="nav-subtext">Chromebooks and Tablets</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/productivity-tools/" target="_self">Ferramentas de produtividade <span class="nav-subtext">Docs, Gmail and More</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/productivity-tools/classroom/" target="_self">Google Sala de aula <span class="nav-subtext">Mission control for teachers and students</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtual reality field trips</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/more-products/" target="_self">Mais produtos <span class="nav-subtext">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Treinamento</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=pt_BR" target="_self">Treinamento para professores <span class="nav-subtext">sobre as ferramentas do Google for Education</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">Treinamento para administradores de TI <span class="nav-subtext">para administradores do G Suite</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Diretório de parceiros <span class="nav-subtext">to help your school go Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/communities/" target="_self">Comunidades <span class="nav-subtext">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Recursos</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/programs/" target="_self">Programas <span class="nav-subtext">for students and teachers</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/case-studies/" target="_self">Estudos de caso </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/computerscience/" target="_self">Ciência da computação <span class="nav-subtext">Programs, Funding, and Research</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/global-education/" target="_self">Educação global </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Guia de TI</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/it/" target="_self">TI </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/trust/" target="_self">Páginas de privacidade </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Ensino superior</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/higher-education/" target="_self">Ensino superior </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-help-desktop" class="gray-btn talk-to-an-expert-mobile nl" data-g-event="Edu: Global Header" data-g-action="Talk to an Expert" data-g-label="Header" href="/intl/pt-BR/contact/">Entre em contato com um especialista</a> </h4>
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Usar os produtos do Google</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">Como podemos ajudar você?</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>Ferramentas de produtividade</h5> 
+         <p>Tenha acesso às ferramentas de produtividade do Google: Google Sala de aula, Documentos Google, Google Drive, Hangouts, e-mail e muito mais incluídos gratuitamente e sem anúncios.</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=pt#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Inscrever-se no G Suite</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Adquira dispositivos</h5> 
+         <p>Está interessado em adquirir Chromebooks ou dispositivos Android para sua escola? Nossa equipe pode ajudar você a encontrar o caminho mais adequado.</p> 
+         <a class="maia-button overlay-button" href="/intl/pt-BR/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Entre em contato com um especialista</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Converse com outros professores</h5> 
+         <p>Quer conversar com pessoas como você que mudaram para o Google? Tenha acesso a nossa comunidade de professores.</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Encontre outros professores</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="gray-section"> 
+    <div class="section landing-title"> 
+     <h2 class="headline">Aplicativos que funcionam #comoGoogleSaladeaula</h2> 
+     <span class="separator"></span> 
+     <h3 class="subheadline"> Centenas de aplicativos externos funcionam com o Google Sala de aula usando a <a target="_blank" href="https://developers.google.com/classroom">Classroom API</a>. Com essas integrações, os alunos e professores poupam tempo e compartilham informações facilmente entre o Google Sala de aula e seus aplicativos favoritos.</h3> 
+    </div> 
+    <div class="section classroom-apps-tabs"> 
+     <div class="gweb-tabset" id="my-tabset-id"> 
+      <div class="gweb-tabset-nav"> 
+       <ul> 
+        <li class="gweb-tabset-nav-active--blue"><a href="#connect-with-br-school-systems">Conectar com os <br>sistemas das escolas</a> </li>
+        <li class="gweb-tabset-nav-active--red"><a href="#engage-students-with-br-interactive-teaching-tools">Envolver os alunos com <br>ferramentas de ensino interativas</a> </li>
+        <li class="gweb-tabset-nav-active--yellow"><a href="#improve-reading-br-and-writing-skills">Melhorar a leitura <br>e a escrita</a> </li>
+        <li class="gweb-tabset-nav-active--green"><a href="#teach-coding-and-stem">Ensinar codificação e STEM</a> </li>
+        <li class="gweb-tabset-nav-active--blue"><a href="#use-interactive-br-learning-material">Usar materiais <br>didáticos interativos</a> </li>
+       </ul> 
+      </div> 
+      <div class="gweb-tabset-contents"> 
+       <div class="gweb-tabset-content gweb-tabset-content--first" id="connect-with-br-school-systems"> 
+        <h5 class="category-title cta-toggle-category">Connect with school systems</h5> 
+        <i class="toggle-arrow-icon cta-toggle-category"></i> 
+        <ul class="partner-list"> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/alma.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">O Alma é o primeiro sistema de informações de alunos que pode ser integrado diretamente ao Google Sala de aula. Com essa integração, os professores podem sincronizar tarefas e notas, e as equipes de tecnologia podem criar e gerenciar as turmas do Google Sala de aula em lote em todas as escolas e distritos escolares.</p> 
+           <p class="partner-card-cta"> <a href="http://www.getalma.com/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Visitar website</a><a href="https://www.youtube.com/watch?v=ByUf1LwqnH8&amp;feature=youtu.be" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Assistir ao vídeo</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/GoGuardian_1671.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">O GoGuardian Teacher permite que os professores copiem as turmas que configuraram no Google Sala de aula, sincronizando as inscrições dos alunos, o período da aula e a matéria em todas as plataformas. Os alunos e professores podem aproveitar seus Chromebooks ainda mais com a configuração e utilização simplificadas.</p> 
+           <p class="partner-card-cta"> <a href="https://www.goguardian.com/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Visitar website</a><a href="https://youtu.be/4A0A5OtlRP8" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Assistir ao vídeo</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--fixed"> 
+           <span></span>
+           <img src="/images/classroom-partners/littleSIS-lg-padded.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">O Little SIS for Classroom cria automaticamente turmas do Google Sala de aula e sincroniza automaticamente as listas de alunos a partir de exportações de informações dos alunos, facilitando para as escolas a adoção e manutenção do Google Sala de aula em grande escala.</p> 
+           <p class="partner-card-cta"> <a href="http://labs.amplifiedit.com/little-sis-for-classroom/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Visitar website</a><a href="https://www.youtube.com/watch?v=5vInzYM2BmA&amp;feature=youtu.be" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Assistir ao vídeo</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/sycamore-logo.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">O Sycamore sincroniza as listas de alunos, tarefas, anexos e notas no diário de classe do Sycamore para gerar relatórios para os professores.</p> 
+           <p class="partner-card-cta"> <a href="http://sycamoreschool.com/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Visitar website</a><a href="https://youtu.be/jLCViWEKm8Y" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Assistir ao vídeo</a><a href="https://chrome.google.com/webstore/detail/sycamore-education/cnokfkfokfjhjlclndaeccnfgdkmhkhm" class="cta" target="_blank"><img src="/images/classroom/download-icon.svg" alt="" class="download-icon">Fazer o download</a> </p> 
+          </div> </li> 
+        </ul> 
+       </div> 
+       <div class="gweb-tabset-content " id="engage-students-with-br-interactive-teaching-tools"> 
+        <h5 class="category-title cta-toggle-category">Engage students with interactive teaching tools</h5> 
+        <i class="toggle-arrow-icon cta-toggle-category"></i> 
+        <ul class="partner-list"> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/classcraft.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Com a integração do Classcraft, os professores podem acessar as listas de alunos do Google Sala de aula e aprovisionar contas com um único clique. Os professores podem dar pontos para os alunos no jogo por entregarem as tarefas no prazo e converter os resultados deles no Google Sala de aula em pontos do jogo.</p> 
+           <p class="partner-card-cta"> <a href="http://classcraft.com" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Visitar website</a><a href="https://www.youtube.com/watch?v=6-rgHeinTV0&amp;feature=youtu.be" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Assistir ao vídeo</a><a href="https://chrome.google.com/webstore/detail/classcraft/kbdolponmgnnkabgmgedhijfhjfjnpke" class="cta" target="_blank"><img src="/images/classroom/download-icon.svg" alt="" class="download-icon">Fazer o download</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/flat-education.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Os professores podem criar tarefas de notação musical e composição no Google Sala de aula usando o Flat Education, um software on-line de notação musical. Os professores podem sincronizar as listas de alunos existentes no Google Sala de aula e elaborar novas atividades com música acessíveis para os alunos pelo Google Sala de aula.</p> 
+           <p class="partner-card-cta"> <a href="https://flat.io/edu" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Visitar website</a><a href="https://www.youtube.com/watch?v=C9TjwtZksQA&amp;feature=youtu.be" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Assistir ao vídeo</a><a href="https://chrome.google.com/webstore/detail/flat-for-education-music/nomkpimaohgaamiipecibpchogmfhgba" class="cta" target="_blank"><img src="/images/classroom/download-icon.svg" alt="" class="download-icon">Fazer o download</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--width"> 
+           <span></span>
+           <img src="/images/classroom-partners/cast_for_education_48dp.svg" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">O Google Cast for Education é um aplicativo gratuito do Google Chrome que permite aos alunos e professores compartilhar suas telas por conexão sem fio em qualquer lugar da sala de aula. O Google Cast for Education apresenta controles integrados para os professores e permite que eles adicionem facilmente os alunos pelo Google Sala de aula.</p> 
+           <p class="partner-card-cta"> <a href="https://edu.google.com/cast-for-edu/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Visitar website</a><a href="https://www.youtube.com/watch?v=07KFD5fGq_4" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Assistir ao vídeo</a><a href="https://chrome.google.com/webstore/detail/google-cast-for-education/bnmgbcehmiinmmlmepibeeflglhbhlea?hl=en-US" class="cta" target="_blank"><img src="/images/classroom/download-icon.svg" alt="" class="download-icon">Fazer o download</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/peardeck-full.jpg" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Com o Pear Deck e o Google Sala de aula, os professores conectam facilmente todos os dispositivos na sala em uma aula interativa. Sem códigos ou URLs que os alunos precisariam digitar.</p> 
+           <p class="partner-card-cta"> <a href="https://www.peardeck.com/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Visitar website</a><a href="https://www.youtube.com/watch?v=cjlIp3Kb-wE&amp;feature=youtu.be" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Assistir ao vídeo</a><a href="https://chrome.google.com/webstore/detail/pear-deck/dnloadmamaeibnaadmfdfelflmmnbajd" class="cta" target="_blank"><img src="/images/classroom/download-icon.svg" alt="" class="download-icon">Fazer o download</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--width"> 
+           <span></span>
+           <img src="/images/classroom-partners/classroom-logo-hero_2x.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Com a Extensão do Chrome "Compartilhar com Sala de Aula", os alunos e professores que usam o navegador Google Chrome podem compartilhar páginas da Web instantaneamente entre si. Além de compartilhar com o navegador dos alunos, os professores podem anexar uma página da web a uma postagem no Google Sala de aula.</p> 
+           <p class="partner-card-cta"> <a href="https://chrome.google.com/webstore/detail/share-to-classroom/adokjfanaflbkibffcbhihgihpgijcei" class="cta" target="_blank"><img src="/images/classroom/download-icon.svg" alt="" class="download-icon">Fazer o download</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/soundtrap.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Crie músicas, podcasts, exercícios de idiomas e muito mais no Soundtrap. Com a integração do Google Sala de aula, os professores podem convidar os alunos, acompanhar o progresso deles e criar tarefas.</p> 
+           <p class="partner-card-cta"> <a href="https://www.soundtrap.com/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Visitar website</a><a href="https://www.youtube.com/watch?v=990dEswNixQ&amp;feature=youtu.be&amp;t=1m7s" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Assistir ao vídeo</a><a href="https://chrome.google.com/webstore/detail/soundtrap-for-education/dlallcjfneldmakcbklbpbcgdbbkigfi" class="cta" target="_blank"><img src="/images/classroom/download-icon.svg" alt="" class="download-icon">Fazer o download</a> </p> 
+          </div> </li> 
+        </ul> 
+       </div> 
+       <div class="gweb-tabset-content " id="improve-reading-br-and-writing-skills"> 
+        <h5 class="category-title cta-toggle-category">Improve reading and writing skills</h5> 
+        <i class="toggle-arrow-icon cta-toggle-category"></i> 
+        <ul class="partner-list"> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/actively-learn.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">O Actively Learn funciona perfeitamente com o Google Sala de aula. Os professores podem sincronizar facilmente as listas de alunos do Google Sala de aula com o Actively Learn e sincronizar as tarefas e notas no Actively Learn com o Google Sala de aula.</p> 
+           <p class="partner-card-cta"> <a href="http://www.activelylearn.com/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Visitar website</a><a href="https://www.youtube.com/watch?v=omlu17mcfHI&amp;feature=youtu.be" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Assistir ao vídeo</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/newsela-logo.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Com a integração com o Google Sala de aula, os professores que usam o Newsela podem se inscrever, importar turmas e compartilhar tarefas diretamente com o Google Sala de aula. Assim, os professores começam a usar o Newsela de forma fácil e rápida.</p> 
+           <p class="partner-card-cta"> <a href="https://newsela.com/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Visitar website</a><a href="https://www.youtube.com/watch?v=yat6Olmdx_s" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Assistir ao vídeo</a> </p> 
+          </div> </li> 
+        </ul> 
+       </div> 
+       <div class="gweb-tabset-content " id="teach-coding-and-stem"> 
+        <h5 class="category-title cta-toggle-category">Ensinar codificação e STEM</h5> 
+        <i class="toggle-arrow-icon cta-toggle-category"></i> 
+        <ul class="partner-list"> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/geogebra.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Os materiais didáticos para os ensinos fundamental e médio e para STEM (sigla em inglês para "ciência, tecnologia, engenharia e matemática") do GeoGebra podem ser inseridos no Google Sala de aula como tarefas com apenas alguns cliques. Mais de 700 mil materiais, além dos novos materiais adicionados diariamente, estão disponíveis para atender às necessidades de STEM dos alunos e professores.</p> 
+           <p class="partner-card-cta"> <a href="https://www.geogebra.org/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Visitar website</a><a href="https://youtu.be/DeX0SmOV7z4" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Assistir ao vídeo</a><a href="https://chrome.google.com/webstore/detail/geogebra-math-apps/bnbaboaihhkjoaolfnfoablhllahjnee" class="cta" target="_blank"><img src="/images/classroom/download-icon.svg" alt="" class="download-icon">Fazer o download</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/tynker-logo-tagline.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">A integração do Google Sala de aula com o Tynker simplifica o processo de importar alunos para o Tynker, passar lições do Tynker e ver notas.</p> 
+           <p class="partner-card-cta"> <a href="http://www.tynker.com" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Visitar website</a><a href="https://youtu.be/983UDP6vhwU" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Assistir ao vídeo</a><a href="https://chrome.google.com/webstore/detail/tynker-learn-to-code/gpddnfaibnhicdkfemlinafcljmfimla" class="cta" target="_blank"><img src="/images/classroom/download-icon.svg" alt="" class="download-icon">Fazer o download</a> </p> 
+          </div> </li> 
+        </ul> 
+       </div> 
+       <div class="gweb-tabset-content " id="use-interactive-br-learning-material"> 
+        <h5 class="category-title cta-toggle-category">Use interactive learning material</h5> 
+        <i class="toggle-arrow-icon cta-toggle-category"></i> 
+        <ul class="partner-list"> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--width"> 
+           <span></span>
+           <img src="/images/classroom-partners/badges_BP_logo_164px.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Com o BrainPop, os professores podem importar as turmas diretamente do Google Sala de aula para o My BrainPOP. As contas de alunos prontas para logon único (SSO, na sigla em inglês) são criadas automaticamente quando um professor importa uma turma, permitindo que os alunos façam login no BrainPOP pelo menu inicial do Google.</p> 
+           <p class="partner-card-cta"> <a href="http://www.brainpop.com" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Visitar website</a><a href="https://youtu.be/PaQ8I1Q4jv8" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Assistir ao vídeo</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/edulastic.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">A sincronização com o Google Sala de aula cria listas de alunos das turmas no Edulastic e as mantêm atualizadas. Os professores podem compartilhar as tarefas do Edulastic diretamente nos feeds do Google Sala de aula dos alunos, permitindo que eles acessem a tarefa sem inserir outra senha ou navegar para o site do Edulastic.</p> 
+           <p class="partner-card-cta"> <a href="http://www.edulastic.com" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Visitar website</a><a href="https://youtu.be/pf52xdGVN7U" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Assistir ao vídeo</a><a href="https://chrome.google.com/webstore/detail/edulastic/mmmfookngjpgdahmnbbamplmbhleljio" class="cta" target="_blank"><img src="/images/classroom/download-icon.svg" alt="" class="download-icon">Fazer o download</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--height"> 
+           <span></span>
+           <img src="/images/classroom-partners/khan-logo-vertical-transparent_164px.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">O aplicativo da Khan Academy oferece para os professores criteriosas ferramentas de aprendizagem personalizada e insights baseados em dados, tudo gratuitamente. Agora, os professores podem importar as listas de alunos do Google Sala de aula para a Khan Academy e atribuir diretamente conteúdos da Khan Academy para os alunos pelo Google Sala de aula.</p> 
+           <p class="partner-card-cta"> <a href="https://www.khanacademy.org/" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Visitar website</a> </p> 
+          </div> </li> 
+         <li class="partner-card"> 
+          <div class="partner-card-image partner-card--"> 
+           <span></span>
+           <img src="/images/classroom-partners/opened.png" alt=""> 
+          </div> 
+          <div class="partner-card-summary"> 
+           <p class="partner-card-description">Os professores podem atribuir tarefas, vídeos, jogos e simulações do OpenEd com um clique, e as tarefas finalizadas serão marcadas como "concluídas" automaticamente. O OpenEd também oferece listas de alunos e logon único (SSO na sigla em inglês), para que todos os alunos e turmas sejam sincronizados facilmente.</p> 
+           <p class="partner-card-cta"> <a href="http://opened.com" class="cta" target="_blank"><img src="/images/classroom/open-icon.svg" alt="" class="open-icon">Visitar website</a><a href="https://youtu.be/3BCUTuHDKzo" class="cta" target="_blank"><img src="/images/classroom/play-icon.svg" alt="" class="play-icon">Assistir ao vídeo</a> </p> 
+          </div> </li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="section sharing"> 
+     <h2 class="subheadline"> Os aplicativos também integram o <a target="_blank" href="https://developers.google.com/classroom/guides/sharebutton">botão de compartilhamento do Google Sala de aula</a>, que facilita o compartilhamento de conteúdos no Google Sala de aula.</h2> 
+     <span class="separator"></span> 
+     <p class="copy">É possível encontrar o botão de compartilhamento do Google Sala de aula em centenas de websites, incluindo:</p> 
+     <div class="sharing-cards"> 
+      <a href="http://www.amnh.org/" target="_blank"> 
+       <div class="share first  "> 
+        <p>American Museum of Natural History</p> 
+       </div> </a> 
+      <a href="http://www.ck12.org/" target="_blank"> 
+       <div class="share   "> 
+        <p>CK-12</p> 
+       </div> </a> 
+      <a href="https://curiosity.com/" target="_blank"> 
+       <div class="share   "> 
+        <p>Curiosity.com</p> 
+       </div> </a> 
+      <a href="http://www.discoveryeducation.com/" target="_blank"> 
+       <div class="share  last "> 
+        <p>Discovery Education</p> 
+       </div> </a> 
+      <a href="https://www.dogonews.com/" target="_blank"> 
+       <div class="share   "> 
+        <p>Dogonews</p> 
+       </div> </a> 
+      <a href="https://www.duolingo.com/" target="_blank"> 
+       <div class="share   "> 
+        <p>Duolingo</p> 
+       </div> </a> 
+      <a href="http://www.gale.com/" target="_blank"> 
+       <div class="share   "> 
+        <p>Gale</p> 
+       </div> </a> 
+      <a href="https://www.google.com/culturalinstitute/beta/" target="_blank"> 
+       <div class="share  last "> 
+        <p>Google Cultural Institute</p> 
+       </div> </a> 
+      <a href="http://www.pbs.org/" target="_blank"> 
+       <div class="share   "> 
+        <p>PBS Learning Media</p> 
+       </div> </a> 
+      <a href="https://quizlet.com/" target="_blank"> 
+       <div class="share   "> 
+        <p>Quizlet</p> 
+       </div> </a> 
+      <a href="https://www.tes.com/lessons" target="_blank"> 
+       <div class="share   "> 
+        <p>TES Teach</p> 
+       </div> </a> 
+      <a href="https://www.texthelp.com/en-us/" target="_blank"> 
+       <div class="share  last "> 
+        <p>Texthelp</p> 
+       </div> </a> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="gray-section tell-us"> 
+    <span>Você tem uma integração com o Google Sala de aula?</span> 
+    <a class="tell" href="https://docs.google.com/forms/d/1zQdzHfTYRM3NpbN6m8sLy4UakoWuvX7IfNq22wV9Lz4/viewform?edit_requested=true" target="_blank">Conte para nós</a> 
+   </div> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Produtos</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/products/devices/">Dispositivos</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/products/productivity-tools/">Ferramentas de produtividade</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/products/productivity-tools/classroom/">Google Sala de aula</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/products/more-products/">Mais produtos</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Treinamento</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=pt_BR" target="_blank">Treinamento para professores</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">Treinamento para administradores de TI</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">Diretório de parceiros</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/resources/communities/">Comunidades</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Recursos</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/resources/programs/">Programas</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/resources/computerscience/">Ciência da computação</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/resources/global-education/">Educação global</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/it/">TI</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">Recursos para desenvolvedores</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/access/">Acessar</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/contact/">Vendas</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">Suporte</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/partners/">Programa para parceiros</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/case-studies/">Estudos de caso</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">Ver escolas que utilizam Chromebooks</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">Blog</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="Pesquisar neste site" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/products/productivity-tools/classroom/apps/"> English (United States) </option><option value="/intl/en_uk/products/productivity-tools/classroom/apps/"> English (United Kingdom) </option><option value="/intl/en_ca/products/productivity-tools/classroom/apps/"> English (Canada) </option><option value="/intl/en_au/products/productivity-tools/classroom/apps/"> English (Australia) </option><option value="/intl/en_nz/products/productivity-tools/classroom/apps/"> English (New Zealand) </option><option value="/intl/da/products/productivity-tools/classroom/apps/"> dansk (Danmark) </option><option value="/intl/es-419/products/productivity-tools/classroom/apps/"> español (Latinoamérica) </option><option value="/intl/fr_be/products/productivity-tools/classroom/apps/"> français (Belgique) </option><option value="/intl/id/products/productivity-tools/classroom/apps/"> Indonesia (Indonesia) </option><option value="/intl/ja/products/productivity-tools/classroom/apps/"> 日本語 (日本) </option><option value="/intl/ms/products/productivity-tools/classroom/apps/"> Bahasa Melayu (Malaysia) </option><option value="/intl/no/products/productivity-tools/classroom/apps/"> norsk bokmål (Norge) </option><option value="/intl/nl/products/productivity-tools/classroom/apps/"> Nederlands (Nederland) </option><option selected value="/intl/pt-BR/products/productivity-tools/classroom/apps/"> português (Brasil) </option><option value="/intl/sv/products/productivity-tools/classroom/apps/"> svenska (Sverige) </option><option value="/intl/th/products/productivity-tools/classroom/apps/"> ไทย (ไทย) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/pt/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/pt/policies/privacy/">Privacidade</a> </li> 
+      <li> <a href="https://www.google.com/intl/pt/policies/terms/">Termos</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script> 
+  <script src="/compiled/guide-mobile.min.js"></script> 
+  <script id="contact-script" src="/js/access.min.js"></script>  
+ </body>
+</html>

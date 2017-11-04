@@ -1,0 +1,17 @@
+/Users/wouter/NetBeansProjects/humanityx-hxscrape-5a4731c38939/src/main/java/org/humanityx/scrape/api/model/package-info.java
+/Users/wouter/NetBeansProjects/humanityx-hxscrape-5a4731c38939/src/main/java/org/humanityx/scrape/api/package-info.java
+/Users/wouter/NetBeansProjects/humanityx-hxscrape-5a4731c38939/src/main/java/org/humanityx/util/Crawler.java
+/Users/wouter/NetBeansProjects/humanityx-hxscrape-5a4731c38939/src/main/java/org/humanityx/scrape/api/App.java
+/Users/wouter/NetBeansProjects/humanityx-hxscrape-5a4731c38939/src/main/java/org/humanityx/scrape/api/model/Source.java
+/Users/wouter/NetBeansProjects/humanityx-hxscrape-5a4731c38939/src/main/java/org/humanityx/scrape/api/resource/DocumentResource.java
+/Users/wouter/NetBeansProjects/humanityx-hxscrape-5a4731c38939/src/main/java/org/humanityx/util/PageCache.java
+/Users/wouter/NetBeansProjects/humanityx-hxscrape-5a4731c38939/src/main/java/org/humanityx/scrape/api/ObjectNotFoundException.java
+/Users/wouter/NetBeansProjects/humanityx-hxscrape-5a4731c38939/src/main/java/org/humanityx/util/RegexUtil.java
+/Users/wouter/NetBeansProjects/humanityx-hxscrape-5a4731c38939/src/main/java/org/humanityx/util/ProbablyThreadSafe.java
+/Users/wouter/NetBeansProjects/humanityx-hxscrape-5a4731c38939/src/main/java/org/humanityx/util/package-info.java
+/Users/wouter/NetBeansProjects/humanityx-hxscrape-5a4731c38939/src/main/java/org/humanityx/scrape/api/resource/package-info.java
+/Users/wouter/NetBeansProjects/humanityx-hxscrape-5a4731c38939/src/main/java/org/humanityx/scrape/api/Config.java
+/Users/wouter/NetBeansProjects/humanityx-hxscrape-5a4731c38939/src/main/java/org/humanityx/util/Hash.java
+/Users/wouter/NetBeansProjects/humanityx-hxscrape-5a4731c38939/src/main/java/org/humanityx/util/Parallel.java
+/Users/wouter/NetBeansProjects/humanityx-hxscrape-5a4731c38939/src/main/java/org/humanityx/scrape/api/Health.java
+/Users/wouter/NetBeansProjects/humanityx-hxscrape-5a4731c38939/src/main/java/org/humanityx/scrape/api/model/InsertTask.java

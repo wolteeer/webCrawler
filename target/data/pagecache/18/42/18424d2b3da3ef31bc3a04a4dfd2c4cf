@@ -1,0 +1,378 @@
+<!doctype html>
+<html class="google mmfb" dir="ltr" lang="en">
+ <head> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script> 
+  <meta charset="utf-8"> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <title>
+      Manage your product details online – Google for Retail Google Manufacturer Center
+    </title> 
+  <meta content="Manage your product details - images, descriptions and more - with Google Merchant Center. Brands and manufacturers can influence how your products are discovered and displayed on Google." name="description"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;lang=en" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto+Slab:300,400,500&amp;lang=en" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Product+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="../../../retail/2017/css/retail.min.css" rel="stylesheet"> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/v2_8_3/basic.js"></script> 
+  <link href="/retail/2017/images/solutions/manufacturer-center/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <meta content="Ex8sscIHvFcjBZQCW25NgQI8-yl_6qBd266f6ucTLks" name="google-site-verification"> 
+  <link href="https://www.google.com/retail/solutions/manufacturer-center/" rel="canonical"> 
+  <link href="https://www.google.com.au/intl/en/retail/solutions/manufacturer-center/" hreflang="en" rel="alternate"> 
+  <link href="https://www.google.co.uk/intl/en/retail/solutions/manufacturer-center/" hreflang="en" rel="alternate"> 
+  <link href="https://www.google.com/intl/en/retail/solutions/manufacturer-center/" hreflang="en" rel="alternate"> 
+  <link href="https://www.google.com/retail/solutions/manufacturer-center/" hreflang="x-default" rel="alternate"> 
+  <style type="text/css">
+    svg.c1 {enable-background:new 0 0 23 15;}
+    </style> 
+ </head> 
+ <body ng-app="rs.retail"> 
+  <header class="header" role="banner"> 
+   <h1 class="product-logo"> <a href="../../../retail/"><img alt="Google" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" srcset="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png 2x"> <span class="site-name">for Retail</span></a> </h1> 
+   <nav class="main-navigation" data-ng-controller="rs.navigation.NavCtrl as navCtrl"> 
+    <h1> Google for Retail </h1> 
+    <ul> 
+     <li> <a href="../../../retail/">Overview</a> </li> 
+     <li class="active"> <a href="../../../retail/solutions/">Solutions</a> </li> 
+     <li> <a href="../../../retail/success-stories/">Success Stories</a> </li> 
+     <li> <a href="../../../retail/get-help/">Support</a> </li> 
+    </ul> 
+    <div class="cta cta-wrapper has-signin"> 
+     <a class="cta-signin" href="https://manufacturers.google.com/manufacturers/Home?hl=en" rel="nofollow" target="_blank">Sign In</a> 
+     <a class="cta-signup" href="https://manufacturers.google.com/manufacturers/Signup?hl=en" target="_blank">Sign Up</a> 
+    </div> 
+   </nav>
+   <button class="nav-toggle-button"><span class="icon-menu-els"><span class="menu-bar"></span> <span class="menu-bar"></span> <span class="menu-bar"></span></span></button> 
+  </header> 
+  <div class="main" role="main"> 
+   <section class="section section-hero section-manufacturer-hero"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="section-hero-copy col-5 col-offset-7"> 
+       <h1> Manufacturer Center </h1> 
+       <p class="font-large"> Attract more shoppers and elevate your brand by providing relevant, current information on your products, including updated images, descriptions, and product details. This creates more effective listings on Google Shopping, other Google services, and across the web. </p> 
+       <p> <a class="link-more top-sign-in" href="https://manufacturers.google.com/manufacturers/Home?hl=en" target="_blank">Sign In</a> <a class="button cta-main" data-rs-trigger="heroAnimation" href="https://manufacturers.google.com/manufacturers/Signup?hl=en" target="_blank">Sign Up</a> </p> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="section-hero-media"> 
+     <div class="hero-animation-section" data-ng-cloak="" data-rs-animation-router="" data-rs-animation-router-start-sequence="heroAnimation"> 
+      <picture class="hero-bg">
+       <source media="(min-width: 768px)" srcset="../../../retail/2017/images/solutions/manufacturer-center/hero-bg_1x.png, ../../../retail/2017/images/solutions/manufacturer-center/hero-bg_2x.png 2x"> 
+       <img alt="" class="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+      </picture> 
+      <div class="screen-wrap"> 
+       <div class="screen-content" class-name="screen-content" data-rs-trigger-class=""> 
+        <picture class="hero-empty">
+         <source media="(min-width: 768px)" srcset="../../../retail/2017/images/solutions/manufacturer-center/hero-empty_1x.png?mmfb=f3bab978eaf42d2faae8f991e08fd0c7, ../../../retail/2017/images/solutions/manufacturer-center/hero-empty_2x.png?mmfb=ba9d4e7ad9ad061d48914a09bb37c56a 2x"> 
+         <img alt="" class="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+        </picture> 
+        <picture class="product-row" class-name="product-row" data-rs-trigger-class="">
+         <source media="(min-width: 768px)" srcset="../../../retail/2017/images/solutions/manufacturer-center/products-row_1x.png, ../../../retail/2017/images/solutions/manufacturer-center/products-row_2x.png 2x"> 
+         <img alt="" class="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+        </picture> 
+        <div class="phone-touch rs-touch-indicator" data-rs-touch-indicator="touch"> 
+        </div>
+        <picture class="product" class-name="product" data-rs-trigger-class="">
+         <source media="(min-width: 768px)" srcset="../../../retail/2017/images/solutions/manufacturer-center/product_1x.png, ../../../retail/2017/images/solutions/manufacturer-center/product_2x.png 2x"> 
+         <img alt="" class="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+        </picture> 
+       </div> 
+       <div class="phone-touch phone-touch-details rs-touch-indicator" data-rs-touch-indicator=""></div>
+       <picture class="product-details" class-name="product-details" data-rs-trigger-class="">
+        <source media="(min-width: 768px)" srcset="../../../retail/2017/images/solutions/manufacturer-center/product-details_1x.png, ../../../retail/2017/images/solutions/manufacturer-center/product-details_2x.png 2x"> 
+        <img alt="" class="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+       </picture> 
+      </div> 
+      <div class="hero-image"></div> 
+     </div> 
+    </div>
+    <a class="fab fab-bottom-center google-yellow gweb-smoothscroll-control" href="#benefits">
+     <svg class="icon-fab-scroll" enable-background="new 0 0 32 32" height="18px" version="1.1" viewbox="0 0 32 32" width="18px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+      <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"></polygon>
+     </svg> <img alt="scroll icon" class="icon-fab-scroll" height="18" src="//www.google.com/ads/images/icons/icon-fab-scroll.png" width="18"></a> 
+   </section> 
+   <section class="section section-benefits light-gray" id="benefits"> 
+    <div class="site-width"> 
+     <h4 class="section-sub-heading border-red"> Benefits for your business </h4> 
+     <h2 class="extra-spaced-heading"> Whatever you make, make it stand out. </h2> 
+     <div class="cols-row"> 
+      <div class="col-5 section-text mobile-bottom-padding"> 
+       <p class="font-large"> Google Manufacturer Center is a free tool that lets brand manufacturers accurately represent products to shoppers on Google.com and other Google services. By uploading complete and accurate product data into Manufacturer Center, you’ll increase your brand’s chances of standing out in a crowded marketplace -- and you’ll ultimately get more products in the hands of consumers. </p> 
+      </div> 
+      <div class="col-6 col-offset-1"> 
+       <h3 class="ticked-heading"> 
+        <svg class="icon-done" enable-background="new 0 0 48 48" height="22px" version="1.1" viewbox="0 0 48 48" width="22px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <path d="M0 0h48v48H0z" fill="none"></path> 
+         <path d="M18 32.34L9.66 24l-2.83 2.83L18 38l24-24-2.83-2.83z"></path>
+        </svg> <img alt="green tick icon" class="icon-arrow-drop-down" height="22" src="//www.google.com/ads/images/icons/icon-done.png" width="22"> Elevate your brand by providing accurate product information. </h3> 
+       <p> Improve the accuracy and completeness of how your products are represented. On average, brands who manage their product information with Manufacturer Center realize 8% more impressions and 10% more clicks. </p> 
+       <h3 class="ticked-heading"> 
+        <svg class="icon-done" enable-background="new 0 0 48 48" height="22px" version="1.1" viewbox="0 0 48 48" width="22px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <path d="M0 0h48v48H0z" fill="none"></path> 
+         <path d="M18 32.34L9.66 24l-2.83 2.83L18 38l24-24-2.83-2.83z"></path>
+        </svg> <img alt="green tick icon" class="icon-arrow-drop-down" height="22" src="//www.google.com/ads/images/icons/icon-done.png" width="22"> Enable more relevant search results. </h3> 
+       <p> Product descriptions submitted by manufacturers contain key product attributes, which allow Google to surface Shopping ads (created by retailers) for those products when users search for those attributes. </p> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-dark section-success-stories google-red"> 
+    <div class="site-width"> 
+     <h4 class="section-sub-heading border-yellow"> Success Stories </h4> 
+     <h2> Our Customers </h2> 
+     <div class="cols-row"> 
+      <div class="col-6 col-m-4 card card-success card-article" id="bosch"> 
+       <a class="card-inner" href="../../../retail/success-stories/bosch.html"> 
+        <div class="card-success-logo card-logo"> 
+         <img alt="Bosch" src="https://lh3.googleusercontent.com/G5mOsMVjrcrHCmcSGpu8cxMTFWkpnUxJqi87I6_Xa84m4Og90KnvrDygO91nSe_5FKreBYqh0OuPjji3X6jG5Y2XSR5EjlZ9tNLH=w300"> 
+        </div> 
+        <div class="card-success-content"> 
+         <h3> Bosch </h3> 
+         <p> Bosch leveraged Manufacturer Center to reach more shoppers with accurate product information. </p> 
+        </div>
+        <svg class="icon-arrow-related" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <polygon points="16,0 13.2,2.8 24.3,14 0,14 0,18 24.3,18 13.2,29.2 16,32 32,16"> 
+         </polygon>
+        </svg> <img alt="" class="icon-arrow-related" height="16" src="//www.google.com/ads/images/icons/icon-arrow-related.png" width="16"></a> 
+      </div> 
+      <div class="col-6 col-m-4 card card-success card-article" id="jansport"> 
+       <a class="card-inner" href="../../../retail/success-stories/jansport.html"> 
+        <div class="card-success-logo card-logo"> 
+         <img alt="JanSport" src="https://lh3.googleusercontent.com/TnsI6dsM9369xXIsaTOJWGreELUXbDJozw2IQdr6hbeU858J7uenDJsYO14ti14_wa0odifAYnYEWFCkT5L8bmUwTlDLlZ9IPANw=w300"> 
+        </div> 
+        <div class="card-success-content"> 
+         <h3> JanSport </h3> 
+         <p> JanSport wanted to overhaul their product data within Google Shopping, and so they turned to Manufacturer Center. </p> 
+        </div>
+        <svg class="icon-arrow-related" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <polygon points="16,0 13.2,2.8 24.3,14 0,14 0,18 24.3,18 13.2,29.2 16,32 32,16"> 
+         </polygon>
+        </svg> <img alt="" class="icon-arrow-related" height="16" src="//www.google.com/ads/images/icons/icon-arrow-related.png" width="16"></a> 
+      </div> 
+      <div class="col-6 col-m-4 card card-success card-article" id="speakman"> 
+       <a class="card-inner" href="../../../retail/success-stories/speakman.html"> 
+        <div class="card-success-logo card-logo"> 
+         <img alt="Speakman" src="https://lh3.googleusercontent.com/cad0OY2HHNP4fo1kkrZPLJV5yzVYsOiLp0wrjMCY2u4YPLW3FHQNvu-5U8Zr4p65VCyzVZ2wtGcRBW8udHaPitPHEaoOzRMjsxeR2g=w300"> 
+        </div> 
+        <div class="card-success-content"> 
+         <h3> Speakman </h3> 
+         <p> Speakman used Manufacturer Center to bring enhanced product content to consumers beyond their own webpage. </p> 
+        </div>
+        <svg class="icon-arrow-related" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <polygon points="16,0 13.2,2.8 24.3,14 0,14 0,18 24.3,18 13.2,29.2 16,32 32,16"> 
+         </polygon>
+        </svg> <img alt="" class="icon-arrow-related" height="16" src="//www.google.com/ads/images/icons/icon-arrow-related.png" width="16"></a> 
+      </div> 
+     </div> 
+     <p class="success-stories-all"> <a class="link-more" href="../../../retail/success-stories/">See all Success Stories 
+       <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+        </path>
+       </svg></a> </p> 
+    </div> 
+   </section> 
+   <section class="section"> 
+    <div class="site-width"> 
+     <h2 class="extra-spaced-heading"> Get started with Manufacturer Center </h2> 
+     <div class="cols-row"> 
+      <div class="col-5 mobile-bottom-padding"> 
+       <ol class="numbered-list font-medium"> 
+        <li>Start by setting up your account <a href="https://manufacturers.google.com/manufacturers/Signup?hl=en">here</a>. </li> 
+        <li>Upload your product information for retailers to use when they create ads on Google and around the web. <a href="https://support.google.com/manufacturers/answer/6124029?hl=en&amp;ref_topic=6124028"> Get started here</a>. </li> 
+       </ol> 
+      </div> 
+      <div class="col-4 col-offset-1"> 
+       <h3> Sign up online </h3> 
+       <p> It only takes minutes, and there’s plenty of <a href="https://support.google.com/manufacturers/answer/6124029?hl=en&amp;ref_topic=6124028"> help</a> available if you get stuck. </p> 
+       <p> <a class="button cta-main section-cta-spaced" href="https://manufacturers.google.com/manufacturers/Signup?hl=en">Sign Up</a> </p> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-even-more-solutions google-yellow font-dark"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-6 section-copy align-vertical-center"> 
+       <div> 
+        <h2> More solutions to build your retail business </h2> 
+        <p> <a class="link-more" href="../../../retail/solutions/">See all solutions 
+          <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+           </path>
+          </svg></a> </p> 
+       </div> 
+      </div> 
+      <div class="col-5 col-offset-1 section-image section-image-s"> 
+       <picture>
+        <source media="(min-width: 768px)" srcset="../../../retail/2017/images/shared/shop-devices_1x.png, ../../../retail/2017/images/shared/shop-devices_2x.png 2x"> 
+        <img alt="" class="" srcset="../../../retail/2017/images/shared/shop-devices_m_1x.png, ../../../retail/2017/images/shared/shop-devices_m_2x.png 2x"> 
+       </picture> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-get-in-touch light-gray"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-5"> 
+       <h2> Got stuck? It’s okay, there’s plenty of help. </h2> 
+      </div> 
+      <div class="col-3 mobile-bottom-padding"> 
+       <div class="contact-icon"> 
+        <svg class="color-green" enable-background="new 0 0 32 32" height="32px" version="1.1" viewbox="0 0 32 32" width="32px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <path d="M25.3,0.5c-0.1,0-0.2,0.1-0.3,0.2l-0.7,1.8c-0.6,0-1.2,0.1-1.7,0.3l-1.3-1.4c-0.1-0.1-0.3-0.1-0.5-0.1 L19.9,2c-0.2,0.1-0.2,0.3-0.1,0.4l0.8,1.8c-0.4,0.4-0.7,0.9-1,1.5l-2-0.1c-0.2,0-0.3,0.1-0.4,0.3c-0.1,0.4-0.1,0.7-0.2,1.1 c0,0.2,0.1,0.3,0.2,0.4l1.8,0.7c0,0.6,0.1,1.2,0.3,1.7l-1.4,1.3c-0.1,0.1-0.1,0.3-0.1,0.5l0.6,0.9c0.1,0.2,0.3,0.2,0.4,0.1l1.8-0.8 c0.4,0.4,0.9,0.7,1.5,1l-0.1,2c0,0.2,0.1,0.3,0.3,0.4c0.4,0.1,0.7,0.1,1.1,0.2c0.2,0,0.3-0.1,0.4-0.2l0.7-1.8c0.6,0,1.2-0.1,1.7-0.4 l1.3,1.4c0.1,0.1,0.3,0.1,0.4,0.1l0.9-0.6c0.2-0.1,0.2-0.3,0.1-0.4l-0.8-1.8c0.4-0.4,0.7-0.9,1-1.5l1.9,0.1c0.2,0,0.3-0.1,0.4-0.3 c0.1-0.4,0.1-0.7,0.2-1.1c0-0.2-0.1-0.3-0.2-0.4l-1.8-0.7c0-0.6-0.1-1.2-0.3-1.7L31,4.6c0.1-0.1,0.1-0.3,0.1-0.5l-0.6-0.9 c-0.1-0.2-0.3-0.2-0.4-0.1L28.2,4c-0.4-0.4-0.9-0.7-1.5-1L26.8,1c0-0.2-0.1-0.3-0.3-0.4c-0.4-0.1-0.7-0.1-1.1-0.2 C25.4,0.5,25.3,0.5,25.3,0.5z M11.3,8.5c-0.4,0-0.8,0.1-1.2,0.1c-0.2,0-0.4,0.2-0.4,0.4l-0.2,2.5c-0.6,0.1-1.1,0.3-1.7,0.6l-1.7-1.8 C6,10,5.8,10,5.6,10.1l-1,0.7c-0.2,0.1-0.2,0.3-0.1,0.5l1,2.2C5,14,4.6,14.4,4.3,14.9l-2.4-0.7c-0.2-0.1-0.4,0-0.5,0.2 c-0.2,0.4-0.4,0.8-0.5,1.1c-0.1,0.2,0,0.4,0.1,0.5l2,1.4c-0.2,0.6-0.3,1.2-0.3,1.8l-2.4,0.6C0.1,19.8,0,20,0,20.2 c0,0.4,0.1,0.8,0.1,1.3c0,0.2,0.2,0.3,0.4,0.4L2.9,22c0.1,0.6,0.3,1.1,0.6,1.7l-1.8,1.7c-0.1,0.1-0.2,0.3-0.1,0.5l0.7,1 c0.1,0.2,0.3,0.2,0.5,0.1l2.2-1c0.4,0.4,0.9,0.8,1.4,1.2l-0.7,2.4c-0.1,0.2,0,0.4,0.2,0.5c0.4,0.2,0.8,0.4,1.1,0.5 c0.2,0.1,0.4,0,0.5-0.1l1.4-2c0.6,0.2,1.2,0.3,1.8,0.3l0.6,2.4c0,0.2,0.2,0.3,0.4,0.3c0.4,0,0.8-0.1,1.3-0.1c0.2,0,0.3-0.2,0.4-0.4 l0.2-2.5c0.6-0.1,1.1-0.3,1.7-0.6l1.7,1.8c0.1,0.1,0.3,0.2,0.5,0.1l1-0.7c0.2-0.1,0.2-0.3,0.1-0.5l-1-2.2c0.4-0.4,0.8-0.9,1.2-1.3 l2.4,0.7c0.2,0.1,0.4,0,0.5-0.2c0.2-0.4,0.4-0.8,0.5-1.1c0.1-0.2,0-0.4-0.1-0.5l-2-1.4c0.2-0.6,0.3-1.2,0.3-1.8l2.4-0.6 c0.2,0,0.3-0.2,0.3-0.4c0-0.4-0.1-0.8-0.1-1.3c0-0.2-0.2-0.3-0.4-0.4L20.2,18c-0.1-0.6-0.3-1.1-0.6-1.7l1.8-1.7 c0.1-0.1,0.2-0.3,0.1-0.5l-0.7-1c-0.1-0.2-0.4-0.2-0.5-0.1l-2.2,1c-0.4-0.4-0.9-0.8-1.3-1.2l0.7-2.4c0.1-0.2,0-0.4-0.2-0.5 c-0.4-0.2-0.7-0.4-1.1-0.6c-0.2-0.1-0.4,0-0.5,0.1l-1.4,2c-0.6-0.2-1.2-0.3-1.8-0.3l-0.6-2.4C11.7,8.6,11.5,8.5,11.3,8.5z M11.2,14 c1.8-0.1,3.7,0.6,4.9,2.1c2.2,2.5,1.9,6.3-0.6,8.5l0,0C13,26.8,9.1,26.5,6.9,24S5,17.6,7.6,15.4c0.2-0.1,0.3-0.3,0.5-0.4 C9,14.4,10.1,14,11.2,14z"> 
+         </path>
+        </svg> 
+        <img alt="" class="color-green" height="32" src="//www.google.com/ads/images/icons/icon-ui-gears.png" width="32"> 
+       </div> 
+       <h3> Do it yourself </h3> 
+       <p> Reach out to the Google Shopping community or browse our support pages to get answers. </p> 
+       <p> <a class="link-more" href="../../../retail/get-help/">Help and resources 
+         <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+          </path>
+         </svg></a> </p> 
+      </div> 
+      <div class="col-3 col-offset-1"> 
+       <div class="contact-icon"> 
+        <svg class="color-green" enable-background="new 0 0 32 32" height="30px" version="1.1" viewbox="0 0 32 32" width="30px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <rect height="2.2" width="16.6" x="7.7" y="9.8"></rect> 
+         <rect height="2.2" width="16.6" x="7.7" y="14.2"></rect> 
+         <rect height="2.2" width="16.6" x="7.7" y="18.7"></rect> 
+         <rect height="2.2" width="8.9" x="7.7" y="23.1"></rect> 
+         <path d="M26.6,0H5.4C4.2,0,3.2,0.9,3.2,2.2v27.6c0,1.2,1,2.2,2.2,2.2h21.1c1.2,0,2.2-1,2.2-2.2V2.2C28.8,1,27.8,0,26.6,0z M16,30.5 c-0.5,0-0.9-0.4-0.9-0.9c0-0.5,0.4-0.9,0.9-0.9c0.5,0,0.9,0.4,0.9,0.9C16.9,30.1,16.5,30.5,16,30.5z M26.6,27.6H5.4V2.2h2.2v4.2 l2.2-2.2l2.2,2.2V2.2h14.4V27.6z"> 
+         </path>
+        </svg> 
+        <img alt="" class="color-green" height="30" src="//www.google.com/ads/images/icons/icon-doctype-ebook.png" width="30"> 
+       </div> 
+       <h3> Get more out of Google for Retail </h3> 
+       <p> Get the latest insights and stay informed with trend reports and best practices guides. </p> 
+       <p> <a class="link-more" href="../../../retail/resources/">Tips and resources 
+         <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+          </path>
+         </svg></a> </p> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <footer class="footer" id="footer" role="contentinfo"> 
+   <div class="site-width"> 
+    <div class="footer-upper cols-row"> 
+     <div class="footer-social col-6"> 
+      <dl> 
+       <dt>
+         Follow us on: 
+       </dt> 
+       <dd> 
+        <a href="https://plus.google.com/+GoogleAds/" rel="noopener nofollow" target="_blank" title="Google+">
+         <svg class="icon-footer-gplus c1" height="20px" version="1.1" viewbox="0 0 23 15" width="30px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <polygon points="23,6 21,6 21,4 19,4 19,6 17,6 17,8 19,8 19,10 21,10 21,8 23,8"> 
+          </polygon> 
+          <path d="M11.8,8.9c-0.1,1.3-1.3,3.4-4.3,3.4c-2.6,0-4.6-2.1-4.6-4.7S5,2.9,7.5,2.9c1.5,0,2.4,0.6,3,1.1 l0,0l2-2c-1.3-1.2-3-2-5-2C3.4,0.1,0,3.5,0,7.6s3.4,7.5,7.5,7.5c4.3,0,7.2-3,7.2-7.3c0-0.6-0.1-1.1-0.2-1.5h-7V9L11.8,8.9L11.8,8.9 z"> 
+          </path>
+         </svg> <img alt="Google+" class="icon-footer-gplus" height="20" src="//www.google.com/ads/images/icons/icon-footer-gplus.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a href="https://adwords.blogspot.com/search/label/Google%20Shopping" rel="noopener" target="_blank" title="Blogger">
+         <svg class="icon-footer-blogger" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,0H3.2C1.4,0,0,1.4,0,3.2l0,25.6C0,30.6,1.4,32,3.2,32h25.6c1.8,0,3.2-1.4,3.2-3.2V3.2 C32,1.4,30.6,0,28.8,0 M22.4,11.2v1.6c0,0.9,0.7,1.6,1.6,1.6c0.9,0,1.6,0.7,1.6,1.6v4.8c0,2.7-2.1,4.8-4.8,4.8h-9.6 c-2.7,0-4.8-2.1-4.8-4.8V9.6c0-2.6,2.1-4.8,4.8-4.8h6.4c2.7,0,4.8,2.2,4.8,4.8V11.2z M12.7,12.8h4.2c0.9,0,1.6-0.7,1.6-1.6 s-0.7-1.6-1.6-1.6h-4.2c-0.9,0-1.6,0.7-1.6,1.6S11.8,12.8,12.7,12.8 M19.2,17.6h-6.5c-0.9,0-1.6,0.7-1.6,1.6c0,0.9,0.7,1.6,1.6,1.6 h6.5c0.9,0,1.6-0.7,1.6-1.6C20.8,18.3,20.1,17.6,19.2,17.6"> 
+          </path>
+         </svg> <img alt="Blogger" class="icon-footer-blogger" height="20" src="//www.google.com/ads/images/icons/icon-footer-blogger.png" width="20"></a> 
+       </dd> 
+      </dl> 
+     </div> 
+    </div> 
+    <nav class="footer-nav cols-row"> 
+     <dl class="col-3"> 
+      <dt>
+        Learning &amp; Support 
+      </dt> 
+      <dd> 
+       <a href="https://support.google.com/merchants/?hl=en#topic=3404821">Merchant Center Help</a> 
+      </dd> 
+      <dd> 
+       <a href="https://support.google.com/manufacturers/#topic=6124028/?hl=en">Manufacturer Center Help</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.en.advertisercommunity.com/t5/Google-Small-Business/ct-p/Google_Small_Business" rel="nofollow">Google Small Business Community</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Developers 
+      </dt> 
+      <dd> 
+       <a href="https://developers.google.com/?hl=en">Google Developers Site</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/shopping-content/v2/quickstart?hl=en">Content API for Shopping</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Related Products 
+      </dt> 
+      <dd> 
+       <a href="https://www.google.com/retail/solutions/merchant-center/">Merchant Center</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/retail/solutions/manufacturer-center/">Manufacturer Center</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/retail/solutions/shopping-campaigns/">Shopping Campaigns</a> 
+      </dd> 
+      <dd> 
+       <a href="https://domains.google/intl/en/">Google Domains</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        More Solutions from Google 
+      </dt> 
+      <dd> 
+       <a href="https://adwords.google.com/home/">Google AdWords</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/services/">Business Solutions</a> 
+      </dd> 
+      <dd> 
+       <a href="https://gsuite.google.com/intl/en/">Google Apps for Work</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/analytics/">Google Analytics</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.thinkwithgoogle.com/marketing-resources/local-retail-playbook/">Think with Google</a> 
+      </dd> 
+     </dl> 
+    </nav> 
+    <div class="footer-lower cols-row"> 
+     <div class="footer-meta-links col-9"> 
+      <ul> 
+       <li> <a href="https://support.google.com/?hl=en">
+         <svg class="icon-footer-help" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path clip-rule="evenodd" d="M16 0C7.2 0 0 7.2 0 16c0 3 .9 5.9 2.3 8.3L0 32l7.7-2.3C10.2 31.1 13 32 16 32c8.8 0 16-7.2 16-16S24.8 0 16 0zm1.3 24.6c-.3.3-.7.5-1.2.5s-1-.2-1.2-.5c-.3-.3-.4-.7-.4-1.1 0-.2 0-.4.1-.6.1-.2.2-.4.3-.5.1-.1.3-.3.5-.3.2-.1.4-.1.7-.1.3 0 .5 0 .7.1.2.1.4.2.5.3.1.1.3.3.3.5.1.2.1.4.1.6 0 .5-.1.8-.4 1.1zm3.8-11.4c-.2.5-.4.9-.6 1.3l-.9 1.2c-.3.4-.7.8-1 1.1-.4.4-.7.9-.9 1.4-.2.5-.2.8-.3 1.8h-2.8c0-1 0-1.2.1-1.6.1-.4.2-1 .3-1.3.2-.3.4-.7.6-1 .2-.3.6-.7.9-1 .2-.3.5-.5.7-.7.2-.2.4-.5.6-.7.2-.3.3-.5.4-.8.1-.3.1-.6.1-1 0-.8-.2-1.4-.6-1.8-.4-.4-1-.6-1.7-.6-.3 0-.6.1-.9.1-.3.1-.5.2-.8.4s-.4.6-.5.8c-.1.3-.2 1.2-.2 1.2h-3c0-2 .2-1.6.4-2.2.3-.6.7-1.2 1.1-1.6.5-.4 1-.7 1.7-.9.8-.3 1.5-.4 2.2-.4.8 0 1.6.1 2.2.3.7.2 1.2.5 1.7.9s.8.9 1 1.5c.2.6.4 1.3.4 2.1 0 .6-.1 1.1-.2 1.5z" fill-rule="evenodd"></path>
+         </svg> <img alt="Help" class="icon-footer-help" height="20" src="//www.google.com/ads/images/icons/icon-footer-help.png" width="20"> Help</a> </li> 
+       <li> <a href="//www.google.com">Google</a> </li> 
+       <li> <a href="//www.google.com/intl/en/policies/privacy/">Privacy</a> </li> 
+       <li> <a href="//www.google.com/intl/en/policies/terms/">Terms</a> </li> 
+      </ul> 
+     </div> 
+     <div class="footer-locale-switcher col-3"> 
+      <label class="visually-hidden" for="footer-locales"><span>Change region:</span></label> 
+      <select class="footer-locales" id="footer-locales" onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option selected value="//www.google.com/intl/en/retail/solutions/manufacturer-center/"> English </option> <option value="//www.google.com.au/intl/en/retail/solutions/manufacturer-center/"> English – Australia </option> <option value="//www.google.co.uk/intl/en/retail/solutions/manufacturer-center/"> English – United Kingdom </option> </select> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <script src="//www.gstatic.com/external_hosted/picturefill/picturefill.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-messages.min.js"></script> 
+  <script async data-gtmid="GTM-KCMJ66" src="https://www.google.com/ads/js/peitho2/peitho2.min.js"></script> 
+  <script src="../../../retail/2017/js/retail.min.js"></script>  
+ </body>
+</html>

@@ -1,0 +1,294 @@
+<!doctype html>
+<html class="google mmfb" dir="rtl" lang="ar">
+ <head> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="تعرّف على كيفية استخدام أبرز مطوّري التطبيقات لنظام AdMob الأساسي بهدف زيادة الربحية من خلال قصص النجاح ودراسات الحالة المتعلقة بالتطبيقات." name="description"> 
+  <title>
+      قصص نجاح ودراسات حالة للتطبيقات – Google AdMob
+    </title> 
+  <script src="//www.google.com/js/google.js"></script> 
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Product+Sans:400&amp;lang=ar" rel="stylesheet"> 
+  <link href="/admob/css/default.css" rel="stylesheet"> 
+  <link href="/admob/images/admob-favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://www.google.ae/admob/success.html" rel="canonical"> 
+  <link href="https://www.google.ae/admob/success.html" hreflang="ae" rel="alternate"> 
+  <link href="https://www.google.com.br/admob/success.html" hreflang="pt-BR" rel="alternate"> 
+  <link href="https://www.google.de/admob/success.html" hreflang="de" rel="alternate"> 
+  <link href="https://www.google.es/admob/success.html" hreflang="es" rel="alternate"> 
+  <link href="https://www.google.fr/admob/success.html" hreflang="fr" rel="alternate"> 
+  <link href="https://www.google.co.id/admob/success.html" hreflang="id" rel="alternate"> 
+  <link href="https://www.google.it/admob/success.html" hreflang="it" rel="alternate"> 
+  <link href="https://www.google.co.jp/admob/success.html" hreflang="ja" rel="alternate"> 
+  <link href="https://www.google.co.kr/admob/success.html" hreflang="ko" rel="alternate"> 
+  <link href="https://www.google.pl/admob/success.html" hreflang="pl" rel="alternate"> 
+  <link href="https://www.google.ru/admob/success.html" hreflang="ru" rel="alternate"> 
+  <link href="https://www.google.co.th/admob/success.html" hreflang="th" rel="alternate"> 
+  <link href="https://www.google.com.tw/admob/success.html" hreflang="zh-TW" rel="alternate"> 
+  <link href="https://www.google.co.uk/admob/success.html" hreflang="en-GB" rel="alternate"> 
+  <link href="https://www.google.com.vn/admob/success.html" hreflang="vi" rel="alternate"> 
+  <link href="https://www.google.com/admob/success.html" hreflang="en-US" rel="alternate"> 
+  <link href="https://www.google.com/admob/success.html" hreflang="en" rel="alternate"> 
+ </head> 
+ <body class="page-success"> 
+  <noscript>
+   <iframe class="gtm-iframe" height="0" src="//www.googletagmanager.com/ns.html?id=GTM-WLDTKH" width="0"></iframe>
+  </noscript> 
+  <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WLDTKH');
+    </script> 
+  <div class="maia-nav" id="maia-nav-root" role="navigation"> 
+   <div class="maia-aux"> 
+    <a href="../services/sitemap.html">هل تتطلع إلى تحقيق الازدهار لنشاطك التجاري؟ يمكننا مساعدتك.</a> 
+   </div> 
+  </div> 
+  <div class="maia-header" id="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <h1> <a href="../admob/"><img alt="AdMob من Google" class="logo" height="48" src="/admob/images/admob_logo_2x.png"></a> </h1> 
+    <div id="sign-in-link-container"> 
+     <a class="pass-params" href="https://apps.admob.com">تسجيل الدخول إلى AdMob‏</a> أو 
+     <a class="maia-button doubletrack pass-params" href="https://apps.admob.com/signup" id="sign-in-link">الاشتراك</a> 
+    </div>
+    <a class="maia-teleport" href="#content">تخطى إلى المحتوى</a> 
+   </div> 
+  </div> 
+  <div class="maia-nav" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <ul id="menu-list"> 
+     <li> <a class="pass-params" href="../admob/index.html">نظرة عامة</a> </li> 
+     <li> <a class="pass-params" href="../admob/platform.html">لماذا ينبغي استخدام AdMob؟</a> </li> 
+     <li>قصص النجاح </li> 
+     <li> <a class="pass-params" href="../admob/resources.html">الموارد</a> </li> 
+    </ul>
+    <a class="maia-button doubletrack pass-params" href="https://apps.admob.com/signup" id="sign-in-link-fixed">اشتراك</a> 
+   </div> 
+  </div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="success-stories-page" data-ng-app="admob.app"> 
+    <div class="hero-carousel" data-ng-controller="paginationSuccessHerosCtrl as successHerosCtrl" id="success-hero"> 
+     <div class="glue-pagination" data-glue-pagination-model="successHerosCtrl.tabs" data-ng-cloak=""> 
+      <div class="glue-pagination-pages"> 
+       <div class="hero"> 
+        <div class="ads-stories-hero"> 
+         <div class="media-container"> 
+          <img alt="Fingersoft" class="success-hero-img" src="../admob/images/success-stories/admob-fingersoft-hero.jpg"> 
+          <a class="hero-success-story-link" data-lightbox-caption="Fingersoft - اعرف كيف استعانت تطبيقات Fingersoft ببرنامج AdMob لتنمية نشاطها التجاري." data-lightbox-height="420" data-lightbox-width="675" href="//www.youtube.com/embed/69wOmZMqvCI?theme=dark&amp;wmode=&amp;hl=ar&amp;cc_lang_pref=ar&amp;cc_load_policy=1&amp;showinfo=0&amp;rel=0&amp;vq=large" id="video-link-fingersoft"><img alt="" class="playbutton" src="/admob/images/play.png"></a> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="hero"> 
+        <div class="ads-stories-hero"> 
+         <div class="media-container"> 
+          <img alt="Raon Games" class="success-hero-img" src="../admob/images/success-stories/admob-raon-hero.jpg"> 
+          <a class="hero-success-story-link" data-lightbox-caption="وضعت شركة Raon Games ثقتها في برنامج AdMob لتحقيق الدخل، وركّزت فقط على تطوير لعبة رائعة؛ مما أدى إلى إجراء 10 ملايين عملية تنزيل في غضون 9 أشهر فقط بعد إصدار لعبة Bouncy Ball." data-lightbox-height="420" data-lightbox-width="675" href="//www.youtube.com/embed/15NsAqKxqQQ?theme=dark&amp;wmode=&amp;hl=ar&amp;cc_lang_pref=ar&amp;cc_load_policy=1&amp;showinfo=0&amp;rel=0&amp;vq=large" id="video-link-raon-games"><img alt="" class="playbutton" src="/admob/images/play.png"></a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="glue-pagination-page-list"></div> 
+      <div class="glue-pagination-pages"> 
+       <div class="hero-callouts featured-success-story site-width"> 
+        <div class="material-card js-success-hero-equalheights"> 
+         <h1> Fingersoft </h1> 
+         <p> Fingersoft - اعرف كيف استعانت تطبيقات Fingersoft ببرنامج AdMob لتنمية نشاطها التجاري. </p> 
+         <p> <a class="hero-video-text-link" data-video-id="video-link-fingersoft" href="#">مشاهدة فيديو</a> | <a href="http://www.google.com/admob/pdf/admob-fingersoft-ar.pdf" target="_blank">تنزيل دراسة حالة (PDF)</a> </p> 
+        </div> 
+       </div> 
+       <div class="hero-callouts featured-success-story site-width"> 
+        <div class="material-card js-success-hero-equalheights"> 
+         <h1> Raon Games </h1> 
+         <p> وضعت شركة Raon Games ثقتها في برنامج AdMob لتحقيق الدخل، وركّزت فقط على تطوير لعبة رائعة؛ مما أدى إلى إجراء 10 ملايين عملية تنزيل في غضون 9 أشهر فقط بعد إصدار لعبة Bouncy Ball. </p> 
+         <p> <a class="hero-video-text-link" data-video-id="video-link-raon-games" href="#">مشاهدة فيديو</a> | <a href="http://www.google.com/admob/pdf/admob-bouncy-ball-ar.pdf" target="_blank">تنزيل دراسة حالة (PDF)</a> </p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="site-width glue-filter"> 
+     <h2> مزيد من قصص النجاح </h2> 
+     <div class="success-filter material-card"> 
+      <span class="label">تصفية حسب</span> 
+      <div class="filter-options" id="success-filter-options"> 
+       <div id="success-selected-filter"> 
+        <span class="circle-icon icon-down icon-inverse" id="selected-filter-text">v</span> 
+       </div> 
+       <fieldset class="glue-filter-category" data-glue-filter-category-id="type" data-glue-filter-strict="false"> 
+        <div class="maia-cols"> 
+         <div class="maia-col-4"> 
+          <h3> الصناعات </h3>
+          <label><input class="glue-filter-item" data-glue-filter-item-id="game" type="checkbox"> الألعاب</label> 
+          <label><input class="glue-filter-item" data-glue-filter-item-id="health" type="checkbox"> الصحة</label> 
+          <label><input class="glue-filter-item" data-glue-filter-item-id="utility" type="checkbox"> الأدوات المساعدة</label> 
+          <label><input class="glue-filter-item" data-glue-filter-item-id="entertainment" type="checkbox"> الترفيه</label> 
+         </div> 
+         <div class="maia-col-4"> 
+          <h3> الميزة </h3>
+          <label><input class="glue-filter-item" data-glue-filter-item-id="banner-ads" type="checkbox"> إعلانات بانر</label> 
+          <label><input class="glue-filter-item" data-glue-filter-item-id="interstitial-ads" type="checkbox"> الإعلانات البينية</label> 
+          <label><input class="glue-filter-item" data-glue-filter-item-id="video-ads" type="checkbox"> إعلانات الفيديو</label> 
+          <label><input class="glue-filter-item" data-glue-filter-item-id="native-ads" type="checkbox"> إعلانات مدمجة مع المحتوى</label> 
+          <label><input class="glue-filter-item" data-glue-filter-item-id="mediation" type="checkbox"> التوسط</label> 
+          <label><input class="glue-filter-item" data-glue-filter-item-id="ad-network-optimization" type="checkbox"> تحسين شبكة المواقع الإعلانية</label> 
+          <label><input class="glue-filter-item" data-glue-filter-item-id="house-ads" type="checkbox"> إعلانات لنفس الشركة</label> 
+         </div> 
+         <div class="maia-col-4"> 
+          <h3> الموضوع </h3>
+          <label><input class="glue-filter-item" data-glue-filter-item-id="balancing-ads" type="checkbox"> تحقيق التوازن بين الإعلانات وانطباع المستخدم</label> 
+          <label><input class="glue-filter-item" data-glue-filter-item-id="building-a-global" type="checkbox"> إنشاء نشاط تجاري عالمي</label> 
+          <label><input class="glue-filter-item" data-glue-filter-item-id="app-analytics" type="checkbox"> تحليلات بيانات التطبيقات</label> 
+          <label><input class="glue-filter-item" data-glue-filter-item-id="cross-promoting" type="checkbox"> الترويج المتبادل لتطبيقاتك</label> 
+         </div> 
+        </div> 
+       </fieldset> 
+      </div> 
+     </div> 
+     <div class="ads-stories" data-ss-title="قصص النجاح"> 
+      <div class="ads-story material-card glue-filter-result" data-glue-filter-result-attrs="{&quot;type&quot;:[&quot;health&quot;, &quot;balancing-ads&quot;, &quot;app-analytics&quot;, &quot;interstitial-ads&quot;, &quot;all&quot;]}"> 
+       <img alt="Blood Pressure" src="../ads/images/success-stories/admob-bloodpressure.png"> 
+       <h3> Blood Pressure </h3> 
+       <p class="ads-stories-teaser"> يحقق التطبيق الطبي Blood Pressure - من تطوير سزيمون كليمسزوسكي - دخلاً مع نسبة نقر إلى ظهور تبلغ 2% ومعدل تعبئة يبلغ 99%، وذلك بفضل إعلانات AdMob. </p> 
+       <div class="ads-stories-text-links"> 
+        <a data-g-action="Click" data-g-event="Success Stories" data-g-label="View PDF - text - Blood Pressure" href="http://www.google.com/admob/pdf/admob-bloodpressure-ar.pdf" target="_blank">عرض PDF</a> 
+       </div> 
+      </div> 
+      <div class="ads-story material-card glue-filter-result" data-glue-filter-result-attrs="{&quot;type&quot;:[&quot;utility&quot;, &quot;building-a-global&quot;, &quot;interstitial-ads&quot;, &quot;mediation&quot;, &quot;all&quot;]}"> 
+       <img alt="Bravolol" src="../ads/images/success-stories/admob-bravolol.png"> 
+       <h3> Bravolol </h3> 
+       <p class="ads-stories-teaser"> تم تنزيل تطبيقات تعلم اللغات الأجنبية من شركة Bravolol بمعدل 30 مليون مرة على مستوى 200 بلد. ومنذ اختيار الإعلانات البينية من AdMob لتحقيق دخل، شهدت الشركة زيادةً في التكلفة لكل ألف ظهور بمعدل عشرة أضعاف. </p> 
+       <div class="ads-stories-text-links"> 
+        <a data-g-action="Click" data-g-event="Success Stories" data-g-label="View PDF - text - Bravolol" href="http://www.google.com/admob/pdf/admob-cs-bravolol-ar.pdf" target="_blank">عرض PDF</a> 
+       </div> 
+      </div> 
+      <div class="ads-story material-card glue-filter-result" data-glue-filter-result-attrs="{&quot;type&quot;:[&quot;game&quot;, &quot;all&quot;]}"> 
+       <img alt="Colopl" src="../ads/images/success-stories/admob-colopl.png"> 
+       <h3> Colopl </h3> 
+       <p class="ads-stories-teaser"> تعمل COLOPL - الشركة الرائدة في تطوير البرامج - على تحقيق دخل من تطبيقاتها المجانية بفضل AdMob، كما تستخدم ميزة الإعلانات لنفس الشركة بهدف ترويج مجموعتها من التطبيقات التي تعتمد على الشراء داخل التطبيق، وشهدت تحقيق نتائج قوية في هذا الشأن. </p> 
+       <div class="ads-stories-text-links"> 
+        <a data-g-action="Click" data-g-event="Success Stories" data-g-label="View PDF - text - Colopl" href="http://www.google.com/admob/pdf/admob-colopl-ar.pdf" target="_blank">عرض PDF</a> 
+       </div> 
+      </div> 
+      <div class="ads-story material-card glue-filter-result" data-glue-filter-result-attrs="{&quot;type&quot;:[&quot;utility&quot;, &quot;app-analytics&quot;, &quot;banner-ads&quot;, &quot;interstitial-ads&quot;, &quot;video-ads&quot;, &quot;all&quot;]}"> 
+       <img alt="Eltsoft" src="../ads/images/success-stories/admob-eltsoft.png"> 
+       <h3> Eltsoft </h3> 
+       <p class="ads-stories-teaser"> وضع كلٌّ من جيسون بيرن وروبرت دايم إعلانات بينية من AdMob في تطبيقهما التعليمي للغات، وقفزت الأرباح عشرين ضعفًا بين عشية وضحاها! اطّلع على نجاحهما في استخدام برنامجي AdMob وGoogle Analytics. </p> 
+       <div class="ads-stories-text-links"> 
+        <a data-g-action="Click" data-g-event="Success Stories" data-g-label="View PDF - text - Eltsoft" href="http://www.google.com/admob/pdf/admob-eltsoft-ar.pdf" target="_blank">عرض PDF</a> 
+       </div> 
+      </div> 
+      <div class="ads-story material-card glue-filter-result" data-glue-filter-result-attrs="{&quot;type&quot;:[&quot;game&quot;, &quot;balancing-ads&quot;, &quot;building-a-global&quot;, &quot;banner-ads&quot;, &quot;interstitial-ads&quot;, &quot;mediation&quot;, &quot;all&quot;]}"> 
+       <img alt="Gram Games" src="../ads/images/success-stories/admob-gramgames.png"> 
+       <h3> Gram Games </h3> 
+       <p class="ads-stories-teaser"> تعتبر شركة Gram Games الأسرع نموًا في تركيا، وقد حققت نجاحًا بالمشاركة مع Google. بعد تنفيذ الإعلانات البينية، وإعلانات بانر AdMob، حققت Gram Games نموًا بمعدل سبعة أضعاف. </p> 
+       <div class="ads-stories-text-links"> 
+        <a data-g-action="Click" data-g-event="Success Stories" data-g-label="View PDF - text - Gram Games" href="http://www.google.com/admob/pdf/admob-gramgames-ar.pdf" target="_blank">عرض PDF</a> 
+       </div> 
+      </div> 
+      <div class="ads-story material-card glue-filter-result" data-glue-filter-result-attrs="{&quot;type&quot;:[&quot;utility&quot;, &quot;building-a-global&quot;, &quot;app-analytics&quot;, &quot;interstitial-ads&quot;, &quot;video-ads&quot;, &quot;all&quot;]}"> 
+       <img alt="Megabit" src="../ads/images/success-stories/admob-megabit.png"> 
+       <h3> Megabit </h3> 
+       <p class="ads-stories-teaser"> أظهرت Megabit نتائج مذهلة باستخدام AdMob، حيث استحوذت على أكثر من نصف مليون مستخدم شهريًا، بمعدل 4 آلاف مستخدم في الدقيقة الواحدة باستخدام تطبيقها. كما حققت Megabit مُعدل تعبئة يصل إلى 100% باستخدام AdMob على مدار العام والنصف الماضي، حيث ازدادت الأرباح خمسة أضعافها. </p> 
+       <div class="ads-stories-text-links"> 
+        <a data-g-action="Click" data-g-event="Success Stories" data-g-label="View PDF - text - Megabit" href="http://www.google.com/admob/pdf/admob-megabit-ar.pdf" target="_blank">عرض PDF</a> 
+       </div> 
+      </div> 
+      <div class="ads-story material-card glue-filter-result" data-glue-filter-result-attrs="{&quot;type&quot;:[&quot;utility&quot;, &quot;balancing-ads&quot;, &quot;interstitial-ads&quot;, &quot;mediation&quot;, &quot;ad-network-optimization&quot;, &quot;all&quot;]}"> 
+       <img alt="iThinkdiff" src="../ads/images/success-stories/admob-thinkdiff.png"> 
+       <h3> iThinkdiff </h3> 
+       <p class="ads-stories-teaser"> يعتبر محمود إحسان من المطوّرين الرواد في مجال إنشاء التطبيقات التعليمية والترفيهية للأجهزة التي تعمل بنظام التشغيل iOS. ولقد ارتفعت أرباحه بنسبة تصل إلى 35% بفضل ميزة توسط AdMob، كما ارتفعت مرة أخرى بنسبة تصل إلى 30% بفضل ميزة تحسين شبكة الإعلانات في AdMob. </p> 
+       <div class="ads-stories-text-links"> 
+        <a data-g-action="Click" data-g-event="Success Stories" data-g-label="View PDF - text - iThinkdiff" href="http://www.google.com/admob/pdf/admob-cs-arabic-dictionary-ar.pdf" target="_blank">عرض PDF</a> 
+       </div> 
+      </div> 
+      <div class="ads-story material-card glue-filter-result" data-glue-filter-result-attrs="{&quot;type&quot;:[&quot;game&quot;, &quot;interstitial-ads&quot;, &quot;mediation&quot;, &quot;all&quot;]}"> 
+       <img alt="Kiragames" src="../ads/images/success-stories/admob-kiragames.png"> 
+       <h3> Kiragames </h3> 
+       <p class="ads-stories-teaser"> منذ نشر الإعلانات البينية من AdMob وتوسط AdMob، شهدت شركة Kiragames تضاعف قيم التكلفة لكل ألف ظهور وزيادة الأرباح بنسبة 400%. </p> 
+       <div class="ads-stories-text-links"> 
+        <a data-g-action="Click" data-g-event="Success Stories" data-g-label="View PDF - text - Kiragames" href="http://www.google.com/admob/pdf/admob-cs-kiragames-ar.pdf" target="_blank">عرض PDF</a> 
+       </div> 
+      </div> 
+      <div class="ads-story material-card glue-filter-result" data-glue-filter-result-attrs="{&quot;type&quot;:[&quot;utility&quot;, &quot;all&quot;]}"> 
+       <img alt="OGQ" src="../ads/images/success-stories/admob-backgroundshd.png"> 
+       <h3> OGQ </h3> 
+       <p class="ads-stories-teaser"> Backgrounds - يعرض تطبيق Backgrounds HD خلفيات جميلة على الهواتف الذكية. يمثل AdMob مصدر دخل كبيرًا، وحققت ميزة التوسط في الإعلانات زيادة في الأرباح بنسبة 20%. &nbsp; </p> 
+       <div class="ads-stories-text-links"> 
+        <a data-g-action="Click" data-g-event="Success Stories" data-g-label="View PDF - text - OGQ" href="http://www.google.com/admob/pdf/admob-cs-background-hd-ar.pdf" target="_blank">عرض PDF</a> 
+       </div> 
+      </div> 
+      <div class="ads-story material-card glue-filter-result" data-glue-filter-result-attrs="{&quot;type&quot;:[&quot;utility&quot;, &quot;balancing-ads&quot;, &quot;building-a-global&quot;, &quot;banner-ads&quot;, &quot;all&quot;]}"> 
+       <img alt="PicsArt" src="../ads/images/success-stories/admob-picsart.png"> 
+       <h3> PicsArt </h3> 
+       <p class="ads-stories-teaser"> PicsArt - يحقق تطبيق PicsArt ‏90% من أرباحه باستخدام برنامج AdMob، وهو يعتبر تطبيقًا مجانيًا رائدًا في تعديل الصور. اعرف كيفية تنفيذ ذلك. </p> 
+       <div class="ads-stories-text-links"> 
+        <a data-g-action="Click" data-g-event="Success Stories" data-g-label="View PDF - text - PicsArt" href="http://www.google.com/admob/pdf/admob-picsart-ar.pdf" target="_blank">عرض PDF</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div id="footer-follow"> 
+      <h3> تابع أخبارنا على: <a href="https://plus.google.com/+AdMob?hl=ar" rel="publisher" target="_blank"><img alt="Google+" src="../images/icons/product/gplus-16.png"></a> <a href="https://admob.blogspot.com/" target="_blank"><img alt="Blog" src="../images/icons/about_blogger.gif"></a> <a href="https://twitter.com/admob" target="_blank"><img alt="Twitter" src="../images/icons/thirdparty/twitter-16.png"></a> </h3> 
+     </div> 
+     <div class="suez-sitemap suez-sitemap-compact"> 
+      <h3> موارد AdMob </h3> 
+      <ul> 
+       <li> <a href="https://developers.google.com/mobile-ads-sdk/?hl=ar">حزمة SDK</a> </li> 
+       <li> <a href="https://groups.google.com/forum/#!forum/google-admob-ads-sdk">منتدى AdMob</a> </li> 
+       <li> <a href="https://support.google.com/admob">مركز المساعدة</a> </li> 
+       <li> <a href="https://services.google.com/fb/forms/requestadmobconsultar/">طلب استشارة أولية</a> </li> 
+      </ul> 
+     </div> 
+     <div id="suez-footer-univ"> 
+      <a href="../services/sitemap.html">Looking to grow your business? We can help.</a> 
+     </div> 
+     <script src="../services/js/sitemap-compact.min.js"></script> 
+    </div> 
+   </div> 
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <ul> 
+      <li> <a href="/">Google</a> </li> 
+      <li> <a href="/intl/ar/about/">معلومات عن Google</a> </li> 
+      <li> <a href="/intl/ar/policies/privacy/">الخصوصية</a> </li> 
+      <li> <a href="/intl/ar/policies/terms/">بنود</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-messages.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.min.js"></script> 
+  <script src="/admob/js/view.min.js"></script> 
+  <script src="//www.google.com/js/gweb/analytics/doubletrack.js"></script> 
+  <script>
+    var tracker = new gweb.analytics.DoubleTrack('floodlight', {
+          src: 2507573,
+          type: 'admob328',
+          cat: 'Admob001'
+      });
+      tracker.trackClass('doubletrack');
+    </script> 
+  <script>
+    gweb.analytics.DoubleTrack.track('floodlight', {
+          src: 2507573,
+          type: 'admob328',
+          cat: 'Admob002'
+      });
+    </script> 
+  <script src="//www.google.com/js/maia.js"></script>  
+ </body>
+</html>

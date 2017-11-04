@@ -1,0 +1,8 @@
+Package: scrape
+Version: 0.1.0
+Section: misc
+Priority: low
+Architecture: all
+Description:  (Dropwizard Application)
+Maintainer: Unspecified
+Depends: openjdk-7-jdk 

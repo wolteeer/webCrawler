@@ -1,0 +1,15 @@
+org/humanityx/util/Parallel.class
+org/humanityx/util/ProbablyThreadSafe.class
+org/humanityx/util/Hash.class
+org/humanityx/scrape/api/Health.class
+org/humanityx/scrape/api/ObjectNotFoundException.class
+org/humanityx/scrape/api/resource/DocumentResource.class
+org/humanityx/scrape/api/model/Source.class
+org/humanityx/util/Crawler.class
+org/humanityx/util/RegexUtil.class
+org/humanityx/scrape/api/model/InsertTask.class
+org/humanityx/scrape/api/App.class
+org/humanityx/scrape/api/App$1.class
+org/humanityx/scrape/api/Config.class
+org/humanityx/util/PageCache.class
+org/humanityx/util/Crawler$CrawlDocumentTask.class

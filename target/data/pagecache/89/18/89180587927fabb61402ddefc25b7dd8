@@ -1,0 +1,202 @@
+<!doctype html>
+<html class="google nl_NL" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <title>Google Expedities</title> 
+  <meta charset="utf-8"> 
+  <meta content="initial-scale=1, minimum-scale=1, maximum-scale=1, width=device-width" name="viewport"> 
+  <meta itemprop="name" content="Google Expedities"> 
+  <meta name="description" content="Stel je eens voor dat je op een doordeweekse middag koraalriffen van dichtbij kunt bekijken of het oppervlak van Mars kunt verkennen. Met Expedities kunnen docenten hun leerlingen meenemen op virtuele reizen die de ontdekkingsreiziger volledig omringen."> 
+  <meta itemprop="description" content="Stel je eens voor dat je op een doordeweekse middag koraalriffen van dichtbij kunt bekijken of het oppervlak van Mars kunt verkennen. Met Expedities kunnen docenten hun leerlingen meenemen op virtuele reizen die de ontdekkingsreiziger volledig omringen."> 
+  <meta itemprop="image" content="/images/expeditions/icons/expeditions-icon.png"> 
+  <meta property="og:title" content="Google Expedities"> 
+  <meta property="og:image" content="/images/expeditions/icons/expeditions-icon.png"> 
+  <meta property="og:description" content="Stel je eens voor dat je op een doordeweekse middag koraalriffen van dichtbij kunt bekijken of het oppervlak van Mars kunt verkennen. Met Expedities kunnen docenten hun leerlingen meenemen op virtuele reizen die de ontdekkingsreiziger volledig omringen."> 
+  <meta property="og:url" content="https://www.google.com/expeditions/"> 
+  <meta property="og:type" content="website"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:title" content="Google Expedities"> 
+  <meta name="twitter:description" content="Stel je eens voor dat je op een doordeweekse middag koraalriffen van dichtbij kunt bekijken of het oppervlak van Mars kunt verkennen. Met Expedities kunnen docenten hun leerlingen meenemen op virtuele reizen die de ontdekkingsreiziger volledig omringen."> 
+  <meta name="twitter:image" content="/images/expeditions/icons/expeditions-icon.png"> 
+  <meta name="twitter:url" content="http://twitter.com/googleforedu"> 
+  <meta name="twitter:creator" content="@googleforedu"> 
+  <link rel="stylesheet" href="/css/expeditions.min.css"> 
+  <link rel="icon" href="/videos/expeditions/favicon.ico" type="image/x-icon"> 
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:700|Roboto:100,300,500,700" rel="stylesheet" type="text/css"> 
+  <script src="https://www.gstatic.com/external_hosted/modernizr/modernizr.js"></script> 
+ </head> 
+ <body> 
+  <!-- Google Tag Manager --> 
+  <script>
+var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+  return cp;
+};
+
+dataLayer = [{
+  'country': 'nl',
+  'region': 'emea',
+  'propertyIndex': '36',
+  'language': 'nl',
+  'host': location.host,
+  'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+  'path': location.pathname,
+  'cookiePath': cookiepathValue(),
+  'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+  'file': 'index.html',
+  'fileNoSuffix': 'index'
+}];
+</script> 
+  <noscript>
+   <iframe src="//www.googletagmanager.com/ns.html?id=GTM-T7366R" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');</script> 
+  <!-- End Google Tag Manager -->
+  <header class="header"> 
+   <div class="lockup header__lockup"> 
+    <a href="/expeditions/"> <img class="lockup__image" srcset="
+      /images/expeditions/lockup/google-expeditions.png,
+      /images/expeditions/lockup/google-expeditions_2x.png 2x" width="172" alt="Google Expedities"> </a> 
+   </div> 
+   <div class="header__nav-toggle" aria-controls="nav" title="Navigatie uitvouwen/samenvouwen"> 
+    <div class="header__hamburger"></div> 
+   </div> 
+   <nav class="nav header__nav" id="nav" role="navigation" aria-hidden="true"> 
+    <ul class="nav__menu" role="menubar"> 
+     <li data-section="about" class="nav__item js-scroll-to" role="menuitem"> <a class="nav__link nav__link--active" href="#about">Over</a> </li> 
+     <li data-section="how-it-works" class="nav__item js-scroll-to" role="menuitem"> <a class="nav__link " href="#how-it-works">Hoe het werkt</a> </li> 
+     <li data-section="explore" class="nav__item js-scroll-to" role="menuitem"> <a class="nav__link " href="#explore">Verkennen</a> </li> 
+     <li data-section="get-started" class="nav__item js-scroll-to" role="menuitem"> <a class="nav__link " href="#get-started">Aan de slag</a> </li> 
+    </ul> 
+   </nav> 
+   <a class="button header__get-app js-scroll-to" href="/expeditions/#get-started">De app downloaden</a> 
+  </header> 
+  <main role="main"> 
+   <section class="section  section--about" id="about"> 
+    <div class="section--about__video-container "> 
+     <div class="cross-fader section--about__no-video-fallback"> 
+      <img class="cross-fader__item cross-fader__item--panning cross-fader__item--active" srcset="
+      /images/expeditions/sections/about-crossfade/fade-1.jpg,
+      /images/expeditions/sections/about-crossfade/fade-1_2x.jpg 2x" alt="Breng je lessen tot leven"> 
+      <img class="cross-fader__item cross-fader__item--panning " srcset="
+      /images/expeditions/sections/about-crossfade/fade-2.jpg,
+      /images/expeditions/sections/about-crossfade/fade-2_2x.jpg 2x" alt="Breng je lessen tot leven"> 
+      <img class="cross-fader__item cross-fader__item--panning " srcset="
+      /images/expeditions/sections/about-crossfade/fade-3.jpg,
+      /images/expeditions/sections/about-crossfade/fade-3_2x.jpg 2x" alt="Breng je lessen tot leven"> 
+      <img class="cross-fader__item cross-fader__item--panning " srcset="
+      /images/expeditions/sections/about-crossfade/fade-4.jpg,
+      /images/expeditions/sections/about-crossfade/fade-4_2x.jpg 2x" alt="Breng je lessen tot leven"> 
+     </div> 
+     <video autoplay loop muted class="section--about__video" poster="/images/expeditions/sections/about-space.jpg"> 
+      <source src="/videos/expeditions/about2.mp4" type="video/mp4"> 
+      <track class="section--about__track" kind="subtitles" label="subs" srclang="en" src="/videos/expeditions/subtitle.vtt"> Your browser does not support the video element. 
+     </video> 
+    </div> 
+    <div class="container section__content"> 
+     <img class="section--about__expeditions-icon" src="/images/expeditions/icons/expeditions_96dp.png" alt="Google Expedities"> 
+     <h3 class="section__title">Breng je lessen tot leven</h3> 
+     <p class="section__body section__body--active ">Stel je eens voor dat je op een doordeweekse middag koraalriffen van dichtbij kunt bekijken of het oppervlak van Mars kunt verkennen. Met Expedities kunnen docenten hun leerlingen meenemen op virtuele reizen die de ontdekkingsreiziger volledig omringen.</p> 
+     <div class="download-badges"> 
+      <a class="download-badges__link" href="https://play.google.com/store/apps/details?id=com.google.vr.expeditions&amp;utm_source=ExpWeb&amp;utm_medium=web" target="_blank"> <img class="download-badges__badge download-badges__badge--play" srcset="/images/expeditions/icons/play-badge_v4.png, /images/expeditions/icons/play-badge_v4_2x.png" alt="Downloaden op Google Play"> </a>
+      <a class="download-badges__link" href="https://itunes.apple.com/us/app/expeditions/id1131711060" target="_blank"> <img class="download-badges__badge download-badges__badge--appstore" srcset="/images/expeditions/icons/appstore-badge_v4.png, /images/expeditions/icons/appstore-badge_v4_2x.png" alt="Downloaden via de App Store"> </a>
+     </div>
+    </div> 
+    <a class="button button--fab section__fab--scrolldown js-scroll-to" href="#how-it-works"></a> 
+   </section>
+   <section class="section  section--how-it-works" id="how-it-works"> 
+    <div class="section__content "> 
+     <h3 class="section__title">Excursies overal naartoe</h3> 
+     <p class="section__body">Van Machu Picchu tot Antarctica of het internationale ruimtestation ISS: waar neem je je lesgroep mee naartoe? </p> 
+     <div class="section__example--container"> 
+     </div> 
+    </div> 
+    <div class="section__image "> 
+     <img class="section--how-it-works__cardboard" src="/images/expeditions/sections/cardboard-open.png" alt="Excursies overal naartoe"> 
+     <video autoplay loop muted class="section--how-it-works__video"> 
+      <source src="/videos/expeditions/machu-picchu-explore.mp4" type="video/mp4"> Your browser does not support the video element. 
+     </video> 
+    </div> 
+   </section>
+   <section class="section  section--explore" id="explore"> 
+    <div class="section--explore__poster"> 
+     <div class="section--explore__poster" style="background-image: url('/images/expeditions/sections/explore-poster2_2x.jpg'"></div> 
+    </div> 
+    <div class="section__image-caption">
+      Kijk hoe brugklassers uit Eagle Grove (Iowa) de Burj Khalifa bezoeken 
+    </div> 
+    <div class="section--explore__play js-youtube-modal-trigger" data-player-id="youtube-explore" data-youtube-id="3MQ9yG_QfDA"></div> 
+    <div class="section--explore__video youtube-modal" aria-hidden="true" aria-role="dialog" aria-label="Watch seventh graders in Eagle Grove, Iowa visit the Burj Khalifa" id="youtube-explore"> 
+     <button class="button youtube-modal__close" aria-controls="youtube-explore"></button> 
+     <div class="youtube-modal__content" role="region" aria-live="polite"></div> 
+    </div> 
+   </section>
+   <section class="section  section--get-started" id="get-started"> 
+    <div class="section__content "> 
+     <h3 class="section__title">Ontdekken</h3> 
+     <p class="section__body"> Dankzij Google Expedities kunnen leerlingen rechtstreeks vanuit hun leslokaal op schoolreis gaan. Met Expedities kan een docent die optreedt als gids, lesgroepen door collecties met 360°- en 3D-foto's leiden en onderweg interessante bezienswaardigheden onder de aandacht brengen. <a href="https://support.google.com/edu/expeditions?utm_source=ExpWeb&amp;utm_medium=web" target="_blank">Meer informatie</a> </p> 
+     <a href="http://www.bestbuy.com/GoogleExpeditions?utm_source=ExpWeb&amp;utm_medium=web" target="_blank" class="link section__cta">Een kit bestellen</a> 
+     <div class="download-badges"> 
+      <a class="download-badges__link" href="https://play.google.com/store/apps/details?id=com.google.vr.expeditions&amp;utm_source=ExpWeb&amp;utm_medium=web" target="_blank"> <img class="download-badges__badge download-badges__badge--play" srcset="/images/expeditions/icons/play-badge_v4.png, /images/expeditions/icons/play-badge_v4_2x.png" alt="Downloaden op Google Play"> </a>
+      <a class="download-badges__link" href="https://itunes.apple.com/us/app/expeditions/id1131711060" target="_blank"> <img class="download-badges__badge download-badges__badge--appstore" srcset="/images/expeditions/icons/appstore-badge_v4.png, /images/expeditions/icons/appstore-badge_v4_2x.png" alt="Downloaden via de App Store"> </a>
+     </div>
+    </div> 
+    <div class="section__image "> 
+     <video autoplay loop muted class="section--get-started__video"> 
+      <source src="/videos/expeditions/galapagos_guide2.mp4" type="video/mp4"> Your browser does not support the video element. 
+     </video> 
+     <video autoplay loop muted class="section--get-started__guide"> 
+      <source src="/videos/expeditions/galapagos_explorer2.mp4" type="video/mp4"> Your browser does not support the video element. 
+     </video> 
+     <img class="section--get-started__no-video" src="/images/expeditions/sections/get-started-no-video.png" srcset="
+      /images/expeditions/sections/get-started-no-video.png,
+      /images/expeditions/sections/get-started-no-video_2x.png 2x" alt="Ontdekken"> 
+     <img class="section--get-started__frame" src="/images/expeditions/sections/get-started-frame2.png" srcset="
+      /images/expeditions/sections/get-started-frame2.png,
+      /images/expeditions/sections/get-started-frame2_2x.png 2x" alt="Ontdekken"> 
+    </div> 
+   </section> 
+  </main> 
+  <div class="partner"> 
+   <div class="container"> 
+    <div class="partner__content"> 
+     <a href="/intl/nl/expeditions/partners/" class="link section__cta" style="display: inline-block">Bekijk onze partners</a> 
+     <div class="partner-signup-wrapper"> 
+      <p class="" style="display: inline-block">Wil je partner worden?</p> 
+      <a href="https://docs.google.com/a/google.com/forms/d/1nSvlxxcMySja_K88jUtMqjiEUP2Da2OkSF3cYm9_BoU/viewform" class="link section__cta" style="display: inline-block">Laat het ons weten</a> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <footer class="footer"> 
+   <div class="container"> 
+    <div class="social footer__social">
+      Volg ons op: 
+     <a href="https://plus.google.com/+GoogleforEducation" class="footer__social-link footer__social-link--plus" target="_blank"></a> 
+     <a href="https://twitter.com/GoogleForEdu" class="footer__social-link footer__social-link--twitter" target="_blank"></a> 
+    </div> 
+    <nav class="footer__nav"> 
+     <img class="footer__logo" srcset="https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_74x24dp.png, https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_74x24dp.png 2x" alt="Google logo" width="74"> 
+     <a class="link footer__link" target="_blank" title="Help" href="https://support.google.com/edu/expeditions"> Help </a> 
+     <a class="link footer__link" target="_blank" title="Privacy" href="https://www.google.com/intl/nl/policies/"> Privacy </a> 
+     <a class="link footer__link" target="_blank" title="Voorwaarden" href="https://www.google.com/intl/nl/policies/terms/"> Voorwaarden </a> 
+     <div class="footer__selector"> 
+      <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/expeditions/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/expeditions/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/da/expeditions/"> dansk (Danmark) </option><option value="/intl/de_de/expeditions/"> Deutsch (Deutschland) </option><option value="/intl/en_au/expeditions/"> English (Australia) </option><option value="/intl/en_ca/expeditions/"> English (Canada) </option><option value="/intl/en_in/expeditions/"> English (India) </option><option value="/intl/en_nz/expeditions/"> English (New Zealand) </option><option value="/intl/en_uk/expeditions/"> English (United Kingdom) </option><option value="/expeditions/"> English (United States) </option><option value="/intl/es-419_mx/expeditions/"> español (México) </option><option value="/intl/es-419/expeditions/"> español (Latinoamérica) </option><option value="/intl/fi/expeditions/"> suomi (Suomi) </option><option value="/intl/fr_be/expeditions/"> français (Belgique) </option><option value="/intl/id/expeditions/"> Indonesia (Indonesia) </option><option value="/intl/ja/expeditions/"> 日本語 (日本) </option><option value="/intl/ms/expeditions/"> Bahasa Melayu (Malaysia) </option><option selected value="/intl/nl/expeditions/"> Nederlands (Nederland) </option><option value="/intl/no/expeditions/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/expeditions/"> português (Brasil) </option><option value="/intl/sv/expeditions/"> svenska (Sverige) </option><option value="/intl/th/expeditions/"> ไทย (ไทย) </option><option value="/intl/tr/expeditions/"> Türkçe (Türkiye) </option></select> 
+     </div> 
+    </nav> 
+   </div> 
+  </footer> 
+  <script src="https://www.gstatic.com/external_hosted/matchMedia/matchMedia.js"></script> 
+  <script src="https://www.gstatic.com/external_hosted/matchMedia/matchMedia.addListener.js"></script> 
+  <script src="https://www.gstatic.com/external_hosted/picturefill/picturefill.min.js"></script> 
+  <script src="https://ajax.googleapis.com/ajax/libs/hammerjs/2.0.8/hammer.min.js"></script> 
+  <script src="/js/expeditions.min.js" async></script>  
+ </body>
+</html>

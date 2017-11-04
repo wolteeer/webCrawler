@@ -1,0 +1,591 @@
+<!doctype html>
+<html class="google mmfb" dir="ltr" lang="en">
+ <head> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script> 
+  <meta charset="utf-8"> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <title>
+      Audience &amp; Data Management Capabilities - Audience Center 360 – Google
+    </title> 
+  <meta content="Google Audience Center 360 has the capability to unify data from analytics, ads, email, social, and CRM to better understand and reach your customers." name="description"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;lang=en" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto+Slab:300,400,500&amp;lang=en" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Product+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/analytics/css/audience-center.min.css" rel="stylesheet"> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/v2_8_3/basic.js"></script> 
+  <script>
+    dataLayer=[{"country":"us","region":"noram","language":"en","pageCategory":"Audience Center","pageSubCategory":"Overview","eID":"index.html","visitorType":"recognized"}];
+    </script> 
+  <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KLXF7H');
+    </script> 
+  <link href="//www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://www.google.com/analytics/audience-center/" rel="canonical"> 
+  <style type="text/css">
+    iframe.c2 {display:none;visibility:hidden}
+    svg.c1 {enable-background:new 0 0 23 15;}
+    </style> 
+ </head> 
+ <body data-ng-app="rs.analytics.audienceCenter"> 
+  <header class="header contains-cta" data-rs-header="" role="banner"> 
+   <div class="upper-header"> 
+    <h1 class="product-logo has-product"> <a data-g-action="Logo" data-g-event="Audience Center: Overview" data-g-label="Global Nav" href="../../analytics/"><img alt="Google" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" srcset="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png 2x"> <span class="site-name">Analytics Solutions</span></a> <a data-g-action="Logo" data-g-event="Audience Center: Overview" data-g-label="Global Nav" href="../../analytics/audience-center/"><span class="site-name site-name-product">Audience Center</span></a> </h1> 
+    <div class="nav-dropdown-wrapper" data-rs-popupmenu="" ng-cloak=""> 
+     <a class="nav-dropdown-trigger partners-link-desktop" data-g-action="Partners" data-g-event="Audience Center: Overview" data-g-label="Global Nav" href="https://www.google.com/analytics/partner-services/"><span>Partners</span></a> 
+     <a class="nav-dropdown-trigger support-link-desktop" data-g-action="Support" data-g-event="Audience Center: Overview" data-g-label="Global Nav" href="https://www.google.com/analytics/services-support"><span>Support</span></a> 
+     <a class="nav-dropdown-trigger" data-g-action="Sign In Menu" data-g-event="Audience Center: Overview" data-g-label="Global Nav CTA" ng-click="dropdownExpanded = !dropdownExpanded"><span>Sign in</span> 
+      <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+       <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+       <path d="M0 0h36v36H0z" fill="none"></path>
+      </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+     <div class="nav-dropdown" ng-class="{'nav-dropdown-expanded': dropdownExpanded}"> 
+      <a class="nav-dropdown-close" ng-click="dropdownExpanded = false">
+       <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+        <path d="M0 0h36v36H0z" fill="none"></path>
+       </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+      <ul> 
+       <li class="nav-dropdown-close-mobile"> <a ng-click="dropdownExpanded = false">Sign in 
+         <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+          <path d="M0 0h36v36H0z" fill="none"></path>
+         </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> </li> 
+       <li> <a data-g-action="Analytics Sign In" data-g-event="Audience Center: Overview" data-g-label="Global Nav CTA" href="https://analytics.google.com/analytics/web/" target="_blank">Analytics</a> </li> 
+       <li> <a data-g-action="Tag Manager Sign In" data-g-event="Audience Center: Overview" data-g-label="Global Nav CTA" href="https://tagmanager.google.com/?hl=en" target="_blank">Tag Manager</a> </li> 
+       <li> <a data-g-action="Optimize Sign In" data-g-event="Audience Center: Overview" data-g-label="Global Nav CTA" href="https://optimize.google.com/" target="_blank">Optimize</a> </li> 
+       <li> <a data-g-action="Data Studio Sign In" data-g-event="Audience Center: Overview" data-g-label="Global Nav CTA" href="https://datastudio.google.com/?hl=en" target="_blank">Data Studio</a> </li> 
+       <li> <a data-g-action="Surveys Sign In" data-g-event="Audience Center: Overview" data-g-label="Global Nav CTA" href="https://surveys.google.com/" target="_blank">Surveys</a> </li> 
+       <li> <a data-g-action="Attribution Sign In" data-g-event="Audience Center: Overview" data-g-label="Global Nav CTA" href="https://attribution.google.com/" target="_blank">Attribution</a> </li> 
+       <li> <a data-g-action="Audience Center Sign In" data-g-event="Audience Center: Overview" data-g-label="Global Nav CTA" href="https://audiencecenter.google.com/" target="_blank">Audience Center</a> </li> 
+       <li> <a data-g-action="Analytics 360 Suite Sign In" data-g-event="Audience Center: Overview" data-g-label="Global Nav CTA" href="https://360suite.google.com/" target="_blank">Analytics 360 Suite</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="cta cta-wrapper"> 
+     <a class="cta-signup" data-g-action="Talk to sales" data-g-event="Audience Center: Overview" data-g-label="Global Nav CTA" href="/analytics/contact-us/">Talk to sales</a> 
+    </div> 
+   </div> 
+   <nav class="main-navigation contains-sub-nav contains-double-cta"> 
+    <h1> Audience Center </h1> 
+    <ul class="nav-no-padding"> 
+     <li> <a data-g-action="Analytics" data-g-event="Audience Center: Overview" data-g-label="Global Nav" href="../../analytics/analytics/">Analytics</a> </li> 
+     <li> <a data-g-action="Tag Manager" data-g-event="Audience Center: Overview" data-g-label="Global Nav" href="../../analytics/tag-manager/">Tag Manager</a> </li> 
+     <li> <a data-g-action="Optimize" data-g-event="Audience Center: Overview" data-g-label="Global Nav" href="../../analytics/optimize/">Optimize</a> </li> 
+     <li> <a data-g-action="Data Studio" data-g-event="Audience Center: Overview" data-g-label="Global Nav" href="../../analytics/data-studio/">Data Studio</a> </li> 
+     <li> <a data-g-action="Surveys" data-g-event="Audience Center: Overview" data-g-label="Global Nav" href="../../analytics/surveys/">Surveys</a> </li> 
+     <li> <a data-g-action="Attribution" data-g-event="Audience Center: Overview" data-g-label="Global Nav" href="../../analytics/attribution/">Attribution</a> </li> 
+     <li class="active"> <a data-g-action="Audience Center" data-g-event="Audience Center: Overview" data-g-label="Global Nav" href="../../analytics/audience-center/">Audience Center</a> 
+      <ul class="sub-nav"> 
+       <li class="active" data-g-action="Audience Center: Overview" data-g-event="Audience Center: Overview" data-g-label="Audience Center Sub-Nav"> <a href="../../analytics/audience-center/">Overview</a> </li> 
+       <li data-g-action="Audience Center: Capabilities" data-g-event="Audience Center: Overview" data-g-label="Audience Center Sub-Nav"> <a href="../../analytics/audience-center/capabilities/">Capabilities</a> </li> 
+       <li data-g-action="Audience Center: Features" data-g-event="Audience Center: Overview" data-g-label="Audience Center Sub-Nav"> <a href="../../analytics/audience-center/features/">Features</a> </li> 
+       <li data-g-action="Audience Center: Success Stories" data-g-event="Audience Center: Overview" data-g-label="Audience Center Sub-Nav"> <a href="../../analytics/success-stories/">Success Stories</a> </li> 
+       <li data-g-action="Audience Center: Resources" data-g-event="Audience Center: Overview" data-g-label="Audience Center Sub-Nav"> <a href="../../analytics/resources/#?type_filters=audiences-and-segmentation">Resources</a> </li> 
+      </ul> </li> 
+     <li> <a data-g-action="360 Suite" data-g-event="Audience Center: Overview" data-g-label="Global Nav" href="../../analytics/360-suite/">Analytics 360 Suite</a> </li> 
+     <li class="partners-link-mobile"> <a class="partners-link" data-g-action="Partners" data-g-event="Audience Center: Overview" data-g-label="Global Nav" href="/analytics/partner-services">Partners</a> </li> 
+     <li class="support-link-mobile"> <a class="support-link" data-g-action="Support" data-g-event="Audience Center: Overview" data-g-label="Global Nav" href="/analytics/services-support">Support</a> </li> 
+    </ul> 
+    <div class="nav-dropdown-wrapper" data-rs-popupmenu="" ng-cloak=""> 
+     <a class="nav-dropdown-trigger partners-link-desktop" data-g-action="Partners" data-g-event="Audience Center: Overview" data-g-label="Global Nav" href="https://www.google.com/analytics/partner-services/"><span>Partners</span></a> 
+     <a class="nav-dropdown-trigger support-link-desktop" data-g-action="Support" data-g-event="Audience Center: Overview" data-g-label="Global Nav" href="https://www.google.com/analytics/services-support"><span>Support</span></a> 
+     <a class="nav-dropdown-trigger" data-g-action="Sign In Menu" data-g-event="Audience Center: Overview" data-g-label="Global Nav CTA" ng-click="dropdownExpanded = !dropdownExpanded"><span>Sign in</span> 
+      <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+       <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+       <path d="M0 0h36v36H0z" fill="none"></path>
+      </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+     <div class="nav-dropdown" ng-class="{'nav-dropdown-expanded': dropdownExpanded}"> 
+      <a class="nav-dropdown-close" ng-click="dropdownExpanded = false">
+       <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+        <path d="M0 0h36v36H0z" fill="none"></path>
+       </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> 
+      <ul> 
+       <li class="nav-dropdown-close-mobile"> <a ng-click="dropdownExpanded = false">Sign in 
+         <svg class="icon-arrow-drop-down" enable-background="new 0 0 36 36" height="28px" version="1.1" viewbox="0 0 36 36" width="28px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M10.5 15l7.5 7.5 7.5-7.5z"></path> 
+          <path d="M0 0h36v36H0z" fill="none"></path>
+         </svg> <img alt="drop down arrow icon" class="icon-arrow-drop-down" height="28" src="//www.google.com/ads/images/icons/icon-arrow-drop-down.png" width="28"></a> </li> 
+       <li> <a data-g-action="Analytics Sign In" data-g-event="Audience Center: Overview" data-g-label="Global Nav CTA" href="https://analytics.google.com/analytics/web/" target="_blank">Analytics</a> </li> 
+       <li> <a data-g-action="Tag Manager Sign In" data-g-event="Audience Center: Overview" data-g-label="Global Nav CTA" href="https://tagmanager.google.com/?hl=en" target="_blank">Tag Manager</a> </li> 
+       <li> <a data-g-action="Optimize Sign In" data-g-event="Audience Center: Overview" data-g-label="Global Nav CTA" href="https://optimize.google.com/" target="_blank">Optimize</a> </li> 
+       <li> <a data-g-action="Data Studio Sign In" data-g-event="Audience Center: Overview" data-g-label="Global Nav CTA" href="https://datastudio.google.com/?hl=en" target="_blank">Data Studio</a> </li> 
+       <li> <a data-g-action="Surveys Sign In" data-g-event="Audience Center: Overview" data-g-label="Global Nav CTA" href="https://surveys.google.com/" target="_blank">Surveys</a> </li> 
+       <li> <a data-g-action="Attribution Sign In" data-g-event="Audience Center: Overview" data-g-label="Global Nav CTA" href="https://attribution.google.com/" target="_blank">Attribution</a> </li> 
+       <li> <a data-g-action="Audience Center Sign In" data-g-event="Audience Center: Overview" data-g-label="Global Nav CTA" href="https://audiencecenter.google.com/" target="_blank">Audience Center</a> </li> 
+       <li> <a data-g-action="Analytics 360 Suite Sign In" data-g-event="Audience Center: Overview" data-g-label="Global Nav CTA" href="https://360suite.google.com/" target="_blank">Analytics 360 Suite</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="cta cta-wrapper"> 
+     <a class="cta-signup" data-g-action="Talk to sales" data-g-event="Audience Center: Overview" data-g-label="Global Nav CTA" href="/analytics/contact-us/">Talk to sales</a> 
+    </div> 
+   </nav>
+   <button class="nav-toggle-button"><span class="icon-menu-els"><span class="menu-bar"></span> <span class="menu-bar"></span> <span class="menu-bar"></span></span></button> 
+  </header> 
+  <div class="main" role="main"> 
+   <section class="section section-hero section-overview-hero"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="section-hero-copy col-5 col-offset-7"> 
+       <h1> Audience insights to better understand your best customers. </h1> 
+       <p class="font-large"> Truly understand your customers and be there when it counts. Google Audience Center 360, a data management platform, collects and organizes all your data sources — enabling you to find, expand, and reach your most valuable audiences with the right message at just the right moment. </p> 
+       <p> <a class="button cta-main" data-g-action="Talk To Sales" data-g-event="Audience Center: Overview" data-g-label="Canvas CTA" href="/analytics/contact-us/">Talk to sales</a> </p> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="section-hero-media"> 
+     <div class="hero-image"></div> 
+    </div>
+    <a class="fab fab-bottom-center google-blue gweb-smoothscroll-control" data-g-action="Click To Scroll" data-g-event="Audience Center: Overview" data-g-label="Canvas" href="#quotation">
+     <svg class="icon-fab-scroll" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+      <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"></polygon>
+     </svg> <img alt="scroll icon" class="icon-fab-scroll" height="14" src="//www.google.com/ads/images/icons/icon-fab-scroll.png" width="14"></a> 
+   </section> 
+   <section class="section section-quote blue quotation section-dark" id="quotation"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-12"> 
+       <blockquote class="section-quote-quotation text-align-center">
+         “Audience Center 360 helps us in our daily business to easily access and understand our data. It is also simple to make this data actionable by creating new audiences and pushing them to other products with a couple of clicks.” 
+       </blockquote>
+       <cite class="font-medium section-quote-source text-align-center"><strong>Julia Stern</strong> - VP Performance Marketing, Zalando AG</cite> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-capabilities section-overview-capabilities"> 
+    <div class="site-width"> 
+     <h4 class="section-sub-heading border-deep-teal"> Capabilities </h4> 
+     <div class="capabilities-list"> 
+      <div class="cols-row"> 
+       <div class="vertical-offset col-5"> 
+        <div class="capabilities-icon"> 
+         <svg enable-background="new 0 0 32 32" height="32px" version="1.1" viewbox="0 0 32 32" width="32px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M18,0c-0.4,0-0.8,0-1.2,0.1C13.4,0.4,10.4,2,8.3,4.6c-2.1,2.6-3.1,5.8-2.8,9.1c0.2,2.3,1.1,4.5,2.6,6.4 l0.1,0.1l-0.1,0.1c0,0,0,0,0,0l-5.8,7.3c-0.5,0.6-0.7,1.3-0.6,2c0.1,0.7,0.4,1.4,1,1.8c0.6,0.5,1.3,0.7,2,0.6 c0.7-0.1,1.4-0.4,1.8-1l5.8-7.3c0,0,0-0.1,0.1-0.1l0.1-0.1l0.1,0.1c2.1,1,4.5,1.5,6.8,1.2C26,24.1,31,18,30.3,11.2 C29.7,4.8,24.3,0,18,0z M17.8,21.3c-4.4,0-8.2-3.3-8.6-7.8c-0.5-4.7,3-9,7.8-9.5c4.8-0.5,9,3,9.5,7.7c0.2,2.3-0.4,4.5-1.9,6.3 C23,19.9,21,21,18.7,21.2l0,0C18.4,21.3,18.1,21.3,17.8,21.3z"> 
+          </path> 
+          <path d="M22.3,10.3h-1.6c-0.4,0-0.7,0.3-0.7,0.7v5c0,0.4,0.3,0.7,0.7,0.7h1.6c0.4,0,0.7-0.3,0.7-0.7v-5 C23.1,10.6,22.7,10.3,22.3,10.3z"> 
+          </path> 
+          <path d="M18.3,7.4h-1.6c-0.4,0-0.7,0.3-0.7,0.7V16c0,0.4,0.3,0.7,0.7,0.7h1.6c0.4,0,0.7-0.3,0.7-0.7V8.1 C19,7.7,18.7,7.4,18.3,7.4z"> 
+          </path> 
+          <path d="M14.3,13.4h-1.6c-0.4,0-0.7,0.3-0.7,0.7V16c0,0.4,0.3,0.7,0.7,0.7h1.6c0.4,0,0.7-0.3,0.7-0.7v-1.9 C15,13.7,14.7,13.4,14.3,13.4z"> 
+          </path>
+         </svg> 
+         <img alt="search graph icon" height="32" src="//www.google.com/ads/images/icons/icon-ui-searchgraph.png" width="32"> 
+        </div> 
+        <h3> Discover unique audience insights with a unified customer view. </h3> 
+        <p> Develop an understanding of your customers that is only possible when you bring together all your data ― analytics, campaign, email, and CRM ― and enhance it with third-party and Google data. </p> 
+       </div> 
+       <div class="vertical-offset col-5 col-offset-1"> 
+        <div class="capabilities-icon"> 
+         <svg enable-background="new 0 0 32 32" height="32px" version="1.1" viewbox="0 0 32 32" width="32px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M9.1,18.5c-0.2,0.2-0.3,0.4-0.4,0.7c-0.1,0.3,0,0.7,0.2,0.9l6,9.3c1.6,2.5,4.4,2.8,6.4,2.3 c2.3-0.6,4.8-2.6,4.9-5.7l0.4-7.7c0-0.3-0.1-0.6-0.3-0.8c-0.3-0.3-0.6-0.4-0.9-0.4c-0.4,0-0.8,0.2-1,0.5c-0.2,0.2-0.4,0.3-0.7,0.3 c-0.3-0.1-0.4-0.3-0.5-0.5c-0.1-0.6-0.6-1.1-1.2-1.1c-0.4,0-0.8,0.2-1,0.5c-0.2,0.2-0.4,0.3-0.7,0.3c-0.3-0.1-0.4-0.3-0.5-0.5 c-0.1-0.6-0.2-1.1-1.2-1.2c-0.7,0-0.8,0.2-1,0.5c-0.2,0.2-0.5,0.2-0.7,0.2c-0.2-0.1-0.4-0.3-0.4-0.6l0-5c0-0.7-0.5-1.3-1.3-1.3 c-0.3,0-0.7,0.1-0.9,0.4s-0.4,0.5-0.4,0.9l0,10.9c0,0.3-0.2,0.5-0.5,0.6c-0.2,0.1-0.6,0-0.7-0.3l-1.4-1.9 C10.9,19.2,10.3,17.8,9.1,18.5z"> 
+          </path> 
+          <path d="M10.2,10.8H6.4c-0.6,0-1-0.5-1-1s0.5-1,1-1h3.7c0.6,0,1,0.5,1,1S10.8,10.8,10.2,10.8z"> 
+          </path> 
+          <path d="M24,10.8h-3.7c-0.6,0-1-0.5-1-1s0.5-1,1-1H24c0.6,0,1,0.5,1,1S24.6,10.8,24,10.8z"> 
+          </path> 
+          <path d="M15.2,5.8c-0.6,0-1-0.5-1-1V1c0-0.6,0.5-1,1-1s1,0.5,1,1v3.7C16.3,5.3,15.8,5.8,15.2,5.8z"> 
+          </path> 
+          <path d="M18.8,7.3c-0.3,0-0.5-0.1-0.7-0.3c-0.4-0.4-0.4-1,0-1.4l2.7-2.6c0.4-0.4,1-0.4,1.4,0s0.4,1,0,1.4L19.5,7 C19.3,7.2,19.1,7.3,18.8,7.3z"> 
+          </path> 
+          <path d="M11.7,7.3c-0.3,0-0.5-0.1-0.7-0.3L8.3,4.3c-0.4-0.4-0.4-1,0-1.4c0.4-0.4,1-0.4,1.4,0l2.6,2.6c0.4,0.4,0.4,1,0,1.4 C12.2,7.2,11.9,7.3,11.7,7.3z"> 
+          </path>
+         </svg> 
+         <img alt="hand tap icon" height="32" src="//www.google.com/ads/images/icons/icon-ui-handtap.png" width="32"> 
+        </div> 
+        <h3> Take action everywhere. </h3> 
+        <p> Native integration with Google's AdWords and DoubleClick products, plus integrations with third-party platforms like DSPs, make it easy to turn what you learn into better ads. </p> 
+       </div> 
+       <div class="vertical-offset col-5"> 
+        <div class="capabilities-icon"> 
+         <svg class="icon-lightbulb-outline" enable-background="new 0 0 24 24" height="32px" version="1.1" viewbox="0 0 24 24" width="32px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M9 21c0 .55.45 1 1 1h4c.55 0 1-.45 1-1v-1H9v1zm3-19C8.14 2 5 5.14 5 9c0 2.38 1.19 4.47 3 5.74V17c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2.26c1.81-1.27 3-3.36 3-5.74 0-3.86-3.14-7-7-7zm2.85 11.1l-.85.6V16h-4v-2.3l-.85-.6C7.8 12.16 7 10.63 7 9c0-2.76 2.24-5 5-5s5 2.24 5 5c0 1.63-.8 3.16-2.15 4.1z"></path> 
+         </svg> 
+         <img alt="lightbulb outline icon" class="" height="32" src="//www.google.com/ads/images/icons/icon-lightbulb-outline.png" width="32"> 
+        </div> 
+        <h3> Get insights on day one. </h3> 
+        <p> Integrations with the Google Analytics 360 Suite and Doubleclick Digital Marketing eliminate the need for retagging, so you can be up and running in as little as 24 hours. </p> 
+       </div> 
+       <div class="vertical-offset col-5 col-offset-1"> 
+        <div class="capabilities-icon"> 
+         <svg enable-background="new 0 0 32 32" height="32px" version="1.1" viewbox="0 0 32 32" width="32px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M16,24.311c-4.584,0-8.312-3.729-8.312-8.311S11.416,7.689,16,7.689c4.582,0,8.311,3.729,8.311,8.311 S20.582,24.311,16,24.311 M16,9.689c-3.48,0-6.312,2.83-6.312,6.311S12.52,22.311,16,22.311s6.311-2.83,6.311-6.311 S19.48,9.689,16,9.689"> 
+          </path> 
+          <path d="M19.518,16c0,1.941-1.576,3.518-3.518,3.518S12.482,17.941,12.482,16s1.576-3.518,3.518-3.518S19.518,14.059,19.518,16"> 
+          </path> 
+          <path d="M16,29.309C8.66,29.309,2.691,23.338,2.691,16C2.691,8.66,8.66,2.691,16,2.691S29.309,8.66,29.309,16 C29.309,23.338,23.34,29.309,16,29.309 M16,4.691C9.764,4.691,4.691,9.764,4.691,16S9.764,27.309,16,27.309S27.309,22.236,27.309,16 S22.236,4.691,16,4.691"> 
+          </path>
+         </svg> 
+        </div> 
+        <h3> Focus on what matters. </h3> 
+        <p> Analysis tools designed to improve your marketing allow you to see where your audiences overlap, learn which ad frequencies work best, and build lookalike audiences for your best-performing customers. </p> 
+       </div> 
+      </div> 
+      <p class="vertical-offset"> <a class="link-more" data-g-action="Learn More" data-g-event="Audience Center: Overview" data-g-label="Capabilities" href="/analytics/audience-center/capabilities/">Learn more 
+        <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+         </path>
+        </svg></a> </p> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-overview-integrations google-yellow font-dark"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-6"> 
+       <h4 class="section-sub-heading border-blue font-dark"> Integrations </h4> 
+       <h2> Strengthen your advertising with smarter integrations. </h2> 
+       <p class="font-large"> Audience Center 360 features an open platform, which allows for seamless integration with your favorite digital advertising solutions, such as DoubleClick, AdWords, and other third-party platforms — making it easy for your organization to instantly access insights and optimize your advertising. </p> 
+       <p> <a class="link-more" data-g-action="Learn More" data-g-event="Audience Center: Overview" data-g-label="Integrations" href="/analytics/audience-center/features/">Learn more 
+         <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+          </path>
+         </svg></a> </p> 
+       <div class="hidden-s section-image-s vertical-offset"> 
+        <picture>
+         <source media="(min-width: 768px)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"> 
+         <img alt="" srcset="../../analytics/images/audience-center/overview/integrations_m_1x.png, ../../analytics/images/audience-center/overview/integrations_m_2x.png 2x"> 
+        </picture> 
+       </div> 
+      </div> 
+      <div class="hidden-xs col-5 section-image device-animation-right" data-rs-trigger=""> 
+       <picture>
+        <source media="(min-width: 768px)" srcset="../../analytics/images/audience-center/overview/integrations_1x.png, ../../analytics/images/audience-center/overview/integrations_2x.png 2x"> 
+        <img alt="" class="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+       </picture> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-suite section-hero"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="section-hero-copy col-7 col-offset-5"> 
+       <h4 class="section-sub-heading border-blue"> The 360 suite advantage </h4> 
+       <h2> Seven measurement solutions. One powerful package. </h2> 
+       <p class="font-large"> The Google Analytics 360 Suite combines enterprise analytics, tagging, site optimization, data visualization, market research, attribution, and audience management into a powerful measurement solution for your business. Designed to deliver a seamless user experience, cross-product data integration helps your enterprise gain useful insights and get better results every day. </p> 
+       <p class="font-large"> If you need assistance, dedicated support and services ensure that help is there when you need it. </p> 
+       <p> <a class="button cta-main" data-g-action="Talk To Sales" data-g-event="Audience Center: Overview" data-g-label="The 360 Advantage CTA" href="../../analytics/contact-us/">Talk to sales</a> <a class="link-more" data-g-action="Learn More" data-g-event="Audience Center: Overview" data-g-label="The 360 Advantage" href="../../analytics/360-suite/">Learn more 
+         <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+          </path>
+         </svg></a> </p> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="section-hero-media"> 
+     <div class="hero-image overview-suite-image"></div> 
+    </div> 
+   </section> 
+   <section class="section section-dark section-success-overview google-red"> 
+    <div class="site-width"> 
+     <h4 class="section-sub-heading border-yellow"> Success Stories </h4> 
+     <h2> Our Customers </h2> 
+     <div class="cols-row cards-row"> 
+      <div class="col-6 col-m-4 card card-success" id=""> 
+       <div class="card-inner"> 
+        <div class="card-success-logo card-logo"> 
+         <img alt="BT" src="/analytics/images/shared/success/BT_240.png"> 
+        </div> 
+        <div class="card-success-content"> 
+         <h3> BT </h3> 
+         <p> BT uses Analytics 360 with DoubleClick Bid Manager to increase sales volume and efficiency. </p> 
+        </div>
+        <a class="link-more" data-g-action="View PDF" data-g-event="Audience Center: Overview" data-g-label="Success Story: BT" data-g-ssindustry="Telecommunications" data-g-ssproduct="Analytics" href="https://services.google.com/fh/files/misc/ga360_bt_case_study_v3.pdf" target="success_pdfs">
+         <svg class="icon-pdf" enable-background="new 0 0 32 32" height="24px" version="1.1" viewbox="0 0 32 32" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M19.6,18.3c-1.3-1.4-2.7-3.5-3.7-5.5c1-4.1,0.3-4.9,0.1-5.2c-0.2-0.3-0.6-0.5-0.9-0.5c-0.2,0-0.3,0-0.5,0.1 c-0.4,0.1-0.7,0.4-0.9,0.9c-0.5,1.2,0.2,3.3,0.9,4.8c-0.6,2.5-1.7,5.4-2.8,7.8C9,22,7.6,23.2,7.4,24.4c0,0.4,0.1,1.1,0.8,1.6 c0.2,0.2,0.5,0.2,0.7,0.2c0.6,0,1.3-0.5,2-1.5c0.5-0.8,1.1-1.8,1.7-3.1c1.9-0.8,4.4-1.6,6.4-2.1c1.1,1.1,2.2,1.7,3.1,1.7 c0.7,0,1.2-0.3,1.6-0.9s0.5-1.1,0.3-1.6c-0.3-0.5-1-0.8-2.1-0.8C21.4,18.1,20.6,18.1,19.6,18.3z M9,25.1c-0.3-0.3-0.3-0.4-0.3-0.5 c0-0.4,0.7-1.1,2.2-2C9.8,24.8,9.1,25.1,9,25.1z M14.8,8.6c0-0.1,0.1-0.2,0.2-0.2h0.1c0.1,0.2,0.2,0.8,0,2.4 C14.8,9.9,14.6,9,14.8,8.6z M13.5,20.1c0.7-1.8,1.4-3.7,1.9-5.5c0.8,1.5,1.8,2.9,2.8,4C16.7,19,15,19.5,13.5,20.1z M22.9,19.7 c-0.2,0.3-0.4,0.4-0.6,0.4c-0.4,0-0.9-0.2-1.5-0.7c0.5-0.1,0.9-0.1,1.3-0.1c0.6,0,0.9,0.1,1,0.1C23,19.5,23,19.6,22.9,19.7z"> 
+          </path> 
+          <path d="M28.9,7.2c0-0.2-0.1-0.5-0.2-0.7l-6.3-6.3C22.1,0,21.8,0,21.4,0l0,0H6.7c-2,0-3.6,1.6-3.6,3.6v24.8c0,2,1.6,3.6,3.6,3.6 h18.6c2,0,3.6-1.6,3.6-3.6V7.2L28.9,7.2z M26.8,7.2h-3.3c-1,0-1.8,0-1.8-1.8L21.5,2L26.8,7.2z M27.1,28.4c0,1-0.8,1.8-1.8,1.8H6.7 c-1,0-1.8-0.8-1.8-1.8V3.6c0-1,0.8-1.8,1.8-1.8h13l0.1,3.6C19.8,9,22.5,9,23.4,9h3.7L27.1,28.4L27.1,28.4z"> 
+          </path>
+         </svg> <img alt="pdf icon" class="icon-pdf" height="24" src="//www.google.com/ads/images/icons/icon-pdf.png" width="24"> View PDF</a> 
+       </div> 
+      </div> 
+      <div class="col-6 col-m-4 card card-success" id=""> 
+       <div class="card-inner"> 
+        <div class="card-success-logo card-logo"> 
+         <img alt="Matalan" src="/analytics/images/shared/success/Matalan_240.png"> 
+        </div> 
+        <div class="card-success-content"> 
+         <h3> Matalan </h3> 
+         <p> Using Analytics 360 integrated with DoubleClick Campaign, Matalan sees a 28% year over year increase in conversion rate, leading to increases in visits and revenue. </p> 
+        </div>
+        <a class="link-more" data-g-action="View PDF" data-g-event="Audience Center: Overview" data-g-label="Success Story: Matalan" data-g-ssindustry="Retail" data-g-ssproduct="Analytics" href="https://services.google.com/fh/files/misc/ga360_matalan_case_study_v3.pdf" target="success_pdfs">
+         <svg class="icon-pdf" enable-background="new 0 0 32 32" height="24px" version="1.1" viewbox="0 0 32 32" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M19.6,18.3c-1.3-1.4-2.7-3.5-3.7-5.5c1-4.1,0.3-4.9,0.1-5.2c-0.2-0.3-0.6-0.5-0.9-0.5c-0.2,0-0.3,0-0.5,0.1 c-0.4,0.1-0.7,0.4-0.9,0.9c-0.5,1.2,0.2,3.3,0.9,4.8c-0.6,2.5-1.7,5.4-2.8,7.8C9,22,7.6,23.2,7.4,24.4c0,0.4,0.1,1.1,0.8,1.6 c0.2,0.2,0.5,0.2,0.7,0.2c0.6,0,1.3-0.5,2-1.5c0.5-0.8,1.1-1.8,1.7-3.1c1.9-0.8,4.4-1.6,6.4-2.1c1.1,1.1,2.2,1.7,3.1,1.7 c0.7,0,1.2-0.3,1.6-0.9s0.5-1.1,0.3-1.6c-0.3-0.5-1-0.8-2.1-0.8C21.4,18.1,20.6,18.1,19.6,18.3z M9,25.1c-0.3-0.3-0.3-0.4-0.3-0.5 c0-0.4,0.7-1.1,2.2-2C9.8,24.8,9.1,25.1,9,25.1z M14.8,8.6c0-0.1,0.1-0.2,0.2-0.2h0.1c0.1,0.2,0.2,0.8,0,2.4 C14.8,9.9,14.6,9,14.8,8.6z M13.5,20.1c0.7-1.8,1.4-3.7,1.9-5.5c0.8,1.5,1.8,2.9,2.8,4C16.7,19,15,19.5,13.5,20.1z M22.9,19.7 c-0.2,0.3-0.4,0.4-0.6,0.4c-0.4,0-0.9-0.2-1.5-0.7c0.5-0.1,0.9-0.1,1.3-0.1c0.6,0,0.9,0.1,1,0.1C23,19.5,23,19.6,22.9,19.7z"> 
+          </path> 
+          <path d="M28.9,7.2c0-0.2-0.1-0.5-0.2-0.7l-6.3-6.3C22.1,0,21.8,0,21.4,0l0,0H6.7c-2,0-3.6,1.6-3.6,3.6v24.8c0,2,1.6,3.6,3.6,3.6 h18.6c2,0,3.6-1.6,3.6-3.6V7.2L28.9,7.2z M26.8,7.2h-3.3c-1,0-1.8,0-1.8-1.8L21.5,2L26.8,7.2z M27.1,28.4c0,1-0.8,1.8-1.8,1.8H6.7 c-1,0-1.8-0.8-1.8-1.8V3.6c0-1,0.8-1.8,1.8-1.8h13l0.1,3.6C19.8,9,22.5,9,23.4,9h3.7L27.1,28.4L27.1,28.4z"> 
+          </path>
+         </svg> <img alt="pdf icon" class="icon-pdf" height="24" src="//www.google.com/ads/images/icons/icon-pdf.png" width="24"> View PDF</a> 
+       </div> 
+      </div> 
+      <div class="col-6 col-m-4 card card-success" id=""> 
+       <div class="card-inner"> 
+        <div class="card-success-logo card-logo"> 
+         <img alt="eFinancialCareers" src="/analytics/images/shared/success/Efc_240.png"> 
+        </div> 
+        <div class="card-success-content"> 
+         <h3> eFinancialCareers </h3> 
+         <p> eFinancialCareers boosts conversions by 423% after integrating Analytics 360 and DoubleClick Bid Manager. </p> 
+        </div>
+        <a class="link-more" data-g-action="View PDF" data-g-event="Audience Center: Overview" data-g-label="Success Story: eFinancialCareers" data-g-ssindustry="Services" data-g-ssproduct="Analytics" href="https://services.google.com/fh/files/misc/ga360_efinancialcareers_case_study_v3.pdf" target="success_pdfs">
+         <svg class="icon-pdf" enable-background="new 0 0 32 32" height="24px" version="1.1" viewbox="0 0 32 32" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M19.6,18.3c-1.3-1.4-2.7-3.5-3.7-5.5c1-4.1,0.3-4.9,0.1-5.2c-0.2-0.3-0.6-0.5-0.9-0.5c-0.2,0-0.3,0-0.5,0.1 c-0.4,0.1-0.7,0.4-0.9,0.9c-0.5,1.2,0.2,3.3,0.9,4.8c-0.6,2.5-1.7,5.4-2.8,7.8C9,22,7.6,23.2,7.4,24.4c0,0.4,0.1,1.1,0.8,1.6 c0.2,0.2,0.5,0.2,0.7,0.2c0.6,0,1.3-0.5,2-1.5c0.5-0.8,1.1-1.8,1.7-3.1c1.9-0.8,4.4-1.6,6.4-2.1c1.1,1.1,2.2,1.7,3.1,1.7 c0.7,0,1.2-0.3,1.6-0.9s0.5-1.1,0.3-1.6c-0.3-0.5-1-0.8-2.1-0.8C21.4,18.1,20.6,18.1,19.6,18.3z M9,25.1c-0.3-0.3-0.3-0.4-0.3-0.5 c0-0.4,0.7-1.1,2.2-2C9.8,24.8,9.1,25.1,9,25.1z M14.8,8.6c0-0.1,0.1-0.2,0.2-0.2h0.1c0.1,0.2,0.2,0.8,0,2.4 C14.8,9.9,14.6,9,14.8,8.6z M13.5,20.1c0.7-1.8,1.4-3.7,1.9-5.5c0.8,1.5,1.8,2.9,2.8,4C16.7,19,15,19.5,13.5,20.1z M22.9,19.7 c-0.2,0.3-0.4,0.4-0.6,0.4c-0.4,0-0.9-0.2-1.5-0.7c0.5-0.1,0.9-0.1,1.3-0.1c0.6,0,0.9,0.1,1,0.1C23,19.5,23,19.6,22.9,19.7z"> 
+          </path> 
+          <path d="M28.9,7.2c0-0.2-0.1-0.5-0.2-0.7l-6.3-6.3C22.1,0,21.8,0,21.4,0l0,0H6.7c-2,0-3.6,1.6-3.6,3.6v24.8c0,2,1.6,3.6,3.6,3.6 h18.6c2,0,3.6-1.6,3.6-3.6V7.2L28.9,7.2z M26.8,7.2h-3.3c-1,0-1.8,0-1.8-1.8L21.5,2L26.8,7.2z M27.1,28.4c0,1-0.8,1.8-1.8,1.8H6.7 c-1,0-1.8-0.8-1.8-1.8V3.6c0-1,0.8-1.8,1.8-1.8h13l0.1,3.6C19.8,9,22.5,9,23.4,9h3.7L27.1,28.4L27.1,28.4z"> 
+          </path>
+         </svg> <img alt="pdf icon" class="icon-pdf" height="24" src="//www.google.com/ads/images/icons/icon-pdf.png" width="24"> View PDF</a> 
+       </div> 
+      </div> 
+     </div> 
+     <p class="success-stories-all"> <a class="link-more" data-g-action="See All Success Stories" data-g-event="Audience Center: Overview" data-g-label="Success Stories" href="/analytics/success-stories/">See all Success Stories 
+       <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+        </path>
+       </svg></a> </p> 
+    </div> 
+   </section> 
+   <section class="section light-gray featuredcontent-list"> 
+    <div class="site-width"> 
+     <h4 class="section-sub-heading border-blue"> Featured Resources </h4> 
+     <div class="cols-row"> 
+      <a class="glue-filter-result col-6 col-m-4 card card-featuredcontent" data-g-action="Product Overview" data-g-event="Audience Center: Overview" data-g-frtopic="Audiences and Segmentation" data-g-frtype="Product Overview" data-g-label="Resource: See your audience from multiple perspectives." href="/analytics/resources/product-overview-audience-center-360.html"> 
+       <div class="card-inner"> 
+        <div class="doctype-container"> 
+         <span class="doctype doctype-overview">
+          <svg enable-background="new 0 0 32 32" height="24px" version="1.1" viewbox="0 0 32 32" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <path d="M24.2,21.6 M25.2,24.7l4.3,4.4c0.3,0.3,0.7,0.4,1.1,0.4c0.4,0,0.8-0.1,1.1-0.4c0.6-0.6,0.6-1.5,0-2.1l-4.3-4.4l0,0 c1.2-1.7,2-3.8,2-6c0-4.4-2.8-8.2-6.8-9.6V2.3c0-0.7-0.6-1.3-1.3-1.3H1.3C0.6,1,0,1.6,0,2.3v27.3C0,30.4,0.6,31,1.3,31h19.8 c0.7,0,1.3-0.6,1.3-1.3v-3.6C23.4,25.8,24.3,25.3,25.2,24.7 M24.2,21.6 M19.8,28.3H2.7V3.7h17.2v2.8c-0.2,0-0.4,0-0.6,0 c-1.7,0-3.3,0.5-4.8,1.2H5.3v2h6.6c-0.7,0.8-1.3,1.7-1.8,2.7H5.3v2h4.1c-0.2,0.7-0.2,1.5-0.2,2.2c0,0.1,0,0.3,0,0.4H5.3v2h4.2 c0.2,0.9,0.6,1.8,1.1,2.7H5.3v2h6.8c1.8,1.8,4.3,3,7.1,3c0.2,0,0.4,0,0.6,0V28.3z M22.5,22.8c-0.8,0.4-1.7,0.7-2.6,0.8 c-0.2,0-0.4,0-0.6,0c-0.5,0-0.9,0-1.3-0.1c-1.4-0.3-2.6-0.9-3.5-1.9C13.6,20.9,13,20,12.6,19c-0.2-0.6-0.4-1.3-0.4-2 c0-0.1,0-0.3,0-0.4c0-0.8,0.1-1.5,0.4-2.2c0.2-0.7,0.6-1.4,1-2c1-1.3,2.3-2.3,3.9-2.7c0,0,1.3-0.2,1.7-0.2c0.2,0,0.4,0,0.6,0 c0.9,0.1,1.8,0.4,2.6,0.8c2.3,1.2,3.8,3.6,3.8,6.3S24.7,21.6,22.5,22.8z"> 
+           </path>
+          </svg> <img alt="overview icon" height="24" src="//www.google.com/ads/images/icons/icon-doctype-overview.png" width="24"></span> 
+         <h4 class="doctype-productoverview-title"> Product Overview </h4> 
+        </div> 
+        <p class="topic"> Audiences and Segmentation </p> 
+        <h3> See your audience from multiple perspectives. </h3> 
+        <p> Learn more about how Audience Center 360 helps you understand the full customer context to make your brand relevant at every moment. </p>
+        <svg class="icon-arrow-related" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <polygon points="16,0 13.2,2.8 24.3,14 0,14 0,18 24.3,18 13.2,29.2 16,32 32,16"> 
+         </polygon>
+        </svg> 
+        <img alt="related arrow icon" class="icon-arrow-related" height="16" src="//www.google.com/ads/images/icons/icon-arrow-related.png" width="16"> 
+       </div></a> 
+      <a class="glue-filter-result col-6 col-m-4 card card-featuredcontent" data-g-action="Report" data-g-event="Audience Center: Overview" data-g-frtopic="Measurement Strategy" data-g-frtype="Report" data-g-label="Resource: Econsultancy report: The customer experience is written in data." href="/analytics/resources/report-econsultancy-google-the-customer-experience-is-written-in-data.html"> 
+       <div class="card-inner"> 
+        <div class="doctype-container"> 
+         <span class="doctype doctype-report">
+          <svg enable-background="new 0 0 24 24" height="24px" version="1.1" viewbox="0 0 24 24" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"></path> 
+          </svg> <img alt="report icon" height="24" src="//www.google.com/ads/images/icons/icon-content-copy.png" width="24"></span> 
+         <h4 class="doctype-report-title"> Report </h4> 
+        </div> 
+        <p class="topic"> Measurement Strategy </p> 
+        <h3> Econsultancy report: The customer experience is written in data. </h3> 
+        <p> Research conducted by Econsultancy in 2017 reveals why and how the most successful brands are putting data at the center of marketing strategy. Learn how leaders integrate data, teams, and tech. </p>
+        <svg class="icon-arrow-related" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <polygon points="16,0 13.2,2.8 24.3,14 0,14 0,18 24.3,18 13.2,29.2 16,32 32,16"> 
+         </polygon>
+        </svg> 
+        <img alt="related arrow icon" class="icon-arrow-related" height="16" src="//www.google.com/ads/images/icons/icon-arrow-related.png" width="16"> 
+       </div></a> 
+      <a class="glue-filter-result col-6 col-m-4 card card-featuredcontent" data-g-action="Whitepaper" data-g-event="Audience Center: Overview" data-g-frtopic="Measurement Strategy" data-g-frtype="Whitepaper" data-g-label="Resource: Discover how marketing analytics increases business performance." href="/analytics/resources/whitepaper-discover-how-marketing-analytics-increases-business-performance.html"> 
+       <div class="card-inner"> 
+        <div class="doctype-container"> 
+         <span class="doctype doctype-whitepaper">
+          <svg enable-background="new 0 0 32 32" height="24px" version="1.1" viewbox="0 0 32 32" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <path d="M28.5,10.1l-9.9-9.8C18.3,0.1,18,0,17.7,0H4.4C3.7,0,3.1,0.6,3.1,1.3v29.5c0,0.7,0.6,1.3,1.3,1.3h23.2 c0.7,0,1.3-0.6,1.3-1.3V11C28.9,10.7,28.7,10.4,28.5,10.1z M26.4,29.5H5.6v-27h11.5l9.2,9V29.5z"> 
+           </path> 
+           <rect height="2" width="15" x="8" y="16"></rect> 
+           <rect height="2" width="15" x="8" y="20"></rect> 
+           <rect height="2" width="15" x="8" y="24"></rect> 
+           <path d="M16.3,5.7v6.2c0,0.2,0.1,0.7,0.3,0.7h6c0.4,0,0.6-0.6,0.3-0.8l-6-6.3C16.7,5.1,16.3,5.3,16.3,5.7z"> 
+           </path>
+          </svg> <img alt="whitepaper icon" height="24" src="//www.google.com/ads/images/icons/icon-doctype-whitepaper.png" width="24"></span> 
+         <h4 class="doctype-whitepaper-title"> Whitepaper </h4> 
+        </div> 
+        <p class="topic"> Measurement Strategy </p> 
+        <h3> Discover how marketing analytics increases business performance. </h3> 
+        <p> Discover the key analytics and measurement challenges that marketers face today and how successful marketing organizations are addressing them. </p>
+        <svg class="icon-arrow-related" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <polygon points="16,0 13.2,2.8 24.3,14 0,14 0,18 24.3,18 13.2,29.2 16,32 32,16"> 
+         </polygon>
+        </svg> 
+        <img alt="related arrow icon" class="icon-arrow-related" height="16" src="//www.google.com/ads/images/icons/icon-arrow-related.png" width="16"> 
+       </div></a> 
+     </div> 
+     <div class="cols-row cta"> 
+      <a class="link-more" data-g-action="See All Resources" data-g-event="Audience Center: Overview" data-g-label="Featured Resources" href="/analytics/resources/?topic=audiences-and-segmentation">See All Resources 
+       <svg class="icon-arrow-more" enable-background="new 0 0 32 32" height="14px" version="1.1" viewbox="0 0 32 32" width="14px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M16,0C7.2,0,0,7.2,0,16s7.2,16,16,16c8.8,0,16-7.2,16-16S24.8,0,16,0 M16,25.7L14.3,24l6.8-6.8H7v-2.4h14.1L14.3,8L16,6.3 l9.7,9.7L16,25.7z"> 
+        </path>
+       </svg></a> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <footer class="footer" id="footer" role="contentinfo"> 
+   <div class="site-width"> 
+    <div class="footer-upper cols-row"> 
+     <div class="footer-social col-6"> 
+      <dl> 
+       <dt>
+         Follow us on: 
+       </dt> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Audience Center: Overview" data-g-label="GPlus" href="https://plus.google.com/+GoogleAnalytics/" rel="noopener nofollow" target="_blank" title="Google+">
+         <svg class="icon-footer-gplus c1" height="20px" version="1.1" viewbox="0 0 23 15" width="30px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <polygon points="23,6 21,6 21,4 19,4 19,6 17,6 17,8 19,8 19,10 21,10 21,8 23,8"> 
+          </polygon> 
+          <path d="M11.8,8.9c-0.1,1.3-1.3,3.4-4.3,3.4c-2.6,0-4.6-2.1-4.6-4.7S5,2.9,7.5,2.9c1.5,0,2.4,0.6,3,1.1 l0,0l2-2c-1.3-1.2-3-2-5-2C3.4,0.1,0,3.5,0,7.6s3.4,7.5,7.5,7.5c4.3,0,7.2-3,7.2-7.3c0-0.6-0.1-1.1-0.2-1.5h-7V9L11.8,8.9L11.8,8.9 z"> 
+          </path>
+         </svg> <img alt="Google+" class="icon-footer-gplus" height="20" src="//www.google.com/ads/images/icons/icon-footer-gplus.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Audience Center: Overview" data-g-label="Blogger" href="https://analytics.googleblog.com/" rel="noopener" target="_blank" title="Blogger">
+         <svg class="icon-footer-blogger" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,0H3.2C1.4,0,0,1.4,0,3.2l0,25.6C0,30.6,1.4,32,3.2,32h25.6c1.8,0,3.2-1.4,3.2-3.2V3.2 C32,1.4,30.6,0,28.8,0 M22.4,11.2v1.6c0,0.9,0.7,1.6,1.6,1.6c0.9,0,1.6,0.7,1.6,1.6v4.8c0,2.7-2.1,4.8-4.8,4.8h-9.6 c-2.7,0-4.8-2.1-4.8-4.8V9.6c0-2.6,2.1-4.8,4.8-4.8h6.4c2.7,0,4.8,2.2,4.8,4.8V11.2z M12.7,12.8h4.2c0.9,0,1.6-0.7,1.6-1.6 s-0.7-1.6-1.6-1.6h-4.2c-0.9,0-1.6,0.7-1.6,1.6S11.8,12.8,12.7,12.8 M19.2,17.6h-6.5c-0.9,0-1.6,0.7-1.6,1.6c0,0.9,0.7,1.6,1.6,1.6 h6.5c0.9,0,1.6-0.7,1.6-1.6C20.8,18.3,20.1,17.6,19.2,17.6"> 
+          </path>
+         </svg> <img alt="Blogger" class="icon-footer-blogger" height="20" src="//www.google.com/ads/images/icons/icon-footer-blogger.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Audience Center: Overview" data-g-label="Linkedin" href="https://www.linkedin.com/company/google-analytics" rel="nofollow" target="_blank" title="LinkedIn">
+         <svg class="icon-footer-linkedin" enable-background="new 0 0 36 36" height="20px" version="1.1" viewbox="0 0 36 36" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M33.334,0.001H2.655C1.19,0.001,0,1.163,0,2.595v30.809c0,1.434,1.19,2.598,2.655,2.598h30.679 c1.468,0,2.667-1.164,2.667-2.598V2.595C36.001,1.163,34.802,0.001,33.334,0.001z M10.68,30.677H5.335V13.498h5.345V30.677z M8.009,11.148c-1.716,0-3.098-1.387-3.098-3.097c0-1.707,1.382-3.095,3.098-3.095c1.708,0,3.095,1.388,3.095,3.095 C11.104,9.761,9.717,11.148,8.009,11.148z M30.675,30.677H25.34v-8.354c0-1.992-0.038-4.556-2.774-4.556 c-2.779,0-3.203,2.17-3.203,4.411v8.498h-5.333V13.498h5.118v2.347h0.073c0.712-1.351,2.455-2.775,5.053-2.775 c5.402,0,6.401,3.557,6.401,8.184V30.677z"> 
+          </path>
+         </svg> <img alt="Linkedin" class="icon-footer-linkedin" height="20" src="//www.google.com/ads/images/icons/icon-footer-linkedin.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Audience Center: Overview" data-g-label="Twitter" href="https://twitter.com/googleanalytics" rel="nofollow" target="_blank" title="Twitter">
+         <svg class="icon-footer-twitter" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,0H3.2C1.4,0,0,1.4,0,3.2l0,25.6C0,30.6,1.4,32,3.2,32h25.6c1.8,0,3.2-1.4,3.2-3.2V3.2 C32,1.4,30.6,0,28.8,0z M25.1,11.7c-0.1,7.4-4.8,12.5-11.9,12.8c-2.9,0.1-5-0.8-6.9-2c2.2,0.3,4.8-0.5,6.2-1.7 c-2.1-0.2-3.4-1.3-3.9-3c0.6,0.1,1.2,0.1,1.8,0c-1.9-0.6-3.3-1.8-3.3-4.3C7.7,13.7,8.3,13.9,9,14c-1.4-0.8-2.5-3.8-1.3-5.7 c2.1,2.3,4.7,4.2,8.8,4.5c-1-4.5,4.9-6.9,7.4-3.9c1.1-0.2,1.9-0.6,2.7-1c-0.3,1-1,1.8-1.8,2.4c0.9-0.1,1.6-0.3,2.3-0.7 C26.8,10.3,25.9,11.1,25.1,11.7z"> 
+          </path>
+         </svg> <img alt="Twitter" class="icon-footer-twitter" height="20" src="//www.google.com/ads/images/icons/icon-footer-twitter.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a data-g-action="Follow Us" data-g-event="Audience Center: Overview" data-g-label="Youtube" href="https://www.youtube.com/user/googleanalytics" rel="noopener" target="_blank" title="YouTube">
+         <svg class="icon-footer-youtube" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,3.8c-1-0.3-6.9-0.6-12.8-0.6c-5.9,0-11.8,0.3-12.8,0.6C0.7,4.6,0,10.2,0,16s0.7,11.4,3.2,12.2c1,0.3,6.9,0.6,12.8,0.6 c5.9,0,11.8-0.3,12.8-0.6C31.3,27.4,32,21.8,32,16S31.3,4.7,28.8,3.8 M12.8,22.4V9.6l8.8,6.4L12.8,22.4z"> 
+          </path>
+         </svg> <img alt="YouTube" class="icon-footer-youtube" height="20" src="//www.google.com/ads/images/icons/icon-footer-youtube.png" width="20"></a> 
+       </dd> 
+      </dl> 
+     </div> 
+     <div class="footer-meta-links col-6"> 
+      <ul> 
+       <li> <a href="https://www.google.com/appsstatus#hl=en">Apps Status Dashboard</a> </li> 
+       <li> <a href="https://support.google.com/analytics/answer/7108387" target="_blank">Terms of Service</a> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <nav class="footer-nav cols-row"> 
+     <dl class="col-3"> 
+      <dt>
+        Learning &amp; Support 
+      </dt> 
+      <dd> 
+       <a href="https://support.google.com/analytics/go/analytics_solutions" rel="noopener" target="_blank">Help Center</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.en.advertisercommunity.com/t5/Google-Analytics/ct-p/Google_Analytics" rel="noopener" target="_blank">User Forum</a> 
+      </dd> 
+      <dd> 
+       <a href="https://analytics.google.com/analytics/gallery/#landing/start/" rel="noopener" target="_blank">Solutions Gallery</a> 
+      </dd> 
+      <dd> 
+       <a href="https://analytics.googleblog.com/" rel="noopener" target="_blank">Analytics Solution Blog</a> 
+      </dd> 
+      <dd> 
+       <a href="https://analyticsacademy.withgoogle.com/" rel="noopener" target="_blank">Analytics Academy</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/analytics/partners/search/apps" rel="noopener" target="_blank">Partner Gallery</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Developers 
+      </dt> 
+      <dd> 
+       <a href="https://developers.google.com/analytics/?hl=en" rel="noopener" target="_blank">Analytics Developer Site</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/tag-manager/?hl=en" rel="noopener" target="_blank">Tag Manager Developer Site</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/surveys/?hl=en" rel="noopener" target="_blank">Surveys Developer Site</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Related Products 
+      </dt> 
+      <dd> 
+       <a href="https://adwords.google.com/home/?subid=ww-ww-et-g-aw-a-rs_ga_solutions_1-!o2" rel="noopener" target="_blank">AdWords</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.doubleclickbygoogle.com/" rel="noopener" target="_blank">DoubleClick</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/adsense/start/?subid=ww-ww-et-analytics-site&amp;utm_source=internal&amp;utm_medium=et&amp;utm_campaign=analytics-site" rel="noopener" target="_blank">AdSense</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/admob/?subid=ww-ww-et-analytics-site&amp;utm_source=internal&amp;utm_medium=et&amp;utm_campaign=analytics-site" rel="noopener" target="_blank">AdMob</a> 
+      </dd> 
+      <dd> 
+       <a href="https://cloud.google.com/bigquery/?hl=en" rel="noopener" target="_blank">BigQuery</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        More from Google 
+      </dt> 
+      <dd> 
+       <a href="https://www.google.com/services/?subid=ww-ww-et-g-aw-a-rs_ga_solutions_2-!o2" rel="noopener" target="_blank">Business Solutions</a> 
+      </dd> 
+      <dd> 
+       <a href="https://cloud.google.com/?hl=en" rel="noopener" target="_blank">Google Cloud Platform</a> 
+      </dd> 
+      <dd> 
+       <a href="https://apps.google.com/" rel="noopener" target="_blank">Google Apps for Work</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.thinkwithgoogle.com/topics/measurement.html" rel="noopener" target="_blank">Think with Google</a> 
+      </dd> 
+      <dd> 
+       <a href="https://testmysite.thinkwithgoogle.com/?utm_source=ga&amp;utm_medium=referral&amp;utm_content=ww-ww-ga" rel="noopener" target="_blank">Test My Site</a> 
+      </dd> 
+     </dl> 
+    </nav> 
+    <div class="footer-lower cols-row"> 
+     <div class="footer-meta-links col-9"> 
+      <ul> 
+       <li> <a href="https://support.google.com/analytics/?hl=en#topic=3544906">
+         <svg class="icon-footer-help" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path clip-rule="evenodd" d="M16 0C7.2 0 0 7.2 0 16c0 3 .9 5.9 2.3 8.3L0 32l7.7-2.3C10.2 31.1 13 32 16 32c8.8 0 16-7.2 16-16S24.8 0 16 0zm1.3 24.6c-.3.3-.7.5-1.2.5s-1-.2-1.2-.5c-.3-.3-.4-.7-.4-1.1 0-.2 0-.4.1-.6.1-.2.2-.4.3-.5.1-.1.3-.3.5-.3.2-.1.4-.1.7-.1.3 0 .5 0 .7.1.2.1.4.2.5.3.1.1.3.3.3.5.1.2.1.4.1.6 0 .5-.1.8-.4 1.1zm3.8-11.4c-.2.5-.4.9-.6 1.3l-.9 1.2c-.3.4-.7.8-1 1.1-.4.4-.7.9-.9 1.4-.2.5-.2.8-.3 1.8h-2.8c0-1 0-1.2.1-1.6.1-.4.2-1 .3-1.3.2-.3.4-.7.6-1 .2-.3.6-.7.9-1 .2-.3.5-.5.7-.7.2-.2.4-.5.6-.7.2-.3.3-.5.4-.8.1-.3.1-.6.1-1 0-.8-.2-1.4-.6-1.8-.4-.4-1-.6-1.7-.6-.3 0-.6.1-.9.1-.3.1-.5.2-.8.4s-.4.6-.5.8c-.1.3-.2 1.2-.2 1.2h-3c0-2 .2-1.6.4-2.2.3-.6.7-1.2 1.1-1.6.5-.4 1-.7 1.7-.9.8-.3 1.5-.4 2.2-.4.8 0 1.6.1 2.2.3.7.2 1.2.5 1.7.9s.8.9 1 1.5c.2.6.4 1.3.4 2.1 0 .6-.1 1.1-.2 1.5z" fill-rule="evenodd"></path>
+         </svg> <img alt="Help" class="icon-footer-help" height="20" src="//www.google.com/ads/images/icons/icon-footer-help.png" width="20"> Help</a> </li> 
+       <li> <a href="//www.google.com">Google</a> </li> 
+       <li> <a href="//www.google.com/intl/en/policies/privacy/">Privacy</a> </li> 
+       <li> <a href="//www.google.com/intl/en/policies/terms/">Terms</a> </li> 
+      </ul> 
+     </div> 
+     <div class="footer-locale-switcher col-3"> 
+      <label class="visually-hidden" for="footer-locales"><span>Change language or region:</span></label> 
+      <select class="footer-locales" id="footer-locales" onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="//www.google.com/intl/id/analytics/"> Bahasa Indonesia </option> <option value="//www.google.com/intl/ca/analytics/"> Català </option> <option value="//www.google.com/intl/cs/analytics/"> Čeština </option> <option value="//www.google.com/intl/da/analytics/"> Dansk </option> <option value="//www.google.com/intl/de/analytics/"> Deutsch </option> <option value="//www.google.com/intl/en/analytics/"> English </option> <option selected value="//www.google.com/intl/en/analytics/"> English </option> <option value="//www.google.co.uk/intl/en/analytics/"> English – United Kingdom </option> <option value="//www.google.com/intl/es/analytics/"> Español </option> <option value="//www.google.com/intl/tl/analytics/"> Filipino </option> <option value="//www.google.com/intl/fr/analytics/"> Français </option> <option value="//www.google.com/intl/it/analytics/"> Italiano </option> <option value="//www.google.com/intl/lt/analytics/"> Lietuvių </option> <option value="//www.google.com/intl/hu/analytics/"> Magyar </option> <option value="//www.google.com/intl/nl/analytics/"> Nederlands </option> <option value="//www.google.com/intl/no/analytics/"> Norsk </option> <option value="//www.google.com/intl/pl/analytics/"> Polski </option> <option value="//www.google.com/intl/pt-BR/analytics/"> Português (Brasil) </option> <option value="//www.google.com/intl/pt-PT/analytics/"> Português (Portugal) </option> <option value="//www.google.com/intl/sk/analytics/"> Slovenčina </option> <option value="//www.google.com/intl/fi/analytics/"> Suomi </option> <option value="//www.google.com/intl/sv/analytics/"> Svenska </option> <option value="//www.google.com/intl/vi/analytics/"> Tiếng Việt </option> <option value="//www.google.com/intl/tr/analytics/"> Türkçe </option> <option value="//www.google.com/intl/el/analytics/"> Ελληνικά </option> <option value="//www.google.com/intl/bg/analytics/"> Български </option> <option value="//www.google.com/intl/ru/analytics/"> Русский </option> <option value="//www.google.com/intl/th/analytics/"> ไทย </option> <option value="//www.google.com/intl/ko/analytics/"> 한국어 </option> <option value="//www.google.com/intl/zh-CN/analytics/"> 中文（简体中文） </option> <option value="//www.google.com/intl/zh-TW/analytics/"> 中文（繁體中文） </option> <option value="//www.google.com/intl/ja/analytics/"> 日本語 </option> </select> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <script src="//www.gstatic.com/external_hosted/picturefill/picturefill.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-messages.min.js"></script> 
+  <script src="/analytics/js/audience-center.min.js"></script> 
+  <noscript>
+   <iframe class="c2" height="0" src="//www.googletagmanager.com/ns.html?id=GTM-KLXF7H" width="0"></iframe>
+  </noscript>  
+ </body>
+</html>

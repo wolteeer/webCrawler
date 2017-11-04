@@ -1,0 +1,550 @@
+<!doctype html>
+<html lang="ro">
+ <head> 
+  <script>(function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)</script> 
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"> 
+  <meta charset="utf-8"> 
+  <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"> 
+  <meta property="og:url" content="www.google.com/intl/ro_ALL/drive/using-drive/"> 
+  <meta name="twitter:url" content="www.google.com/intl/ro_ALL/drive/using-drive/"> 
+  <meta name="twitter:title" content="Utilizarea Google Drive - noi funcții, beneficii și avantaje ale Google Cloud Storage"> 
+  <meta name="twitter:image" content="https://www.google.com/drive/static/images/drive/logo-drive.png"> 
+  <meta name="twitter:description" content="Aflați despre cele mai recente funcții și avantaje ale Google Drive, inclusiv integrarea Gmail, trimiterea și stocarea cu ușurință a fotografiilor, noi aplicații și altele."> 
+  <meta name="twitter:creator" content="google"> 
+  <!-- Open Graph --> 
+  <meta content="Utilizarea Google Drive - noi funcții, beneficii și avantaje ale Google Cloud Storage" property="og:title"> 
+  <meta content="https://www.google.com/drive/static/images/drive/logo-drive.png" property="og:image"> 
+  <meta content="Aflați despre cele mai recente funcții și avantaje ale Google Drive, inclusiv integrarea Gmail, trimiterea și stocarea cu ușurință a fotografiilor, noi aplicații și altele." property="og:description"> 
+  <meta property="og:type" content="website"> 
+  <!-- Doc Meta --> 
+  <title>Utilizarea Google Drive - noi funcții, beneficii și avantaje ale Google Cloud Storage</title> 
+  <meta content="Aflați despre cele mai recente funcții și avantaje ale Google Drive, inclusiv integrarea Gmail, trimiterea și stocarea cu ușurință a fotografiilor, noi aplicații și altele." name="description"> 
+  <link rel="prefetch" href="//www.google.com/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png"> 
+  <link rel="stylesheet" href="//www.gstatic.com/external_hosted/normalize/normalize.css"> 
+  <link rel="stylesheet" href="//www.google.com/css/maia.experimental.css"> 
+  <link rel="stylesheet" href="//www.google.com/css/gweb/lightbox.css"> 
+  <script src="//www.google.com/js/google.js"></script> 
+  <script>
+      var _gaq = _gaq || [];
+      _gaq.push(['_cookiePathCopy', '/a/']);
+      _gaq.push(['_cookiePathCopy', '/apps/']);
+      _gaq.push(['_cookiePathCopy', '/work/']);
+      _gaq.push(['_cookiePathCopy', '/work/apps/business/']);
+      _gaq.push(['_cookiePathCopy', '/intl/']);
+      _gaq.push(['_cookiePathCopy', '/intx/']);
+      _gaq.push(['_cookiePathCopy', '/work/']);
+    new gweb.analytics.AutoTrack({profile: "UA-28613865-1"});
+  </script> 
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Product+Sans" rel="stylesheet"> 
+  <!-- External Scripts --> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/modernizr.js"></script> 
+  <!-- Favicon --> 
+  <link href="/drive/static/images/drive/favicon.ico" rel="icon" type="image/png"> 
+  <!-- Stylesheet --> 
+  <link href="/drive/static/dist/css/main.min.css" rel="stylesheet"> 
+  <link rel="canonical" href="https://www.google.com/intl/ro_ALL/drive/using-drive/"> 
+ </head> 
+ <body class="using-drive nav-light"> 
+  <span itemscope itemtype="http://schema.org/LocalBusiness"> 
+   <!-- Header --> 
+   <header class="header" role="banner"> 
+    <div class="header-item with-site-logo"> 
+     <a class="site-logo site-logo-link" href="/intl/ro_ALL/drive/" data-g-event="Drive" data-g-action="Header" data-g-label="Drive logo"> 
+      <div class="lockup lockup--light js-lockup" dir="ltr"> 
+       <span class="lockup-logo js-site-logo-image"></span> 
+       <span class="lockup-text"></span> 
+       <span class="lockup-brand">Drive</span> 
+      </div> </a> 
+    </div> 
+    <nav class="nav-site" data-nav-name="mobile"> 
+     <img itemprop="image" alt="Drive logo" src="/drive/static/images/drive/logo-drive.png"> 
+     <ul> 
+      <li> <a class="meet" href="/intl/ro_ALL/drive/" data-g-event="Drive" data-g-action="Header" data-g-label="Faceți cunoștință cu Drive">Faceți cunoștință cu Drive</a> </li> 
+      <li> <a class="using-drive" href="/intl/ro_ALL/drive/using-drive/" data-g-event="Drive" data-g-action="Header" data-g-label="Cum se folosește Drive">Cum se folosește Drive</a> </li> 
+      <li> <a class="price" href="/intl/ro_ALL/drive/pricing/" data-g-event="Drive" data-g-action="Pricing" data-g-label="Prețuri">Prețuri</a> </li> 
+      <li class="mobile-is-hidden device-is-hidden"> <a class="download" href="/intl/ro_ALL/drive/download/" data-g-event="Drive" data-g-action="Header" data-g-label="Descărcați">Descărcați</a> </li> 
+      <li> <a class="work" href="//gsuite.google.com/intl/ro_ALL/driveforwork/?utm_medium=et&amp;utm_source=aboutdrive&amp;utm_content=consnav&amp;utm_campaign=ro" data-g-event="Drive" data-g-action="Header" data-g-label="Pentru birou">Pentru birou</a> </li> 
+      <li class="last-default"> <a class="help" href="//support.google.com/drive/answer/2424384?hl=ro" data-g-event="Drive" data-g-action="Header" data-g-label="Ajutor">Ajutor</a> </li> 
+      <li class="mobile-is-hidden float-in"> <a class="go-to-drive get-started" href="https://accounts.google.com/ServiceLogin?service=wise&amp;passive=true&amp;continue=http://drive.google.com/?utm_source=ro&amp;utm_medium=button&amp;utm_campaign=web&amp;utm_content=gotodrive&amp;usp=gtd&amp;ltmpl=drive" data-g-event="Drive" data-g-action="Header" data-g-label="Accesați Google Drive">Accesați Google Drive</a> </li> 
+      <li class="download-app mobile-is-visible crushed-is-visible"> <a class="download-mobile-android boxed-in" href="//play.google.com/store/apps/details?id=com.google.android.apps.docs&amp;hl=ro" data-g-event="Drive" data-g-action="Header" data-g-label="Descărcați pentru Android">Descărcați pentru Android</a> <a class="download-mobile-ios boxed-in" href="//itunes.apple.com/en/app/google-drive/id507874739" data-g-event="Drive" data-g-action="Header" data-g-label="Descărcați pentru iOS">Descărcați pentru iOS</a> <a class="download-mobile boxed-in get-started" href="" data-g-event="Drive" data-g-action="Header" data-g-label="Conectați-vă">Conectați-vă</a> </li> 
+     </ul> 
+    </nav> 
+    <div class="mobile-nav-toggle js-mobilenav"> 
+     <div class="icon icon-mobile-open toggle-nav-open js-mobilenav-toggle" data-target-nav="mobile"></div> 
+     <div class="icon icon-mobile-close toggle-nav-closed js-mobilenav-toggle-close" data-target-nav="mobile"></div> 
+    </div> 
+   </header> </span> 
+  <!-- End Header --> 
+  <!-- Intro section with photo background --> 
+  <section class="section-intro section-panel-fullscreen js-fullscreen"> 
+   <div class="section-photo-fullscreen section-photo js-parallax-image js-responsive-image" data-breakpoints="320,768,1024,1200,1600" data-known-dimensions="false" data-origin="0" data-preserve-aspect-ratio="false" data-reverse-parallax="true" data-src="/drive/static/images/features/intro.jpg"></div> 
+   <div class="section-centered section-vertical-align js-vertical-align js-parallax-image" data-origin="0" data-parallax-speed="3" data-reverse-parallax="true" data-parallax-fade="true"> 
+    <div class="one-whole"> 
+     <img alt="Drive logo" src="/drive/static/images/drive/logo-drive.png"> 
+     <h1 class="section-headline section-headline-large section-headline-white">Explorați funcțiile Drive de stocare</h1> 
+    </div> 
+   </div> 
+   <div class="arrow-hint"> 
+    <a href="#start" class="gweb-smoothscroll-control"> 
+     <div class="icon icon-arrow-hint animated-arrow-1"></div> 
+     <div class="icon icon-arrow-hint animated-arrow-2"></div> </a> 
+   </div> 
+  </section> 
+  <!-- scrollable wrapper --> 
+  <div class="unfixed-wrapper" id="start"> 
+   <!-- Space --> 
+   <section class="section-space section-divider js-hinted-fullscreen"> 
+    <div class="section-centered section-centered-text"> 
+     <h2 class="heading-headline">Fișierele dvs., alegerea dvs. - Funcțiile Drive</h2> 
+     <div class="tabs tabs-space js-tabs" data-tab-name="space-to-play"> 
+      <div class="tabs-list mobile-is-hidden"> 
+       <div class="tabs-tab one-quarter tabs-tab-first js-activate-tab" data-tab-target="space"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Spațiu de 15 GB">Spațiu de 15 GB</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter js-activate-tab" data-tab-target="file"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Păstrați orice fișier">Păstrați orice fișier</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter js-activate-tab" data-tab-target="share"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Trimiteți cum doriți">Trimiteți cum doriți</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter one-quarter tabs-tab-last js-activate-tab" data-tab-target="disaster"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="În siguranță">În siguranță</label> 
+       </div> 
+      </div> 
+      <div class="tabs-content with-select js-tab-content-container js-select-menu-container" data-select-first="true" data-select-populated="true"> 
+       <!-- Mobile select menu --> 
+       <div class="select-menu-wrapper select-menu-wrapper-devices"> 
+        <div class="icon icon-toggle_is-active">
+         &nbsp;
+        </div> 
+        <select class="select-menu js-select-menu"> <option class="js-select-menu-option select-menu-option" value="Spațiu de 15 GB">Spațiu de 15 GB</option> <option class="js-select-menu-option select-menu-option" value="Păstrați orice fișier">Păstrați orice fișier</option> <option class="js-select-menu-option select-menu-option" value="Trimiteți cum doriți">Trimiteți cum doriți</option> <option class="js-select-menu-option select-menu-option" value="În siguranță">În siguranță</option> </select> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Spațiu de 15 GB" data-tab-name="space"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Spațiul de stocare funcționează cu Drive, Gmail și Google Foto, astfel încât să puteți să stocați fișiere, să salvați atașamente de e-mail și să faceți backup pentru fotografii direct în Drive. Puteți și să <a href="https://www.google.com/settings/storage?hl=ro">cumpărați un plan mai mare de stocare în cloud</a>, în funcție de nevoi.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-1-1.png" alt="Sigla 15 GB de spațiu gratuit de stocare Google Drive"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Păstrați orice fișier" data-tab-name="file"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Fotografii, videoclipuri, prezentări, fișiere PDF, chiar și fișiere Microsoft Office. Orice tip de fișier poate fi stocat în siguranță în Drive.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-1-2.png" alt="Listă cu tipuri de fișiere Google Drive, inclusiv imagini, documente și muzică"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Trimiteți cum doriți" data-tab-name="share"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Fișierele din Drive sunt private, până când decideți să le trimiteți. Puteți invita rapid alte persoane să le vadă, să comenteze și să editeze orice fișier sau dosar ales de dvs. Colaborați online mai ușor.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-1-3.png" alt="Opțiuni de confidențialitate și trimitere pentru Google Drive"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="În siguranță" data-tab-name="disaster"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Securitatea fișierelor dvs. este esențială. De aceea, fiecare fișier din Drive rămâne în siguranță, indiferent de ce se întâmplă cu telefonul smartphone, tableta sau computerul dvs. Pentru criptarea Drive s-a folosit SSL, același protocol de securitate utilizat pentru Gmail și pentru alte servicii Google.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-1-4.png" alt="Blocare de securitate Google Drive"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- With Google --> 
+   <section class="section-with-google section-divider js-hinted-fullscreen"> 
+    <div class="section-centered section-centered-text"> 
+     <h2 class="heading-headline">Creată pentru a funcționa cu Google</h2> 
+     <div class="tabs tabs-space js-tabs" data-tab-name="space-to-play"> 
+      <div class="tabs-list mobile-is-hidden"> 
+       <div class="tabs-tab one-quarter tabs-tab-first js-activate-tab" data-tab-target="attachments"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Salvați atașamente din Gmail">Salvați atașamente din Gmail</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter js-activate-tab" data-tab-target="search"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Instrument puternic de căutare">Instrument puternic de căutare</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter js-activate-tab" data-tab-target="photos"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Google Foto">Google Foto</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter one-quarter tabs-tab-last js-activate-tab" data-tab-target="chromebooks"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Dispozitive Chromebook">Dispozitive Chromebook</label> 
+       </div> 
+      </div> 
+      <div class="tabs-content with-select js-tab-content-container js-select-menu-container" data-select-first="true" data-select-populated="true"> 
+       <!-- Mobile select menu --> 
+       <div class="select-menu-wrapper select-menu-wrapper-devices"> 
+        <div class="icon icon-toggle_is-active">
+         &nbsp;
+        </div> 
+        <select class="select-menu js-select-menu"> <option class="js-select-menu-option select-menu-option" value="Salvați atașamente din Gmail">Salvați atașamente din Gmail</option> <option class="js-select-menu-option select-menu-option" value="Instrument puternic de căutare">Instrument puternic de căutare</option> <option class="js-select-menu-option select-menu-option" value="Google Foto">Google Foto</option> <option class="js-select-menu-option select-menu-option" value="Dispozitive Chromebook">Dispozitive Chromebook</option> </select> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Salvați atașamente din Gmail" data-tab-name="attachments"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-2-1.jpg" alt="Fotografiile atașate la Gmail salvate în Drive cu un singur clic"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Plasați cursorul peste un atașament din Gmail și căutați sigla Drive. Aici puteți să salvați orice atașament în contul Drive pentru a le organiza și trimite în siguranță dintr-un singur loc.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Instrument puternic de căutare" data-tab-name="search"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-2-2.png" alt="Fotografiile atașate la Gmail salvate în Drive cu un singur clic"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Drive poate recunoaște obiecte în imagini și text în documentele scanate. Așadar, puteți să căutați cuvinte precum „Turnul Eiffel” și să găsiți documente text care conțin cuvântul respectiv, precum și imagini cu Turnul Eiffel.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Google Foto" data-tab-name="photos"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-2-3.jpg" alt="Fotografie de pe coasta Oregonului stocată în Google Drive și trimisă pe Google+"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Stocați fotografiile în Drive și vedeți cum prind viață, cu Google Foto. Obțineți fără efort aspectul de editare profesională, la care se adaugă animații, filme și multe altele.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Dispozitive Chromebook" data-tab-name="chromebooks"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-2-4.jpg" alt="Date Google Drive pe dispozitivele Chromebook"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Aplicația Google Drive este integrată în dispozitivele Chromebook, astfel încât se face backup automat pentru fișierele și fotografiile create de dvs. Veți primi un spațiu de stocare gratuit de 100 GB timp de doi ani, pentru majoritatea dispozitivelor noi Chromebook.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- Apps --> 
+   <p id="google-apps">&nbsp;</p> 
+   <section class="section-apps section-divider js-hinted-fullscreen"> 
+    <div class="section-centered section-centered-text"> 
+     <h2 class="heading-headline">Lucrați mai inteligent cu ajutorul aplicațiilor</h2> 
+     <div class="tabs tabs-space js-tabs" data-tab-name="space-to-play"> 
+      <div class="tabs-list mobile-is-hidden"> 
+       <div class="tabs-tab one-quarter tabs-tab-first js-activate-tab" data-tab-target="docs"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Documente, Foi de calcul, Prezentări">Documente, Foi de calcul, Prezentări</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter js-activate-tab" data-tab-target="forms"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Formulare Google">Formulare Google</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter js-activate-tab" data-tab-target="office"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Desene Google">Desene Google</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter one-quarter tabs-tab-last js-activate-tab" data-tab-target="more"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Mai multe aplicații Drive">Mai multe aplicații Drive</label> 
+       </div> 
+      </div> 
+      <div class="tabs-content with-select js-tab-content-container js-select-menu-container" data-select-first="true" data-select-populated="true"> 
+       <!-- Mobile select menu --> 
+       <div class="select-menu-wrapper select-menu-wrapper-devices"> 
+        <div class="icon icon-toggle_is-active">
+         &nbsp;
+        </div> 
+        <select class="select-menu js-select-menu"> <option class="js-select-menu-option select-menu-option" value="Documente, Foi de calcul, Prezentări">Documente, Foi de calcul, Prezentări</option> <option class="js-select-menu-option select-menu-option" value="Formulare Google">Formulare Google</option> <option class="js-select-menu-option select-menu-option" value="Desene Google">Desene Google</option> <option class="js-select-menu-option select-menu-option" value="Mai multe aplicații Drive">Mai multe aplicații Drive</option> </select> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Documente, Foi de calcul, Prezentări" data-tab-name="docs"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Creați și colaborați cu alții. Trimiteți documente și fișiere, creați foi de calcul și faceți prezentări din mers cu aplicațiile noastre <a href="//www.google.com/docs/about/" target="_blank">Documente</a>, <a href="//www.google.com/sheets/about/" target="_blank">Foi de calcul</a> și <a href="//www.google.com/slides/about/" target="_blank">Prezentări</a>.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-3-1.png" alt="Documente, Foi de calcul și Prezentări Google Drive disponibile pentru trimitere"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Formulare Google" data-tab-name="forms"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>În <a href="//www.google.com/forms/about/?usp=mkt_formsdrive">Formularele Google</a>, puteți să faceți un sondaj sau să creați rapid o listă a echipei cu un simplu formular online. Apoi, verificați rezultatele, frumos organizate într-o foaie de calcul.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-3-3.png" alt="Exemplu de Formulare Google în Google Drive"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Desene Google" data-tab-name="office"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>În <a href="https://docs.google.com/drawings/?usp=mkt_drawings">Desene Google</a>, puteți să proiectați diagrame, să creați scheme logice și apoi să le adăugați cu ușurință în alte documente sau să le încorporați într-un site web.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-3-2.png" alt="Pictogramă Desene Google"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Mai multe aplicații Drive" data-tab-name="more"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Editați fotografia de profil, decorați, creați diagrame informaționale și altele. Peste 100 de aplicații Drive vă oferă mai multe posibilități. Încercați-le instalând una din <a href="https://chrome.google.com/webstore/category/collection/drive_apps?hl=ro">colecția Drive</a> din Magazinul web Chrome.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-3-4.jpg" alt="Peste 100 de aplicații Google Drive disponibile"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- Take it further --> 
+   <section class="section-further js-hinted-fullscreen"> 
+    <div class="section-centered section-centered-text"> 
+     <h2 class="heading-headline">Utilizați aplicația Drive și în alte scopuri</h2> 
+     <div class="tabs tabs-space js-tabs" data-tab-name="space-to-play"> 
+      <div class="tabs-list mobile-is-hidden"> 
+       <div class="tabs-tab one-third tabs-tab-first js-activate-tab" data-tab-target="paperless"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Scanați documente">Scanați documente</label> 
+       </div> 
+       <div class="tabs-tab one-third tabs-tab-first one-third js-activate-tab" data-tab-target="offline"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Lucrați offline">Lucrați offline</label> 
+       </div> 
+       <div class="tabs-tab one-third tabs-tab-first one-third one-third tabs-tab-last js-activate-tab" data-tab-target="versions"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Vedeți versiunile vechi">Vedeți versiunile vechi</label> 
+       </div> 
+      </div> 
+      <div class="tabs-content with-select js-tab-content-container js-select-menu-container" data-select-first="true" data-select-populated="true"> 
+       <!-- Mobile select menu --> 
+       <div class="select-menu-wrapper select-menu-wrapper-devices"> 
+        <div class="icon icon-toggle_is-active">
+         &nbsp;
+        </div> 
+        <select class="select-menu js-select-menu"> <option class="js-select-menu-option select-menu-option" value="Scanați documente">Scanați documente</option> <option class="js-select-menu-option select-menu-option" value="Lucrați offline">Lucrați offline</option> <option class="js-select-menu-option select-menu-option" value="Vedeți versiunile vechi">Vedeți versiunile vechi</option> </select> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Scanați documente" data-tab-name="paperless"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-4-1.jpg" alt="Exemplu de salvare de documente în Drive prin fotografierea cu un telefon Android"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Scanați toate documentele pe hârtie cu Drive pentru Android. Trebuie doar să faceți o fotografie a documentelor, precum chitanțe, scrisori și declarații, iar Drive le va stoca imediat ca fișiere PDF.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Lucrați offline" data-tab-name="offline"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-4-2.png" alt="Comutator offline/online pentru Google Drive"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Faceți fișierele disponibile offline, astfel încât să le puteți vedea atunci când telefonul sau tableta pierde conexiunea la rețea, de exemplu, atunci când vă aflați în avion sau într-o clădire unde conexiunea este slabă.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Vedeți versiunile vechi" data-tab-name="versions"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-4-3.png" alt="Exemplu de istoric al versiunilor pentru fișiere din Google Drive"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Pentru majoritatea tipurilor de fișiere, aveți acces la istoricul modificărilor și puteți reveni la versiuni anterioare din ultimele 30 de zile. Accesați mai ușor versiunile fișierelor.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <!-- Footer --> 
+  <div class="signature-wrapper">
+   <div id="maia-signature"></div>
+  </div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="maia-cols first"> 
+      <div class="maia-col-3 footer-top social">
+        Distribuiți site-ul Google Apps: 
+       <span class="plusone-button" id="plusone-httpwwwgooglecoma"></span> 
+       <script>
+    window.___gcfg = {
+      lang: 'ro',
+      parsetags: 'explicit'
+    };
+
+    var gweb = gweb || {};  // namespace
+    gweb.plusOneButton = {};
+    gweb.plusOneButton.callbacks = {};
+    gweb.plusOneButton.onPlusOneLoad = function() {
+      for (var slug in gweb.plusOneButton.callbacks) {
+        gapi.plusone.render(slug, gweb.plusOneButton.callbacks[slug]);
+      }
+      gweb.plusOneButton.callbacks = {};
+    };
+              </script> 
+       <script src="//apis.google.com/js/platform.js">
+              </script> 
+       <script>
+              gweb.plusOneButton.callbacks['plusone-httpwwwgooglecoma'] = {
+      'annotation': 'none',
+      'href': 'http://www.google.com/a/',
+      'size': 'standard',
+      'callback': '',
+      'recommendations': 'true'
+    };
+    gweb.plusOneButton.onPlusOneLoad();
+  </script> 
+      </div> 
+      <div class="maia-col-3 footer-top social">
+        Urmăriți: 
+       <span class="follow"> <a href="//plus.google.com/+GoogleDrive" rel="publisher"><img alt="Google+" src="//www.google.com/images/branding/google_plus/2x/gplus_icon_flush_30dp.png" height="16" width="16" data-retina="16x16"></a> <a href="//twitter.com/googledrive/"><img alt="YouTube" src="/drive/static/images/drive/footer_twitter.png" data-retina="16x16"></a> <a href="//googledrive.blogspot.com/"><img alt="Blogger" src="/drive/static/images/drive/footer_blogger.jpg" data-retina="16x16"></a> </span> 
+      </div> 
+     </div> 
+     <div class="maia-cols"> 
+      <div class="footer-unit"> 
+       <h4>Despre Drive</h4> 
+       <ul> 
+        <li> <a href="/intl/ro_ALL/drive/">Faceți cunoștință cu Google Drive</a> </li> 
+        <li> <a href="/intl/ro_ALL/drive/using-drive/">Cum se folosește Drive</a> </li> 
+        <li> <a href="//support.google.com/drive/answer/2424384?hl=ro">Începeți să folosiți Drive</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>Planuri și tarife</h4> 
+       <ul> 
+        <li> <a href="//www.google.com/settings/storage">Vedeți planul pentru spațiul de stocare / Faceți-i uprade</a> </li> 
+        <li> <a href="//support.google.com/drive/answer/2375123?hl=ro">Tarife pentru spațiul de stocare</a> </li> 
+        <li> <a href="//support.google.com/drive/topic/2375005?hl=ro">Întrebări frecvente despre spațiul de stocare</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>Descărcări</h4> 
+       <ul> 
+        <li> <a href="https://www.google.com/intl/ro_ALL/drive/download/">Drive pentru Mac/PC</a> </li> 
+        <li> <a href="//play.google.com/store/apps/details?id=com.google.android.apps.docs">Drive pentru Android</a> </li> 
+        <li> <a href="//itunes.apple.com/app/google-drive/id507874739">Drive pentru iOS</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>Asistență</h4> 
+       <ul> 
+        <li> <a href="//support.google.com/drive/answer/2424384?hl=ro">Centrul de ajutor pentru Drive</a> </li> 
+        <li> <a href="//productforums.google.com/forum/#!forum/drive">Forumul de ajutor pentru Google Drive</a> </li> 
+        <li> <a href="//support.google.com/drive/?hl=ro#topic=14940&amp;contact=1">Contactați-ne</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>Soluții similare</h4> 
+       <ul> 
+        <li> <a href="/intl/ro_ALL/docs/about/">Documente Google</a> </li> 
+        <li> <a href="/intl/ro_ALL/sheets/about/">Foi de calcul Google</a> </li> 
+        <li> <a href="/intl/ro_ALL/slides/about/">Prezentări Google</a> </li> 
+        <li> <a href="/intl/ro_ALL/forms/about/">Formulare Google</a> </li> 
+        <li> <a href="//gsuite.google.com/intl/ro_ALL/driveforwork/?utm_medium=et&amp;utm_source=aboutdrive&amp;utm_content=footer&amp;utm_campaign=ro">Google Drive for Work</a> </li> 
+        <li> <a href="//cloud.google.com/?utm_medium=et&amp;utm_source=aboutdrive&amp;utm_content=footer&amp;utm_campaign=ro">Google Cloud Platform</a> </li> 
+        <li> <a href="/intl/ro_ALL/edu/">Google Apps for Education</a> </li> 
+        <li> <a href="/intl/ro_ALL/work/apps/government/">Google Apps for Government</a> </li> 
+        <li> <a href="/intl/ro_ALL/services/">Google Business Solutions</a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Schimbați limba:</span> <select onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="/intl/af_ALL/drive/using-drive/"> Afrikaans </option> <option value="/intl/ar_ALL/drive/using-drive/"> العربية </option> <option value="/intl/az_ALL/drive/using-drive/"> azərbaycan dili </option> <option value="/intl/bg_ALL/drive/using-drive/"> български </option> <option value="/intl/bn_ALL/drive/using-drive/"> বাংলা </option> <option value="/intl/ca_ALL/drive/using-drive/"> català </option> <option value="/intl/cs_ALL/drive/using-drive/"> čeština </option> <option value="/intl/da_ALL/drive/using-drive/"> dansk </option> <option value="/intl/de_ALL/drive/using-drive/"> Deutsch </option> <option value="/intl/el_ALL/drive/using-drive/"> Ελληνικά </option> <option value="/drive/using-drive/"> English (United States) </option> <option value="/intl/en-GB_ALL/drive/using-drive/"> English (United Kingdom) </option> <option value="/intl/es-419_ALL/drive/using-drive/"> español (Latinoamérica) </option> <option value="/intl/es_ALL/drive/using-drive/"> español </option> <option value="/intl/et_ALL/drive/using-drive/"> eesti </option> <option value="/intl/eu_ALL/drive/using-drive/"> euskara </option> <option value="/intl/fa_ALL/drive/using-drive/"> فارسی </option> <option value="/intl/fi_ALL/drive/using-drive/"> suomi </option> <option value="/intl/fil_ALL/drive/using-drive/"> Filipino </option> <option value="/intl/fr_ALL/drive/using-drive/"> français </option> <option value="/intl/fr-CA_ALL/drive/using-drive/"> français (Canada) </option> <option value="/intl/gl_ALL/drive/using-drive/"> galego </option> <option value="/intl/gu_ALL/drive/using-drive/"> ગુજરાતી </option> <option value="/intl/hi_ALL/drive/using-drive/"> हिन्दी </option> <option value="/intl/iw_ALL/drive/using-drive/"> עברית </option> <option value="/intl/hr_ALL/drive/using-drive/"> hrvatski </option> <option value="/intl/hu_ALL/drive/using-drive/"> magyar </option> <option value="/intl/hy_ALL/drive/using-drive/"> հայերեն </option> <option value="/intl/id_ALL/drive/using-drive/"> Indonesia </option> <option value="/intl/is_ALL/drive/using-drive/"> íslenska </option> <option value="/intl/it_ALL/drive/using-drive/"> italiano </option> <option value="/intl/ja_ALL/drive/using-drive/"> 日本語 </option> <option value="/intl/ka_ALL/drive/using-drive/"> ქართული </option> <option value="/intl/km_ALL/drive/using-drive/"> ខ្មែរ </option> <option value="/intl/kn_ALL/drive/using-drive/"> ಕನ್ನಡ </option> <option value="/intl/ko_ALL/drive/using-drive/"> 한국어 </option> <option value="/intl/lo_ALL/drive/using-drive/"> ລາວ </option> <option value="/intl/lt_ALL/drive/using-drive/"> lietuvių </option> <option value="/intl/lv_ALL/drive/using-drive/"> latviešu </option> <option value="/intl/ml_ALL/drive/using-drive/"> മലയാളം </option> <option value="/intl/mn_ALL/drive/using-drive/"> монгол </option> <option value="/intl/mr_ALL/drive/using-drive/"> मराठी </option> <option value="/intl/ms_ALL/drive/using-drive/"> Bahasa Melayu </option> <option value="/intl/ne_ALL/drive/using-drive/"> नेपाली </option> <option value="/intl/nl_ALL/drive/using-drive/"> Nederlands </option> <option value="/intl/no_ALL/drive/using-drive/"> norsk bokmål </option> <option value="/intl/pa_ALL/drive/using-drive/"> ਪੰਜਾਬੀ </option> <option value="/intl/pl_ALL/drive/using-drive/"> polski </option> <option value="/intl/pt-BR_ALL/drive/using-drive/"> português (Brasil) </option> <option value="/intl/pt-PT_ALL/drive/using-drive/"> português (Portugal) </option> <option value="/intl/ro_ALL/drive/using-drive/" selected> română </option> <option value="/intl/ru_ALL/drive/using-drive/"> русский </option> <option value="/intl/si_ALL/drive/using-drive/"> සිංහල </option> <option value="/intl/sk_ALL/drive/using-drive/"> slovenčina </option> <option value="/intl/sl_ALL/drive/using-drive/"> slovenščina </option> <option value="/intl/sr_ALL/drive/using-drive/"> српски </option> <option value="/intl/sv_ALL/drive/using-drive/"> svenska </option> <option value="/intl/sw_ALL/drive/using-drive/"> Kiswahili </option> <option value="/intl/ta_ALL/drive/using-drive/"> தமிழ் </option> <option value="/intl/te_ALL/drive/using-drive/"> తెలుగు </option> <option value="/intl/th_ALL/drive/using-drive/"> ไทย </option> <option value="/intl/tr_ALL/drive/using-drive/"> Türkçe </option> <option value="/intl/uk_ALL/drive/using-drive/"> українська </option> <option value="/intl/ur_ALL/drive/using-drive/"> اردو </option> <option value="/intl/vi_ALL/drive/using-drive/"> Tiếng Việt </option> <option value="/intl/zh-CN_ALL/drive/using-drive/"> 中文 (简体, 中国) </option> <option value="/intl/zh-HK_ALL/drive/using-drive/"> 中文 (繁體字, 中華人民共和國香港特別行政區) </option> <option value="/intl/zh-TW_ALL/drive/using-drive/"> 中文 (繁體, 台灣) </option> <option value="/intl/zu_ALL/drive/using-drive/"> isiZulu </option> </select></label> 
+     </div> 
+     <ul> 
+      <li> <a href="//www.google.com">Google</a> </li> 
+      <li> <a href="//www.google.com/about/">About Google</a> </li> 
+      <li> <a href="//www.google.com/intl/ro/policies/privacy/">Privacy</a> </li> 
+      <li> <a href="//www.google.com/policies/terms/?hl=ro">Terms</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Scripts --> 
+  <script src="//www.google.com/js/gweb/uri/updatelinks.js"></script> 
+  <script src="//www.gstatic.com/external_hosted/gsap/TweenMax.min.js"></script> 
+  <script src="//www.gstatic.com/external_hosted/morlock/morlock.min.js"></script> 
+  <script src="/drive/static/dist/js/drive-site.min.js"></script> 
+  <script>
+      var manageParams = new drive.QueryParamManager();
+    </script> 
+  <script>
+  var usingDrive = new drive.SetUp('usingDrive');
+</script>  
+ </body>
+</html>

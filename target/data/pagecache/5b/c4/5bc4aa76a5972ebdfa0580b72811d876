@@ -1,0 +1,304 @@
+<!doctype html>
+<html lang="sw">
+ <head> 
+  <script>(function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)</script> 
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"> 
+  <meta charset="utf-8"> 
+  <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"> 
+  <meta property="og:url" content="www.google.com/intl/sw_ALL/drive/"> 
+  <meta name="twitter:url" content="www.google.com/intl/sw_ALL/drive/"> 
+  <meta name="twitter:title" content="Hifadhi ya Google - Hifadhi ya Wingu na Hifadhi Rudufu ya Faili za Picha, Hati na Zinginezo"> 
+  <meta name="twitter:image" content="https://www.google.com/drive/static/images/drive/logo-drive.png"> 
+  <meta name="twitter:description" content="Fikia faili mahali popote kupitia hifadhi salama ya wingu na nakala rudufu ya faili ya picha zako, video, faili na zaidi kwa kutumia Hifadhi ya Google."> 
+  <meta name="twitter:creator" content="google"> 
+  <!-- Open Graph --> 
+  <meta content="Hifadhi ya Google - Hifadhi ya Wingu na Hifadhi Rudufu ya Faili za Picha, Hati na Zinginezo" property="og:title"> 
+  <meta content="https://www.google.com/drive/static/images/drive/logo-drive.png" property="og:image"> 
+  <meta content="Fikia faili mahali popote kupitia hifadhi salama ya wingu na nakala rudufu ya faili ya picha zako, video, faili na zaidi kwa kutumia Hifadhi ya Google." property="og:description"> 
+  <meta property="og:type" content="website"> 
+  <!-- Doc Meta --> 
+  <title>Hifadhi ya Google - Hifadhi ya Wingu na Hifadhi Rudufu ya Faili za Picha, Hati na Zinginezo</title> 
+  <meta content="Fikia faili mahali popote kupitia hifadhi salama ya wingu na nakala rudufu ya faili ya picha zako, video, faili na zaidi kwa kutumia Hifadhi ya Google." name="description"> 
+  <link rel="prefetch" href="//www.google.com/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png"> 
+  <link rel="stylesheet" href="//www.gstatic.com/external_hosted/normalize/normalize.css"> 
+  <link rel="stylesheet" href="//www.google.com/css/maia.experimental.css"> 
+  <link rel="stylesheet" href="//www.google.com/css/gweb/lightbox.css"> 
+  <script src="//www.google.com/js/google.js"></script> 
+  <script>
+      var _gaq = _gaq || [];
+      _gaq.push(['_cookiePathCopy', '/a/']);
+      _gaq.push(['_cookiePathCopy', '/apps/']);
+      _gaq.push(['_cookiePathCopy', '/work/']);
+      _gaq.push(['_cookiePathCopy', '/work/apps/business/']);
+      _gaq.push(['_cookiePathCopy', '/intl/']);
+      _gaq.push(['_cookiePathCopy', '/intx/']);
+      _gaq.push(['_cookiePathCopy', '/work/']);
+    new gweb.analytics.AutoTrack({profile: "UA-28613865-1"});
+  </script> 
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Product+Sans" rel="stylesheet"> 
+  <!-- External Scripts --> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/modernizr.js"></script> 
+  <!-- Favicon --> 
+  <link href="/drive/static/images/drive/favicon.ico" rel="icon" type="image/png"> 
+  <!-- Stylesheet --> 
+  <link href="/drive/static/dist/css/main.min.css" rel="stylesheet"> 
+  <link rel="canonical" href="https://www.google.com/intl/sw_ALL/drive/"> 
+ </head> 
+ <body class="index nav-light"> 
+  <span itemscope itemtype="http://schema.org/LocalBusiness"> 
+   <!-- Header --> 
+   <header class="header" role="banner"> 
+    <div class="header-item with-site-logo"> 
+     <a class="site-logo site-logo-link" href="/intl/sw_ALL/drive/" data-g-event="Drive" data-g-action="Header" data-g-label="Drive logo"> 
+      <div class="lockup lockup--light js-lockup" dir="ltr"> 
+       <span class="lockup-logo js-site-logo-image"></span> 
+       <span class="lockup-text"></span> 
+       <span class="lockup-brand">Drive</span> 
+      </div> </a> 
+    </div> 
+    <nav class="nav-site" data-nav-name="mobile"> 
+     <img itemprop="image" alt="Drive logo" src="/drive/static/images/drive/logo-drive.png"> 
+     <ul> 
+      <li> <a class="meet" href="/intl/sw_ALL/drive/" data-g-event="Drive" data-g-action="Header" data-g-label="Jionee Hifadhi ya Google">Jionee Hifadhi ya Google</a> </li> 
+      <li> <a class="using-drive" href="/intl/sw_ALL/drive/using-drive/" data-g-event="Drive" data-g-action="Header" data-g-label="Kutumia Hifadhi ya Google">Kutumia Hifadhi ya Google</a> </li> 
+      <li> <a class="price" href="/intl/sw_ALL/drive/pricing/" data-g-event="Drive" data-g-action="Pricing" data-g-label="Bei">Bei</a> </li> 
+      <li class="mobile-is-hidden device-is-hidden"> <a class="download" href="/intl/sw_ALL/drive/download/" data-g-event="Drive" data-g-action="Header" data-g-label="Pakua">Pakua</a> </li> 
+      <li> <a class="work" href="//gsuite.google.com/intl/sw_ALL/driveforwork/?utm_medium=et&amp;utm_source=aboutdrive&amp;utm_content=consnav&amp;utm_campaign=sw" data-g-event="Drive" data-g-action="Header" data-g-label="Ya Kazini">Ya Kazini</a> </li> 
+      <li class="last-default"> <a class="help" href="//support.google.com/drive/answer/2424384?hl=sw" data-g-event="Drive" data-g-action="Header" data-g-label="Usaidizi">Usaidizi</a> </li> 
+      <li class="mobile-is-hidden float-in"> <a class="go-to-drive get-started" href="https://accounts.google.com/ServiceLogin?service=wise&amp;passive=true&amp;continue=http://drive.google.com/?utm_source=sw&amp;utm_medium=button&amp;utm_campaign=web&amp;utm_content=gotodrive&amp;usp=gtd&amp;ltmpl=drive" data-g-event="Drive" data-g-action="Header" data-g-label="Nenda kwenye Hifadhi ya Google">Nenda kwenye Hifadhi ya Google</a> </li> 
+      <li class="download-app mobile-is-visible crushed-is-visible"> <a class="download-mobile-android boxed-in" href="//play.google.com/store/apps/details?id=com.google.android.apps.docs&amp;hl=sw" data-g-event="Drive" data-g-action="Header" data-g-label="Pakua toleo la Android">Pakua toleo la Android</a> <a class="download-mobile-ios boxed-in" href="//itunes.apple.com/en/app/google-drive/id507874739" data-g-event="Drive" data-g-action="Header" data-g-label="Pakua toleo la iOS">Pakua toleo la iOS</a> <a class="download-mobile boxed-in get-started" href="" data-g-event="Drive" data-g-action="Header" data-g-label="Ingia katika Akaunti">Ingia katika Akaunti</a> </li> 
+     </ul> 
+    </nav> 
+    <div class="mobile-nav-toggle js-mobilenav"> 
+     <div class="icon icon-mobile-open toggle-nav-open js-mobilenav-toggle" data-target-nav="mobile"></div> 
+     <div class="icon icon-mobile-close toggle-nav-closed js-mobilenav-toggle-close" data-target-nav="mobile"></div> 
+    </div> 
+   </header> </span> 
+  <!-- End Header --> 
+  <!-- Intro section with photo background --> 
+  <section class="section-intro section-panel-fullscreen js-fullscreen"> 
+   <div class="section-photo-fullscreen section-photo js-parallax-image js-responsive-image" data-breakpoints="320,768,1024,1200,1600" data-known-dimensions="false" data-origin="0" data-preserve-aspect-ratio="false" data-reverse-parallax="true" data-src="/drive/static/images/home/intro.jpg"></div> 
+   <div class="section-centered section-vertical-align js-vertical-align js-parallax-image" data-origin="0" data-parallax-speed="3" data-reverse-parallax="true" data-parallax-fade="true"> 
+    <div class="one-whole"> 
+     <img alt="Drive logo" src="/drive/static/images/drive/logo-drive.png"> 
+     <h1 class="section-headline section-headline-large section-headline-white"> Faili zako zote, tayari mahali ulipo </h1> 
+     <a class="maia-button button-download mobile-is-hidden get-started go-to-drive" href="https://accounts.google.com/ServiceLogin?service=wise&amp;passive=true&amp;continue=http://drive.google.com/?utm_source=sw&amp;utm_medium=button&amp;utm_campaign=web&amp;utm_content=gotodrive&amp;usp=gtd&amp;ltmpl=drive" data-g-event="Drive" data-g-action="Intro" data-g-label="Nenda kwenye Hifadhi ya Google">Nenda kwenye Hifadhi ya Google</a> 
+     <div class="mobile-is-visible mobile-button-selector"> 
+      <a class="maia-button button-download download-mobile-android" href="//play.google.com/store/apps/details?id=com.google.android.apps.docs&amp;hl=sw">Pakua Hifadhi ya Google</a> 
+      <a class="maia-button button-download download-mobile-ios" href="//itunes.apple.com/en/app/google-drive/id507874739">Pakua Hifadhi ya Google</a> 
+      <a class="maia-button button-download download-mobile get-started go-to-drive" href="https://accounts.google.com/ServiceLogin?service=wise&amp;passive=true&amp;continue=http://drive.google.com/?utm_source=sw&amp;utm_medium=button&amp;utm_campaign=web&amp;utm_content=gotodrive&amp;usp=gtd&amp;ltmpl=drive">Nenda kwenye Hifadhi ya Google</a> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="arrow-hint"> 
+    <a href="#start" class="gweb-smoothscroll-control"> 
+     <div class="icon icon-arrow-hint animated-arrow-1"></div> 
+     <div class="icon icon-arrow-hint animated-arrow-2"></div> </a> 
+   </div> 
+  </section> 
+  <!-- scrollable wrapper --> 
+  <div class="unfixed-wrapper" id="start"> 
+   <!-- File types --> 
+   <section class="section-filetypes js-hinted-fullscreen"> 
+    <div class="content"> 
+     <div class="column column-left with-example"> 
+      <object class="example" data="/drive/static/svgs/files.svg" id="svg-files"> <img class="example" src="/drive/static/images/home/files.png" alt="Drive file types icons"> </object> 
+     </div> 
+     <div class="column column-right with-copy"> 
+      <div class="copy text-left"> 
+       <h2 class="heading-headline">Hifadhi faili yoyote</h2> 
+       <p class="section-body allow-orphan">Hifadhi ya Google inaanza kwa kukupa GB 15 za hifadhi ya Google mtandaoni bila malipo, kwa hivyo unaweza kuweka picha, hadithi, miundo, michoro, maudhui yaliyorekodiwa, video - chochote kile.</p> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- Parallaxer --> 
+   <div class="photo-wrapper"> 
+    <div class="section-photo section-photo-pack js-parallax-image js-responsive-image" data-breakpoints="320,768,1024,1200,1600,2200" data-known-dimensions="false" data-preserve-aspect-ratio="false" data-src="/drive/static/images/home/photo-1.jpg" data-parallax-speed="4"></div> 
+   </div> 
+   <!-- Files anywhere --> 
+   <section class="section-filesanywhere js-hinted-fullscreen"> 
+    <div class="content"> 
+     <div class="column column-right with-example"> 
+      <img class="example" src="/drive/static/images/home/files-anywhere.jpg" alt="Files on Google Drive displayed on multiple devices" data-video-name="videos/access" data-video-class="example"> 
+     </div> 
+     <div class="column column-left with-copy"> 
+      <div class="copy text-left"> 
+       <h2 class="heading-headline">Angalia vitu vyako mahali popote</h2> 
+       <p class="section-body">Faili zako zilizo katika Hifadhi zinaweza kufikiwa kwenye simu yoyote mahiri au kompyuta ya aina yoyote. Kwa hivyo, popote uendapo, faili zako zitakuwa nawe.</p> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- Parallaxer --> 
+   <div class="photo-wrapper"> 
+    <div class="section-photo section-photo-travel js-parallax-image js-responsive-image" data-breakpoints="320,768,1024,1200,1600" data-known-dimensions="false" data-preserve-aspect-ratio="false" data-src="/drive/static/images/home/photo-2.jpg" data-parallax-speed="4"></div> 
+   </div> 
+   <!-- Share files --> 
+   <section class="section-share js-hinted-fullscreen"> 
+    <div class="content"> 
+     <div class="column column-full-width with-copy"> 
+      <div class="copy section-centered text-center"> 
+       <img class="static-example" src="/drive/static/images/home/share.jpg" alt="Share files on Drive with your friends" data-video-name="videos/share" data-video-class="example"> 
+       <h2 class="heading-headline">Shiriki faili na folda</h2> 
+       <p class="section-body">Unaweza kuwaalika wengine kwa haraka waangalie, wapakue na kushirikiana nawe kwenye faili zote ambazo ungependa. Huhitaji kiambatisho cha barua pepe.</p> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- Parallaxer --> 
+   <div class="photo-wrapper"> 
+    <div class="section-photo section-photo-travel js-parallax-image js-responsive-image" data-breakpoints="320,768,1024,1200,1600" data-known-dimensions="false" data-preserve-aspect-ratio="false" data-src="/drive/static/images/home/photo-3.jpg" data-parallax-speed="4"></div> 
+   </div> 
+   <!-- Download with photo background --> 
+   <section class="section-download section-panel-fullscreen js-hinted-fullscreen"> 
+    <div class="section-centered section-vertical-align js-vertical-align"> 
+     <div class="one-whole"> 
+      <img alt="Drive logo" src="/drive/static/images/drive/logo-drive.png"> 
+      <h1 class="section-headline section-headline-large section-headline-gray heading-headline">Anza kutumia Hifadhi bila malipo</h1> 
+      <a class="maia-button button-download mobile-is-hidden get-started go-to-drive" href="https://accounts.google.com/ServiceLogin?service=wise&amp;passive=true&amp;continue=http://drive.google.com/?utm_source=sw&amp;utm_medium=button&amp;utm_campaign=web&amp;utm_content=gotodrive&amp;usp=gtd&amp;ltmpl=drive">Nenda kwenye Hifadhi ya Google</a> 
+      <div class="mobile-is-visible mobile-button-selector"> 
+       <a class="maia-button button-download download-mobile-android" href="//play.google.com/store/apps/details?id=com.google.android.apps.docs&amp;hl=sw">Pakua Hifadhi ya Google</a> 
+       <a class="maia-button button-download download-mobile-ios" href="//itunes.apple.com/en/app/google-drive/id507874739">Pakua Hifadhi ya Google</a> 
+       <a class="maia-button button-download download-mobile get-started go-to-drive" href="https://accounts.google.com/ServiceLogin?service=wise&amp;passive=true&amp;continue=http://drive.google.com/?utm_source=sw&amp;utm_medium=button&amp;utm_campaign=web&amp;utm_content=gotodrive&amp;usp=gtd&amp;ltmpl=drive">Nenda kwenye Hifadhi ya Google</a> 
+      </div> 
+      <p class="mobile-is-hidden device-is-hidden"> <a class="text-link" href="/intl/sw_ALL/drive/download/">Pakua programu ya Kuhifadhi Nakala na Kusawazisha <span class="icon icon-arrow-right"></span></a> </p> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <!-- Footer --> 
+  <div class="signature-wrapper">
+   <div id="maia-signature"></div>
+  </div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="maia-cols first"> 
+      <div class="maia-col-3 footer-top social">
+        Shiriki tovuti ya Programu za Google: 
+       <span class="plusone-button" id="plusone-httpwwwgooglecoma"></span> 
+       <script>
+    window.___gcfg = {
+      lang: 'sw',
+      parsetags: 'explicit'
+    };
+
+    var gweb = gweb || {};  // namespace
+    gweb.plusOneButton = {};
+    gweb.plusOneButton.callbacks = {};
+    gweb.plusOneButton.onPlusOneLoad = function() {
+      for (var slug in gweb.plusOneButton.callbacks) {
+        gapi.plusone.render(slug, gweb.plusOneButton.callbacks[slug]);
+      }
+      gweb.plusOneButton.callbacks = {};
+    };
+              </script> 
+       <script src="//apis.google.com/js/platform.js">
+              </script> 
+       <script>
+              gweb.plusOneButton.callbacks['plusone-httpwwwgooglecoma'] = {
+      'annotation': 'none',
+      'href': 'http://www.google.com/a/',
+      'size': 'standard',
+      'callback': '',
+      'recommendations': 'true'
+    };
+    gweb.plusOneButton.onPlusOneLoad();
+  </script> 
+      </div> 
+      <div class="maia-col-3 footer-top social">
+        Fuata: 
+       <span class="follow"> <a href="//plus.google.com/+GoogleDrive" rel="publisher"><img alt="Google+" src="//www.google.com/images/branding/google_plus/2x/gplus_icon_flush_30dp.png" height="16" width="16" data-retina="16x16"></a> <a href="//twitter.com/googledrive/"><img alt="YouTube" src="/drive/static/images/drive/footer_twitter.png" data-retina="16x16"></a> <a href="//googledrive.blogspot.com/"><img alt="Blogger" src="/drive/static/images/drive/footer_blogger.jpg" data-retina="16x16"></a> </span> 
+      </div> 
+     </div> 
+     <div class="maia-cols"> 
+      <div class="footer-unit"> 
+       <h4>Kuhusu Hifadhi ya Google</h4> 
+       <ul> 
+        <li> <a href="/intl/sw_ALL/drive/">Jionee Hifadhi ya Google</a> </li> 
+        <li> <a href="/intl/sw_ALL/drive/using-drive/">Kutumia Hifadhi ya Google</a> </li> 
+        <li> <a href="//support.google.com/drive/answer/2424384?hl=sw">Anza Kutumia Hifadhi ya Google</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>Mipango na Bei</h4> 
+       <ul> 
+        <li> <a href="//www.google.com/settings/storage">Angalia / Tumia Hifadhi ya Kulipia</a> </li> 
+        <li> <a href="//support.google.com/drive/answer/2375123?hl=sw">Malipo ya Hifadhi</a> </li> 
+        <li> <a href="//support.google.com/drive/topic/2375005?hl=sw">Maswali yanayoulizwa sana kuhusu hifadhi</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>Vipakuliwa</h4> 
+       <ul> 
+        <li> <a href="https://www.google.com/intl/sw_ALL/drive/download/">Hifadhi ya Google ya Mac au PC</a> </li> 
+        <li> <a href="//play.google.com/store/apps/details?id=com.google.android.apps.docs">Hifadhi ya Google ya Android</a> </li> 
+        <li> <a href="//itunes.apple.com/app/google-drive/id507874739">Hifadhi ya Google ya iOS</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>Usaidizi</h4> 
+       <ul> 
+        <li> <a href="//support.google.com/drive/answer/2424384?hl=sw">Kituo cha Usaidizi cha Hifadhi ya Google</a> </li> 
+        <li> <a href="//productforums.google.com/forum/#!forum/drive">Mijadala ya Usaidizi wa Hifadhi ya Google</a> </li> 
+        <li> <a href="//support.google.com/drive/?hl=sw#topic=14940&amp;contact=1">Wasiliana Nasi</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>Huduma Zinazohusiana</h4> 
+       <ul> 
+        <li> <a href="/intl/sw_ALL/docs/about/">Hati za Google</a> </li> 
+        <li> <a href="/intl/sw_ALL/sheets/about/">Majedwali ya Google</a> </li> 
+        <li> <a href="/intl/sw_ALL/slides/about/">Slaidi za Google</a> </li> 
+        <li> <a href="/intl/sw_ALL/forms/about/">Fomu za Google</a> </li> 
+        <li> <a href="//gsuite.google.com/intl/sw_ALL/driveforwork/?utm_medium=et&amp;utm_source=aboutdrive&amp;utm_content=footer&amp;utm_campaign=sw">Google Drive for Work</a> </li> 
+        <li> <a href="//cloud.google.com/?utm_medium=et&amp;utm_source=aboutdrive&amp;utm_content=footer&amp;utm_campaign=sw">Mfumo wa Uendeshaji wa Wingu la Google</a> </li> 
+        <li> <a href="/intl/sw_ALL/edu/">Google Apps for Education</a> </li> 
+        <li> <a href="/intl/sw_ALL/work/apps/government/">G Suite for Government</a> </li> 
+        <li> <a href="/intl/sw_ALL/services/">Nyenzo za Biashara kutoka Google</a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Badilisha lugha:</span> <select onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="/intl/af_ALL/drive/"> Afrikaans </option> <option value="/intl/ar_ALL/drive/"> العربية </option> <option value="/intl/az_ALL/drive/"> azərbaycan dili </option> <option value="/intl/bg_ALL/drive/"> български </option> <option value="/intl/bn_ALL/drive/"> বাংলা </option> <option value="/intl/ca_ALL/drive/"> català </option> <option value="/intl/cs_ALL/drive/"> čeština </option> <option value="/intl/da_ALL/drive/"> dansk </option> <option value="/intl/de_ALL/drive/"> Deutsch </option> <option value="/intl/el_ALL/drive/"> Ελληνικά </option> <option value="/drive/"> English (United States) </option> <option value="/intl/en-GB_ALL/drive/"> English (United Kingdom) </option> <option value="/intl/es-419_ALL/drive/"> español (Latinoamérica) </option> <option value="/intl/es_ALL/drive/"> español </option> <option value="/intl/et_ALL/drive/"> eesti </option> <option value="/intl/eu_ALL/drive/"> euskara </option> <option value="/intl/fa_ALL/drive/"> فارسی </option> <option value="/intl/fi_ALL/drive/"> suomi </option> <option value="/intl/fil_ALL/drive/"> Filipino </option> <option value="/intl/fr_ALL/drive/"> français </option> <option value="/intl/fr-CA_ALL/drive/"> français (Canada) </option> <option value="/intl/gl_ALL/drive/"> galego </option> <option value="/intl/gu_ALL/drive/"> ગુજરાતી </option> <option value="/intl/hi_ALL/drive/"> हिन्दी </option> <option value="/intl/iw_ALL/drive/"> עברית </option> <option value="/intl/hr_ALL/drive/"> hrvatski </option> <option value="/intl/hu_ALL/drive/"> magyar </option> <option value="/intl/hy_ALL/drive/"> հայերեն </option> <option value="/intl/id_ALL/drive/"> Indonesia </option> <option value="/intl/is_ALL/drive/"> íslenska </option> <option value="/intl/it_ALL/drive/"> italiano </option> <option value="/intl/ja_ALL/drive/"> 日本語 </option> <option value="/intl/ka_ALL/drive/"> ქართული </option> <option value="/intl/km_ALL/drive/"> ខ្មែរ </option> <option value="/intl/kn_ALL/drive/"> ಕನ್ನಡ </option> <option value="/intl/ko_ALL/drive/"> 한국어 </option> <option value="/intl/lo_ALL/drive/"> ລາວ </option> <option value="/intl/lt_ALL/drive/"> lietuvių </option> <option value="/intl/lv_ALL/drive/"> latviešu </option> <option value="/intl/ml_ALL/drive/"> മലയാളം </option> <option value="/intl/mn_ALL/drive/"> монгол </option> <option value="/intl/mr_ALL/drive/"> मराठी </option> <option value="/intl/ms_ALL/drive/"> Bahasa Melayu </option> <option value="/intl/ne_ALL/drive/"> नेपाली </option> <option value="/intl/nl_ALL/drive/"> Nederlands </option> <option value="/intl/no_ALL/drive/"> norsk bokmål </option> <option value="/intl/pa_ALL/drive/"> ਪੰਜਾਬੀ </option> <option value="/intl/pl_ALL/drive/"> polski </option> <option value="/intl/pt-BR_ALL/drive/"> português (Brasil) </option> <option value="/intl/pt-PT_ALL/drive/"> português (Portugal) </option> <option value="/intl/ro_ALL/drive/"> română </option> <option value="/intl/ru_ALL/drive/"> русский </option> <option value="/intl/si_ALL/drive/"> සිංහල </option> <option value="/intl/sk_ALL/drive/"> slovenčina </option> <option value="/intl/sl_ALL/drive/"> slovenščina </option> <option value="/intl/sr_ALL/drive/"> српски </option> <option value="/intl/sv_ALL/drive/"> svenska </option> <option value="/intl/sw_ALL/drive/" selected> Kiswahili </option> <option value="/intl/ta_ALL/drive/"> தமிழ் </option> <option value="/intl/te_ALL/drive/"> తెలుగు </option> <option value="/intl/th_ALL/drive/"> ไทย </option> <option value="/intl/tr_ALL/drive/"> Türkçe </option> <option value="/intl/uk_ALL/drive/"> українська </option> <option value="/intl/ur_ALL/drive/"> اردو </option> <option value="/intl/vi_ALL/drive/"> Tiếng Việt </option> <option value="/intl/zh-CN_ALL/drive/"> 中文 (简体, 中国) </option> <option value="/intl/zh-HK_ALL/drive/"> 中文 (繁體字, 中華人民共和國香港特別行政區) </option> <option value="/intl/zh-TW_ALL/drive/"> 中文 (繁體, 台灣) </option> <option value="/intl/zu_ALL/drive/"> isiZulu </option> </select></label> 
+     </div> 
+     <ul> 
+      <li> <a href="//www.google.com">Google</a> </li> 
+      <li> <a href="//www.google.com/about/">About Google</a> </li> 
+      <li> <a href="//www.google.com/intl/sw/policies/privacy/">Privacy</a> </li> 
+      <li> <a href="//www.google.com/policies/terms/?hl=sw">Terms</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Scripts --> 
+  <script src="//www.google.com/js/gweb/uri/updatelinks.js"></script> 
+  <script src="//www.gstatic.com/external_hosted/gsap/TweenMax.min.js"></script> 
+  <script src="//www.gstatic.com/external_hosted/morlock/morlock.min.js"></script> 
+  <script src="/drive/static/dist/js/drive-site.min.js"></script> 
+  <script>
+      var manageParams = new drive.QueryParamManager();
+    </script> 
+  <script src="//www.google.com/js/gweb/analytics/doubletrack.js"></script> 
+  <script>
+    gweb.analytics.DoubleTrack.track('floodlight', {
+      src: 2542116,
+      type: 'gdrive',
+      cat: 'googl00'
+    });
+    var tracker = new gweb.analytics.DoubleTrack('floodlight', {
+      src: 2542116,
+      type: 'gdrive',
+      cat: 'googl000'
+    });
+    tracker.trackClass('go-to-drive');
+    var home = new drive.SetUp('home');
+  </script>  
+ </body>
+</html>

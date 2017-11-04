@@ -1,0 +1,188 @@
+<!doctype html>
+<html class="google" lang="en">
+ <head> 
+  <script>
+(function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script> 
+  <meta charset="utf-8"> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <title>
+      Google AdMob
+    </title> 
+  <script src="//www.google.com/js/google.js">
+</script> 
+  <script>
+(function(){window.adsTracker=new gweb.analytics.AutoTrack({profile:"UA-28605205-2"})})();
+    </script> 
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;lang=en" rel="stylesheet"> 
+  <link href="/admob/css/default.css" rel="stylesheet"> 
+  <link href="css/default.css" rel="stylesheet"> 
+ </head> 
+ <body class="page-sign-up-002"> 
+  <noscript>
+   <iframe class="gtm-iframe" height="0" src="//www.googletagmanager.com/ns.html?id=GTM-WLDTKH" width="0"></iframe>
+  </noscript> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WLDTKH');
+    </script> 
+  <div class="maia-nav" id="maia-nav-root" role="navigation"> 
+   <div class="maia-aux"> 
+    <a href="../../services/sitemap.html">Looking to grow your business? We can help.</a> 
+   </div> 
+  </div> 
+  <div class="maia-header" id="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <h1> <a href="../../admob/"><img alt="AdMob by Google" class="logo" height="48" src="/admob/images/admob_logo_2x.png"></a> </h1> 
+    <div id="sign-in-link-container"> 
+     <a href="https://apps.admob.com?hl=en">Sign into AdMob</a> or 
+     <a class="maia-button doubletrack" href="https://apps.admob.com/signup/?hl=en" id="sign-in-link">Sign up</a> 
+    </div>
+    <a class="maia-teleport" href="#content">Skip to content</a> 
+   </div> 
+  </div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="intro-wrapper-sign-up-002"> 
+    <div class="maia-aux"> 
+     <div class="maia-cols"> 
+      <div class="maia-col-9"> 
+       <h1> Making Mobile Apps Work for You </h1> 
+      </div> 
+      <div class="maia-col-3"> 
+       <img alt="" class="admob-user" src="../images/admob-user.png"> 
+      </div> 
+     </div>
+     <a class="maia-button sign-up-button" data-g-action="Maia: Primary – Content" data-g-event="Maia: Button" data-g-label="Sign up for AdMob" href="https://apps.admob.com/signup/?hl=en">Sign up</a> 
+    </div> 
+   </div> 
+   <div class="platform-page"> 
+    <div class="hero"></div> 
+   </div> 
+   <div class="cards-wrapper"> 
+    <div class="maia-aux"> 
+     <div class="maia-cols hero-callouts"> 
+      <div class="maia-col-4"> 
+       <div class="material-card"> 
+        <h2> Know your audience </h2> 
+        <div class="gweb-picture" data-alt=""> 
+         <div data-src="/admob/images/analyze.png"></div> 
+         <div data-media="(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)" data-src="/admob/images/analyze_2x.png"></div>
+         <noscript>
+          <img alt="" src="/admob/images/analyze.png">
+         </noscript> 
+        </div> 
+        <p> Google Analytics is integrated into the AdMob interface, giving you powerful and deep insights – for free. Better understand your audience so you can optimize your app for improved performance and maximum revenue. </p> 
+       </div> 
+      </div> 
+      <div class="maia-col-4"> 
+       <div class="material-card"> 
+        <h2> Make money with AdMob </h2> 
+        <div class="gweb-picture" data-alt=""> 
+         <div data-src="/admob/images/monetize.png"></div> 
+         <div data-media="(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)" data-src="/admob/images/monetize_2x.png"></div>
+         <noscript>
+          <img alt="" src="/admob/images/monetize.png">
+         </noscript> 
+        </div> 
+        <p> Connect with over one million advertisers to show relevant ads and drive engagement. With intelligent monetization, you can maximize earnings and make the money you deserve. </p> 
+       </div> 
+      </div> 
+      <div class="maia-col-4"> 
+       <div class="material-card"> 
+        <h2> Promote your apps at scale </h2> 
+        <div class="gweb-picture" data-alt=""> 
+         <div data-src="/admob/images/promote.png"></div> 
+         <div data-media="(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)" data-src="/admob/images/promote_2x.png"></div>
+         <noscript>
+          <img alt="" src="/admob/images/promote.png">
+         </noscript> 
+        </div> 
+        <p> Reach your ideal audience across our network of hundreds of millions of smartphone and tablet users. Drive installs and cross-promote within your own apps using house ads – for free. </p> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols"> 
+      <div class="maia-col-6"> 
+       <span class="circle-icon icon-quote">“</span> 
+       <blockquote>
+         “We started running text, image, and video interstitials at Christmas time in 2013, and it turned out to be the best gift we could give ourselves,” says Jason. “We were amazed—we immediately began generating 10 to 20 times more revenue through AdMob.” 
+       </blockquote> 
+       <p> <strong>Jason Byrne</strong><br> Co-Founder, Eltsoft LLC </p> 
+      </div> 
+      <div class="maia-col-6"> 
+       <span class="circle-icon icon-quote">“</span> 
+       <blockquote>
+         “When we introduced AdMob, our free applications became more profitable. Introducing in-app-purchase applications through house ads and creating revenue from them allowed us to achieve comprehensive results.” 
+       </blockquote> 
+       <p> <strong>Naruatsu Baba</strong><br> President and CEO, COLOPL Inc </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="maia-aux"> 
+    <div class="admob-logos-section admob-platforms"> 
+     <h3> AdMob is available for these platforms: </h3> 
+     <p> <a href="https://developers.google.com/mobile-ads-sdk/docs/admob/android/quick-start" target="_blank"><img alt="Android" src="/admob/images/logos/android.png"></a> <a href="https://developers.google.com/mobile-ads-sdk/docs/admob/ios/quick-start" target="_blank"><img alt="ios" src="/admob/images/logos/ios.png"></a> <a href="https://developers.google.com/mobile-ads-sdk/docs/games#unity" target="_blank"><img alt="unity" src="/admob/images/logos/unity.png"></a> <a href="https://developers.google.com/mobile-ads-sdk/docs/games#cocos2d-x" target="_blank"><img alt="cocos" src="/admob/images/logos/cocos.png"></a> </p> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div id="footer-follow"> 
+      <h3> Follow us on: <a href="https://plus.google.com/+AdMob?hl=en" rel="publisher" target="_blank"><img alt="Google+" src="//www.google.com/images/icons/product/gplus-16.png"></a> <a href="https://admob.blogspot.com/" target="_blank"><img alt="Blog" src="//www.google.com/images/icons/about_blogger.gif"></a> <a href="https://twitter.com/admob" target="_blank"><img alt="Twitter" src="//www.google.com/images/icons/thirdparty/twitter-16.png"></a> </h3> 
+     </div> 
+     <div class="suez-sitemap suez-sitemap-compact"> 
+      <h3> AdMob resources </h3> 
+      <ul> 
+       <li> <a href="https://developers.google.com/mobile-ads-sdk/?hl=en">SDK</a> </li> 
+       <li> <a href="https://groups.google.com/forum/#!forum/google-admob-ads-sdk">AdMob Forum</a> </li> 
+       <li> <a href="https://support.google.com/admob">Help Center</a> </li> 
+       <li> <a href="https://services.google.com/fb/forms/requestadmobconsult/">Request Initial Consultation</a> </li> 
+      </ul> 
+     </div> 
+     <div id="suez-footer-univ"> 
+      <a href="../../services/sitemap.html">Looking to grow your business? We can help.</a> 
+     </div>
+     <script src="../../services/js/sitemap-compact.min.js">
+</script> 
+    </div> 
+   </div>
+   <script src="/ads/js/base.js">
+</script> 
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <ul> 
+      <li> <a href="/">Google</a> </li> 
+      <li> <a href="/intl/en/about/">About Google</a> </li> 
+      <li> <a href="/intl/en/policies/privacy/">Privacy</a> </li> 
+      <li> <a href="/intl/en/policies/terms/">Terms</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div>
+  <script>
+var h=this;
+function k(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";else if("function"==
+b&&"undefined"==typeof a.call)return"object";return b}function m(a){var b=k(a);return"array"==b||"object"==b&&"number"==typeof a.length}function n(a){return"string"==typeof a}function p(a){var b=typeof a;return"object"==b&&null!=a||"function"==b}var s="closure_uid_"+(1E9*Math.random()>>>0),t=0;function u(a,b,c){return a.call.apply(a.bind,arguments)}
+function v(a,b,c){if(!a)throw Error();if(2<arguments.length){var e=Array.prototype.slice.call(arguments,2);return function(){var c=Array.prototype.slice.call(arguments);Array.prototype.unshift.apply(c,e);return a.apply(b,c)}}return function(){return a.apply(b,arguments)}}function w(a,b,c){w=Function.prototype.bind&&-1!=Function.prototype.bind.toString().indexOf("native code")?u:v;return w.apply(null,arguments)}
+function x(a){var b=y;function c(){}c.prototype=b.prototype;a.n=b.prototype;a.prototype=new c;a.prototype.constructor=a;a.m=function(a,c,d){return b.prototype[c].apply(a,Array.prototype.slice.call(arguments,2))}}Function.prototype.bind=Function.prototype.bind||function(a,b){if(1<arguments.length){var c=Array.prototype.slice.call(arguments,1);c.unshift(this,a);return w.apply(null,c)}return w(this,a)};function y(){0!=z&&(this[s]||(this[s]=++t));this.g=this.g;this.j=this.j}var z=0;y.prototype.g=!1;var A=String.prototype.trim?function(a){return a.trim()}:function(a){return a.replace(/^[\s\xa0]+|[\s\xa0]+$/g,"")};function B(a){if(!C.test(a))return a;-1!=a.indexOf("&")&&(a=a.replace(D,"&amp;"));-1!=a.indexOf("<")&&(a=a.replace(E,"&lt;"));-1!=a.indexOf(">")&&(a=a.replace(F,"&gt;"));-1!=a.indexOf('"')&&(a=a.replace(G,"&quot;"));-1!=a.indexOf("'")&&(a=a.replace(H,"&#39;"));-1!=a.indexOf("\x00")&&(a=a.replace(I,"&#0;"));return a}var D=/&/g,E=/</g,F=/>/g,G=/"/g,H=/'/g,I=/\x00/g,C=/[\x00&<>"']/;
+function J(a,b){return a<b?-1:a>b?1:0};var K=Array.prototype,aa=K.indexOf?function(a,b,c){return K.indexOf.call(a,b,c)}:function(a,b,c){c=null==c?0:0>c?Math.max(0,a.length+c):c;if(n(a))return n(b)&&1==b.length?a.indexOf(b,c):-1;for(;c<a.length;c++)if(c in a&&a[c]===b)return c;return-1},ba=K.forEach?function(a,b,c){K.forEach.call(a,b,c)}:function(a,b,c){for(var e=a.length,f=n(a)?a.split(""):a,d=0;d<e;d++)d in f&&b.call(c,f[d],d,a)};function ca(a){var b=a.length;if(0<b){for(var c=Array(b),e=0;e<b;e++)c[e]=a[e];return c}return[]};var L;a:{var M=h.navigator;if(M){var N=M.userAgent;if(N){L=N;break a}}L=""};function da(a,b){for(var c in a)b.call(void 0,a[c],c,a)}var O="constructor hasOwnProperty isPrototypeOf propertyIsEnumerable toLocaleString toString valueOf".split(" ");function ea(a,b){for(var c,e,f=1;f<arguments.length;f++){e=arguments[f];for(c in e)a[c]=e[c];for(var d=0;d<O.length;d++)c=O[d],Object.prototype.hasOwnProperty.call(e,c)&&(a[c]=e[c])}};var fa=-1!=L.indexOf("Opera")||-1!=L.indexOf("OPR"),P=-1!=L.indexOf("Trident")||-1!=L.indexOf("MSIE"),Q=-1!=L.indexOf("Gecko")&&-1==L.toLowerCase().indexOf("webkit")&&!(-1!=L.indexOf("Trident")||-1!=L.indexOf("MSIE")),ha=-1!=L.toLowerCase().indexOf("webkit");function R(){var a=h.document;return a?a.documentMode:void 0}
+var S=function(){var a="",b;if(fa&&h.opera)return a=h.opera.version,"function"==k(a)?a():a;Q?b=/rv\:([^\);]+)(\)|;)/:P?b=/\b(?:MSIE|rv)[: ]([^\);]+)(\)|;)/:ha&&(b=/WebKit\/(\S+)/);b&&(a=(a=b.exec(L))?a[1]:"");return P&&(b=R(),b>parseFloat(a))?String(b):a}(),T={};
+function U(a){if(!T[a]){for(var b=0,c=A(String(S)).split("."),e=A(String(a)).split("."),f=Math.max(c.length,e.length),d=0;0==b&&d<f;d++){var g=c[d]||"",l=e[d]||"",ia=RegExp("(\\d*)(\\D*)","g"),ja=RegExp("(\\d*)(\\D*)","g");do{var q=ia.exec(g)||["","",""],r=ja.exec(l)||["","",""];if(0==q[0].length&&0==r[0].length)break;b=J(0==q[1].length?0:parseInt(q[1],10),0==r[1].length?0:parseInt(r[1],10))||J(0==q[2].length,0==r[2].length)||J(q[2],r[2])}while(0==b)}T[a]=0<=b}}
+var V=h.document,W=V&&P?R()||("CSS1Compat"==V.compatMode?parseInt(S,10):5):void 0;var ka=!P||P&&9<=W;!Q&&!P||P&&P&&9<=W||Q&&U("1.9.1");P&&U("9");function la(a){var b,c,e,f;b=document;if(b.querySelectorAll&&b.querySelector&&a)return b.querySelectorAll(""+(a?"."+a:""));if(a&&b.getElementsByClassName){var d=b.getElementsByClassName(a);return d}d=b.getElementsByTagName("*");if(a){f={};for(c=e=0;b=d[c];c++){var g=b.className,l;if(l="function"==typeof g.split)l=0<=aa(g.split(/\s+/),a);l&&(f[e++]=b)}f.length=e;return f}return d}
+function ma(a,b){da(b,function(b,e){"style"==e?a.style.cssText=b:"class"==e?a.className=b:"for"==e?a.htmlFor=b:e in X?a.setAttribute(X[e],b):0==e.lastIndexOf("aria-",0)||0==e.lastIndexOf("data-",0)?a.setAttribute(e,b):a[e]=b})}var X={cellpadding:"cellPadding",cellspacing:"cellSpacing",colspan:"colSpan",frameborder:"frameBorder",height:"height",maxlength:"maxLength",role:"role",rowspan:"rowSpan",type:"type",usemap:"useMap",valign:"vAlign",width:"width"};
+function na(a,b,c){var e=arguments,f=document,d=e[0],g=e[1];if(!ka&&g&&(g.name||g.type)){d=["<",d];g.name&&d.push(' name="',B(g.name),'"');if(g.type){d.push(' type="',B(g.type),'"');var l={};ea(l,g);delete l.type;g=l}d.push(">");d=d.join("")}d=f.createElement(d);g&&(n(g)?d.className=g:"array"==k(g)?d.className=g.join(" "):ma(d,g));2<e.length&&oa(f,d,e);return d}
+function oa(a,b,c){function e(c){c&&b.appendChild(n(c)?a.createTextNode(c):c)}for(var f=2;f<c.length;f++){var d=c[f];if(!m(d)||p(d)&&0<d.nodeType)e(d);else{var g;a:{if(d&&"number"==typeof d.length){if(p(d)){g="function"==typeof d.item||"string"==typeof d.item;break a}if("function"==k(d)){g="function"==typeof d.item;break a}}g=!1}ba(g?ca(d):d,e)}}};function Y(a,b){return a.dataset?b in a.dataset?a.dataset[b]:null:a.getAttribute("data-"+String(b).replace(/([A-Z])/g,"-$1").toLowerCase())};function Z(a){y.call(this);this.e=a;this.f={};this.a=null;this.c={};this.d=[];this.b=null;var b=this.e.attributes,c=b.length;for(a=0;a<c;a++){var e=b.item(a).nodeName,f=b.item(a).nodeValue;this.f["data-alt"==e?"alt":e]=f||""}b=this.e.getElementsByTagName("DIV");a=0;for(c=b.length;a<c;a++)if(f=b[a],e=Y(f,"media"),f=Y(f,"src"),e)pa&&(this.d.push({k:e,src:f}),window.matchMedia(e).addListener(w(this.h,this)));else{if(this.b)throw Error("Fallback image source has already been set.");this.b=f}this.h()}
+x(Z);var pa=window.matchMedia&&window.matchMedia("screen").addListener;Z.prototype.h=function(){for(var a,b=this.d.length-1;0<=b;b--){var c=this.d[b];if(window.matchMedia(c.k).matches){a=c.src;break}}a=a||this.b;this.c[a]||(b=na("IMG",this.f),b.setAttribute("src",a),this.c[a]=b);a=this.c[a];b=this.a?this.a:this.e;(c=b.parentNode)&&c.replaceChild(a,b);this.a=a};
+function $(a){y.call(this);this.i=a||"gweb-picture";this.l=[];a=this.i;var b=document;a=b.querySelectorAll&&b.querySelector?b.querySelectorAll("."+a):la(a);for(var b=0,c=a.length;b<c;b++)this.addElement(a[b])}x($);$.prototype.addElement=function(a){if("DIV"==a.nodeName)a=new Z(a),this.l.push(a);else throw Error("Only a DIV element can be added.");};new $;
+    </script> 
+  <script src="//www.google.com/js/maia.js">
+</script>  
+ </body>
+</html>

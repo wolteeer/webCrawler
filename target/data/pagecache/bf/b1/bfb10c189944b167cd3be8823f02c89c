@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width, user-scalable=0" name="viewport">
+  <title>Project Sunroof - Installation Process</title>
+  <meta name="description" content="Learn about the process of installing solar panels, including how to choose providers and panels. ">
+  <link rel="canonical" href="https://www.google.com/get/sunroof/process/">
+  <link rel="shortcut icon" href="https://www.google.com/get/sunroof/favicon.png">
+  <meta property="og:url" content="https://www.google.com/get/sunroof/process/">
+  <meta property="og:title" content="Project Sunroof - Installation Process">
+  <meta property="og:description" content="Enter a state, county, city, or zip code to see a solar estimate for the area, based on the amount of usable sunlight and roof space.">
+  <meta property="og:image" content="https://www.google.com/get/sunroof/images/share-v1.jpg">
+  <meta name="twitter:url" content="https://www.google.com/get/sunroof/process/">
+  <meta name="twitter:title" content="Project Sunroof - Installation Process">
+  <meta name="twitter:description" content="Enter a state, county, city, or zip code to see a solar estimate for the area, based on the amount of usable sunlight and roof space.">
+  <meta name="twitter:image:src" content="https://www.google.com/get/sunroof/images/share-v1.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <script>var env = 'PRODUCTION';</script>
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,600&amp;&amp;586ba14d-82d2-4d4b-84c9-599c677ee18e">
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/icon?family=Material+Icons+Extended&amp;&amp;586ba14d-82d2-4d4b-84c9-599c677ee18e">
+  <link rel="stylesheet" type="text/css" href="/get/sunroof/data-explorer/css/css.css?586ba14d-82d2-4d4b-84c9-599c677ee18e">
+  <script type="text/javascript" src="/get/sunroof/data-explorer/js/js.js?586ba14d-82d2-4d4b-84c9-599c677ee18e"></script>
+  <script type="text/javascript" src="https://maps.google.com/maps/api/js?v=3&amp;libraries=places&amp;client=google-suncatcher&amp;callback=mapsInit&amp;&amp;586ba14d-82d2-4d4b-84c9-599c677ee18e"></script> 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-62229116-1', 'auto');
+  ga('send', 'pageview');
+</script> 
+ </head>
+ <body ng-app="explorer" class="md-body" ng-class="isNavOpen ? 'nav-open' : ''">
+  <div class="view-wrap">
+   <process-view class="view"></process-view>
+  </div>
+  <!--[if lte IE 9]><script>window.location = 'https://myaccount.google.com/not-supported';</script><![endif]-->
+ </body>
+</html>

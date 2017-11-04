@@ -1,0 +1,328 @@
+<!doctype html>
+<html class="google mmfb" lang="en" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/en_uk/get-started/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="Help your students build skills for the future with Google for Education" name="description"> 
+  <title>
+    Google for Education: Learn How
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/en_uk/get-started/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Learn How" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/en_uk/get-started/" property="og:url"> 
+  <meta content="" property="og:image"> 
+  <meta content="Help your students build skills for the future with Google for Education" property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/en_uk/get-started/" name="twitter:url"> 
+  <meta content="Google for Education: Learn How" name="twitter:title"> 
+  <meta content="" name="twitter:image"> 
+  <meta content="Help your students build skills for the future with Google for Education" name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Learn How" itemprop="name"> 
+  <meta content="Help your students build skills for the future with Google for Education" itemprop="description"> 
+  <meta content="" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Learn How",
+    "description": "Help your students build skills for the future with Google for Education",
+    "url": "https://edu.google.com/intl/en_uk/get-started/",
+    "logo": "",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="small-schools" ng-cloak> 
+  <header class="maia-header" role="banner"> 
+   <div class="logo"> 
+    <a href="/intl/en_uk/"> <img src="/images/logos/google-for-education.svg" alt="Google for Education"> </a> 
+   </div> 
+   <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+    <a data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" target="_blank" class="link" ng-click="ctrl.talkToAnExpert();">Get Google products</a> 
+    <a href="https://lp.google-mkto.com/UK_Edu_SignUp.html" data-g-event="Edu: Global Header" data-g-action="Talk to an Expert" data-g-label="Header" target="_blank" class="header-button">Request a Call</a> 
+    <div class="page-overlay" ng-if="!ctrl.pageOverlayHidden" ng-cloak></div> 
+    <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+     <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+     <h2 class="headline">How can we help you?</h2> 
+     <div class="expert-info-container"> 
+      <div class="info-section"> 
+       <h5>Get Productivity Tools</h5> 
+       <p>Get Google productivity tools, with Classroom, Google Docs, Drive, Hangouts, email and more included free of charge, with no ads.</p> 
+       <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=en#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Sign up for G Suite</a> 
+      </div> 
+      <div class="info-section"> 
+       <h5>Get Devices</h5> 
+       <p>Interested in getting Chromebooks or Android devices for your institution? Our team can help you find the right path.</p> 
+       <a class="maia-button overlay-button" href="https://lp.google-mkto.com/UK_Edu_SignUp.html" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Contact an Expert</a> 
+      </div> 
+      <div class="info-section"> 
+       <h5>Talk to Other Educators</h5> 
+       <p>Want to talk to people similar to you who have gone Google? Tap into our community of educators.</p> 
+       <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Find Other Educators</a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </header>
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <!--Hero banner--> 
+   <div class="small-schools-hero"> 
+    <div class="small-schools-hero-rail"> 
+     <div class="hero-image"> 
+      <div class="hero-image-text"> 
+       <h2>Tools for every size classroom.</h2> 
+       <a data-g-event="Edu: Hero" data-g-action="Talk to an Expert" data-g-label="Sign up" target="_blank" href="https://lp.google-mkto.com/UK_Edu_SignUp.html">Request a call from a Google specialist</a> 
+      </div> 
+      <img src="/images/learn-how/hero-images/tools-for-every-size-classroom.jpg"> 
+     </div> 
+     <div class="hero-image"> 
+      <div class="hero-image-text"> 
+       <blockquote>
+        "The 'aha' moment for us was when we held our firts IT training session for teachers. Three brave 11-year-old students volunteered to conduct the training and we were all moved."
+       </blockquote> 
+       <p class="quote-info"> <span class="author">Guy<br>Shearer</span> <span class="title">Head of IT</span> <span class="school">David Ross Education Services</span> </p> 
+       <a data-g-event="Edu: Hero" data-g-action="Read Case Study" data-g-label="Brooklyn Prospect" target="_blank" href="/intl/en_uk/case-studies/david-ross-education-trust/">Read the case study</a> 
+      </div> 
+      <img src="/images/learn-how/hero-images/technology-motivates-the-students.jpg"> 
+     </div> 
+     <div class="hero-image"> 
+      <div class="hero-image-text"> 
+       <blockquote>
+        "The chromebooks just work. They are reliable, and give you quick and easy access to G Suite. Students love collaborating both inside and outside of classes"
+       </blockquote> 
+       <p class="quote-info"> <span class="author">Mark<br>Brandish</span> <span class="title">ICT In learning Manager</span> <span class="school">The Highland Council</span> </p> 
+       <a data-g-event="Edu: Hero" data-g-action="Read Case Study" data-g-label="Lake Catholic High School" target="_blank" href="/intl/en_uk/case-studies/highland-council/">Read the case study</a> 
+      </div> 
+      <img src="/images/learn-how/hero-images/spend-time-on-other-initiatives.jpg"> 
+     </div> 
+     <div class="hero-image"> 
+      <div class="hero-image-text"> 
+       <blockquote>
+        "[We] knew we needed to show students that technology is truly about learning. Students' learning suddenly flourished because they're using the right tools."
+       </blockquote> 
+       <p class="quote-info"> <span class="author">Louise<br>Jones</span> <span class="title">Head of IT services</span> <span class="school">Coleg<br>Cambria</span> </p> 
+       <a data-g-event="Edu: Hero" data-g-action="Read Case Study" data-g-label="Chagrin Falls Exempted Village Schools" target="_blank" href="/intl/en_uk/case-studies/coleg-cambria/">Read the case study</a> 
+      </div> 
+      <img src="/images/learn-how/hero-images/giving-students-assignments.jpg"> 
+     </div> 
+    </div> 
+    <button class="arrow-button left" type="button"><span>Move backward</span></button> 
+    <button class="arrow-button right" type="button"><span>Move forward</span></button> 
+   </div> 
+   <a class="skip-hero-button gweb-smoothscroll-control" href="#small-schools-products"><span>Skip to content</span></a> 
+   <div class="small-schools-products" id="small-schools-products"> 
+    <!--Products--> 
+    <div class="product product--red experiment-a" data-glue-ctrx="smallschools" data-glue-ctrx-decision="first" data-glue-ctrx-choice="chromebooks" data-ng-cloak> 
+     <div class="maia-col-6 product-cols product-cols-image"> 
+      <object oa-reusable-svg data="/images/small-schools/chromebooks.svg" type="image/svg+xml" class="product-image"> </object> 
+     </div> 
+     <div class="maia-col-6 product-cols product-cols-description right"> 
+      <div class="product-details "> 
+       <span class="product-copy">Affordable and easy to manage devices</span> 
+       <h4>Chromebooks</h4> 
+       <img class="product-icon" src="/images/products/chrome_md.png" data-retina="53x53"> 
+       <p class="product-description">Chromebooks do it all. These versatile devices with dynamic content, built-in G Suite and simple cloud management make it easy to navigate any classroom with ease.</p> 
+       <a data-color="red" data-g-event="Edu: Canvas" data-g-action="Browse Devices" data-g-label="Chromebooks" href="/intl/en_uk/products/devices/" target="_blank" class="product-cta" data-glue-ctrx="smallschools" data-glue-ctrx-decision="first" data-glue-ctrx-choice="chromebooks" data-glue-ctrx-goal="goal-1" data-glue-ctrx-goal-reward="1">Browse Devices</a> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="product product--blue"> 
+     <div class="maia-col-6 product-cols product-cols-image right"> 
+      <object oa-reusable-svg data="/images/small-schools/education.svg" type="image/svg+xml" class="product-image"> </object> 
+     </div> 
+     <div class="maia-col-6 product-cols product-cols-description"> 
+      <div class="product-details "> 
+       <span class="product-copy">70 million users. Infinite possibilities.</span> 
+       <h4>G Suite For Education</h4> 
+       <img class="product-icon" src="/images/products/google_docs_md.png" data-retina="53x53"> 
+       <img class="product-icon" src="/images/products/calendar_md.png" data-retina="53x53"> 
+       <img class="product-icon" src="/images/products/drive_md.png" data-retina="53x53"> 
+       <img class="product-icon" src="/images/products/gmail_md.png" data-retina="53x53"> 
+       <img class="product-icon" src="/images/products/hangouts_md.png" data-retina="53x53"> 
+       <p class="product-description">Gmail, Google Docs, and beyond. A suite of free productivity tools for easy classroom collaboration.</p> 
+       <a data-color="blue" data-g-event="Edu: Canvas" data-g-action="Learn More" data-g-label="G Suite For Education" href="/intl/en_uk/products/productivity-tools/" target="_blank" class="product-cta">Learn More</a> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="product product--green"> 
+     <div class="maia-col-6 product-cols product-cols-image"> 
+      <object oa-reusable-svg data="/images/small-schools/classroom.svg" type="image/svg+xml" class="product-image"> </object> 
+     </div> 
+     <div class="maia-col-6 product-cols product-cols-description"> 
+      <div class="product-details product-details--left"> 
+       <span class="product-copy">Save Time. Improve Collaboration.</span> 
+       <h4>Google Classroom</h4> 
+       <img class="product-icon" src="/images/products/classroom_md.png" data-retina="53x53"> 
+       <p class="product-description">Think of Google Classroom as your classroom's command centre. Create classes, distribute assignments, send feedback - all in one place. It's instant. It's paperless. It's easy.</p> 
+       <a data-color="green" data-g-event="Edu: Canvas" data-g-action="Sign Up Now" data-g-label="Google Classroom" href="/intl/en_uk/products/productivity-tools/classroom/" target="_blank" class="product-cta">Sign Up Now</a> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="product product--red experiment-b" data-glue-ctrx="smallschools" data-glue-ctrx-decision="first" data-glue-ctrx-choice="gsuite" data-ng-cloak> 
+     <div class="maia-col-6 product-cols product-cols-image right"> 
+      <object oa-reusable-svg data="/images/small-schools/chromebooks.svg" type="image/svg+xml" class="product-image"> </object> 
+     </div> 
+     <div class="maia-col-6 product-cols product-cols-description"> 
+      <div class="product-details "> 
+       <span class="product-copy">Affordable and easy to manage devices</span> 
+       <h4>Chromebooks</h4> 
+       <img class="product-icon" src="/images/products/chrome_md.png" data-retina="53x53"> 
+       <p class="product-description">Chromebooks do it all. These versatile devices with dynamic content, built-in G Suite and simple cloud management make it easy to navigate any classroom with ease.</p> 
+       <a data-color="red" data-g-event="Edu: Canvas" data-g-action="Browse Devices" data-g-label="Chromebooks" href="/intl/en_uk/products/devices/" target="_blank" class="product-cta" data-glue-ctrx="smallschools" data-glue-ctrx-decision="first" data-glue-ctrx-choice="gsuite" data-glue-ctrx-goal="goal-1" data-glue-ctrx-goal-reward="1">Browse Devices</a> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="product no-border product--blue"> 
+     <div class="maia-col-6 product-cols product-cols-description article product--impact"> 
+      <div class="product-details product-details--left"> 
+       <span class="product-copy">SUCCESS WITH CHROMEBOOKS AND G SUITE</span> 
+       <h4>Impact Portraits <br>&amp; Case Studies</h4> 
+       <p class="product-description">How do you measure the impact of technology in the classroom? Explore findings from a 16 month investigation with Evergreen Education Group highlighting successes with Google for Education tools through the lens of teachers, students, and administrators.</p> 
+       <a data-color="" data-g-event="Edu: Canvas" data-g-action="Browse Impact Stories" data-g-label="Impact Portraits &amp; Case Studies" href="/intl/en_uk/#impact" target="_blank" class="product-cta">Browse Impact Stories</a> 
+      </div> 
+     </div> 
+     <div class="maia-col-6 product-cols product-carousel"> 
+      <div class="carousel-wrap" set-ng-animate="false"> 
+       <div data-carousel data-interval="6000" template-url="/templates/home/carousel.html" data-pagination="true"> 
+        <div data-slide template-url="/templates/home/slide.html"> 
+         <h5 class="slide-title"><a href="https://drive.google.com/file/d/0B__OTXR_u3RbWFFyV1Z4Z2RjMXc/view" target="_blank">Devonport Boys High School, UK</a></h5> 
+         <div class="slide-wrapper"> 
+          <a href="https://drive.google.com/file/d/0B__OTXR_u3RbWFFyV1Z4Z2RjMXc/view" target="_blank"> <img src="/images/impact/devenport.png"> </a> 
+         </div> 
+        </div> 
+        <div data-slide template-url="/templates/home/slide.html"> 
+         <h5 class="slide-title"><a href="https://drive.google.com/file/d/0B__OTXR_u3RbUlJIclVsUl9RSWs/view" target="_blank">Tring School, UK</a></h5> 
+         <div class="slide-wrapper"> 
+          <a href="https://drive.google.com/file/d/0B__OTXR_u3RbUlJIclVsUl9RSWs/view" target="_blank"> <img src="/images/impact/tring.png"> </a> 
+         </div> 
+        </div> 
+        <div class="pagination"> 
+         <a class="selected" data-g-click="true" data-g-event="Edu: Canvas" data-g-label="Impact Portraits"></a> 
+         <a class="" data-g-click="true" data-g-event="Edu: Canvas" data-g-label="Impact Portraits"></a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="product no-border"> 
+     <div class="maia-col-6 product-cols product-cols-description article"> 
+      <div class="product-details product-details--left"> 
+       <img class="product-icon" src="/images/products/training_md.png" data-retina="53x53"> 
+       <span class="product-copy">LEARNING NEVER STOPS</span> 
+       <h4>Professional <br> Development Programmes</h4> 
+       <p class="product-description">Dedicated educators are lifelong learners. With that in mind, we've designed free, online training for the classroom that helps educators do what they do best, even better.</p> 
+       <a data-color="" data-g-event="Edu: Canvas" data-g-action="Explore the Training Center" data-g-label="Professional Development Programs" href="https://edutrainingcenter.withgoogle.com/?hl=en_US&amp;_ga=1.175628715.868810521.1489516679" target="_blank" class="product-cta">Explore the Training Centre</a> 
+      </div> 
+     </div> 
+     <div class="maia-col-6 product-cols product-cols-description article"> 
+      <div class="product-details "> 
+       <img class="product-icon" src="/images/products/gear_md.png" data-retina="53x53"> 
+       <img class="product-icon" src="/images/products/url_md.png" data-retina="53x53"> 
+       <img class="product-icon" src="/images/products/gsoc2016_md.png" data-retina="53x53"> 
+       <span class="product-copy">INSPIRE THE NEXT GENERATION OF EXPLORERS</span> 
+       <h4>Computer Science <br>&amp; STEM Programmes</h4> 
+       <p class="product-description">We have developed a range of resources, programmes, scholarships and grant opportunities to engage students and educators around the world who are interested in computer science.</p> 
+       <a data-color="" data-g-event="Edu: Canvas" data-g-action="Browse Programs" data-g-label="Computer Science &amp; STEM Programs" href="/intl/en_uk/resources/computerscience/learning/" target="_blank" class="product-cta">Browse Programmes</a> 
+      </div> 
+     </div> 
+    </div> 
+    <!--Maps--> 
+   </div> 
+  </div> 
+  <footer class="maia-footer"> 
+   <a class="logo" href="/intl/en_uk/"> <img src="/images/logos/google-for-education-white.svg" alt="Google for Education"> </a> 
+   <nav> 
+    <ul> 
+     <li> <a href="https://www.google.com/intl/en/about/">About Google</a> </li> 
+     <li> <a href="https://www.google.com/intl/en/policies/privacy/">Privacy</a> </li> 
+     <li> <a href="https://www.google.com/intl/en/policies/terms/">Terms</a> </li> 
+    </ul> 
+   </nav> 
+  </footer> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script> 
+  <script src="/js/glue.min.js" async></script>  
+ </body>
+</html>

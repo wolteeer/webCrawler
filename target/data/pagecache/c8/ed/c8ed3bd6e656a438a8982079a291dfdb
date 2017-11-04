@@ -1,0 +1,612 @@
+<!doctype html>
+<html id="en" lang="en">
+ <head> 
+  <meta charset="utf-8"> 
+  <title>
+      Google Ad Traffic Quality
+    </title> 
+  <meta content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" lang="en" rel="stylesheet"> 
+  <link href="https://fonts.googleapis.com/css?family=Material+Icons" rel="stylesheet"> 
+  <link href="/ads/adtrafficquality/dist/css/global.min.css" rel="stylesheet"> 
+  <script src="//www.google.com/js/gweb/analytics/autotrack-ads.js"></script> 
+  <script>
+    var gadsTracker = new gweb.analytics.AutoTrack({profile: 'UA-18008-20'});
+    </script> 
+  <script src="/ads/adtrafficquality/dist/js/detect.min.js"></script> 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script> 
+  <script src="https://www.gstatic.com/external_hosted/createjs/createjs-2015.11.26.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.11/angular.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.11/angular-animate.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.11/angular-touch.min.js"></script> 
+  <script async defer src="https://apis.google.com/js/platform.js"></script> 
+ </head> 
+ <body class="page-global page-what-you-can-do"> 
+  <header class="page-header"> 
+   <div class="header-row"> 
+    <a href="/ads/adtrafficquality/"><img alt="Google" src="./dist/svg/google-logo.svg" width="115"></a> 
+   </div> 
+   <div class="nav-row"> 
+    <a href="/ads/adtrafficquality/"><img alt="Traffic Quality" src="./dist/svg/traffic-quality.svg" width="136"></a> 
+    <nav class="page-header__links" role="navigation"> 
+     <a class="link-index h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/">Overview</a> 
+     <a class="link-invalid-activity h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/invalid-activity.html">Invalid activity</a> 
+     <a class="link-how-we-prevent-it h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/how-we-prevent-it.html">How we prevent it</a> 
+     <a class="link-what-you-can-do active h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/what-you-can-do.html">What you can do</a> 
+     <a class="link-latest-news h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/latest-news.html">Latest news</a> 
+    </nav> 
+    <div mobile-menu-btn=""></div> 
+   </div> 
+  </header> 
+  <aside class="mobile-menu"> 
+   <nav role="navigation"> 
+    <div accordion="" class="mobile-menu__link"> 
+     <a class="link-index h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/index.html"><span>Overview</span></a> 
+    </div> 
+    <div accordion="" class="mobile-menu__link"> 
+     <a class="link-invalid-activity h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/invalid-activity.html"><span>Invalid activity</span></a> 
+     <span class="accordion__btn" ng-click="openPanel()">&nbsp;<i class="material-icons">keyboard_arrow_down</i></span> 
+     <div class="mobile-menu__sub-links accordion__panel"> 
+      <a class="link-tag-taxonomy h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/tag-taxonomy.html">TAG Taxonomy</a> 
+     </div> 
+    </div> 
+    <div accordion="" class="mobile-menu__link"> 
+     <a class="link-how-we-prevent-it h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/how-we-prevent-it.html"><span>How we prevent it</span></a> 
+    </div> 
+    <div accordion="" class="mobile-menu__link"> 
+     <a class="link-what-you-can-do active h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/what-you-can-do.html"><span>What you can do</span></a> 
+    </div> 
+    <div accordion="" class="mobile-menu__link"> 
+     <a class="link-latest-news h-c-link--static h-c-link--muted" href="/ads/adtrafficquality/latest-news.html"><span>Latest news</span></a> 
+    </div> 
+   </nav> 
+  </aside> 
+  <div class="fade-content-in"> 
+   <section class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div class="h-o-grid__col h-o-grid__col-l--6 grid-center"> 
+      <h3 class="h-c-headline h-c-headline--three h-u-font-weight-light" id="prevent-invalid-traffic"> How can you help prevent invalid traffic? </h3> 
+      <div animation-name="homepage04" canvas-animations=""></div> 
+      <p class="pdt38"> While we work hard to protect you from invalid traffic and advertising fraud, there are steps you can take to help. </p> 
+      <p> Below, we’ve gathered some resources to help you monitor your ads and content, including articles on how to track the performance of your websites, ads, apps, and videos; tips for detecting suspicious activity; and best practices to minimize the risk of invalid activity affecting your business. </p> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div class="h-o-grid__col h-o-grid__col-l--6 grid-center"> 
+      <h3 class="h-c-headline h-c-headline--three h-u-font-weight-light" id="publishers"> Resources for publishers </h3>
+      <img alt="Invalid activity" class="section-image" src="./dist/img/what-you-can-do/publishers.png" srcset="./dist/img/what-you-can-do/publishers-x2.png 2x"> 
+      <p> Learn more about the traffic on your site, discover how to help prevent invalid activity, and get tips on how to safely increase traffic. </p> 
+     </div> 
+    </div> 
+   </section> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="prevent-invalid-activity" ng-click="openPanel()">What you can do to prevent invalid activity <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <img alt="Invalid activity" class="section-image" src="./dist/img/what-you-can-do/publisher/publisher-01.png" srcset="./dist/img/what-you-can-do/publisher/publisher-01_2x.png 2x"> 
+       <h4 class="italic"> Best practices to prevent invalid activity </h4> 
+       <p> While we have strong systems in place to <a href="http://www.google.com/ads/adtrafficquality/how-we-prevent-it.html" target="_blank">detect invalid activity</a>, it's equally important that all AdSense publishers regularly review their traffic and ad implementations. We advise all publishers to read our <a href="https://support.google.com/adsense/answer/23921" target="_blank">beginner's guide to AdSense policies</a>, as well as follow our <a href="https://support.google.com/adsense/answer/48182" target="_blank">program policies</a>, and <a href="https://www.google.com/adsense/localized-terms" target="_blank">Terms and Conditions</a>. </p> 
+       <p> Additionally, you can follow these best practices to prevent invalid activity on your pages: </p> 
+       <ul> 
+        <li> <a href="http://www.google.com/ads/adtrafficquality/publishers.html">Understand your traffic</a> and site visitors by breaking down your traffic reports into meaningful segments or channels. </li> 
+        <li>Be very careful when purchasing traffic and review the <a href="https://support.google.com/adsense/answer/3332805" target="_blank">traffic provider checklist</a> to help guide your discussions with potential providers. The checklist suggests questions to ask as you get to know the traffic provider. Their answers should help you understand exactly what type of traffic you'll get, so you can avoid buying from untrustworthy or low-quality providers. </li> 
+        <li>Double-check your ad implementations, then check them again. Make sure they are free from programming errors, conform to AdSense policies, and interact properly with different browsers and platforms. A well-implemented page can protect you from unintended consequences like accidental clicks. Encouraging accidental clicks is strictly prohibited, as outlined in our <a href="https://support.google.com/adsense/answer/1346295" target="_blank">ad placement policies</a>. </li> 
+        <li>Use the <a href="https://support.google.com/adsense/answer/65062" target="_blank">authorized sites feature</a> to prevent unauthorized use of your ad code. </li> 
+        <li>Don't click your own ads, even if you're interested in an ad or looking for its destination URL. Instead, use the Google Publisher Toolbar, as described below. </li> 
+       </ul> 
+       <h4 class="italic"> Google Publisher Toolbar </h4> 
+       <p> This Chrome extension lets you view up-to-date information about your account while browsing your site in Chrome. It provides an overview of your earnings and performance, as well as <a href="https://support.google.com/adsense/answer/2631190" target="_blank">ad overlays</a> that offer in-page reporting and blocking controls. </p> 
+       <p> The Google Publisher Toolbar also provides information about the ads served on your page, including ad size, ad format, performance metrics, display URL, and destination URL. It also allows 'test clicking' on ad overlays without those clicks being counted towards ad spam, and controls to <a href="https://support.google.com/adsense/answer/2631193" target="_blank">block an ad, a URL or ad network</a>, or <a href="https://support.google.com/adsense/answer/2631197" target="_blank">report a problem with an ad</a>. </p> 
+       <p> For more information, please visit these Help Center pages: <a href="https://support.google.com/adsense/answer/2411951" target="_blank">About the Google Publisher Toolbar</a> and <a href="https://support.google.com/adsense/answer/2415249?hl=en&amp;ref_topic=2414281" target="_blank">Install the Google Publisher Toolbar</a>. </p> 
+       <h4 class="italic"> Your responsibilities as a publisher </h4> 
+       <p> As a publisher, it's important to understand the drivers and sources of traffic to your website. In extreme cases, an egregious traffic source that generates invalid clicks on your ads may lead to your account being disabled. Suspicious traffic may violate various <a href="https://support.google.com/adsense/answer/48182" target="_blank">AdSense program policies</a> under "traffic sources", such as: </p> 
+       <ul> 
+        <li>Usage of automated bots that imitate user behavior </li> 
+        <li>Buying unrelated traffic from unknown networks </li> 
+        <li>Participating in pay-to-click programs </li> 
+        <li>Receiving traffic from unwanted email or software applications </li> 
+       </ul> 
+       <p> Some publishers have asked for information about known sources of invalid traffic. Unfortunately, many of these sources frequently change their tactics, and in order to protect the effectiveness of our detection systems, we are unable to provide information about them. This is one reason why understanding your own traffic is important. Proactive identification of the quality of your traffic sources is a fast and effective way to protect your account from invalid activity. </p> 
+       <p> Whether you're using a supply-side platform or are configuring your own ads, make sure your ads are set up correctly by watching out for alerts on <a href="https://support.google.com/adsense/answer/2594855" target="_blank">rejected ad requests</a>. These alerts indicate a risk of lower relevancy for your ads and the possibility that these ads may not even show up. </p> 
+       <p> Finally, we encourage you to report any suspicious activity on your site with the <a href="https://support.google.com/adsense/contact/invalid_clicks_contact?rd=1" target="_blank">Invalid Clicks Contact Form</a>. </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="optimize-increased-traffic" ng-click="openPanel()">Optimize your site for increased traffic <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <img alt="Invalid activity" class="section-image" src="./dist/img/what-you-can-do/publisher/publisher-02.png" srcset="./dist/img/what-you-can-do/publisher/publisher-02_2x.png 2x"> 
+       <p> There are two main ways to increase traffic by optimizing your site: web enhancements and new traffic acquisition. </p> 
+       <h4> Web enhancements </h4> 
+       <p> Web enhancements such as optimizing <a href="https://support.google.com/adsense/answer/1055565" target="_blank">ad placement</a> and navigation can have a big effect on your traffic. Check out <a href="https://support.google.com/adwords/answer/2580276" target="_blank">our Help Center article</a> to learn how fast-loading pages, relevant content, and effective mobile sites can help increase traffic to your website. </p> 
+       <p> It's important to remember the <a href="https://support.google.com/adsense/answer/48182" target="_blank">AdSense program policies</a> and Google's <a href="https://support.google.com/webmasters/answer/35769" target="_blank">Webmaster Guidelines</a>, when making changes to your site. For example, Google ads, search boxes, and search results may not be: </p> 
+       <ul> 
+        <li>Integrated into a software application of any kind, including toolbars (does not apply to AdMob) </li> 
+        <li>Displayed in pop-ups or pop-unders </li> 
+        <li>Placed in emails, email programs, or chat programs </li> 
+        <li>Obscured by elements on a page </li> 
+        <li>Placed on any non-content-based page (does not apply to AdSense for search or mobile AdSense for search) </li> 
+        <li>Placed on pages published specifically to show ads </li> 
+        <li>Placed on pages whose content or URL could confuse users into thinking it's associated with Google due to the misuse of logos, trademarks or other brand features </li> 
+        <li>Placed on, within, or alongside other Google products or services in a manner that violates the policies of that product or service </li> 
+       </ul> 
+       <p> For a complete list of policies, consult the AdSense program policies and AdSense <a href="https://www.google.com/adsense/localized-terms" target="_blank">Terms and Conditions</a>. </p> 
+       <p> Ultimately, in order to promote and ensure a good experience for users and advertisers, clicks on Google ads must result from genuine visitor interest. </p> 
+       <h4> New traffic acquisition </h4> 
+       <p> Search engine optimization, advertising, and partnering with traffic providers are more good ways to generate more visits to your website. </p> 
+       <h4> Search engine optimization </h4> 
+       <p> Make sure your SEO is clean and adheres to Google policy by reading our <a href="https://support.google.com/webmasters/answer/35769" target="_blank">Webmaster Guidelines</a>, also referenced in the "Web enhancements" section. These best practices help create a site that Google can find, crawl, index, and understand. </p> 
+       <p> For a more in-depth guide to SEO, please read our <a href="http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/en/us/webmasters/docs/search-engine-optimization-starter-guide.pdf" target="_blank">Search Engine Optimization Starter Guide</a>. In addition, as mentioned in the <a href="http://www.google.com/ads/adtrafficquality/publishers.html" target="_blank">Understanding traffic on your site</a> article, <a href="https://www.google.com/webmasters/#?modal_active=none" target="_blank">Google Webmaster Tools</a> enable you to <a href="https://support.google.com/webmasters/answer/6259634" target="_blank">submit all of your pages</a> to the Google index, which can increase your visibility by optimizing your website for Google search. </p> 
+       <p> If you decide you to work with a search engine optimizer, we suggest the following: </p> 
+       <ul> 
+        <li>Ask for recommendations from webmasters you personally know and trust, or search for well-known optimizers with good reputations on the web. If possible, read what others have written about them on forums before working with them. </li> 
+        <li>If you choose an optimizer based on their reputation on the web, ask for examples of sites they have optimized. The sites should be as similar to yours as possible based on your content vertical, demographics, number of visits/month, and so on. </li> 
+        <li>Make sure that the SEO won't cause your site to contravene the Webmaster Guidelines, for example by purchasing links in order to increase your PageRank. </li> 
+       </ul> 
+       <p> Check out this <a href="https://support.google.com/webmasters/answer/35291" target="_blank">Search Engine Optimization help article</a> for more helpful tips and things to consider. </p> 
+       <h4 class="italic"> Advertising </h4> 
+       <p> You're welcome to use online advertising as a way to direct new users to your website, but if they link to pages with Google ads, they are required to comply with the spirit of our <a href="https://support.google.com/adwords/answer/2404197" target="_blank">landing page quality guidelines</a>. </p> 
+       <p> The three main components of a high-quality landing page are relevant and original content, transparency, and site navigability. Please read the <a href="https://support.google.com/adsense/answer/1348727" target="_blank">use of online advertising</a> article in our Help Center to learn more about each of these components. </p> 
+       <p> We also prohibit the following techniques: </p> 
+       <ul> 
+        <li>spam emails </li> 
+        <li>comment spamming </li> 
+        <li>fake forum profiles </li> 
+        <li>posting links on link farms and 'private blog networks', link exchanges and social network spamming. </li> 
+       </ul> 
+       <h4 class="italic"> Partnering with traffic providers </h4> 
+       <p> You're welcome to promote your website in any manner that complies with our <a href="https://support.google.com/adsense/answer/48182" target="_blank">program policies</a>, but remember that publishers are ultimately responsible for the traffic to their ads. So if you choose to partner with a third-party service to increase traffic to your site, it's critical that you monitor your reports closely to gauge the impact of each source on your ad traffic. </p> 
+       <p> There are many services that promise to increase traffic to your site, including pay-per-click solutions to connect advertisers and publishers, as well as search engines and directory sites. However, we've found that some of these services send artificial traffic to websites, despite their reputable appearances. To deliver the traffic levels that their customers expect, these services sometimes generate clicks and impressions using clickbots or by providing users incentives to visit sites and click on ads. </p> 
+       <p> For more information on how to avoid partnering with low-quality traffic providers, please refer to <a href="http://www.google.com/ads/adtrafficquality/publishers.html" target="_blank">Proactive steps to prevent invalid activity</a>. Specifically, the <a href="https://support.google.com/adsense/answer/3332805" target="_blank">traffic provider checklist</a> provides suggested questions to ask when you begin exploring how you and the traffic provider might work together. If you decide to go ahead, it's critical that you have the ability to monitor the traffic they send to your site. </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="adx-publishers" ng-click="openPanel()">DoubleClick Ad Exchange (AdX) publishers <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <img alt="Invalid activity" class="section-image" src="./dist/img/what-you-can-do/publisher/publisher-03.png" srcset="./dist/img/what-you-can-do/publisher/publisher-03_2x.png 2x"> 
+       <p> While we have strong systems in place to <a href="http://www.google.com/ads/adtrafficquality/how-we-prevent-it.html" target="_blank">detect invalid activity</a>, you are ultimately responsible for regularly reviewing your traffic and the ad implementations on your site. It's also important to maintain compliance with <a href="https://www.google.com/doubleclick/adxseller/guidelines.html" target="_blank">AdX policies</a>. </p> 
+       <p> Check out the sections below for helpful tips and to learn more about your responsibilities as an AdX publisher. Certain elements of AdX, such as Network Partner Management (NPM), come with their own best practices. </p> 
+       <h4 class="italic"> Your responsibilities as an AdX publisher </h4> 
+       <p> Make sure your ads comply with <a href="https://www.google.com/doubleclick/adxseller/guidelines.html" target="_blank">AdX Seller Program Policies</a> and <a href="https://support.google.com/platformspolicy/answer/3013851?rd=1" target="_target">Platform Program Policies</a>. These policies include details on things like ad placement, content, advertising, privacy and invalid activity. </p> 
+       <p> Whether you use a supply-side platform configure your own ads, make sure they're set up correctly by watching out for alerts on <a href="https://support.google.com/adsense/answer/2594855" target="_blank">rejected ad requests</a>. These alerts indicate a risk of lower relevancy for your ads and the possibility that these ads may not be showing. </p> 
+       <h4 class="italic"> Tips for Network Partner Management </h4> 
+       <p> Network Partner Management (NPM) is a unique feature of AdX. If you're new to NPM, the <a href="https://support.google.com/adxseller/checklist/2462087?rd=1" target="_blank">Network Partner Management checklist</a>, in the Ad Exchange Help Center can help guide you through our policies and processes. </p> 
+       <p> This checklist aims to provide new insights into managing your traffic and addresses the following topics: </p> 
+       <ul> 
+        <li>The purpose of NPM and how partners are designed to function </li> 
+        <li>How to avoid common policy issues with network partners </li> 
+        <li>How to correctly add network partners and best practices for network partner registration </li> 
+        <li>The states of network partner approval and what each state means </li> 
+        <li>How to correctly classify network partner domains, which is required in order to serve ads </li> 
+        <li>How to identify partners to whom you will pay out earnings </li> 
+        <li>Common issues with tags, duplicate partner registrations, and linking multiple DFP accounts </li> 
+       </ul> 
+       <p> The Ad Exchange Help Center also contains three new <a href="https://publisheruniversity.withgoogle.com/adx/en/school_overview/mixandmatch/mixandmatch.html" target="_blank">video tutorials</a> that cover the fundamentals of NPM, including a UI tour and policy overview. </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="understand-website-traffic" ng-click="openPanel()">Understanding your website traffic <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <img alt="Invalid activity" class="section-image" src="./dist/img/what-you-can-do/publisher/publisher-04.png" srcset="./dist/img/what-you-can-do/publisher/publisher-04_2x.png 2x"> 
+       <p> As a publisher, there are several best practices to better understand the traffic to your websites. In this section, we'll discuss how <a herf="https://www.google.com/webmasters/tools/home?hl=en" target="_blank">Google's Webmaster Tools</a> can give you insight into that traffic. We also outline how tools like Google Analytics can help you segment your traffic to identify your traffic sources and how those sources perform relative to one another. </p> 
+       <h4 class="italic"> Google Webmaster Tools </h4> 
+       <p> Some of the best strategies for driving visitors to your websites and improving the visibility of your pages can be found in <a herf="https://www.google.com/webmasters/tools/home?hl=en" target="_blank">Google's Webmaster Tools</a>. These tools allow you to <a href="https://support.google.com/webmasters/answer/156184?rd=1" target="_blank">submit all your pages</a> to the Google index, then view the common words that link to your pages and in turn are recognized by Google. </p> 
+       <p> Google Webmaster Tools also let you see trends in your site content, which can help you work out your ranking for particular keywords. You can also see which page has the highest pagerank by month. This information can help you decide how to best prioritize your time when optimizing ads on your site. </p> 
+       <p> Google Webmaster Tools also show you which Google searches create click-throughs to your site and where you're positioned in the search results for that query. You can even segment your traffic and view data for individual properties and countries - for instance, which user queries from Google Images searches in the United States returned your site in the results. For more information, see "Segmenting your traffic" below. </p> 
+       <h4 class="italic"> Segmenting your traffic </h4> 
+       <p> Site analytics programs, such as <a href="http://www.google.com/analytics/" target="_blank">Google Analytics</a>, can help you track and review traffic on your sites. These programs show you what type of visitors are viewing your pages, what they do on your site, and if they are engaging with your ads and content. </p> 
+       <p> Segmenting your traffic allows you to set up your ad units and custom channels in such a way that you can see all your traffic sources clearly and monitor how each one performs. Whether you're new to AdSense or a long-time publisher, these insights can be very useful. <a href="https://support.google.com/adsense/answer/65083?ref_topic=23389&amp;rd=1" target="_blank">Custom channels</a> let you track the performance of specific groups of ad units. </p> 
+       <p> Granular traffic segmentation will also allow you to identify your traffic sources at any given time and see how they perform relative to one another. With this data, you can find out how people are reaching your site and whether you can optimize your traffic sources. You can also <a href="https://support.google.com/adsense/answer/6084409?rd=1" target="_blank">integrate your AdSense account with Analytics</a> to get more insight into how to tailor your content and ads to your site's users. </p> 
+       <p> Moreover, segmenting your traffic can help you identify potential <a href="https://support.google.com/adsense/answer/16737" target="_blank">invalid activity</a> more quickly, and help you make appropriate changes to keep your account in good order. Proactively monitoring the performance of your traffic sources lets you make informed decisions and spot potential sources of bad traffic. Be on the lookout for any suspicious user behavior. Ask questions like, "Where do my users come from, geographically and on the web? Which pages do they view on my site?" </p> 
+       <p> We encourage all publishers to look for anomalies in their data, monitor the strength of their traffic sources, and understand how to remain compliant with AdSense program policies. </p> 
+       <p> To learn more about how to set up channels, check out this <a href="https://support.google.com/adsense/answer/2583698?hl=en&amp;ref_topic=1348718" target="_blank">Help Center article.</a> </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion acc-bb" scroll="true"> 
+      <button class="accordion__btn" id="faqs" ng-click="openPanel()">Frequently asked questions <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <img alt="Invalid activity" class="section-image" src="./dist/img/what-you-can-do/publisher/publisher-05.png" srcset="./dist/img/what-you-can-do/publisher/publisher-05_2x.png 2x"> 
+       <p> We know you may have questions about your AdSense account, so we've provided the answers to some frequently asked questions below: </p> 
+       <h4> Questions about invalid activity </h4> 
+       <h4 class="italic"> I'm worried my account is getting invalid traffic. What can I do? </h4> 
+       <p> To find out if there's anything suspicious about your account's traffic, we encourage you to review your site's traffic logs regularly and identify any anomalies. </p> 
+       <p> We'd recommend taking a close look at all AdSense referral sites found in your web analytics reports and/or your site's web log history. You should investigate any unusual increase in a particular traffic source from another country, website, or IP address. </p> 
+       <p> If you find a traffic source that seems suspicious, you can block that IP address or referral URL. We also highly recommend monitoring any website optimizers you may be working with. </p> 
+       <p> <a href="http://www.google.com/ads/adtrafficquality/publishers.html" target="_blank">Segmenting your traffic sources</a> can also help you identify sources of problematic traffic and make appropriate changes to keep your account in good order. </p> 
+       <p> If you notice any suspicious activity or believe your account is being <a href="https://support.google.com/adsense/answer/1348739" target="_blank">sabotaged, notify</a>, the Ad Traffic Quality Team right away through our <a href="https://support.google.com/adsense/contact/invalid_clicks_contact?rd=1" target="_blank">invalid clicks contact form</a>. </p> 
+       <h4 class="italic"> How do I find out which traffic source is generating invalid activity in my account? </h4> 
+       <p> To identify the source of invalid traffic, we recommend splitting your traffic into channels, as discussed in <a href="http://www.google.com/ads/adtrafficquality/publishers.html" target="_blank">Understanding traffic on your site</a>. This will help you see which traffic campaigns are performing well, the user behavior on your site, the demographics of your user base, and so on. You can also use tools like <a href="https://support.google.com/adsense/bin/answer.py?answer=2495976" target="_blank">Google Analytics</a> to investigate specific sources of the traffic to your site. </p> 
+       <p> Unfortunately, in order to protect the effectiveness of our detection systems, we can't share information about specific traffic sources that are known to send invalid traffic. </p> 
+       <h4 class="italic"> Can you provide more information about the invalid activity you detected on my account? </h4> 
+       <p> We know you may be concerned by any actions taken by our Ad Traffic Quality team on your account, but please be assured that these actions only happen following a careful and detailed investigation. </p> 
+       <p> Due to the policies we've implemented to protect the privacy of our users, and the proprietary nature of our algorithms, we cannot disclose certain details about how our monitoring technology works or what specifics we find in the accounts, such as the source and timing of invalid clicks. For the security of our advertisers, we also want to be sure that these details can't be used by someone wishing to evade detection in the future. </p> 
+       <p> Please also note that we reserve the right to take action on what we consider to be invalid activity, and may disable accounts for any reason, including invalid activity from any source, in order to protect our advertisers. </p> 
+       <h4 class="italic"> What are some examples of invalid activity? </h4> 
+       <p> Invalid activity can take many forms, including bot traffic, click farms, incentivized clicks, and accidental clicks. </p> 
+       <p> One of the more malicious forms of invalid activity is bot traffic. Bot traffic generally comes from computers that have been infected by malware or otherwise remotely controlled by a third party. The malware or hijacker can install software on the hijacked computer, which can then be used to perform any number of illicit tasks, one of which may be to load ads and click on them. </p> 
+       <p> Another type of malicious invalid activity comes from click farms, which are large groups of people paid to view and click on ads. </p> 
+       <p> Some traffic providers may appear to provide legitimate site visitors but may actually be delivering invalid traffic, such as bot traffic or clicks from a click farm. For this reason, we strongly urge you to use caution when partnering with third-party traffic services. The <a href="https://support.google.com/adsense/answer/3332805" target="_blank">traffic provider checklist</a> can help guide your discussions with any potential traffic provider. </p> 
+       <p> Incentivized clicks are when users aren't actually interested in viewing the ad content or landing page, but are motivated to click on ads for other reasons. A simple example of this is when a publisher encourages users to click on its ads by saying "Help keep my site free by clicking my ads!"" or offers some sort of reward for users who click ads. </p> 
+       <p> Accidental clicks are, as the name implies, clicks where users didn't intend to click on the ad. They often occur as a result of poor ad placement. Please review our <a href="https://support.google.com/adsense/answer/1346295" target="_blank">Ad placement policies</a> to learn more. For example, ads should not be clearly distinguished from other website content, such as menu, navigation, and download links. </p> 
+       <h4 class="italic"> Will I be punished for things like web crawlers that visit my page? </h4> 
+       <p> No, standard web crawlers are a normal part of Internet traffic. Our signals and filters can tell the difference between simple web crawlers and malicious botnets, so we won't penalize you if we detect one. However, since we don't charge advertisers for these non-human impressions and clicks, you also won't generate revenue from this traffic. </p> 
+       <h4 class="italic"> Questions about earnings </h4> 
+       <h4 class="italic"> Why is there a difference between my estimated and finalized earnings? </h4> 
+       <p> The reports in your AdSense account are intended to give you a close estimate of the current activity on your account. However, many factors can affect the amount that is ultimately paid to you. </p> 
+       <p> Once earnings are finalized, they are posted to your Payments page. Any revenue discovered to be from invalid clicks or impressions is credited back to the affected advertisers where possible. If your account is disabled for invalid activity, all revenue in the account will be credited to advertisers where possible and appropriate and you will not be eligible to receive payment. </p> 
+       <p> On your account homepage you can find the following information: </p> 
+       <ul> 
+        <li>Estimated earnings. Close estimates of your recent account activity from today, yesterday, this month so far, and last month </li> 
+        <li>Finalized earnings. This section displays two levels of earnings: 
+         <ul> 
+          <li>Current balance of your earnings that have not yet been paid out. This may not reflect the total amount of payment you receive. Google may make adjustments to the amount, including rounding discrepancies, invalid activity that needs to be adjusted from your earnings, or other month-end credits as necessary. </li> 
+          <li>Most recent payment that you've received from Google. </li> 
+         </ul> </li> 
+       </ul> 
+       <p> We may make adjustments to your estimated or finalized earnings to account for invalid impressions or clicks, which means we may remove earnings from your payable balance. To prevent invalid activity on your account, make sure to investigate any changes in traffic sources that you've experienced over the last payment cycle. We recommend taking a close look at all AdSense referral sites found in your web analytics reports and/or your site's web log history. </p> 
+       <p> Investigate any unusual increase in a particular traffic source from another country, website, or IP address that matches the time period in which your finalized earnings differed from your estimated earnings. Once you've identified a suspicious traffic source, you can block that IP address or referral URL. We also highly recommend closely monitoring any website optimizers you're working with. </p> 
+       <p> For more information about preventing invalid activity, please see the <a href="http://www.google.com/ads/adtrafficquality/publishers.html" target="_blank">Proactive steps to prevent invalid activity</a> and <a href="http://www.google.com/ads/adtrafficquality/publishers.html" target="_blank">Things to keep in mind when looking to increase traffic</a> articles. </p> 
+       <h4 class="italic"> Do estimated earnings account for invalid activity? </h4> 
+       <p> In most cases, estimated earnings exclude the majority of detected invalid activity. Our real-time filters assess impressions and clicks as they occur, and if they are found to be invalid, advertisers are not charged and no revenue is generated. </p> 
+       <p> This unearned revenue doesn't always show up in front-end reports in real time, but is sometimes updated at the end of the month instead, so that estimated earnings may not match finalized earnings. This is not so much "removed" revenue as revenue that was never earned by either the publisher or Google, since the advertisers were never charged for the traffic. </p> 
+       <p> For more information about estimated earnings and how we deduct earnings due to invalid activity, please see our <a href="https://support.google.com/adsense/answer/2808531?hl=en" target="_blank">help center article</a>. </p> 
+       <h4> Questions about disabled and duplicate accounts </h4> 
+       <h4 class="italic"> Why was my account disabled? What can I do to reinstate it? </h4> 
+       <p> Google is committed to protecting both advertisers and publishers from invalid activity. Therefore, if we believe your account poses a risk to our advertisers, we may disable it to protect Internet users, our advertisers, and other publishers. </p> 
+       <p> If your account is disabled due to invalid activity, we will withhold all unpaid revenue. Where appropriate and possible, we will credit that unpaid revenue, including all of Google's share, to any affected advertisers. </p> 
+       <p> You're welcome to appeal our decision by completing our online <a href="https://support.google.com/adsense/contact/appeal_form?hl=en&amp;rd=2" target="_blank">appeal form</a>. We will review your case as quickly as we can and take the appropriate action. To help our specialists investigate your case, please include as much information as possible in your appeal. This is your chance to help us understand why we may have seen invalid activity on your account. </p> 
+       <p> Please note that an appeal does not guarantee reinstatement. Once we've reached a decision on an appeal, we consider it to be final and will not accept any further appeals. </p> 
+       <p> To learn more about why accounts may be disabled, please visit our Help Center article <a href="https://support.google.com/adsense/answer/2660562" target="_blank">Top reasons for account closure</a> and the <a href="https://support.google.com/adsense/answer/57153" target="_blank">Disabled accounts FAQ</a> page. </p> 
+       <h4 class="italic"> My account is disabled. Can I open a new account? </h4> 
+       <p> If we disable your account due to invalid activity or a violation of our AdSense Program Policies, you will no longer be able to participate in AdSense or monetize through other products such as AdMob. If you feel that your account was sabotaged or otherwise unfairly disabled, you can appeal for reinstatement through our online <a href="https://support.google.com/adsense/contact/appeal_form?hl=en&amp;rd=2" target="_blank">appeal form</a>. </p> 
+       <h4 class="italic"> Can I have multiple AdSense accounts? </h4> 
+       <p> No, you can only have <a href="https://support.google.com/adsense/answer/9729?hl=en" target="_blank">one AdSense account</a> per payee name. </p> 
+       <h4> Questions about site traffic </h4> 
+       <h4 class="italic"> Can I use traffic exchange for my site? </h4> 
+       <p> While traffic exchange services aren't strictly prohibited, some exchange services may lead to invalid clicks or impressions. You are ultimately responsible for the traffic to your site, so if you decide to use a third-party service to increase your traffic, it's critical that you monitor your reports to gauge the impact that each source has on your ad traffic and the types of visitors it brings. If you start noticing suspicious activity, we recommend that you stop using these services to keep your account in good order. </p> 
+       <p> To learn more about traffic exchange, see <a href="https://support.google.com/adsense/answer/1348729" target="_blank">About traffic exchange programs</a>. </p> 
+       <h4 class="italic"> How do I avoid partnering with bad traffic providers? </h4> 
+       <p> It's not always easy to determine whether a source of traffic is legitimate or not, but our <a href="https://support.google.com/adsense/answer/3332805" target="_blank">Traffic provider checklist</a> contains helpful questions to ask before agreeing to work with a provider. We also recommend reading <a href="http://www.google.com/ads/adtrafficquality/publishers.html" target="_blank">Things to keep in mind when looking to increase traffic</a>, one of the many helpful articles in our Ad Traffic Quality Resource Center. </p> 
+       <h4 class="italic"> Can I click my ads while testing? </h4> 
+       <p> To click your own ads or check who is advertising on your site, use the <a href="https://support.google.com/adsense/answer/2411951" target="_blank">Google Publisher Toolbar</a>. This toolbar lets you check the destination of ads on your page without getting flagged for clicking on your own ads and generating invalid clicks. As stated in our <a href="https://www.google.com/adsense/localized-terms" target="_blank">Terms and Conditions</a> and <a href="https://support.google.com/adsense/answer/48182" target="_blank">Program Policies</a>, you shouldn't click ads on your own pages under any circumstances. If you do, we may suspend or disable your account. </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <section class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div class="h-o-grid__col h-o-grid__col-l--6 grid-center"> 
+      <h3 class="h-c-headline h-c-headline--three h-u-font-weight-light" id="advertisers"> Resources for advertisers </h3>
+      <img alt="Invalid activity" class="section-image" src="./dist/img/what-you-can-do/advertisers.png" srcset="./dist/img/what-you-can-do/advertisers-x2.png 2x"> 
+      <p> Learn more about your ad traffic, improve lead generation, and find out what to do if you think your ads are getting invalid traffic. </p> 
+     </div> 
+    </div> 
+   </section> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="understand-traffic" ng-click="openPanel()">Understand your ad traffic <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <img alt="Invalid activity" class="section-image" src="./dist/img/what-you-can-do/advertiser/advertiser-01.png" srcset="./dist/img/what-you-can-do/advertiser/advertiser-01_2x.png 2x"> 
+       <p> Understanding how your ads affect your website traffic is crucial to a successful campaign. Correct use of the auto-tagging feature in Google Analytics (or other web analytics software) and AdWords can help you track the performance of your campaigns and identify the portion of your website visits that correspond to paid clicks. </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="read-server-logs" ng-click="openPanel()">How to read web server logs <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <img alt="Invalid activity" class="section-image" src="./dist/img/what-you-can-do/advertiser/advertiser-02.png" srcset="./dist/img/what-you-can-do/advertiser/advertiser-02_2x.png 2x"> 
+       <p> Web server logs are where your web server keeps an anonymous history of the activities it performs. Usually, this includes: </p> 
+       <ul> 
+        <li>The <a href="https://support.google.com/adwords/answer/6322" target="_blank">IP address</a> that issued the request </li> 
+        <li>The date and time of the request </li> 
+        <li>The resource (i.e. web page, image, etc.) that was requested </li> 
+        <li>The user agent (i.e. detailed information about the operating system and browser) that issued the request </li> 
+        <li>The success of the request </li> 
+        <li>The <a href="https://en.wikipedia.org/wiki/HTTP_referer" target="_blank">referrer</a> of the request </li> 
+       </ul> 
+       <p> Please note the information your web server records will depend on the configuration of the server. If your logs don't contain all of the abovementioned information, your web server might be set to record its activities according to the common log format. </p> 
+       <p> If that's the case, change your web server's configuration to track its activities according to the combined log format. (Note: some log formats may have different names depending on who built your web server.) </p> 
+       <p> Below is a snippet of an Apache web server log in the combined log format: </p> 
+       <pre class="h-u-mt-std">
+172.26.136.223 - - [19/Jul/2011:15:25:57 +0100] "GET /index.html HTTP/1.1" 200 11579 "http://www.google.com/search?q=movies+shop" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30"
+172.26.136.223 - - [19/Jul/2011:15:26:30 +0100] "GET /books.html HTTP/1.1" 200 21176 "http://www.example.com/index.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30"
+172.26.136.223 - - [19/Jul/2011:15:27:21 +0100] "GET /movies.html HTTP/1.1" 200 26781 "http://www.example.com/contact.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30"
+172.26.136.223 - - [19/Jul/2011:15:27:55 +0100] "GET /movies.html?id=12341 HTTP/1.1" 200 8404 "www.example.com/movies.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30"
+172.26.136.223 - - [19/Jul/2011:15:27:55 +0100] "GET /movie.jpg HTTP/1.1" 200 320362 "http://www.example.com/movies.html?id=12341" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30"
+</pre> 
+       <p> A complete log often includes millions of entries and can grow by hundreds or thousands of new entries or more each day. </p> 
+       <p> It's worth noting that a single entry doesn't necessarily represent a unique user or a single page impression. One page request can, and mostly will, trigger a large array of requests for images, CSS files and the like that are saved in the web server log. </p> 
+       <p> In the above snippet, this can be seen in the last two entries. The second entry from the bottom is for the HTML file of the page. The last entry is for a picture - in this case, movie.jpg - that is embedded in the requested page (movie.html?id=12341). </p> 
+       <p> The following paragraphs explain in more detail the information that is decoded in a single entry: </p> 
+       <pre class="h-u-mt-std">
+<span class="fc-red">172.26.136.223</span> - - <span class="fc-tg">[19/Jul/2011:15:27:55 +0100]</span> "GET <span class="fc-blue">/movies.html?id=12341</span> HTTP/1.1" 200 8404 <span class="fc-green">www.example.com/movies.html"</span> <span class="fc-purple">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30"</span>
+</pre> 
+       <p> The <span class="fc-red">red</span> number <span class="fc-red">"172.26.136.223"</span> states the IP address of the computer that requested the page. Sometimes, a unique IP address indicates a unique user. However, most mobile carriers and some Internet Service Providers (ISP), such as AOL, rotate IP addresses among their users. In these instances, the IP address assigned to a particular user when they connected to the Internet could have been assigned to another user who disconnected just moments earlier. </p> 
+       <p> In addition, organisations like companies and universities usually use proxy servers to handle all of their Internet traffic. This means that, for instance, all of the students of a university would appear to share the <a href="https://support.google.com/adwords/answer/2549113" target="_blank">same IP address in your web server logs, even though they are in fact many different unique users.</a> </p> 
+       <p> The <span class="fc-tg">yellow</span> string <span class="fc-tg">"[19/Jul/2011:15:27:55 +0100]"</span> refers to the date and time of the request, while the <span class="fc-blue">blue</span> string <span class="fc-blue">"/movies.html?id=12341"</span> denotes the page that was requested. </p> 
+       <p> The <span class="fc-green">green</span> string <span class="fc-green">"www.example.com/movies.html"</span> states the referrer of the request. Usually it denotes the web page that the user loaded before it was loaded on your web server. </p> 
+       <p> Please note that without URL tracking, referrers generated from clicks on normal search results and AdWords ads will look the same. In some cases, there may be no referrer information at all. This can happen for a variety of reasons: maybe the user accessed the website directly by typing the URL, the user's browser doesn't support URL tracking, or the user deactivated the feature. </p> 
+       <p> The long purple string <span class="fc-purple">"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30"</span> shows the visitor's user-agent, including the operating system and browser version the visitor is using to access the website. However, this information is very easy to fake, so take this data with a grain of salt. </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="tracking-software" ng-click="openPanel()">Tracking software <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <img alt="Invalid activity" class="section-image" src="./dist/img/what-you-can-do/advertiser/advertiser-01.png" srcset="./dist/img/what-you-can-do/advertiser/advertiser-01_2x.png 2x"> 
+       <p> Don't want to read hundreds of thousands of raw web server logs a day? Fortunately, there's software to do it for you. For example, <a href="http://www.google.com/analytics/" target="_blank">Google Analytics</a>, uses JavaScript to gather information about the users of a website, then present the data in a much more readable format. </p> 
+       <p> If you want to use third party tracking software, choose carefully. In general, the most accurate third party programs for tracking AdWords clicks are those that <a href="https://support.google.com/adwords/answer/1752125" target="_blank">require auto-tagging to be enabled</a>. Please keep in mind that charges are based solely on Google's metrics. For more information <a href="https://billing.google.com/payments/termsandconditionsfinder" target="_blank">see AdWords terms and conditions</a>. </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="url-tracking" ng-click="openPanel()">URL Tracking <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <img alt="Invalid activity" class="section-image" src="./dist/img/what-you-can-do/advertiser/advertiser-04.png" srcset="./dist/img/what-you-can-do/advertiser/advertiser-04_2x.png 2x"> 
+       <p> URL tracking distinguishes between clicks that come from AdWords and those that are from other sources, like Google search results. In the absence of tracking URLs, the log of requests generated by a user that clicked on an AdWords ad, and clicked an organic search result on google.com, might look like the following: </p> 
+       <pre class="h-u-mt-std">
+  172.26.136.223  - - [19/Jul/2011:15:27:55 +0100] "GET /movies.html HTTP/1.1" 200 8404 "www.google.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30" 172.26.136.223 - - [19/Jul/2011:19:21:43 +0100] "GET /movies.html HTTP/1.1" 200 8404 "www.google.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30"
+</pre> 
+       <p> As you can see in this example, there is no way to distinguish between clicks from Google Search and AdWords. </p> 
+       <p> URL tracking works by assigning unique Destination URLs to the landing pages used in a site's AdWords campaigns. For instance, in addition to the usual index.html page, there would also be a copy with the same content called index_AdWords.html. </p> 
+       <p> In the above example, any AdWords campaigns that drive traffic to the index page would use index_AdWords.html URL as their Destination URL. Then, the corresponding log entries would look something like this: </p> 
+       <pre class="h-u-mt-std">
+  172.26.136.223  - - [19/Jul/2011:15:27:55 +0100] "GET /movies_AdWords.html HTTP/1.1" 200 8404 "www.google.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30" 172.26.136.223 - - [19/Jul/2011:19:21:43 +0100] "GET /movies.html HTTP/1.1" 200 8404 "www.google.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30"
+</pre> 
+       <p> Basic URL tracking is very easy to implement. For even greater granularity, you can associate a unique landing page with each of the keywords in your campaign. </p> 
+       <p> However, URL tracking is not 100% accurate, since the requests don't necessarily correspond to ad clicks. For example, a user might click on an ad and then bookmark the landing page, or go past the landing page and return to the page by hitting the "back" button on their browser. For a more accurate tracking method, try auto-tagging. </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="auto-tagging" ng-click="openPanel()">Auto-tagging <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <img alt="Invalid activity" class="section-image" src="./dist/img/what-you-can-do/advertiser/advertiser-05.png" srcset="./dist/img/what-you-can-do/advertiser/advertiser-05_2x.png 2x"> 
+       <p> <a href="https://support.google.com/analytics/answer/1033981" target="_blank">Auto-tagging</a> is a feature in <a href="http://www.google.com/analytics/" target="_blank">Google Analytics</a> and AdWords that automatically appends a unique parameter to each AdWords click received by an ad. This parameter is called the "GCLID" and each click has a unique one. A log entry for a campaign using auto-tagging would look like this: </p> 
+       <pre class="h-u-mt-std">
+  172.26.136.223 - - [19/Jul/2011:19:21:43 +0100] "GET /movies.html?gclid=<span class="fc-red">CLzkq4Lcz5ECFQcKGgodwjgiyA</span> HTTP/1.1" 200 8404 "www.google.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30"
+</pre> 
+       <p> The <span class="fc-red">red</span> string is the GCLID parameter. If you have auto-tagging on and configured correctly, only the log entries with a GCLID parameter are clicks from AdWords. Even if you find several entries with the same GCLID, you will only be charged for at most one click. </p> 
+       <p> Using auto-tagging and Google Analytics allows you to see which keyword brought a visitor to your website, where that visitor is from, which campaign the keyword was associated with, and how much the click cost. </p> 
+       <p> You can easily calculate your return on investment (ROI) for a given campaign by associating this data with <a href="https://support.google.com/adwords/answer/1722036" target="_blank">goals</a> or e-commerce conversions. Based on that data, you can then decide how to <a href="https://support.google.com/adwords/answer/2633227" target="_blank">optimise your advertising campaign</a>. </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="misconceptions" ng-click="openPanel()">Common misconceptions about traffic analysis <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <img alt="Invalid activity" class="section-image" src="./dist/img/what-you-can-do/advertiser/advertiser-06.png" srcset="./dist/img/what-you-can-do/advertiser/advertiser-06_2x.png 2x"> 
+       <p> Some advertisers struggle to understand their web log data, especially when they haven't enabled auto-tagging or are using third-party tracking software that lacks support for auto-tagging. </p> 
+       <p> The most common misunderstandings are related to: </p> 
+       <ul> 
+        <li class="bottom-spacing"> <span>Discrepancies between clicks and visits</span> <p> Misunderstanding the relationship between clicks and visits can make it seem like there's a discrepancy between the information in your web server logs and the information provided by AdWords. </p> <p> In general, AdWords tracks clicks, while many tracking services count visits. When someone sees your ad, clicks the title, and lands on your website, that's a click. Visits, particularly unique visits, are the number of unique sessions initiated by visitors. Because clicks and visits measure slightly different things, there are several reasons <a href="https://support.google.com/adwords/answer/2375399" target="_blank">why the number of clicks and visits may not match</a>. </p> </li> 
+        <li class="bottom-spacing"> <span>Short visit times and high bounce rate</span> <p> Many advertisers worry about very short visit times (i.e. zero-second visits) or <a href="https://support.google.com/analytics/answer/1009409" target="_blank">high bounce rates</a> (watch this <a href="https://www.youtube.com/watch?v=ppgfjo6IIf4" target="_blank">video explaining bounce rate</a>). Neither one necessarily means that a user left your site the instant they loaded it. All it really means is that they left the site from the landing page without viewing any other pages. If this happens a lot, it can mean that your site is hard to navigate or that you've implemented your tracking code incorrectly, so take a critical look at your site if you see either of these in your site statistics. </p> </li> 
+        <li class="bottom-spacing"> <span>Relationship between IP address and people</span> <p> Many people believe that IP addresses are unique to individual people, like fingerprints. But that's not always the case. There are several reasons why web log entries with <a href="https://support.google.com/adwords/answer/2549113#multiclicks" target="_blank">the same IP address might belong to several different users</a>. For example, some ISPs assign IP addresses dynamically, cycling through the same limited number of IP addresses with several users as they connect to the Internet one after another. </p> </li> 
+       </ul> 
+       <p> The bottom line is that enabling auto-tagging is a simple and highly effective way to improve how you track your campaign activity, because it provides insight into every click and helps navigate the pitfalls associated with identifying users solely by IP address. </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="CAPTCHA" ng-click="openPanel()">Add a CAPTCHA <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <img alt="Invalid activity" class="section-image" src="./dist/img/what-you-can-do/advertiser/advertiser-11.png" srcset="./dist/img/what-you-can-do/advertiser/advertiser-11_2x.png 2x"> 
+       <p> Adding a CAPTCHA to your forms will help validate that the person submitting it is human. Not all CAPTCHAs are created equal, so if you already use one but are still getting fake leads, try another one. We recommend the <a href="https://www.google.com/recaptcha/intro/index.html" target="_blank">free captcha service</a> offered by Google. </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="auto-tagging-adwords" ng-click="openPanel()">Enable auto-tagging in AdWords <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <img alt="Invalid activity" class="section-image" src="./dist/img/what-you-can-do/advertiser/advertiser-12.png" srcset="./dist/img/what-you-can-do/advertiser/advertiser-12_2x.png 2x"> 
+       <p> If you use AdWords to generate traffic to your landing pages, we recommend you <a href="https://support.google.com/adwords/answer/1752125" target="_blank">enabling auto-tagging</a>. Auto-tagging will <a href="http://www.google.com/ads/adtrafficquality/advertisers.html">attach a GCLID-parameter to the URL of each landing page</a> that identifies the pageview as the result of a click on your ad. </p> 
+       <p> If you have auto-tagging enabled but you don't see this parameter in your site activity, it's safe to say that those visits didn't come from your AdWords ad. </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="record-submissions" ng-click="openPanel()">Record submissions <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <img alt="Invalid activity" class="section-image" src="./dist/img/what-you-can-do/advertiser/advertiser-13.png" srcset="./dist/img/what-you-can-do/advertiser/advertiser-13_2x.png 2x"> 
+       <p> When a visitor submits information on your website, you may want to record the <a href="https://support.google.com/adwords/answer/6322" target="_blank">IP address</a>, the <a href="http://www.google.com/ads/adtrafficquality/advertisers.html">GCLID-parameter</a> (if applicable), the <a href="https://en.wikipedia.org/wiki/HTTP_referer" target="_blank">referrer URL</a> and <a href="https://en.wikipedia.org/wiki/User_agent" target="_blank">user agent</a>. You can use these details to see where your traffic is coming from and look out for any suspicious patterns. (Please note that you may need to talk to your webmaster or IT department to implement these types of changes.) </p> 
+       <p> If you do see a suspicious pattern from visitors arriving through AdWords, please contact your AdWords representative using <a href="https://support.google.com/adwords/troubleshooter/2557048?rd=1" target="_blank">our invalid clicks troubleshooter</a> and forward the GCLIDs or IP addresses to Google. Our Ad Traffic Quality team will then investigate your account. </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="valid-increases-traffic" ng-click="openPanel()">Valid reasons for increases in traffic <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <img alt="Invalid activity" class="section-image" src="./dist/img/what-you-can-do/advertiser/advertiser-14.png" srcset="./dist/img/what-you-can-do/advertiser/advertiser-14_2x.png 2x"> 
+       <p> You may occasionally notice an increase in the number of clicks your ads receive. This might raise concerns about potentially invalid clicks, but in most cases these fluctuations are caused by other factors. </p> 
+       <p> By performing simple checks on your account, you can often identify the reason for increased clicks. In many cases, understanding the reason for the increase can help you to identify opportunities for campaign optimization. </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="valid-increases-clicks" ng-click="openPanel()">Valid reasons for increased clicks <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <img alt="Invalid activity" class="section-image" src="./dist/img/what-you-can-do/advertiser/advertiser-15.png" srcset="./dist/img/what-you-can-do/advertiser/advertiser-15_2x.png 2x"> 
+       <h4 class="italic"> Changes in the account </h4> 
+       <p> Campaign changes can have a significant impact on the performance of a campaign. The most common ones to keep in mind are: </p> 
+       <ul> 
+        <li class="bottom-spacing"> <span>Changes to daily budget</span> <p> Increasing the daily budget for your campaigns will allow the ads to receive more impressions and, naturally, more clicks. </p> </li> 
+        <li class="bottom-spacing"> <span>Changed to maximum CPC for keywords</span> <p> Increasing the maximum CPC for one or more keywords may cause your ads to appear more often, or in a higher position than before. Ads in a higher position typically receive more clicks than those in a lower position. This is also true for ads that show on the Display Network - a higher CPC can push ads into a higher position, which means more impressions and more clicks. </p> </li> 
+        <li class="bottom-spacing"> <span>New keywords</span> <p> Adding new keywords to your campaign, especially if the keywords are quite general or correspond to popular search queries, can increase the number of impressions and clicks. </p> </li> 
+        <li class="bottom-spacing"> <span>Changes to country or language targeting</span> <p> Adding new countries or languages to a campaign's targets can significantly increase the number of impressions and clicks. </p> </li> 
+        <li class="bottom-spacing"> <span>Changes to the network settings</span> <p> Targeting new placements, or switching from automatic to managed placements (or vice versa), can also influence your campaign's traffic. </p> </li> 
+       </ul> 
+       <p> In general, if you optimize a campaign to improve its performance, it may result in a higher quality score for your keywords, which will give them a higher position for a lower CPC. As a result, you may get more impressions and clicks for the same daily budget. </p> 
+       <h4 class="italic"> External factors </h4> 
+       <p> Sometimes you may notice fluctuations in traffic, even though you haven't made any changes to a campaign. Here are a few of the most common reasons: </p> 
+       <ul> 
+        <li class="bottom-spacing"> <span>Ads are showing on new Display Network sites</span> <p> If your campaign uses automatic placements and has enough daily budget, an ad's traffic can significantly increase if it starts showing on a new publisher site, or if the sites suddenly receive more traffic due to: </p> </li> 
+        <li class="bottom-spacing"> <span>Seasonal trends or news events</span> <p> A sudden spike in interest in a specific topic can cause increased traffic, such as a celebrity endorsement of a specific product, a related news event, or special occasions like Valentine's Day. </p> </li> 
+        <li class="bottom-spacing"> <span>Changes in the competitive landscape</span> <p> If one of your competitors stops advertising or changes their campaigns, your ads may see an increase in impressions and clicks due to reduced competition. </p> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion" scroll="true"> 
+      <button class="accordion__btn" id="cause-increased-traffic" ng-click="openPanel()">Identifying the cause for increased traffic <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <img alt="Invalid activity" class="section-image" src="./dist/img/what-you-can-do/advertiser/advertiser-16.png" srcset="./dist/img/what-you-can-do/advertiser/advertiser-16_2x.png 2x"> 
+       <h4> <em>Review your account for campaign changes that might explain the increase</em> </h4> 
+       <ul> 
+        <li>Compare the campaign graphs for clicks and impressions over a longer period of time to pinpoint the change. Comparing the impression graph to the average position graph can show you whether the traffic increase was the result of a change in the ads' average position. </li> 
+        <li>Check the change history for budget, CPC, or other changes that could have caused the increase. </li> 
+        <li>Check the search terms that triggered the ads for any top search terms that may have caused the traffic. </li> 
+        <li>Check the invalid clicks report to see if there was an increase in invalid click activity that was automatically filtered from your reports. </li> 
+       </ul> 
+       <h4> <em>Check for external factors that might have influenced the campaigns performance</em> </h4> 
+       <ul> 
+        <li>Use <a href="https://www.google.com/trends/" target="_blank">Google Trends</a> to look at the search trends for the top terms that triggered your ads. Google Trends may also show related news stories, which may explain the increase in interest. </li> 
+        <li>Think of any news events, holidays, or seasonal trends that could have caused a spike in interest. </li> 
+       </ul> 
+       <p> As you review your account you may find some opportunities to makes further campaign changes. For example, if you see that your ads received more clicks because of an increased number of searches for a seasonal term (for example, "ceiling fans" during a hot summer), you may want to change CPCs and budget to take advantage of the increased interest. </p> 
+       <p> However, if your ads for ceiling fans are showing for search terms like "excited fans storm concert hall," your campaign could benefit from some keyword optimization. Try adding negative keywords or choose more restrictive keyword matching options. You can find a more detailed list of <a href="https://support.google.com/adwords/answer/2633227" target="_blank">optimization tips</a> in our Help Center. </p> 
+       <p> Focus on your ads' return on investment (ROI) instead of the number of clicks. An increase in impressions and clicks, if combined with an increased number of conversions (for example, sales or leads), is actually a good thing. </p> 
+       <p> We recommend the use of conversion tracking and Analytics to better understand what you're getting for the money you spend on AdWords advertising. Our help center has detailed information about <a href="https://support.google.com/adwords/topic/3121947?rd=2" target="_blank">how to improve the ROI of AdWords campaigns. </a> </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="h-site-width"> 
+    <div class="h-o-grid"> 
+     <div accordion="" class="h-o-grid__col h-o-grid__col-l--6 grid-center accordion acc-bb" scroll="true"> 
+      <button class="accordion__btn" id="invalid-traffic-investigation" ng-click="openPanel()">Requesting an invalid traffic investigation <i class="material-icons">keyboard_arrow_down</i></button> 
+      <div class="accordion__panel"> 
+       <img alt="Invalid activity" class="section-image" src="./dist/img/what-you-can-do/advertiser/advertiser-17.png" srcset="./dist/img/what-you-can-do/advertiser/advertiser-17_2x.png 2x"> 
+       <p> If you suspect that your account is being affected by invalid clicks, impressions, or other traffic, our team of specialists can investigate for you. However, many suspected cases of invalid traffic are actually the result of <a href="http://www.google.com/ads/adtrafficquality/advertisers.html">valid reasons for increases</a>. For example, your ads may be showing more often on the network, or you may have recently increased your daily budget. </p> 
+       <p> A lot of the time, a quick account check can help you identify the reason for the traffic fluctuation and make campaign adjustments to improve your ROI. </p> 
+       <p> Our Ad Traffic Quality team uses a variety of different signals, including click and impression information, to identify sources of invalid activity. Because we look at such a large number of data points, it may take several days to complete the investigation into your account. </p> 
+       <p> When requesting an investigation, please share as much information as you have about the traffic in question. At a minimum, please provide the following details: </p> 
+       <ul> 
+        <li> <label class="italic">Customer ID</label>. If you're an agency, provide the specific customer ID of the account where you suspect invalid activity and not your agency customer ID. </li> 
+        <li> <label class="italic">Your contact email address</label>. Verify that the email address is valid and can receive email from google.com. </li> 
+        <li> <label class="italic">Date range of the activity</label>. Please note that Google disclaims all liability for traffic accrued 60 days prior to the date of requesting an investigation. </li> 
+        <li> <label class="italic">Campaign Name</label>, ad group name, and/or the keyword affected by the activity. </li> 
+        <li> <label class="italic">Domain name of the publisher site</label>, if you suspect you've received invalid activity from a specific site in the Google Search or Display network. </li> 
+        <li> <label class="italic">A short summary of why you believe the click activity is suspicious</label>. This helps us learn more about the activity and enables us to address your specific concern. </li> 
+       </ul> 
+       <p> The above information is usually sufficient to investigate a case, but any additional information about the traffic and suspicious patterns will be very useful. This may include: </p> 
+       <ul> 
+        <li> <label class="italic">IP addresses</label>. This is especially helpful if you suspect a limited number of IP addresses are causing the activity. You can also submit the IP subnets. </li> 
+        <li> <a class="italic" href="http://www.google.com/ads/adtrafficquality/advertisers.html" target="_blank">GCLID values</a>. </li> 
+        <li> <label class="italic">User agent and referrer URL information</label>. </li> 
+       </ul> 
+       <p> You can find most of these details in your web logs. When you submit the form, just attach a document specifying the suspicious patterns and/or traffic that you've noticed. </p> 
+       <p> To contact our support team, please follow the <a href="https://support.google.com/adwords/troubleshooter/2557048?rd=1" target="_blank">step-by-step</a> guide in our Help Center. </p> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="sub-footer"> 
+    <div class="h-site-width"> 
+     <div class="h-o-grid"> 
+      <div class="h-o-grid__col h-o-grid__col-l--6 grid-center"> 
+       <h3 class="h-c-headline h-c-headline--three"> Continue reading </h3>
+       <a class="h-c-link h-c-link--internal" href="/ads/adtrafficquality/latest-news.html">Latest news 
+        <svg class="h-c-icon h-c-icon--18px h-c-icon--arrow-forward" viewbox="0 0 18 18" xmlns="http://www.w3.org/2000/svg"> 
+         <path d="M9,1.5C4.8,1.5,1.5,4.8,1.5,9s3.3,7.5,7.5,7.5s7.5-3.3,7.5-7.5S13.2,1.5,9,1.5z M9,14.5l-1-1 l3.8-3.8H3.5V8.3h8.4L8.1,4.5L9,3.5L14.5,9L9,14.5z"> 
+         </path>
+        </svg></a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <script src="/ads/adtrafficquality/dist/canvas/what-can-we-do.min.js"></script> 
+  </div> 
+  <footer class="page-footer"> 
+   <div class="page-footer__container"> 
+    <div class="h-site-width"> 
+     <div class="h-o-grid page-footer__social"> 
+      <div class="share"> 
+       <span class="h-u-font-weight-regular" data-action="share">SHARE</span> 
+       <a href="https://plus.google.com/+GoogleAds" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"> <img alt="google" src="./dist/svg/googlePlus.svg"></a> 
+      </div> 
+      <div class="follow"> 
+       <span class="h-u-font-weight-regular">FOLLOW US</span> 
+       <div class="share-icons"> 
+        <a href="https://plus.google.com/+GoogleAds" target="_blank"><img alt="google" src="./dist/svg/googlePlus.svg"></a> 
+        <a href="https://adwords.googleblog.com/" target="_blank"><img alt="google" src="./dist/svg/blogger.svg"></a> 
+        <a href="https://twitter.com/adwords" target="_blank"><img alt="google" src="./dist/svg/twitter.svg"></a> 
+        <a href="https://www.youtube.com/user/learnwithgoogle" target="_blank"><img alt="google" src="./dist/svg/youtube.svg"></a> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="h-o-grid page-footer__external-links top-border-line"> 
+      <div class="footer-logo"> 
+       <a href="//www.google.com" target="_blank"><img alt="Google" height="28" src="./dist/img/footer-google.png" srcset="./dist/img/footer-google-x2.png 2x" width="86"></a> 
+      </div> 
+      <div class="external-link"> 
+       <a class="h-c-link--muted" href="//privacy.google.com/" target="_blank">Privacy</a> 
+       <a class="h-c-link--muted" href="//www.google.com/intl/en/policies/terms/" target="_blank">Terms</a> 
+       <a class="h-c-link--muted" href="//www.google.com/intl/en/about/" target="_blank">About Google</a> 
+       <a class="h-c-link--muted" href="//www.google.com/intl/en/about/products/" target="_blank">Google Products</a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <script src="/ads/adtrafficquality/dist/js/app.min.js"></script> 
+  <script src="/ads/adtrafficquality/dist/canvas/what-can-we-do.min.js"></script> 
+  <script src="//www.google.com/js/gweb/uri/updatelinks.js"></script> 
+  <script>
+    gweb.uri.updateLinks({
+    'paramlinker' : ['subid', 'utm_source', 'utm_campaign', 'utm_medium']
+  }, true);
+    </script>  
+ </body>
+</html>

@@ -1,0 +1,840 @@
+<!doctype html>
+<html class="google mmfb" dir="rtl" lang="ar" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/ar/resources/computerscience/learning/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." name="description"> 
+  <title>
+    Google for Education: Computer Science Learning
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/ar/resources/computerscience/learning/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Computer Science Learning" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/ar/resources/computerscience/learning/" property="og:url"> 
+  <meta content="" property="og:image"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/ar/resources/computerscience/learning/" name="twitter:url"> 
+  <meta content="Google for Education: Computer Science Learning" name="twitter:title"> 
+  <meta content="" name="twitter:image"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Computer Science Learning" itemprop="name"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." itemprop="description"> 
+  <meta content="" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Computer Science Learning",
+    "description": "Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu.",
+    "url": "https://edu.google.com/intl/ar/resources/computerscience/learning/",
+    "logo": "",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="computerscience-learning"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/ar/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">الحصول على منتجات Google</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">كيف يمكننا مساعدتك؟</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>الحصول على أدوات الإنتاجية</h5> 
+        <p>الحصول على أدوات الإنتاجية من Google، مع Classroom ومستندات Google وDrive وHangouts والبريد الإلكتروني والمزيد. كل ذلك مجانًا وبدون إعلانات.</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=ar#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">الاشتراك في G Suite</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>الحصول على الأجهزة</h5> 
+        <p>هل أنت مهتم بالحصول على أجهزة Chromebook أو أجهزة Android لمدرستك؟ يمكن أن يقدم فريقنا يد العون لك للوصول إلى المسار الصحيح.</p> 
+        <a class="maia-button overlay-button" href="/intl/ar/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">اتصل بخبير</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>تحدث إلى معلمين آخرين</h5> 
+        <p>هل تريد التحدث إلى أشخاص مثلك جربوا استخدام Google؟ كن جزءًا من مجتمع المعلمين لدينا.</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">البحث عن معلمين آخرين</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/" target="_self">الصفحة الرئيسية</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">المنتجات</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/devices/" target="_self">الأجهزة <br><span class="dropdown-item-description">أجهزة Chromebook‏</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/productivity-tools/" target="_self">أدوات الإنتاجية <br><span class="dropdown-item-description">‎المستندات وGmail والمزيد</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/productivity-tools/classroom/" target="_self">Classroom <br><span class="dropdown-item-description">تطبيق التحكم في المهام للمعلمين والطلاب</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">الرحلات الميدانية للواقعالافتراضي</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/more-products/" target="_self">المزيد من المنتجات <br><span class="dropdown-item-description">‏السحاب ومتصفح Chrome والمزيد‏</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">التدريب</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=ar" target="_self">تدريب المعلمين <br><span class="dropdown-item-description">على أدوات Google for Education‏</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">تدريب مشرفي تكنولوجيا المعلومات <br><span class="dropdown-item-description">لمشرفي G Suite</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">دليل الشركاء <br><span class="dropdown-item-description">لمساعدة مدرستك على اعتماد حلول Google‏</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/communities/" target="_self">المنتديات <br><span class="dropdown-item-description">للمعلمين الذين يستخدمون Google‏</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" active  global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">الموارد</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/programs/" target="_self">البرامج <br><span class="dropdown-item-description">للطلاب والمعلمين</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/case-studies/" target="_self">دراسات الحالة </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/computerscience/" target="_self">تعليم علوم الكمبيوتر <br><span class="dropdown-item-description">البرامج والتمويل والأبحاث</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/global-education/" target="_self">التعليم العالمي </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/ar/it/" target="_self">دليل تكنولوجيا المعلومات</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/ar/higher-education/" target="_self">التعليم العالي</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">المنتجات</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/devices/" target="_self">الأجهزة <span class="nav-subtext">أجهزة Chromebook‏</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/productivity-tools/" target="_self">أدوات الإنتاجية <span class="nav-subtext">‎المستندات وGmail والمزيد</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/productivity-tools/classroom/" target="_self">Classroom <span class="nav-subtext">تطبيق التحكم في المهام للمعلمين والطلاب</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/expeditions/" target="_self">Expeditions <span class="nav-subtext">الرحلات الميدانية للواقعالافتراضي</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/more-products/" target="_self">المزيد من المنتجات <span class="nav-subtext">‏السحاب ومتصفح Chrome والمزيد‏</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">التدريب</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=ar" target="_self">تدريب المعلمين <span class="nav-subtext">على أدوات Google for Education‏</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">تدريب مشرفي تكنولوجيا المعلومات <span class="nav-subtext">لمشرفي G Suite</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">دليل الشركاء <span class="nav-subtext">لمساعدة مدرستك على اعتماد حلول Google‏</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/communities/" target="_self">المنتديات <span class="nav-subtext">للمعلمين الذين يستخدمون Google‏</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">الموارد</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/programs/" target="_self">البرامج <span class="nav-subtext">للطلاب والمعلمين</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/case-studies/" target="_self">دراسات الحالة </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/computerscience/" target="_self">تعليم علوم الكمبيوتر <span class="nav-subtext">البرامج والتمويل والأبحاث</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/global-education/" target="_self">التعليم العالمي </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">دليل تكنولوجيا المعلومات</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/it/" target="_self"> تكنولوجيا المعلومات </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/trust/" target="_self">صفحات الخصوصية </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">التعليم العالي</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/higher-education/" target="_self">التعليم العالي </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">الحصول على منتجات Google</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">كيف يمكننا مساعدتك؟</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>الحصول على أدوات الإنتاجية</h5> 
+         <p>الحصول على أدوات الإنتاجية من Google، مع Classroom ومستندات Google وDrive وHangouts والبريد الإلكتروني والمزيد. كل ذلك مجانًا وبدون إعلانات.</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=ar#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">الاشتراك في G Suite</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>الحصول على الأجهزة</h5> 
+         <p>هل أنت مهتم بالحصول على أجهزة Chromebook أو أجهزة Android لمدرستك؟ يمكن أن يقدم فريقنا يد العون لك للوصول إلى المسار الصحيح.</p> 
+         <a class="maia-button overlay-button" href="/intl/ar/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">اتصل بخبير</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>تحدث إلى معلمين آخرين</h5> 
+         <p>هل تريد التحدث إلى أشخاص مثلك جربوا استخدام Google؟ كن جزءًا من مجتمع المعلمين لدينا.</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">البحث عن معلمين آخرين</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <!-- Headline --> 
+   <section class="stage headline resources"> 
+    <div class="cols-913"> 
+     <div class="col-14"> 
+      <h1>فرص تعلُم علوم الكمبيوتر</h1> 
+      <p class="body1"> لقد طوّرنا مجموعة من الموارد والبرامج والمنح الدراسية ومنحنا الفرص لتشجيع اشتراك الطلاب والمعلمين في جميع أنحاء العالم ممن يهتمون بعلوم الكمبيوتر. </p> 
+     </div> 
+    </div> 
+    <menuitem> <a href="/intl/ar/resources/computerscience/"><img src="/images/resources/computerscience/header_nav_back.png">Google Computer Science</a> </menuitem> 
+   </section> 
+   <!-- Filters --> 
+   <section class="stage resources mobileHide" id="filters"> 
+    <div class="cols-913"> 
+     <div class="col-12"> 
+      <div class="dropdown" id="ageMenu"> 
+       <div id="ageReset"> 
+        <p class="body1">العمر</p> 
+       </div> 
+       <div class="ageOption" id="ageAll"> 
+        <p class="body1">جميع الأعمار</p> 
+       </div> 
+       <div class="ageOption" id="ageLow"> 
+        <p class="body1">من هم دون الحادية عشر</p> 
+       </div> 
+       <div class="ageOption" id="ageMed"> 
+        <p class="body1">11-18</p> 
+       </div> 
+       <div class="ageOption" id="ageHigh"> 
+        <p class="body1">+18</p> 
+       </div> 
+      </div> 
+      <div class="dropdown" id="regionMenu"> 
+       <div id="regionReset"> 
+        <p class="body1">المنطقة</p> 
+       </div> 
+       <div class="regionOption" id="regionGlobal"> 
+        <p class="body1">على مستوى العالم</p> 
+       </div> 
+       <div class="regionOption" id="regionAPAC"> 
+        <p class="body1">منطقة آسيا والمحيط الهادي</p> 
+       </div> 
+       <div class="regionOption" id="regionEMEA"> 
+        <p class="body1">أوروبا والشرق الأوسط وأفريقيا</p> 
+       </div> 
+       <div class="regionOption" id="regionEs419"> 
+        <p class="body1">أمريكا اللاتينية</p> 
+       </div> 
+       <div class="regionOption" id="regionNA"> 
+        <p class="body1">أمريكا الشمالية</p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="stage resources" id="resources"> 
+    <div class="cols-913"> 
+     <div class="col-1 mobileHide"> 
+      <div class="colorBullet"></div> 
+     </div> 
+     <div class="col-12"> 
+      <p class="subheadline"> الموارد </p> 
+      <p class="subheadlineSmall"> بيئات الترميز المعتمدة على المستخدم، والمواد الإثرائية، والإلهام لتمكين مجموعات الطلاب المتنوعة </p> 
+     </div> 
+     <!-- Card row --> 
+     <div class="col-1 mobileHide"> 
+      <div class="navBack navInactive" id="resourceNavBack"></div> 
+     </div> 
+     <div class="col-12"> 
+      <div class="cardWrapper"> 
+       <div class="cardHolder" id="resourceHolder"> 
+        <!-- Resource cards --> 
+        <article class="cardActive regionNA regionAPAC ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/career-with-code.jpg"> 
+          <div> 
+           <p class="body1Bold clamped"> مجلة Careers with Code </p> 
+           <p class="body2 clamped"> مجلة استكشافية ومُلهمة لفرص عمل علوم الكمبيوتر لطلاب المرحلة الثانوية بالإضافة إلى الموارد اللازمة للمُعلمين. </p> 
+           <a class="cta4 blue" href="http://www.careerswithcode.com" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionNA ageMed ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/natandlo.jpg"> 
+          <div> 
+           <p class="body1Bold clamped"> Nat &amp; Lo's YouTube Channel </p> 
+           <p class="body2 clamped"> From Google X to StreetView to Project Loon, get a behind the scenes look at Google with Nat and Lo. </p> 
+           <a class="cta4 blue" href="https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageLow ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/blocky.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Blockly Games </p> 
+           <p class="body2 clamped"> هو موقع يقدم بيئة برمجة مرئية لمساعدة الأطفال على تعلم أساسيات البرمجة. متوفر في 40 لغة. </p> 
+           <a class="cta4 blue" href="https://blockly-games.appspot.com/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageAll ageLow ageMed ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/rasberry.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Coder for Raspberry Pi </p> 
+           <p class="body2 clamped"> هو برنامج يُحوِل جهاز Raspberry Pi إلى بيئة تطوير شخصية معتمدة على شبكة الويب. </p> 
+           <a class="cta4 blue" href="http://googlecreativelab.github.io/coder/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/computationalthinking.png"> 
+          <div> 
+           <p class="body1Bold clamped"> دورة تدريبية عن التفكير الحوسبي </p> 
+           <p class="body2 clamped"> دورة تدريبية على الإنترنت للتطوير المهني لمساعدة المعلمين في فهم مفاهيم التفكير الحوسبي وتطبيقها ومشاركتها عبر المواضيع الدراسية. </p> 
+           <a class="cta4 blue" href="https://g.co/computationalthinking" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageLow ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/cscs.png"> 
+          <div> 
+           <p class="body1Bold clamped"> موقع البحث المخصص لعلوم الكمبيوتر (CSCS) </p> 
+           <p class="body2 clamped"> الدروس والدورات التعليمية والألعاب والمشروعات الخاصة بتعليم علوم الكمبيوتر. </p> 
+           <a class="cta4 blue" href="http://www.cs4hs.com/resources/cscs.html" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageLow ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/csfirst.png"> 
+          <div> 
+           <p class="body1Bold clamped"> علوم الكمبيوتر أولاً (CS First) </p> 
+           <p class="body2 clamped"> تعمل خطط الدروس والمحتوى المعتمد على مقاطع الفيديو على إنشاء وخلق تجارب للطلاب صغار السن للمشاركة في علوم الكمبيوتر. </p> 
+           <a class="cta4 blue" href="http://www.cs-first.com/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/engagecsedu.png"> 
+          <div> 
+           <p class="body1Bold clamped"> المشاركة في تعليم علوم الكمبيوتر </p> 
+           <p class="body2 clamped"> كما تتوفر مجموعة شاملة من المواد والاستراتيجيات التعليمية لتشجيع الطلاب الجامعيين في مجال علوم الكمبيوتر. </p> 
+           <a class="cta4 blue" href="http://www.engage-csedu.org/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageLow ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/explorcomthinking.png"> 
+          <div> 
+           <p class="body1Bold clamped"> استكشاف التفكير الحسابي </p> 
+           <p class="body2 clamped"> تعمل خطط الدروس ومقاطع الفيديو والموارد الأخرى الخاصة بالتفكير المعلوماتي على دعم التكامل مع المحتوى الذي يتم تقديمه في الصفوف الدراسية. </p> 
+           <a class="cta4 blue" href="https://g.co/exploringCT" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/guidefortech.png"> 
+          <div> 
+           <p class="body1Bold clamped"> دليل التطوير التكنولوجي </p> 
+           <p class="body2 clamped"> يُساعد التدريب العملي والتعلم الذاتي كافة الطلاب الجامعيين على تطوير مهاراتهم التقنية. </p> 
+           <a class="cta4 blue" href="https://www.google.com/about/careers/students/guide-to-technical-development.html" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageAll ageLow ageMed ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/madewithcode.png"> 
+          <div> 
+           <p class="body1Bold clamped"> تم تصميمه باستخدام Code </p> 
+           <p class="body2 clamped"> مبادرة محلية لتشجيع الملايين من الفتيات على تعلم الترميز، والنظر إلى الترميز كوسيلة لمحاولة الوصول إلى الوظائف التي يحلمن بها. </p> 
+           <a class="cta4 blue" href="http://www.madewithcode.com" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageLow ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/pencilcode.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Pencil Code </p> 
+           <p class="body2 clamped"> هو معمل برمجي يستخدم الرسم والموسيقى والخيال الإبداعي لمساعدة الطلاب على التقدم من برمجة المجموعات إلى النصوص. </p> 
+           <a class="cta4 blue" href="http://gym.pencilcode.net/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionAPAC ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/startwithcode.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Start With Code </p> 
+           <p class="body2 clamped"> A collection of resources &amp; programs to encourage young Australians to study computing. </p> 
+           <a class="cta4 blue" href="http://www.google.com.au/campaigns/startwithcode/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="col-1 mobileHide"> 
+      <div class="navForward" id="resourceNavForward"></div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="stage resources" id="programs"> 
+    <div class="cols-913"> 
+     <div class="col-1 mobileHide"> 
+      <div class="colorBullet"></div> 
+     </div> 
+     <div class="col-12"> 
+      <p class="subheadline"> البرامج </p> 
+      <p class="subheadlineSmall"> مسابقات سنوية للطلاب وموارد مهنية وبرامج تعمل على دعم التنوع في التكنولوجيا. </p> 
+     </div> 
+     <!-- Card row --> 
+     <div class="col-1 mobileHide"> 
+      <div class="navBack navInactive" id="programNavBack"></div> 
+     </div> 
+     <div class="col-12"> 
+      <div class="cardWrapper"> 
+       <div class="cardHolder" id="programHolder"> 
+        <!-- Resource cards --> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageMed ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/programs/codejam.png"> 
+          <div> 
+           <p class="body1Bold clamped"> مسابقة Code Jam </p> 
+           <p class="body2 clamped"> مسابقة عالمية للترميز متعددة الدورات للطلاب والمبرمجين المحترفين. </p> 
+           <a class="cta4 blue" href="https://code.google.com/codejam" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionNA ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/programs/cssi.png"> 
+          <div> 
+           <p class="body1Bold clamped"> المعهد الصيفي لعلوم الكمبيوتر (CSSI) </p> 
+           <p class="body2 clamped"> برنامج يمتد لثلاث أسابيع من أجل تطوير المبتدئين وطلاب الصف الأول من الفئات والمجموعات الأقل تمثيلاً على مدى التاريخ في مجال علوم الكمبيوتر والذي يُوفر مقدمة عملية إلى مجال علوم الكمبيوتر. </p> 
+           <a class="cta4 blue" href="/intl/ar/resources/programs/computer-science-summer-institute/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionNA ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/programs/engpracticum.png"> 
+          <div> 
+           <p class="body1Bold clamped"> التدريب العملي الهندسي </p> 
+           <p class="body2 clamped"> هو برنامج تنموي يتم عقده لمدة 12 أسبوعًا لطلاب السنة الأولى والثانية في مجال علوم الكمبيوتر أو الهندسة الكهربائية أو هندسة الكمبيوتر. </p> 
+           <a class="cta4 blue" href="https://www.google.com/about/careers/search#!t=jo&amp;jid=120165001&amp;" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/programs/gci-logo-180x121.jpg"> 
+          <div> 
+           <p class="body1Bold clamped"> مسابقة Google Code-in (GCI) </p> 
+           <p class="body2 clamped"> مسابقة تُساعد الطلاب الذين تتراوح أعمارهم بين 13 و17 عامًا على التعرف على المساهمات المختلفة التي تجعل من تطوير البرنامج مفتوح المصدر أمرًا ممكنًا. </p> 
+           <a class="cta4 blue" href="https://developers.google.com/open-source/gci/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionNA ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/programs/engresidency.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Google Engineering Residency Program </p> 
+           <p class="body2 clamped"> برنامج التخصص الهندسي (Engineering Residency Program) لمدة عام متاح لخريجي علوم الكمبيوتر الحاليين. </p> 
+           <a class="cta4 blue" href="https://www.google.com/about/careers/students/engres.html" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/programs/googlesciencefair.png"> 
+          <div> 
+           <p class="body1Bold clamped"> معرض Google للعلوم </p> 
+           <p class="body2 clamped"> منافسة عالمية في العلوم والتكنولوجيا عبر الإنترنت متاحة للأفراد والفرق الذين تتراوح أعمارهم بين 13 و18 عامًا. </p> 
+           <a class="cta4 blue" href="https://www.googlesciencefair.com/en/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/programs/gsoc-logo-180x121.jpg"> 
+          <div> 
+           <p class="body1Bold clamped"> برنامج Google Summer of Code (GSoC) </p> 
+           <p class="body2 clamped"> A global online program offering student developers ages 18+ stipends &amp; mentorship for open source coding projects. </p> 
+           <a class="cta4 blue" href="https://developers.google.com/open-source/soc/?csw=1" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/programs/technicalinternships.png"> 
+          <div> 
+           <p class="body1Bold clamped"> التدريب التقني </p> 
+           <p class="body2 clamped"> هو تدريب تقني يُعقد لمدة 12-14 أسبوعًا للطلاب والخريجين والحاصلين على درجة الدكتوراه والمتخصصين أو الذين يخططون للتخصص في مجال علوم الكمبيوتر أو أحد المجالات ذات الصلة. </p> 
+           <a class="cta4 blue" href="https://www.google.com/about/careers/search#!t=jo&amp;jid=59615001&amp;" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/programs/womentechmakers.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Women Techmakers </p> 
+           <p class="body2 clamped"> يوفر برنامج Women Techmakers من Google إمكانية الظهور والمشاركة والموارد للنساء العاملات في مجال التكنولوجيا. </p> 
+           <a class="cta4 blue" href="https://www.womentechmakers.com/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="col-1 mobileHide"> 
+      <div class="navForward" id="programNavForward"></div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="stage resources" id="fundings"> 
+    <div class="cols-913"> 
+     <div class="col-1 mobileHide"> 
+      <div class="colorBullet"></div> 
+     </div> 
+     <div class="col-12"> 
+      <p class="subheadline"> التمويل </p> 
+      <p class="subheadlineSmall"> Student scholarships &amp; grants to support computer science education at every stage </p> 
+     </div> 
+     <!-- Card row --> 
+     <div class="col-1 mobileHide"> 
+      <div class="navBack navInactive" id="fundingNavBack"></div> 
+     </div> 
+     <div class="col-12"> 
+      <div class="cardWrapper"> 
+       <div class="cardHolder" id="fundingHolder"> 
+        <!-- Resource cards --> 
+        <article class="cardActive regionNA ageMed ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/venkat.jpg"> 
+          <div> 
+           <p class="body1Bold clamped"> Venkat Panchapakesan Memorial Scholarship </p> 
+           <p class="body2 clamped"> Are you an ever-optimistic person who believes we can make the world a more sustainable place? </p> 
+           <a class="cta4 blue" href="/intl/ar/scholarships/venkat-panchapakesan-memorial-scholarship/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageMed ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/cs4hs.png"> 
+          <div> 
+           <p class="body1Bold clamped"> علوم الكمبيوتر للمدارس الثانوية (CS4HS) </p> 
+           <p class="body2 clamped"> يُعزز برنامج المنح العالمي تعليم علوم الكمبيوتر من خلال توصيل المعلمين بالمهارات والموارد التي يحتاجون إليها. </p> 
+           <a class="cta4 blue" href="http://cs4hs.com/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionEMEA ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/geurope.png"> 
+          <div> 
+           <p class="body1Bold clamped"> المنحة الدراسية من Google في أوروبا للطلاب ذوي الاحتياجات الخاصة </p> 
+           <p class="body2 clamped"> يتم تقديم هذه المنحة الدراسية إلى طلاب الجامعة الأوروبية من ذوي الاحتياجات الخاصة الذين يرغبون في الحصول على شهادات في علوم الكمبيوتر. </p> 
+           <a class="cta4 blue" href="http://www.google.com/studentswithdisabilities-europe/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionNA ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/lime.png"> 
+          <div> 
+           <p class="body1Bold clamped"> المنحة الدراسية Google Lime للطلاب ذوي الاحتياجات الخاصة </p> 
+           <p class="body2 clamped"> يتم تقديم هذه المنحة الدراسية إلى الطلاب الجامعيين من ذوي الاحتياجات الخاصة الذين يرغبون في الحصول على شهادات في علوم الكمبيوتر في كندا والولايات المتحدة. </p> 
+           <a class="cta4 blue" href="/intl/ar/scholarships/the-google-lime-scholarship/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionNA ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/sva.png"> 
+          <div> 
+           <p class="body1Bold clamped"> المنحة الدراسية لقدامى الطلاب في الولايات المتحدة (SVA) من Google </p> 
+           <p class="body2 clamped"> يتم تقديم هذه المنحة الدراسية إلى الطلاب الجامعيين القدامى أو طلاب الخدمة الفعلية الذين يسعون إلى الحصول على درجات في علوم الكمبيوتر أو المجالات ذات الصلة في الولايات المتحدة. </p> 
+           <a class="cta4 blue" href="/intl/ar/scholarships/google-sva-scholarship/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/travelconference.png"> 
+          <div> 
+           <p class="body1Bold clamped"> منح المؤتمرات والسفر من Google </p> 
+           <p class="body2 clamped"> يتم تقديم المنح إلى المجموعات الأقل تمثيلاً في مجال علوم الكمبيوتر أو المجالات ذات الصلة لحضور المؤتمرات التقنية أو المتنوعة في الولايات المتحدة وأوروبا. </p> 
+           <a class="cta4 blue" href="/intl/ar/scholarships/google-travel-and-conference-grants/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageAll ageLow ageMed ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/googleorg.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Google.org </p> 
+           <p class="body2 clamped"> يتم تقديم المنح للمؤسسات التي تعمل على تطوير دراسة مجال علوم الكمبيوتر وزيادة كشف هذا المجال إلى الطلاب الأقل تمثيلاً. </p> 
+           <a class="cta4 blue" href="http://www.google.org/global-giving/global-impact-awards/#tab=awardee-tab-education" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionNA ageMed ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/ignitecs.png"> 
+          <div> 
+           <p class="body1Bold clamped"> igniteCS </p> 
+           <p class="body2 clamped"> تمويل ودعم النساء الجامعيات في مجموعات علوم الكمبيوتر في الولايات المتحدة/كاليفورنيا لإنشاء مشروع مراقبة علوم الكمبيوتر في مجتمعهم المحلي. </p> 
+           <a class="cta4 blue" href="https://ignitecs.withgoogle.com/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageLow ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/riseawards.png"> 
+          <div> 
+           <p class="body1Bold clamped"> جوائز RISE (جذور العلوم والهندسة) </p> 
+           <p class="body2 clamped"> يتم تقديم المنح وموارد بناء القدرات للمؤسسات التي تتولى تعليم علوم الكمبيوتر للطلاب الأقل تمثيلاً في مرحلة ما قبل الجامعة على مستوى العالم. </p> 
+           <a class="cta4 blue" href="/intl/ar/resources/programs/google-rise-awards/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionNA ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/generation.png"> 
+          <div> 
+           <p class="body1Bold clamped"> منحة Generation Google Scholarship الدراسية </p> 
+           <p class="body2 clamped"> يتم تقديم هذه المنحة لطلاب الجامعات الأقل تمثيلاً في الولايات المتحدة وكندا الذين يسعون للحصول على شهادات في مجال علوم الكمبيوتر أو المجالات ذات الصلة. </p> 
+           <a class="cta4 blue" href="/intl/ar/scholarships/the-generation-google-scholarship/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/googleanita.png"> 
+          <div> 
+           <p class="body1Bold clamped"> منحة Google Anita Borg Memorial Scholarship الدراسية </p> 
+           <p class="body2 clamped"> يتم تقديم هذه المنحة الدراسية لطالبات البكالوريوس والدراسات العُليا في جميع أنحاء العالم، واللاتي يدرسن الحوسبة والتكنولوجيا. </p> 
+           <a class="cta4 blue" href="http://www.google.com/anitaborg/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">المزيد</a> 
+          </div> 
+         </div> 
+        </article> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="col-1 mobileHide"> 
+      <div class="navForward" id="fundingNavForward"></div> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">المنتجات</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/products/devices/">الأجهزة</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/products/productivity-tools/">أدوات الإنتاجية</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/products/more-products/">المزيد من المنتجات</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">التدريب</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=ar" target="_blank">تدريب المعلمين</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">تدريب مشرفي تكنولوجيا المعلومات</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">دليل الشركاء</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/resources/communities/">المنتديات</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">الموارد</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/resources/programs/">البرامج</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/resources/computerscience/">تعليم علوم الكمبيوتر</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/resources/global-education/">التعليم العالمي</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/it/"> تكنولوجيا المعلومات</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">موارد مطوّري البرامج</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/access/">الدخول</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/contact/">المبيعات</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">الدعم</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/partners/">برنامج الشركاء</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/case-studies/">دراسات الحالة</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">الاطلاع على المدارس التي تستخدم أجهزة Chromebook</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">المدونة</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="البحث في هذا الموقع" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/resources/computerscience/learning/"> Afrikaans (Suid-Afrika) </option><option selected value="/intl/ar/resources/computerscience/learning/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/da/resources/computerscience/learning/"> dansk (Danmark) </option><option value="/intl/en_au/resources/computerscience/learning/"> English (Australia) </option><option value="/intl/en_ca/resources/computerscience/learning/"> English (Canada) </option><option value="/intl/en_in/resources/computerscience/learning/"> English (India) </option><option value="/intl/en_nz/resources/computerscience/learning/"> English (New Zealand) </option><option value="/intl/en_uk/resources/computerscience/learning/"> English (United Kingdom) </option><option value="/resources/computerscience/learning/"> English (United States) </option><option value="/intl/es-419_mx/resources/computerscience/learning/"> español (México) </option><option value="/intl/es-419/resources/computerscience/learning/"> español (Latinoamérica) </option><option value="/intl/fi/resources/computerscience/learning/"> suomi (Suomi) </option><option value="/intl/fr_be/resources/computerscience/learning/"> français (Belgique) </option><option value="/intl/id/resources/computerscience/learning/"> Indonesia (Indonesia) </option><option value="/intl/ja/resources/computerscience/learning/"> 日本語 (日本) </option><option value="/intl/ms/resources/computerscience/learning/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/resources/computerscience/learning/"> Nederlands (Nederland) </option><option value="/intl/no/resources/computerscience/learning/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/resources/computerscience/learning/"> português (Brasil) </option><option value="/intl/sv/resources/computerscience/learning/"> svenska (Sverige) </option><option value="/intl/th/resources/computerscience/learning/"> ไทย (ไทย) </option><option value="/intl/tr/resources/computerscience/learning/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/ar/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/ar/policies/privacy/">الخصوصية</a> </li> 
+      <li> <a href="https://www.google.com/intl/ar/policies/terms/">البنود</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script>  
+ </body>
+</html>

@@ -1,0 +1,840 @@
+<!doctype html>
+<html class="google mmfb" lang="th" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/th/resources/computerscience/learning/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." name="description"> 
+  <title>
+    Google for Education: Computer Science Learning
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/th/resources/computerscience/learning/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Computer Science Learning" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/th/resources/computerscience/learning/" property="og:url"> 
+  <meta content="" property="og:image"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/th/resources/computerscience/learning/" name="twitter:url"> 
+  <meta content="Google for Education: Computer Science Learning" name="twitter:title"> 
+  <meta content="" name="twitter:image"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Computer Science Learning" itemprop="name"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." itemprop="description"> 
+  <meta content="" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Computer Science Learning",
+    "description": "Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu.",
+    "url": "https://edu.google.com/intl/th/resources/computerscience/learning/",
+    "logo": "",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="computerscience-learning"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/th/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">รับผลิตภัณฑ์ของ Google</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">เราจะช่วยอะไรคุณได้บ้าง</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>รับเครื่องมือเพิ่มประสิทธิภาพ</h5> 
+        <p>รับเครื่องมือเพิ่มประสิทธิภาพของ Google ซึ่งมี Classroom, Google เอกสาร, ไดรฟ์, แฮงเอาท์, อีเมล และอีกมากมายฟรี ไม่มีโฆษณา</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=th#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">ลงชื่อสมัครใช้ G Suite</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>รับอุปกรณ์</h5> 
+        <p>ถ้าสนใจใช้ Chromebook หรืออุปกรณ์ Android สำหรับโรงเรียนของคุณ ทีมของเราพร้อมช่วยให้คำแนะนำ</p> 
+        <a class="maia-button overlay-button" href="/intl/th/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">ติดต่อผู้เชี่ยวชาญ</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>พูดคุยกับนักการศึกษาคนอื่นๆ</h5> 
+        <p>หากต้องการคุยกับคนอื่นๆ ที่คล้ายกับคุณและหันมาใช้ Google แล้ว ลองเข้าร่วมชุมชนนักการศึกษาของเราเพื่อประโยชน์สูงสุด</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">ค้นหานักการศึกษาคนอื่นๆ</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/" target="_self">หน้าแรก</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">ผลิตภัณฑ์</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/products/devices/" target="_self">อุปกรณ์ <br><span class="dropdown-item-description">Chromebooks and Tablets</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/products/productivity-tools/" target="_self">เครื่องมือเพิ่มประสิทธิภาพ <br><span class="dropdown-item-description">Docs, Gmail and More</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/products/productivity-tools/classroom/" target="_self">Classroom <br><span class="dropdown-item-description">Mission control for teachers and students</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtual reality field trips</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/products/more-products/" target="_self">ผลิตภัณฑ์อื่นๆ <br><span class="dropdown-item-description">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">การฝึกอบรม</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=th" target="_self">การฝึกอบรมนักการศึกษา <br><span class="dropdown-item-description">สำหรับเครื่องมือของ Google for Education</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">การฝึกอบรมผู้ดูแลระบบด้านไอที <br><span class="dropdown-item-description">สำหรับผู้ดูแลระบบ G Suite</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">ไดเรกทอรีพาร์ทเนอร์ <br><span class="dropdown-item-description">to help your school go Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/resources/communities/" target="_self">ชุมชน <br><span class="dropdown-item-description">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" active  global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">แหล่งข้อมูล</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/resources/programs/" target="_self">โปรแกรม <br><span class="dropdown-item-description">for students and teachers</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/case-studies/" target="_self">กรณีศึกษา </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/resources/computerscience/" target="_self">การศึกษาด้านวิทยาศาสตร์คอมพิวเตอร์ <br><span class="dropdown-item-description">Programs, Funding, and Research</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/resources/global-education/" target="_self">การศึกษาทั่วโลก </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/th/it/" target="_self">คำแนะนำด้านไอที</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/th/higher-education/" target="_self">เครื่องมือการเรียนรู้</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">ผลิตภัณฑ์</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/products/devices/" target="_self">อุปกรณ์ <span class="nav-subtext">Chromebooks and Tablets</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/products/productivity-tools/" target="_self">เครื่องมือเพิ่มประสิทธิภาพ <span class="nav-subtext">Docs, Gmail and More</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/products/productivity-tools/classroom/" target="_self">Classroom <span class="nav-subtext">Mission control for teachers and students</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtual reality field trips</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/products/more-products/" target="_self">ผลิตภัณฑ์อื่นๆ <span class="nav-subtext">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">การฝึกอบรม</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=th" target="_self">การฝึกอบรมนักการศึกษา <span class="nav-subtext">สำหรับเครื่องมือของ Google for Education</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">การฝึกอบรมผู้ดูแลระบบด้านไอที <span class="nav-subtext">สำหรับผู้ดูแลระบบ G Suite</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">ไดเรกทอรีพาร์ทเนอร์ <span class="nav-subtext">to help your school go Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/resources/communities/" target="_self">ชุมชน <span class="nav-subtext">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">แหล่งข้อมูล</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/resources/programs/" target="_self">โปรแกรม <span class="nav-subtext">for students and teachers</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/case-studies/" target="_self">กรณีศึกษา </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/resources/computerscience/" target="_self">การศึกษาด้านวิทยาศาสตร์คอมพิวเตอร์ <span class="nav-subtext">Programs, Funding, and Research</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/resources/global-education/" target="_self">การศึกษาทั่วโลก </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">คำแนะนำด้านไอที</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/it/" target="_self">ไอที </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/trust/" target="_self">หน้าความเป็นส่วนตัว </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">เครื่องมือการเรียนรู้</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/th/higher-education/" target="_self">เครื่องมือการเรียนรู้ </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">รับผลิตภัณฑ์ของ Google</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">เราจะช่วยอะไรคุณได้บ้าง</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>รับเครื่องมือเพิ่มประสิทธิภาพ</h5> 
+         <p>รับเครื่องมือเพิ่มประสิทธิภาพของ Google ซึ่งมี Classroom, Google เอกสาร, ไดรฟ์, แฮงเอาท์, อีเมล และอีกมากมายฟรี ไม่มีโฆษณา</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=th#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">ลงชื่อสมัครใช้ G Suite</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>รับอุปกรณ์</h5> 
+         <p>ถ้าสนใจใช้ Chromebook หรืออุปกรณ์ Android สำหรับโรงเรียนของคุณ ทีมของเราพร้อมช่วยให้คำแนะนำ</p> 
+         <a class="maia-button overlay-button" href="/intl/th/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">ติดต่อผู้เชี่ยวชาญ</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>พูดคุยกับนักการศึกษาคนอื่นๆ</h5> 
+         <p>หากต้องการคุยกับคนอื่นๆ ที่คล้ายกับคุณและหันมาใช้ Google แล้ว ลองเข้าร่วมชุมชนนักการศึกษาของเราเพื่อประโยชน์สูงสุด</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">ค้นหานักการศึกษาคนอื่นๆ</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <!-- Headline --> 
+   <section class="stage headline resources"> 
+    <div class="cols-913"> 
+     <div class="col-14"> 
+      <h1>โอกาสในการเรียนรู้วิทยาการคอมพิวเตอร์</h1> 
+      <p class="body1"> เราได้พัฒนากลุ่มทรัพยากรต่างๆ โปรแกรม ทุนการศึกษา และมอบโอกาสเพื่อดึงดูดนักเรียนและนักการศึกษาทั่วโลกที่สนใจวิทยาการคอมพิวเตอร์ </p> 
+     </div> 
+    </div> 
+    <menuitem> <a href="/intl/th/resources/computerscience/"><img src="/images/resources/computerscience/header_nav_back.png">Google Computer Science</a> </menuitem> 
+   </section> 
+   <!-- Filters --> 
+   <section class="stage resources mobileHide" id="filters"> 
+    <div class="cols-913"> 
+     <div class="col-12"> 
+      <div class="dropdown" id="ageMenu"> 
+       <div id="ageReset"> 
+        <p class="body1">อายุ</p> 
+       </div> 
+       <div class="ageOption" id="ageAll"> 
+        <p class="body1">ทุกวัย</p> 
+       </div> 
+       <div class="ageOption" id="ageLow"> 
+        <p class="body1">ต่ำกว่า 11 ปี</p> 
+       </div> 
+       <div class="ageOption" id="ageMed"> 
+        <p class="body1">11-18 ปี</p> 
+       </div> 
+       <div class="ageOption" id="ageHigh"> 
+        <p class="body1">18 ปีขึ้นไป</p> 
+       </div> 
+      </div> 
+      <div class="dropdown" id="regionMenu"> 
+       <div id="regionReset"> 
+        <p class="body1">ภูมิภาค</p> 
+       </div> 
+       <div class="regionOption" id="regionGlobal"> 
+        <p class="body1">ทั่วโลก</p> 
+       </div> 
+       <div class="regionOption" id="regionAPAC"> 
+        <p class="body1">เอเชียแปซิฟิก</p> 
+       </div> 
+       <div class="regionOption" id="regionEMEA"> 
+        <p class="body1">ยุโรป ตะวันออกกลาง และแอฟริกา</p> 
+       </div> 
+       <div class="regionOption" id="regionEs419"> 
+        <p class="body1">ละตินอเมริกา</p> 
+       </div> 
+       <div class="regionOption" id="regionNA"> 
+        <p class="body1">อเมริกาเหนือ</p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="stage resources" id="resources"> 
+    <div class="cols-913"> 
+     <div class="col-1 mobileHide"> 
+      <div class="colorBullet"></div> 
+     </div> 
+     <div class="col-12"> 
+      <p class="subheadline"> แหล่งข้อมูล </p> 
+      <p class="subheadlineSmall"> สภาพแวดล้อมการเขียนโปรแกรมที่ทำขึ้นโดยผู้ใช้ สื่อการสอนที่เพิ่มคุณค่า และการผนึกกำลังของประชากรนักเรียนที่มีความหลากหลาย </p> 
+     </div> 
+     <!-- Card row --> 
+     <div class="col-1 mobileHide"> 
+      <div class="navBack navInactive" id="resourceNavBack"></div> 
+     </div> 
+     <div class="col-12"> 
+      <div class="cardWrapper"> 
+       <div class="cardHolder" id="resourceHolder"> 
+        <!-- Resource cards --> 
+        <article class="cardActive regionNA regionAPAC ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/career-with-code.jpg"> 
+          <div> 
+           <p class="body1Bold clamped"> Careers with Code </p> 
+           <p class="body2 clamped"> นิตยสารเชิงสำรวจอาชีพในแวดวงวิทยาศาสตร์คอมพิวเตอร์ที่สร้างแรงบันดาลให้กับนักเรียนมัธยมปลาย พร้อมแหล่งข้อมูลต่างๆ สำหรับนักการศึกษา </p> 
+           <a class="cta4 blue" href="http://www.careerswithcode.com" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionNA ageMed ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/natandlo.jpg"> 
+          <div> 
+           <p class="body1Bold clamped"> Nat &amp; Lo's YouTube Channel </p> 
+           <p class="body2 clamped"> From Google X to StreetView to Project Loon, get a behind the scenes look at Google with Nat and Lo. </p> 
+           <a class="cta4 blue" href="https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageLow ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/blocky.png"> 
+          <div> 
+           <p class="body1Bold clamped"> เกม Blockly </p> 
+           <p class="body2 clamped"> สภาพแวดล้อมของการเขียนโปรแกรมแบบจินตภาพสำหรับเด็กเพื่อเรียนรู้พื้นฐานของการเขียนโปรแกรม พร้อมใช้งานใน 40 ภาษา </p> 
+           <a class="cta4 blue" href="https://blockly-games.appspot.com/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageAll ageLow ageMed ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/rasberry.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Coder for Raspberry Pi </p> 
+           <p class="body2 clamped"> ซอฟต์แวร์ฟรีที่เปลี่ยน Raspberry Pi เป็นสภาพแวดล้อมการพัฒนาบนเว็บแบบส่วนตัว </p> 
+           <a class="cta4 blue" href="http://googlecreativelab.github.io/coder/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/computationalthinking.png"> 
+          <div> 
+           <p class="body1Bold clamped"> หลักสูตรการคิดเชิงคำนวณ </p> 
+           <p class="body2 clamped"> หลักสูตรพัฒนาวิชาชีพออนไลน์ที่ช่วยให้นักการศึกษาทำความเข้าใจ รู้จักประยุกต์ใช้ และแชร์แนวคิดด้านการคิดเชิงคำนวณในหลากหลายสาขาวิชา </p> 
+           <a class="cta4 blue" href="https://g.co/computationalthinking" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageLow ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/cscs.png"> 
+          <div> 
+           <p class="body1Bold clamped"> การค้นหาที่กำหนดเองเกี่ยวกับวิทยาการคอมพิวเตอร์ </p> 
+           <p class="body2 clamped"> บทเรียน บทแนะนำ เกม และโครงการสำหรับการศึกษาวิทยาการคอมพิวเตอร์ </p> 
+           <a class="cta4 blue" href="http://www.cs4hs.com/resources/cscs.html" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageLow ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/csfirst.png"> 
+          <div> 
+           <p class="body1Bold clamped"> CS First </p> 
+           <p class="body2 clamped"> แผนการเรียนและการแสดงเนื้อหาแบบวิดีโอเพื่อสร้างประสบการณ์ CS ที่น่าดึงดูดใจสำหรับนักเรียนรุ่นเยาว์ </p> 
+           <a class="cta4 blue" href="http://www.cs-first.com/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/engagecsedu.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Engage CS Edu </p> 
+           <p class="body2 clamped"> คอลเล็กชันสื่อการสอนที่ครอบคลุมและกลยุทธ์ต่างๆ เพื่อสร้างการมีส่วนร่วมกับนักเรียน CS ระดับปริญญาตรี </p> 
+           <a class="cta4 blue" href="http://www.engage-csedu.org/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageLow ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/explorcomthinking.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Exploring Computational Thinking </p> 
+           <p class="body2 clamped"> แผนการเรียน วิดีโอ และทรัพยากรอื่นๆ เกี่ยวกับการคิดเชิงคำนวณเพื่อสนับสนุนการผนวกรวมกับเนื้อหาในชั้นเรียน </p> 
+           <a class="cta4 blue" href="https://g.co/exploringCT" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/guidefortech.png"> 
+          <div> 
+           <p class="body1Bold clamped"> คำแนะนำสำหรับการพัฒนาด้านเทคนิค </p> 
+           <p class="body2 clamped"> การเรียนด้วยตนเอง การเรียนรู้โดยการปฏิบัติจริงสำหรับนักเรียนระดับมหาวิทยาลัยทุกคนเพื่อพัฒนาทักษะด้านเทคนิคของพวกเขา </p> 
+           <a class="cta4 blue" href="https://www.google.com/about/careers/students/guide-to-technical-development.html" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageAll ageLow ageMed ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/madewithcode.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Made with Code </p> 
+           <p class="body2 clamped"> การริเริ่มระดับชาติเพื่อจุดประกายเด็กหญิงหลายล้านคนให้เรียนรู้เกี่ยวกับโค้ดและเห็นว่าการเขียนโปรแกรมเป็นวิธีหนึ่งในการก้าวเข้าสู่อาชีพในฝัน </p> 
+           <a class="cta4 blue" href="http://www.madewithcode.com" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageLow ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/pencilcode.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Pencil Code </p> 
+           <p class="body2 clamped"> ห้องปฏิบัติการการเขียนโปรแกรมด้วยการใช้ภาพวาด เพลง และนวนิยายเชิงสร้างสรรค์เพื่อช่วยผลักดันความก้าวหน้าของนักเรียนโดยเริ่มจากการเขียนโปรแกรมแบบบล็อกไปสู่การเขียนโปรแกรมข้อความ </p> 
+           <a class="cta4 blue" href="http://gym.pencilcode.net/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionAPAC ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/resources/startwithcode.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Start With Code </p> 
+           <p class="body2 clamped"> A collection of resources &amp; programs to encourage young Australians to study computing. </p> 
+           <a class="cta4 blue" href="http://www.google.com.au/campaigns/startwithcode/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="col-1 mobileHide"> 
+      <div class="navForward" id="resourceNavForward"></div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="stage resources" id="programs"> 
+    <div class="cols-913"> 
+     <div class="col-1 mobileHide"> 
+      <div class="colorBullet"></div> 
+     </div> 
+     <div class="col-12"> 
+      <p class="subheadline"> โปรแกรม </p> 
+      <p class="subheadlineSmall"> การแข่งขันประจำปีของนักเรียน แหล่งข้อมูลด้านอาชีพ และโปรแกรมต่างๆ เพื่อสนับสนุนความหลากหลายของเทคโนโลยี </p> 
+     </div> 
+     <!-- Card row --> 
+     <div class="col-1 mobileHide"> 
+      <div class="navBack navInactive" id="programNavBack"></div> 
+     </div> 
+     <div class="col-12"> 
+      <div class="cardWrapper"> 
+       <div class="cardHolder" id="programHolder"> 
+        <!-- Resource cards --> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageMed ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/programs/codejam.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Code Jam </p> 
+           <p class="body2 clamped"> การแข่งขันเขียนโปรแกรมที่จัดขึ้นหลายรอบทั่วโลกสำหรับนักเรียนและโปรแกรมเมอร์มืออาชีพ </p> 
+           <a class="cta4 blue" href="https://code.google.com/codejam" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionNA ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/programs/cssi.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Computer Science Summer Institute (CSSI) </p> 
+           <p class="body2 clamped"> โปรแกรมระยะเวลา 3 สัปดาห์เพื่อเพิ่มจำนวนนักเรียนใหม่ๆ จากกลุ่มที่มีประวัติเป็นผู้ด้อยโอกาสใน CS โดยมอบแนวทางปฏิบัติขั้นต้นเพื่อปูทางสู่ CS </p> 
+           <a class="cta4 blue" href="/intl/th/resources/programs/computer-science-summer-institute/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionNA ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/programs/engpracticum.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Engineering Practicum </p> 
+           <p class="body2 clamped"> โปรแกรมพัฒนาระยะเวลา 12 สัปดาห์สำหรับนักศึกษาระดับปริญญาตรีปี 1 และปี 2 สาขา CS หรือวิศวกรรมไฟฟ้าและวิศวกรรมคอมพิวเตอร์ </p> 
+           <a class="cta4 blue" href="https://www.google.com/about/careers/search#!t=jo&amp;jid=120165001&amp;" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/programs/gci-logo-180x121.jpg"> 
+          <div> 
+           <p class="body1Bold clamped"> Google Code-in (GCI) </p> 
+           <p class="body2 clamped"> การแข่งขันสำหรับนักเรียนอายุ 13-17 ปีเพื่อสร้างสรรค์ผลงานที่หลากหลายที่ทำให้การพัฒนาซอฟต์แวร์แบบโอเพนซอร์สมีความเป็นไปได้ </p> 
+           <a class="cta4 blue" href="https://developers.google.com/open-source/gci/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionNA ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/programs/engresidency.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Google Engineering Residency Program </p> 
+           <p class="body2 clamped"> โปรแกรมฝึกงานด้านวิศวกรรมระยะเวลา 1 ปี เปิดรับบัณฑิตใหม่สาขา CS </p> 
+           <a class="cta4 blue" href="https://www.google.com/about/careers/students/engres.html" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/programs/googlesciencefair.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Google Science Fair </p> 
+           <p class="body2 clamped"> การแข่งขันด้านวิทยาศาสตร์และเทคโนโลยีออนไลน์ระดับโลกเปิดรับแบบบุคคลและแบบทีมอายุ 13 ถึง 18 ปี </p> 
+           <a class="cta4 blue" href="https://www.googlesciencefair.com/en/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/programs/gsoc-logo-180x121.jpg"> 
+          <div> 
+           <p class="body1Bold clamped"> Google Summer of Code (GSoC) </p> 
+           <p class="body2 clamped"> A global online program offering student developers ages 18+ stipends &amp; mentorship for open source coding projects. </p> 
+           <a class="cta4 blue" href="https://developers.google.com/open-source/soc/?csw=1" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/programs/technicalinternships.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Technical Internships </p> 
+           <p class="body2 clamped"> การฝึกงานด้านเทคนิคระยะเวลา 12-14 สัปดาห์เปิดสำหรับนักศึกษาระดับปริญญาตรี โท และเอกสาขา CS หรือตั้งใจจะเรียนในสาขา CS หรือสาขาที่เกี่ยวข้อง </p> 
+           <a class="cta4 blue" href="https://www.google.com/about/careers/search#!t=jo&amp;jid=59615001&amp;" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/programs/womentechmakers.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Women Techmakers </p> 
+           <p class="body2 clamped"> โปรแกรม Women Techmakers ของ Google มอบการเข้าถึง ชุมชน และแหล่งข้อมูลสำหรับผู้หญิงในแวดวงเทคโนโลยี </p> 
+           <a class="cta4 blue" href="https://www.womentechmakers.com/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="col-1 mobileHide"> 
+      <div class="navForward" id="programNavForward"></div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="stage resources" id="fundings"> 
+    <div class="cols-913"> 
+     <div class="col-1 mobileHide"> 
+      <div class="colorBullet"></div> 
+     </div> 
+     <div class="col-12"> 
+      <p class="subheadline"> ทุน </p> 
+      <p class="subheadlineSmall"> Student scholarships &amp; grants to support computer science education at every stage </p> 
+     </div> 
+     <!-- Card row --> 
+     <div class="col-1 mobileHide"> 
+      <div class="navBack navInactive" id="fundingNavBack"></div> 
+     </div> 
+     <div class="col-12"> 
+      <div class="cardWrapper"> 
+       <div class="cardHolder" id="fundingHolder"> 
+        <!-- Resource cards --> 
+        <article class="cardActive regionNA ageMed ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/venkat.jpg"> 
+          <div> 
+           <p class="body1Bold clamped"> Venkat Panchapakesan Memorial Scholarship </p> 
+           <p class="body2 clamped"> Are you an ever-optimistic person who believes we can make the world a more sustainable place? </p> 
+           <a class="cta4 blue" href="/intl/th/scholarships/venkat-panchapakesan-memorial-scholarship/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageMed ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/cs4hs.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Computer Science for High School (CS4HS) </p> 
+           <p class="body2 clamped"> โปรแกรมที่มอบเงินช่วยเหลือทั่วโลกเพื่อสนับสนุนนักการศึกษา CS ด้วยการเชื่อมโยงนักการศึกษากับทักษะและทรัพยากรที่พวกเขาต้องการ </p> 
+           <a class="cta4 blue" href="http://cs4hs.com/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionEMEA ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/geurope.png"> 
+          <div> 
+           <p class="body1Bold clamped"> ทุนการศึกษาในยุโรปของ Google สำหรับนักเรียนผู้พิการ </p> 
+           <p class="body2 clamped"> เพื่อให้นักศึกษาผู้พิการระดับมหาวิทยาลัยในยุโรปได้มีโอกาสเรียนในสาขาวิทยาการคอมพิวเตอร์ </p> 
+           <a class="cta4 blue" href="http://www.google.com/studentswithdisabilities-europe/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionNA ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/lime.png"> 
+          <div> 
+           <p class="body1Bold clamped"> ทุนการศึกษา Google Lime สำหรับนักศึกษาผู้พิการ </p> 
+           <p class="body2 clamped"> เพื่อให้นักศึกษาผู้พิการระดับมหาวิทยาลัยได้มีโอกาสเรียนในสาขาวิทยาการคอมพิวเตอร์ในแคนาดาและสหรัฐอเมริกา </p> 
+           <a class="cta4 blue" href="/intl/th/scholarships/the-google-lime-scholarship/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionNA ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/sva.png"> 
+          <div> 
+           <p class="body1Bold clamped"> ทุนการศึกษา Google SVA สำหรับนักเรียนที่เป็นทหารผ่านศึก </p> 
+           <p class="body2 clamped"> เพื่อให้นักเรียนที่เป็นทหารผ่านศึกหรือนักเรียนที่ศึกษาในระดับมหาวิทยาลัยที่อยู่ในช่วงประจำการได้มีโอกาสเรียนในสาขา CS หรือสาขาที่เกี่ยวข้องในสหรัฐอเมริกา </p> 
+           <a class="cta4 blue" href="/intl/th/scholarships/google-sva-scholarship/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/travelconference.png"> 
+          <div> 
+           <p class="body1Bold clamped"> เงินช่วยเหลือเพื่อการประชุมและท่องเที่ยวของ Google </p> 
+           <p class="body2 clamped"> เงินช่วยเหลือสำหรับกลุ่มที่ด้อยโอกาสใน CS หรือสาขาที่เกี่ยวข้องให้มีโอกาสเข้าร่วมการประชุมที่หลากหลายหรือการประชุมด้านเทคนิคในสหรัฐอเมริกาและยุโรป </p> 
+           <a class="cta4 blue" href="/intl/th/scholarships/google-travel-and-conference-grants/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageAll ageLow ageMed ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/googleorg.png"> 
+          <div> 
+           <p class="body1Bold clamped"> Google.org </p> 
+           <p class="body2 clamped"> เงินช่วยเหลือที่มอบแก่องค์กรที่สนับสนุนการศึกษาและเพิ่มโอกาสการเข้าถึงวิทยาการคอมพิวเตอร์แก่นักเรียนที่ด้อยโอกาส </p> 
+           <a class="cta4 blue" href="http://www.google.org/global-giving/global-impact-awards/#tab=awardee-tab-education" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionNA ageMed ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/ignitecs.png"> 
+          <div> 
+           <p class="body1Bold clamped"> igniteCS </p> 
+           <p class="body2 clamped"> เงินทุนและการสนับสนุนสำหรับนักศึกษาหญิงระดับปริญญาตรีในกลุ่มวิทยาศาสตร์คอมพิวเตอร์ใน US/CA ที่ต้องการริเริ่มโครงการให้คำปรึกษา CS ให้กับชุมชนท้องถิ่นของตนเอง </p> 
+           <a class="cta4 blue" href="https://ignitecs.withgoogle.com/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageLow ageMed"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/riseawards.png"> 
+          <div> 
+           <p class="body1Bold clamped"> RISE Awards </p> 
+           <p class="body2 clamped"> เงินช่วยเหลือและทรัพยากรที่เสริมสร้างศักยภาพสำหรับองค์กรที่สอนด้านวิทยาการคอมพิวเตอร์แก่นักเรียนระดับก่อนมหาวิทยาลัยที่ด้อยโอกาสทั่วโลก </p> 
+           <a class="cta4 blue" href="/intl/th/resources/programs/google-rise-awards/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionNA ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/generation.png"> 
+          <div> 
+           <p class="body1Bold clamped"> The Generation Google Scholarship </p> 
+           <p class="body2 clamped"> เพื่อให้นักศึกษาระดับมหาวิทยาลัยที่ด้อยโอกาสในสหรัฐอเมริกาและแคนาดาได้มีโอกาสเรียนในสาขาวิทยาการคอมพิวเตอร์หรือสาขาที่เกี่ยวข้อง </p> 
+           <a class="cta4 blue" href="/intl/th/scholarships/the-generation-google-scholarship/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+        <article class="cardActive regionGlobal regionNA regionEMEA regionAPAC regionEs419 ageHigh"> 
+         <div class="cardContents"> 
+          <img alt="" src="/images/resources/computerscience/funding/googleanita.png"> 
+          <div> 
+           <p class="body1Bold clamped"> The Google Anita Borg Memorial Scholarship </p> 
+           <p class="body2 clamped"> สำหรับนักศึกษาหญิงระดับปริญญาตรีและปริญญาโททั่วโลกที่กำลังศึกษาด้านคอมพิวเตอร์และเทคโนโลยี </p> 
+           <a class="cta4 blue" href="http://www.google.com/anitaborg/" data-g-event="Edu: Canvas" data-g-action="CSEd Resources" target="_blank">อื่นๆ</a> 
+          </div> 
+         </div> 
+        </article> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="col-1 mobileHide"> 
+      <div class="navForward" id="fundingNavForward"></div> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">ผลิตภัณฑ์</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/products/devices/">อุปกรณ์</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/products/productivity-tools/">เครื่องมือเพิ่มประสิทธิภาพ</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/products/more-products/">ผลิตภัณฑ์อื่นๆ</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">การฝึกอบรม</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=th" target="_blank">การฝึกอบรมนักการศึกษา</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">การฝึกอบรมผู้ดูแลระบบด้านไอที</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">ไดเรกทอรีพาร์ทเนอร์</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/resources/communities/">ชุมชน</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">แหล่งข้อมูล</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/resources/programs/">โปรแกรม</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/resources/computerscience/">การศึกษาด้านวิทยาศาสตร์คอมพิวเตอร์</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/resources/global-education/">การศึกษาทั่วโลก</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">คำแนะนำ</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/it/">ไอที</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">แหล่งข้อมูลของนักพัฒนาซอฟต์แวร์</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/access/">การเรียนรู้ออนไลน์</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">ติดต่อเรา</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/contact/">ฝ่ายขาย</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">การสนับสนุน</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/partners/">โปรแกรมพาร์ทเนอร์</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">เรื่องราว</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/th/case-studies/">กรณีศึกษา</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">โรงเรียนที่ใช้ Chromebook</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">บล็อก</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="ค้นหาเว็บไซต์นี้" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/resources/computerscience/learning/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/resources/computerscience/learning/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/da/resources/computerscience/learning/"> dansk (Danmark) </option><option value="/intl/en_au/resources/computerscience/learning/"> English (Australia) </option><option value="/intl/en_ca/resources/computerscience/learning/"> English (Canada) </option><option value="/intl/en_in/resources/computerscience/learning/"> English (India) </option><option value="/intl/en_nz/resources/computerscience/learning/"> English (New Zealand) </option><option value="/intl/en_uk/resources/computerscience/learning/"> English (United Kingdom) </option><option value="/resources/computerscience/learning/"> English (United States) </option><option value="/intl/es-419_mx/resources/computerscience/learning/"> español (México) </option><option value="/intl/es-419/resources/computerscience/learning/"> español (Latinoamérica) </option><option value="/intl/fi/resources/computerscience/learning/"> suomi (Suomi) </option><option value="/intl/fr_be/resources/computerscience/learning/"> français (Belgique) </option><option value="/intl/id/resources/computerscience/learning/"> Indonesia (Indonesia) </option><option value="/intl/ja/resources/computerscience/learning/"> 日本語 (日本) </option><option value="/intl/ms/resources/computerscience/learning/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/resources/computerscience/learning/"> Nederlands (Nederland) </option><option value="/intl/no/resources/computerscience/learning/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/resources/computerscience/learning/"> português (Brasil) </option><option value="/intl/sv/resources/computerscience/learning/"> svenska (Sverige) </option><option selected value="/intl/th/resources/computerscience/learning/"> ไทย (ไทย) </option><option value="/intl/tr/resources/computerscience/learning/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/th/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/th/policies/privacy/">ความเป็นส่วนตัว</a> </li> 
+      <li> <a href="https://www.google.com/intl/th/policies/terms/">ข้อกำหนด</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script>  
+ </body>
+</html>

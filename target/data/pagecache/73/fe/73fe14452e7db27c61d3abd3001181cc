@@ -1,0 +1,341 @@
+<!doctype html>
+<html class="google mmfb" dir="ltr" lang="nl">
+ <head> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script> 
+  <meta charset="utf-8"> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <title>
+      Gebruik marketingcampagnes om uw zakelijke doelen te bereiken met het nieuwe AdWords - Google
+      AdWords – Google
+    </title> 
+  <meta content="Bereik uw zakelijke doelen en bespaar tijd met de nieuwe versie van AdWords, waarmee u niet meer hoeft te gissen bij het beheer van marketingcampagnes." name="description"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;lang=nl" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto+Slab:300,400,500&amp;lang=nl" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Product+Sans:400&amp;lang=nl" rel="stylesheet"> 
+  <link href="../../../home/css/adwords.min.css" rel="stylesheet"> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/v2_8_3/basic.js"></script> 
+  <link href="/home/images/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://adwords.google.com/intl/nl_nl/home/how-it-works/new-adwords/" rel="canonical"> 
+ </head> 
+ <body class="new-adwords long-l10n" data-ng-app="rs.adwords"> 
+  <header class="header" role="banner"> 
+   <h1 class="product-logo"> <a href="../../../home/"><img alt="Google" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" srcset="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png 2x"> <span class="site-name">AdWords</span></a> </h1> 
+   <nav class="main-navigation contains-sub-nav" data-ng-controller="rs.navigation.NavCtrl as navCtrl"> 
+    <h1> AdWords </h1> 
+    <ul class="outer-nav"> 
+     <li> <a href="../../../home/">Startpagina</a> </li> 
+     <li class="parent">Hoe het werkt 
+      <ul class="sub-nav"> 
+       <li> <a href="../../../home/how-it-works/">Overzicht</a> </li> 
+       <li> <a href="../../../home/how-it-works/search-ads/">Zoek-advertenties</a> </li> 
+       <li> <a href="../../../home/how-it-works/display-ads/">Display-advertenties</a> </li> 
+       <li> <a href="../../../home/how-it-works/video-ads/">Video-advertenties</a> </li> 
+       <li> <a href="../../../home/how-it-works/app-ads/">App-advertenties</a> </li> 
+       <li class="active"> <span>Nieuwe AdWords<sup class="nav-sup">BÈTA</sup></span> </li> 
+      </ul> </li> 
+     <li> <a href="../../../home/pricing/">Prijzen</a> </li> 
+     <li> <a href="../../../home/tools/">Tools</a> </li> 
+     <li> <a href="../../../home/resources/learning/">Bronnen</a> </li> 
+    </ul> 
+    <div class="cta cta-wrapper"> 
+     <a class="cta-signin" href="/um/signin?hl=nl&amp;sourceid=awo&amp;subid=nl-ww-di-awhp_rs" rel="nofollow">Inloggen</a> 
+     <a class="cta-call" href="tel:0800-2659292">
+      <svg class="icon-phone-green" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+       <path d="M6.4,13.9c2.6,5,6.7,9.1,11.7,11.7l3.9-3.9c0.5-0.5,1.2-0.6,1.8-0.4c2,0.7,4.1,1,6.4,1c1,0,1.8,0.8,1.8,1.8v6.2 c0,1-0.8,1.8-1.8,1.8C13.5,32,0,18.5,0,1.8C0,0.8,0.8,0,1.8,0H8c1,0,1.8,0.8,1.8,1.8c0,2.2,0.4,4.4,1,6.4c0.2,0.6,0.1,1.3-0.4,1.8 L6.4,13.9z"> 
+       </path>
+      </svg> <img alt="phone icon" class="icon-phone-green" height="16" src="//www.google.com/ads/images/icons/icon-ui-phone.png" width="16"> Bel ons</a> 
+    </div> 
+   </nav>
+   <button class="nav-toggle-button"><span class="icon-menu-els"><span class="menu-bar"></span> <span class="menu-bar"></span> <span class="menu-bar"></span></span></button> 
+  </header> 
+  <div class="main" role="main"> 
+   <section class="section section-hero section-new-adwords-hero"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="section-hero-copy col-5"> 
+       <h1> Maak kennis met de nieuwe AdWords-ervaring<sup class="hero-sup">bèta</sup> </h1> 
+       <p class="font-large"> Met de nieuwe AdWords-ervaring bespaart u tijd, werkt u effectiever en haalt u gemakkelijker uw zakelijke doelen. </p> 
+       <p> <a class="button cta-main" href="/um/identity?dst=/aw/overview&amp;sourceid=awo&amp;subid=nl-ww-di-g-aw-a-newadwords_1!o2" rel="nofollow">Nu proberen</a> </p> 
+      </div> 
+      <div class="section-hero-media section-hero-media-right-v4"> 
+       <div class="video-section"> 
+        <div data-glue-modal="ss-yt-nSGeDsaFuRs" data-rs-modal="" id="ss-yt-nSGeDsaFuRs"> 
+         <div class="spinner-pivot"> 
+          <div class="spinner-dot spinner-dot-1"></div> 
+          <div class="spinner-dot spinner-dot-2"></div> 
+          <div class="spinner-dot spinner-dot-3"></div> 
+          <div class="spinner-dot spinner-dot-4"></div> 
+          <div class="spinner-dot spinner-dot-5"></div> 
+          <div class="spinner-dot spinner-dot-6"></div> 
+          <div class="spinner-dot spinner-dot-7"></div> 
+          <div class="spinner-dot spinner-dot-8"></div> 
+         </div> 
+         <div class="youtube-embed glue-modal-content dark-modal" data-video-id="nSGeDsaFuRs"></div> 
+        </div> 
+        <div class="hero-player"> 
+         <div class="hero-player-cover"> 
+          <a class="fab" data-glue-modal-disabled-on-mobile="true" data-glue-modal-trigger="ss-yt-nSGeDsaFuRs" href="https://www.youtube.com/watch?v=nSGeDsaFuRs">
+           <picture>
+            <source media="(min-width: 768px)" srcset="../../../home/images/play-icon_1x.png, ../../../home/images/play-icon_2x.png 2x">
+            <img alt="" srcset="../../../home/images/play-icon_m_1x.png, ../../../home/images/play-icon_m_2x.png 2x">
+           </picture></a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-row-reverse section-built-business light-gray"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-4 col-offset-2"> 
+       <h2> Ontworpen voor uw manier van zakendoen </h2> 
+       <p class="font-large"> Zet marketingcampagnes op die naadloos aansluiten bij uw zakelijke behoeften en gebaseerd zijn op uw beoogde doel. Of dit nu verhoging van het aantal websitebezoeken is of het genereren van meer telefoontjes naar uw bedrijf. </p> 
+      </div> 
+      <div class="col-6"> 
+       <picture>
+        <source media="(min-width: 768px)" srcset="../../../home/images/campaign-type_1x.png, ../../../home/images/campaign-type_2x.png 2x">
+        <img alt="" srcset="../../../home/images/campaign-type_m_1x.png, ../../../home/images/campaign-type_m_2x.png 2x">
+       </picture> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-5"> 
+       <h2> Alle relevante gegevens<br> altijd binnen handbereik </h2> 
+       <p class="font-large"> Dankzij de inzichtelijke campagnerapporten ziet u in een oogopslag wat goed werkt, welke aspecten u moet optimaliseren en waar nieuwe mogelijkheden liggen. </p> 
+      </div> 
+      <div class="col-6 col-offset-1"> 
+       <picture>
+        <source media="(min-width: 768px)" srcset="../../../home/images/auction-insights_1x.png, ../../../home/images/auction-insights_2x.png 2x">
+        <img alt="" class="auction-insights-desk" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+       </picture> 
+       <picture>
+        <source media="(min-width: 768px)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+        <img alt="" class="auction-insights-mob" srcset="../../../home/images/auction-insights-1_m_1x.png, ../../../home/images/auction-insights-1_m_2x.png 2x">
+       </picture> 
+       <picture>
+        <source media="(min-width: 768px)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+        <img alt="" class="auction-insights-mob" srcset="../../../home/images/auction-insights-2_m_1x.png, ../../../home/images/auction-insights-2_m_2x.png 2x">
+       </picture> 
+       <picture>
+        <source media="(min-width: 768px)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+        <img alt="" class="auction-insights-mob" srcset="../../../home/images/auction-insights-3_m_1x.png, ../../../home/images/auction-insights-3_m_2x.png 2x">
+       </picture> 
+       <picture>
+        <source media="(min-width: 768px)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+        <img alt="" class="auction-insights-mob" srcset="../../../home/images/auction-insights-4_m_1x.png, ../../../home/images/auction-insights-4_m_2x.png 2x">
+       </picture> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-row-reverse section-simple-effective light-gray"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-5 col-offset-1"> 
+       <h2 class="reach-the-right"> Effectieve, gebruiksvriendelijke tools </h2> 
+       <p class="font-large"> Bereik de juiste klanten en werk aan uw bedrijfsdoelen met behulp van de gebruiksvriendelijke tools voor campagnebeheer. Hiermee kunt u beter plannen en uw resultaten optimaliseren. </p> 
+      </div> 
+      <div class="col-6"> 
+       <picture>
+        <source media="(min-width: 768px)" srcset="../../../home/images/yours-targetings_1x.png, ../../../home/images/yours-targetings_2x.png 2x">
+        <img alt="" srcset="../../../home/images/yours-targetings_m_1x.png, ../../../home/images/yours-targetings_m_2x.png 2x">
+       </picture> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-built-business"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-5"> 
+       <h2> Meer doen in minder tijd </h2> 
+       <p class="font-large"> In de intuïtieve interface vindt u alle belangrijke taken, zoals advertentie-extensies maken en uw campagnes bijhouden, handig bij elkaar. Zo werkt u efficiënt en snel. </p> 
+      </div> 
+      <div class="col-6 col-offset-1"> 
+       <picture>
+        <source media="(min-width: 768px)" srcset="../../../home/images/spring-shoes_1x.png, ../../../home/images/spring-shoes_2x.png 2x">
+        <img alt="" srcset="../../../home/images/spring-shoes_m_1x.png, ../../../home/images/spring-shoes_m_2x.png 2x">
+       </picture> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section text-align-center light-gray"> 
+    <div class="site-width"> 
+     <h1 class="discover-the-new"> Ontdek de nieuwe AdWords-ervaring<sup class="hero-sup">BÈTA</sup> </h1> 
+     <p> <a class="button" href="/um/identity?dst=/aw/overview&amp;sourceid=awo&amp;subid=nl-ww-di-g-aw-a-newadwords_1!o2" rel="nofollow" target="_blank">Nu proberen</a> </p> 
+    </div> 
+   </section> 
+   <section class="section featuredcontent-list"> 
+    <div class="site-width"> 
+     <h4 class="section-sub-heading border-blue"> Bronnen </h4> 
+     <div class="cols-row"> 
+      <a class="glue-filter-result col-6 col-m-4 card card-featuredcontent card-light-gray ng-isolate-scope" data-g-frtopic="Best Practice" data-g-frtype="Guide" data-g-label="Manage campaigns in the new AdWords experience" href="https://support.google.com/adwords/answer/7376072?hl=nl" rel="nofollow" target="_blank"> 
+       <div class="card-inner"> 
+        <div class="doctype-container"> 
+         <span class="doctype doctype-guide">
+          <svg enable-background="new 0 0 32 32" height="24px" version="1.1" viewbox="0 0 32 32" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <path d="M16,32C7.2,32,0,24.8,0,16C0,7.2,7.2,0,16,0c8.8,0,16,7.2,16,16C32,24.8,24.8,32,16,32z M16,2.7C8.7,2.7,2.7,8.7,2.7,16 c0,7.3,6,13.3,13.3,13.3c7.3,0,13.3-6,13.3-13.3C29.3,8.7,23.3,2.7,16,2.7z"> 
+           </path> 
+           <path d="M22,8c0.2-1.5-0.7-2-1.9-1.1l-6.5,4.9c-1.2,0.9-2.3,2.9-2.5,4.4l-0.9,8.1c-0.2,1.5,0.7,2,1.9,1.1l6.5-4.9 c1.2-0.9,2.3-2.9,2.5-4.4L22,8z M15,18.3c-1.1-0.6-1.5-2.1-0.9-3.2c0.6-1.1,2.1-1.5,3.2-0.9c1.1,0.6,1.5,2.1,0.9,3.2 C17.6,18.5,16.1,18.9,15,18.3z"> 
+           </path>
+          </svg> <img alt="guide icon" height="24" src="//www.google.com/ads/images/icons/icon-doctype-guide.png" width="24"></span> 
+         <h4 class="doctype-guide-title"> Handleiding </h4> 
+        </div> 
+        <p> Praktische tips </p> 
+        <h3> Campagnes beheren in de nieuwe AdWords-ervaring </h3> 
+        <p> Meer doen in minder tijd, daar gaat het om. In deze handleiding leest u wat er allemaal is veranderd en hoe u het meeste haalt uit de nieuwe AdWords-ervaring. </p>
+        <svg class="icon-arrow-related" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <polygon points="16,0 13.2,2.8 24.3,14 0,14 0,18 24.3,18 13.2,29.2 16,32 32,16"> 
+         </polygon>
+        </svg> 
+        <img alt="arrow icon" class="icon-arrow-related" height="16" src="//www.google.com/ads/images/icons/icon-arrow-related.png" width="16"> 
+       </div></a> 
+      <a class="glue-filter-result col-6 col-m-4 card card-featuredcontent card-light-gray ng-isolate-scope" data-g-frtopic="Help Center" data-g-frtype="Education" data-g-label="Learn more about AdWords" href="https://support.google.com/adwords/answer/6383306?hl=nl" rel="nofollow" target="_blank"> 
+       <div class="card-inner"> 
+        <div class="doctype-container"> 
+         <span class="doctype doctype-education"><img alt="education icon" height="24" src="//www.google.com/ads/images/icons/icon-doctype-education.png" width="24"></span> 
+         <h4 class="doctype-education-title"> Training </h4> 
+        </div> 
+        <p> Helpcentrum </p> 
+        <h3> Meer informatie over AdWords </h3> 
+        <p> In het Helpcentrum vindt u alle informatie die u nodig heeft om met de nieuwe AdWords-ervaring aan de slag te gaan. Ontdek hoe u campagnes opzet, inzichtelijke rapporten samenstelt, uw campagnes optimaliseert en nog veel meer. </p>
+        <svg class="icon-arrow-related" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <polygon points="16,0 13.2,2.8 24.3,14 0,14 0,18 24.3,18 13.2,29.2 16,32 32,16"> 
+         </polygon>
+        </svg> 
+        <img alt="arrow icon" class="icon-arrow-related" height="16" src="//www.google.com/ads/images/icons/icon-arrow-related.png" width="16"> 
+       </div></a> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <footer class="footer" id="footer" role="contentinfo"> 
+   <div class="cookie-bar-container"></div> 
+   <div class="site-width"> 
+    <div class="footer-upper cols-row"> 
+     <div class="footer-social col-6"> 
+      <dl> 
+       <dt>
+         Volg ons op: 
+       </dt> 
+       <dd> 
+        <a href="https://www.facebook.com/adwords" rel="noopener" target="_blank" title="Facebook">
+         <svg class="icon-footer-facebook" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,0H3.2C1.4,0,0,1.4,0,3.2v25.6C0,30.6,1.4,32,3.2,32h25.6c1.8,0,3.2-1.4,3.2-3.2V3.2 C32,1.4,30.6,0,28.8,0z M27.2,8H24c-0.9,0-1.6,0.7-1.6,1.6v3.2h4.8v4.8h-4.8v11.2h-4.8V17.6h-3.2v-4.8h3.2v-4c0-3.1,2.5-5.6,5.6-5.6 h4V8z"> 
+          </path>
+         </svg> <img alt="Facebook" class="icon-footer-facebook" height="20" src="//www.google.com/ads/images/icons/icon-footer-facebook.png" width="20"></a> 
+       </dd> 
+      </dl> 
+     </div> 
+    </div> 
+    <nav class="footer-nav cols-row"> 
+     <dl class="col-3"> 
+      <dt>
+        Leren en ondersteuning 
+      </dt> 
+      <dd> 
+       <a href="https://support.google.com/adwords/answer/6146252?hl=nl&amp;utm_medium=et&amp;utm_campaign=nl&amp;utm_source=ww-ww-et-b2bfooter_adwords"> Een handig overzicht van AdWords</a> 
+      </dd> 
+      <dd> 
+       <a href="https://support.google.com/adwords/?hl=nl#topic=3119071&amp;utm_source=smb_marketing&amp;utm_medium=referral&amp;utm_campaign=us-en-et-awhp-footer&amp;utm_content=NL"> Helpcentrum van AdWords</a> 
+      </dd> 
+      <dd> 
+       <a href="https://plus.google.com/+GoogleAds/posts?hl=nl">AdWords op Google+</a> 
+      </dd> 
+      <dd> 
+       <a href="https://digitalewerkplaats.withgoogle.com">Digitale Werkplaats</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Ontwikkelaars 
+      </dt> 
+      <dd> 
+       <a href="https://developers.google.com/?hl=nl">Site van Google Developers</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/adwords/api/?hl=nl">AdWords API</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/adwords/scripts/?hl=nl">AdWords-scripts</a> 
+      </dd> 
+      <dd> 
+       <a href="https://support.google.com/adwords/answer/2476688?hl=nl">Remarketingtags voor AdWords</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Gerelateerde producten 
+      </dt> 
+      <dd> 
+       <a href="https://www.google.nl/intl/nl/retail/shopping-campaigns/">Shopping-campagnes</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.nl/intl/nl/business/">Google Mijn Bedrijf</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/intl/nl/chrome/">Chrome</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Meer oplossingen van Google 
+      </dt> 
+      <dd> 
+       <a href="https://www.google.nl/intl/nl/services/">Google Bedrijfsoplossingen</a> 
+      </dd> 
+      <dd> 
+       <a href="https://gsuite.google.nl/intl/nl/?utm_medium=et&amp;utm_source=gmb&amp;utm_campaign=footer"> G Suite</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.thinkwithgoogle.com/">Think with Google</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.nl/intl/nl/adsense/start/?utm_source=internal&amp;utm_medium=et&amp;utm_campaign=adwords-homepage"> AdSense</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/admob/?utm_source=Internal&amp;utm_medium=et&amp;utm_campaign=google-ads"> AdMob</a> 
+      </dd> 
+     </dl> 
+    </nav> 
+    <div class="footer-lower cols-row"> 
+     <div class="footer-meta-links col-9"> 
+      <ul> 
+       <li> <a href="https://support.google.com/adwords/?hl=nl#topic=3119071">
+         <svg class="icon-footer-help" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path clip-rule="evenodd" d="M16 0C7.2 0 0 7.2 0 16c0 3 .9 5.9 2.3 8.3L0 32l7.7-2.3C10.2 31.1 13 32 16 32c8.8 0 16-7.2 16-16S24.8 0 16 0zm1.3 24.6c-.3.3-.7.5-1.2.5s-1-.2-1.2-.5c-.3-.3-.4-.7-.4-1.1 0-.2 0-.4.1-.6.1-.2.2-.4.3-.5.1-.1.3-.3.5-.3.2-.1.4-.1.7-.1.3 0 .5 0 .7.1.2.1.4.2.5.3.1.1.3.3.3.5.1.2.1.4.1.6 0 .5-.1.8-.4 1.1zm3.8-11.4c-.2.5-.4.9-.6 1.3l-.9 1.2c-.3.4-.7.8-1 1.1-.4.4-.7.9-.9 1.4-.2.5-.2.8-.3 1.8h-2.8c0-1 0-1.2.1-1.6.1-.4.2-1 .3-1.3.2-.3.4-.7.6-1 .2-.3.6-.7.9-1 .2-.3.5-.5.7-.7.2-.2.4-.5.6-.7.2-.3.3-.5.4-.8.1-.3.1-.6.1-1 0-.8-.2-1.4-.6-1.8-.4-.4-1-.6-1.7-.6-.3 0-.6.1-.9.1-.3.1-.5.2-.8.4s-.4.6-.5.8c-.1.3-.2 1.2-.2 1.2h-3c0-2 .2-1.6.4-2.2.3-.6.7-1.2 1.1-1.6.5-.4 1-.7 1.7-.9.8-.3 1.5-.4 2.2-.4.8 0 1.6.1 2.2.3.7.2 1.2.5 1.7.9s.8.9 1 1.5c.2.6.4 1.3.4 2.1 0 .6-.1 1.1-.2 1.5z" fill-rule="evenodd"></path>
+         </svg> <img alt="Help" class="icon-footer-help" height="20" src="//www.google.com/ads/images/icons/icon-footer-help.png" width="20"> Help</a> </li> 
+       <li> <a href="//www.google.nl">Google</a> </li> 
+       <li> <a href="//www.google.nl/intl/nl/policies/privacy/">Privacy</a> </li> 
+       <li> <a href="//www.google.nl/intl/nl/policies/terms/">Voorwaarden</a> </li> 
+      </ul> 
+     </div> 
+     <div class="footer-locale-switcher col-3"> 
+      <label class="visually-hidden" for="footer-locales"><span>Taal of regio wijzigen:</span></label>
+      <select class="footer-locales" id="footer-locales" onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="/intl/en/home/how-it-works/new-adwords/"> English </option> <option value="/intl/en_au/home/how-it-works/new-adwords/"> Australia – English </option> <option value="/intl/pt-BR_br/home/how-it-works/new-adwords/"> Brasil – Português (Brasil) </option> <option value="/intl/en_ca/home/how-it-works/new-adwords/"> Canada – English </option> <option value="/intl/fr_ca/home/how-it-works/new-adwords/"> Canada – Français </option> <option value="/intl/de_de/home/how-it-works/new-adwords/"> Deutschland – Deutsch </option> <option value="/intl/es_es/home/how-it-works/new-adwords/"> España – Español </option> <option value="/intl/es-419_us/home/how-it-works/new-adwords/"> Estados Unidos – Español (Latinoamérica) </option> <option value="/intl/fr_fr/home/how-it-works/new-adwords/"> France – Français </option> <option value="/intl/en_in/home/how-it-works/new-adwords/"> India – English </option> <option value="/intl/it_it/home/how-it-works/new-adwords/"> Italia – Italiano </option> <option selected value="/intl/nl_nl/home/how-it-works/new-adwords/"> Nederland – Nederlands </option> <option value="/intl/en_uk/home/how-it-works/new-adwords/"> United Kingdom – English </option> <option value="/intl/en_us/home/how-it-works/new-adwords/"> United States – English </option> <option value="/intl/ru_ru/home/how-it-works/new-adwords/"> Россия – Русский </option> <option value="/intl/ja_jp/home/how-it-works/new-adwords/"> 日本 – 日本語 </option> </select> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <script src="//www.gstatic.com/external_hosted/picturefill/picturefill.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-messages.min.js"></script> 
+  <script async data-gtmid="GTM-DJXNX" src="//www.google.com/ads/js/peitho2/peitho2.min.js"></script> 
+  <script src="../../../home/js/adwords.rs.min.js"></script> 
+  <script src="https://www.gstatic.com/brandstudio/kato/cookie_choice_component/cookie_consent_bar.js"></script> 
+  <script>
+    var cookieBarContainer = document.getElementsByClassName('cookie-bar-container')[0];
+    new google.CookieConsentBar(null, cookieBarContainer);
+    </script>  
+ </body>
+</html>

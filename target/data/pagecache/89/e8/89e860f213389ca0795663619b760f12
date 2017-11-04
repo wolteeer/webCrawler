@@ -1,0 +1,463 @@
+<!doctype html>
+<html class="google mmfb" lang="ja" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/ja/case-studies/st-columba-anglican-school/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="距離の壁を乗り越える努力を続けている当校では、コラボレーション技術を導入することで、常に世界とつながっていられるようになりました。" name="description"> 
+  <title>
+    Google for Education: Case Studies: St Columba Anglican School
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/ja/case-studies/st-columba-anglican-school/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Case Studies: St Columba Anglican School" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/ja/case-studies/st-columba-anglican-school/" property="og:url"> 
+  <meta content="/images/video-get_2x.png" property="og:image"> 
+  <meta content="距離の壁を乗り越える努力を続けている当校では、コラボレーション技術を導入することで、常に世界とつながっていられるようになりました。" property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/ja/case-studies/st-columba-anglican-school/" name="twitter:url"> 
+  <meta content="Google for Education: Case Studies: St Columba Anglican School" name="twitter:title"> 
+  <meta content="/images/video-get_2x.png" name="twitter:image"> 
+  <meta content="距離の壁を乗り越える努力を続けている当校では、コラボレーション技術を導入することで、常に世界とつながっていられるようになりました。" name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Case Studies: St Columba Anglican School" itemprop="name"> 
+  <meta content="距離の壁を乗り越える努力を続けている当校では、コラボレーション技術を導入することで、常に世界とつながっていられるようになりました。" itemprop="description"> 
+  <meta content="/images/video-get_2x.png" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Case Studies: St Columba Anglican School",
+    "description": "距離の壁を乗り越える努力を続けている当校では、コラボレーション技術を導入することで、常に世界とつながっていられるようになりました。",
+    "url": "https://edu.google.com/intl/ja/case-studies/st-columba-anglican-school/",
+    "logo": "/images/video-get_2x.png",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+  <style>
+    .hero.top.st-columba-anglican-school {
+        background-image: url("/images/case-studies/hero/st-columba.jpg");
+      }
+  </style> 
+ </head> 
+ <body class="case-study-detail ng-scope"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/ja/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Google のサービスにアクセス</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">ご希望のサービスをお選びください。</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>生産性向上ツールを入手する</h5> 
+        <p>Classroom、Google ドキュメント、ドライブ、ハングアウト、メールなどの Google の生産性向上ツールを無料でご利用いただけます。広告は表示されません。</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=ja#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">G Suite のお申し込み</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>端末を入手する</h5> 
+        <p>学校に Chromebooks や Android の端末を導入しませんか？Google のチームが導入をお手伝いします。</p> 
+        <a class="maia-button overlay-button" href="/intl/ja/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">お問い合わせ</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>教育者同士で話し合う</h5> 
+        <p>Google に移行したユーザーと話をすることもできます。教育者のコミュニティにご参加ください。</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">他の教育者を探す</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li class="active"> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/" target="_self">ホーム</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">サービス</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/devices/" target="_self">端末 <br><span class="dropdown-item-description">Chromebooks and Tablets</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/productivity-tools/" target="_self">生産性向上ツール <br><span class="dropdown-item-description">Docs, Gmail and More</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/productivity-tools/classroom/" target="_self">Classroom <br><span class="dropdown-item-description">Mission control for teachers and students</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtual reality field trips</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/more-products/" target="_self">その他のサービス <br><span class="dropdown-item-description">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">トレーニング</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=ja" target="_self">教育者トレーニング <br><span class="dropdown-item-description">Google for Education ツール</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT 管理者トレーニング <br><span class="dropdown-item-description">G Suite 管理者向け</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">パートナー ディレクトリ <br><span class="dropdown-item-description">to help your school go Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/communities/" target="_self">コミュニティ <br><span class="dropdown-item-description">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">リソース</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/programs/" target="_self">プログラム <br><span class="dropdown-item-description">for students and teachers</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/case-studies/" target="_self">導入事例 </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/computerscience/" target="_self">コンピュータ サイエンス教育 <br><span class="dropdown-item-description">Programs, Funding, and Research</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/global-education/" target="_self">グローバル教育 </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/ja/it/" target="_self">IT ガイド</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/ja/higher-education/" target="_self">高等教育</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">サービス</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/devices/" target="_self">端末 <span class="nav-subtext">Chromebooks and Tablets</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/productivity-tools/" target="_self">生産性向上ツール <span class="nav-subtext">Docs, Gmail and More</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/productivity-tools/classroom/" target="_self">Classroom <span class="nav-subtext">Mission control for teachers and students</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtual reality field trips</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/more-products/" target="_self">その他のサービス <span class="nav-subtext">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">トレーニング</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=ja" target="_self">教育者トレーニング <span class="nav-subtext">Google for Education ツール</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT 管理者トレーニング <span class="nav-subtext">G Suite 管理者向け</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">パートナー ディレクトリ <span class="nav-subtext">to help your school go Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/communities/" target="_self">コミュニティ <span class="nav-subtext">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">リソース</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/programs/" target="_self">プログラム <span class="nav-subtext">for students and teachers</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/case-studies/" target="_self">導入事例 </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/computerscience/" target="_self">コンピュータ サイエンス教育 <span class="nav-subtext">Programs, Funding, and Research</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/global-education/" target="_self">グローバル教育 </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">IT ガイド</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/it/" target="_self">IT </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/trust/" target="_self">プライバシー ページ </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">高等教育</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/higher-education/" target="_self">高等教育 </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Google のサービスにアクセス</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">ご希望のサービスをお選びください。</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>生産性向上ツールを入手する</h5> 
+         <p>Classroom、Google ドキュメント、ドライブ、ハングアウト、メールなどの Google の生産性向上ツールを無料でご利用いただけます。広告は表示されません。</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=ja#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">G Suite のお申し込み</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>端末を入手する</h5> 
+         <p>学校に Chromebooks や Android の端末を導入しませんか？Google のチームが導入をお手伝いします。</p> 
+         <a class="maia-button overlay-button" href="/intl/ja/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">お問い合わせ</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>教育者同士で話し合う</h5> 
+         <p>Google に移行したユーザーと話をすることもできます。教育者のコミュニティにご参加ください。</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">他の教育者を探す</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="hero top st-columba-anglican-school"> 
+    <div class="content"> 
+     <h2 class="title-header">聖コルンバ アングリカン スクール、生徒同士が教え合う取り組みに Google Apps for Education と Google Classroom を活用</h2> 
+    </div> 
+   </div> 
+   <div class="maia-aux content-wrap st-columba-anglican-school"> 
+    <div class="maia-cols page-container"> 
+     <div class="maia-col-7 main-wrap"> 
+      <div class="main"> 
+       <div class="quote-wrap"> 
+        <h4 class="quote">距離の壁を乗り越える努力を続けている当校では、コラボレーション技術を導入することで、常に世界とつながっていられるようになりました。</h4> 
+        <p class="quote-author">e ラーニング・教育工学担当責任者、Matt Richards 氏</p> 
+       </div> 
+       <div class="main-content-wrap"> 
+        <div class="content challenge"> 
+         <h4 class="headline">課題</h4> 
+         <p class="content-content">聖コルンバ アングリカン スクールは、地理的に不便な地域にいる生徒でもリーダーになれることを証明すべく、取り組みを進めています。その一環として「個人所有の端末の持ち込み（BYOD）」プログラムを導入した同校の IT 担当者は、生徒全員をつなぐ簡単で信頼性の高い方法を必要としていました。</p> 
+        </div> 
+        <div class="content solution"> 
+         <h4 class="headline">解決策</h4> 
+         <p class="content-content">Google Apps for Education を利用することで、使用する端末にかかわらず、生徒と教師全員が同じコンテンツにアクセスできるようになりました。また、Google Classroom によって、教師はドキュメントなどの Google Apps を使って以前より短い時間で簡単に宿題を作成できるようになりました。</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-col-4 sidebar-wrap"> 
+      <div class="detail-wrap"> 
+       <h6 class="sidebar-title">学校のプロフィール</h6> 
+       <div class="detail"> 
+        <p class="content-content">聖コルンバ アングリカン スクールはオーストラリア、ニュー サウス ウェールズ州ポートマクォーリーにあるインディペンデント スクール（指導面、財政面で独立した私立学校）です。生徒・児童数は未就園児から 12 年生まで合わせて 1,100 人、教員数は 153 人です。</p> 
+       </div> 
+       <h6 class="sidebar-title">利用サービス</h6> 
+       <div class="detail"> 
+        <p class="content-content"> <a href="/intl/ja/products/productivity-tools/classroom/" target=""> Classroom</a> - G Suite for Education スイート内のツール。このツールを使用すると、教育者は宿題や課題を簡単に作成・見直し・整理できるほか、生徒と直接コミュニケーションをとることができます。 </p> 
+        <p class="content-content"> <a href="/intl/ja/products/productivity-tools/" target=""> G Suite</a> - 場所、時間、端末を問わず利用できる、コミュニケーションとコラボレーションのための教育機関向けの無料のツールスイート（Gmail、Classroom、Google ドキュメント、Google ドライブを含む）。 </p> 
+       </div> 
+       <h6 class="link-out detail"><a href="/pdfs/case-studies/st-columba-anglican-school-case-study.pdf" target="_blank" data-g-event="Edu: Case Study: St Columba Anglican School" data-g-action="Read The Full Case Study" data-g-label="st-columba-anglican-school"><img class="link-icon" src="/images/case-studies/adobe-icon.jpg">導入事例の全文を読む</a></h6> 
+      </div> 
+     </div> 
+    </div>
+    <!-- END .page-container --> 
+   </div>
+   <!-- END .content --> 
+  </div>
+  <!-- END .content-wrap --> 
+  <div class="case-studies-bottom-container"> 
+   <div class="maia-aux case-studies-wrap"> 
+    <div class="maia-col-9 more-case-studies-wrapper"> 
+     <h2 class="case-study-mobile-header headline">導入事例をもっと見る</h2> 
+     <h5 class="case-study-mobile-header">他の学校がどのように Google に移行したかをご覧ください。</h5> 
+    </div> 
+    <div class="case-study-mobile-header">
+     <a class="maia-button small-btn" href="/intl/ja/case-studies/" data-g-event="Edu: Case Study: st-columba-anglican-school" data-g-action="See All Case Studies" data-g-label="">すべての導入事例を見る</a>
+    </div> 
+    <div class="case-study-tiles"> 
+     <div class="maia-col-4 tile"> 
+      <a href="/intl/ja/case-studies/arizona-state-university/" data-g-event="Edu: Case Study: Arizona State University" data-g-action="Case Study" data-g-label="/case-studies/arizona-state-university/"></a> 
+      <div class="tile-image arizona-state-university" style="background-image:url('/images/case-studies/thumbnail/arizona-state-university.jpg')"></div> 
+      <div class="tile-title">
+       アリゾナ州、2 週間未満で G Suite を展開
+      </div> 
+     </div> 
+     <div class="maia-col-4 tile"> 
+      <a href="/intl/ja/case-studies/bloomington-public-schools/" data-g-event="Edu: Case Study: Bloomington Public Schools" data-g-action="Case Study" data-g-label="/case-studies/bloomington-public-schools/"></a> 
+      <div class="tile-image bloomington-public-schools" style="background-image:url('/images/case-studies/thumbnail/bloomington-public-schools.jpg')"></div> 
+      <div class="tile-title">
+       ブルーミントン パブリック スクールズ、G Suite と Chromebooks の採用で学習形態を変
+      </div> 
+     </div> 
+     <div class="maia-col-4 tile"> 
+      <a href="/intl/ja/case-studies/boise-state-university/" data-g-event="Edu: Case Study: Boise State University" data-g-action="Case Study" data-g-label="/case-studies/boise-state-university/"></a> 
+      <div class="tile-image boise-state-university" style="background-image:url('/images/case-studies/thumbnail/boise-state-university.jpg')"></div> 
+      <div class="tile-title">
+       ボイシ州立大学、G Suite for Education により年間 9 万ドルを節約
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div>  
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">サービス</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/products/devices/">端末</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/products/productivity-tools/">生産性向上ツール</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/products/more-products/">その他のサービス</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">トレーニング</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=ja" target="_blank">教育者トレーニング</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">IT 管理者トレーニング</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">パートナー ディレクトリ</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/resources/communities/">コミュニティ</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">リソース</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/resources/programs/">プログラム</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/resources/computerscience/">コンピュータ サイエンス教育</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/resources/global-education/">グローバル教育</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/it/">IT</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">デベロッパー向けリソース</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/access/">アクセス</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/contact/">営業担当</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">サポート</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/partners/">パートナー プログラム</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/case-studies/">導入事例</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">学校での Chromebooks 導入例</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">ブログ</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="このサイトを検索" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/case-studies/st-columba-anglican-school/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/case-studies/st-columba-anglican-school/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/da/case-studies/st-columba-anglican-school/"> dansk (Danmark) </option><option value="/intl/en_au/case-studies/st-columba-anglican-school/"> English (Australia) </option><option value="/intl/en_ca/case-studies/st-columba-anglican-school/"> English (Canada) </option><option value="/intl/en_in/case-studies/st-columba-anglican-school/"> English (India) </option><option value="/intl/en_nz/case-studies/st-columba-anglican-school/"> English (New Zealand) </option><option value="/intl/en_uk/case-studies/st-columba-anglican-school/"> English (United Kingdom) </option><option value="/case-studies/st-columba-anglican-school/"> English (United States) </option><option value="/intl/es-419_mx/case-studies/st-columba-anglican-school/"> español (México) </option><option value="/intl/es-419/case-studies/st-columba-anglican-school/"> español (Latinoamérica) </option><option value="/intl/fi/case-studies/st-columba-anglican-school/"> suomi (Suomi) </option><option value="/intl/fr_be/case-studies/st-columba-anglican-school/"> français (Belgique) </option><option value="/intl/id/case-studies/st-columba-anglican-school/"> Indonesia (Indonesia) </option><option selected value="/intl/ja/case-studies/st-columba-anglican-school/"> 日本語 (日本) </option><option value="/intl/ms/case-studies/st-columba-anglican-school/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/case-studies/st-columba-anglican-school/"> Nederlands (Nederland) </option><option value="/intl/no/case-studies/st-columba-anglican-school/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/case-studies/st-columba-anglican-school/"> português (Brasil) </option><option value="/intl/sv/case-studies/st-columba-anglican-school/"> svenska (Sverige) </option><option value="/intl/th/case-studies/st-columba-anglican-school/"> ไทย (ไทย) </option><option value="/intl/tr/case-studies/st-columba-anglican-school/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/ja/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/ja/policies/privacy/">プライバシー</a> </li> 
+      <li> <a href="https://www.google.com/intl/ja/policies/terms/">利用規約</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script>  
+ </body>
+</html>

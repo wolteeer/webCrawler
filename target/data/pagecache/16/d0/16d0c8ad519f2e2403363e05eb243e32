@@ -1,0 +1,963 @@
+<!doctype html>
+<html class="google mmfb" lang="pt" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/pt-BR/access/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="Nos últimos anos, muitas escolas inovadoras começaram a adotar tecnologias educacionais. Mesmo que sua organização esteja pronta para fazer uma transição como essa, nem sempre é possível saber por onde começar. Sem uma visão clara e recomendações precisas, a transição pode ser demorada e dispendiosa." name="description"> 
+  <title>
+    Google for Education: Como adotar o ensino on-line
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/pt-BR/access/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Como adotar o ensino on-line" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/pt-BR/access/" property="og:url"> 
+  <meta content="" property="og:image"> 
+  <meta content="Nos últimos anos, muitas escolas inovadoras começaram a adotar tecnologias educacionais. Mesmo que sua organização esteja pronta para fazer uma transição como essa, nem sempre é possível saber por onde começar. Sem uma visão clara e recomendações precisas, a transição pode ser demorada e dispendiosa." property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/pt-BR/access/" name="twitter:url"> 
+  <meta content="Google for Education: Como adotar o ensino on-line" name="twitter:title"> 
+  <meta content="" name="twitter:image"> 
+  <meta content="Nos últimos anos, muitas escolas inovadoras começaram a adotar tecnologias educacionais. Mesmo que sua organização esteja pronta para fazer uma transição como essa, nem sempre é possível saber por onde começar. Sem uma visão clara e recomendações precisas, a transição pode ser demorada e dispendiosa." name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Como adotar o ensino on-line" itemprop="name"> 
+  <meta content="Nos últimos anos, muitas escolas inovadoras começaram a adotar tecnologias educacionais. Mesmo que sua organização esteja pronta para fazer uma transição como essa, nem sempre é possível saber por onde começar. Sem uma visão clara e recomendações precisas, a transição pode ser demorada e dispendiosa." itemprop="description"> 
+  <meta content="" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Como adotar o ensino on-line",
+    "description": "Nos últimos anos, muitas escolas inovadoras começaram a adotar tecnologias educacionais. Mesmo que sua organização esteja pronta para fazer uma transição como essa, nem sempre é possível saber por onde começar. Sem uma visão clara e recomendações precisas, a transição pode ser demorada e dispendiosa.",
+    "url": "https://edu.google.com/intl/pt-BR/access/",
+    "logo": "",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+  <link href="/css/access.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="access"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/pt-BR/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-help-desktop" class="maia-button expert-desktop nl" data-g-event="Edu: Global Header" data-g-action="Talk to an Expert" data-g-label="Header" href="/intl/pt-BR/contact/">Entre em contato com um especialista</a>
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Usar os produtos do Google</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">Como podemos ajudar você?</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>Ferramentas de produtividade</h5> 
+        <p>Tenha acesso às ferramentas de produtividade do Google: Google Sala de aula, Documentos Google, Google Drive, Hangouts, e-mail e muito mais incluídos gratuitamente e sem anúncios.</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=pt#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Inscrever-se no G Suite</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Adquira dispositivos</h5> 
+        <p>Está interessado em adquirir Chromebooks ou dispositivos Android para sua escola? Nossa equipe pode ajudar você a encontrar o caminho mais adequado.</p> 
+        <a class="maia-button overlay-button" href="/intl/pt-BR/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Entre em contato com um especialista</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Converse com outros professores</h5> 
+        <p>Quer conversar com pessoas como você que mudaram para o Google? Tenha acesso a nossa comunidade de professores.</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Encontre outros professores</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li class="active"> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/" target="_self">Início</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">Produtos</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/devices/" target="_self">Dispositivos <br><span class="dropdown-item-description">Chromebooks and Tablets</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/productivity-tools/" target="_self">Ferramentas de produtividade <br><span class="dropdown-item-description">Docs, Gmail and More</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/productivity-tools/classroom/" target="_self">Google Sala de aula <br><span class="dropdown-item-description">Mission control for teachers and students</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtual reality field trips</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/more-products/" target="_self">Mais produtos <br><span class="dropdown-item-description">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">Treinamento</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=pt_BR" target="_self">Treinamento para professores <br><span class="dropdown-item-description">sobre as ferramentas do Google for Education</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">Treinamento para administradores de TI <br><span class="dropdown-item-description">para administradores do G Suite</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Diretório de parceiros <br><span class="dropdown-item-description">to help your school go Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/communities/" target="_self">Comunidades <br><span class="dropdown-item-description">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">Recursos</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/programs/" target="_self">Programas <br><span class="dropdown-item-description">for students and teachers</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/case-studies/" target="_self">Estudos de caso </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/computerscience/" target="_self">Ciência da computação <br><span class="dropdown-item-description">Programs, Funding, and Research</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/global-education/" target="_self">Educação global </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/pt-BR/it/" target="_self">Guia de TI</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/pt-BR/higher-education/" target="_self">Ensino superior</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Produtos</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/devices/" target="_self">Dispositivos <span class="nav-subtext">Chromebooks and Tablets</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/productivity-tools/" target="_self">Ferramentas de produtividade <span class="nav-subtext">Docs, Gmail and More</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/productivity-tools/classroom/" target="_self">Google Sala de aula <span class="nav-subtext">Mission control for teachers and students</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtual reality field trips</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/more-products/" target="_self">Mais produtos <span class="nav-subtext">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Treinamento</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=pt_BR" target="_self">Treinamento para professores <span class="nav-subtext">sobre as ferramentas do Google for Education</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">Treinamento para administradores de TI <span class="nav-subtext">para administradores do G Suite</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Diretório de parceiros <span class="nav-subtext">to help your school go Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/communities/" target="_self">Comunidades <span class="nav-subtext">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Recursos</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/programs/" target="_self">Programas <span class="nav-subtext">for students and teachers</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/case-studies/" target="_self">Estudos de caso </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/computerscience/" target="_self">Ciência da computação <span class="nav-subtext">Programs, Funding, and Research</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/global-education/" target="_self">Educação global </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Guia de TI</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/it/" target="_self">TI </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/trust/" target="_self">Páginas de privacidade </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Ensino superior</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/higher-education/" target="_self">Ensino superior </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-help-desktop" class="gray-btn talk-to-an-expert-mobile nl" data-g-event="Edu: Global Header" data-g-action="Talk to an Expert" data-g-label="Header" href="/intl/pt-BR/contact/">Entre em contato com um especialista</a> </h4>
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Usar os produtos do Google</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">Como podemos ajudar você?</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>Ferramentas de produtividade</h5> 
+         <p>Tenha acesso às ferramentas de produtividade do Google: Google Sala de aula, Documentos Google, Google Drive, Hangouts, e-mail e muito mais incluídos gratuitamente e sem anúncios.</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=pt#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Inscrever-se no G Suite</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Adquira dispositivos</h5> 
+         <p>Está interessado em adquirir Chromebooks ou dispositivos Android para sua escola? Nossa equipe pode ajudar você a encontrar o caminho mais adequado.</p> 
+         <a class="maia-button overlay-button" href="/intl/pt-BR/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Entre em contato com um especialista</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Converse com outros professores</h5> 
+         <p>Quer conversar com pessoas como você que mudaram para o Google? Tenha acesso a nossa comunidade de professores.</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Encontre outros professores</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div id="guide-main" class="guide-essentials guide-overview"> 
+    <div class="guide-banner-contain" role="banner"> 
+     <div class="guide-contain guide-banner"> 
+      <h1>Como adotar o ensino on-line</h1> 
+      <p>Um guia para utilizar a tecnologia nas escolas</p> 
+     </div> 
+    </div> 
+    <div class="guide-contain wrapper"> 
+     <div class="guide-body guide-contain"> 
+      <div class="desktop"> 
+       <div class="gweb-tabset gweb-tabset-y" id="my-tabset-id"> 
+        <div class="gweb-tabset-nav guide-sidebar"> 
+         <ul> 
+          <li><a href="#overview" data-g-event="Edu: Guide" data-g-action="Overview" data-g-label="Left Nav">Visão geral</a></li> 
+          <li><a href="#tab=define-your-goals" data-g-event="Edu: Guide" data-g-action="Define your goals" data-g-label="Left Nav">Define your goals</a></li> 
+          <li><a href="#tab=invest-in-access" data-g-event="Edu: Guide" data-g-action="Invest in access" data-g-label="Left Nav">Invest in access</a></li> 
+          <li><a href="#tab=build-your-team" data-g-event="Edu: Guide" data-g-action="Build your team" data-g-label="Left Nav">Build your team</a></li> 
+          <li><a href="#tab=offer-web-tools" data-g-event="Edu: Guide" data-g-action="Offer web tools" data-g-label="Left Nav">Offer web tools</a></li> 
+          <li><a href="#tab=manage-change" data-g-event="Edu: Guide" data-g-action="Manage change" data-g-label="Left Nav">Manage change</a></li> 
+         </ul> 
+        </div> 
+        <div class="gweb-tabset-contents"> 
+         <div class="gweb-tabset-content" id="overview"> 
+          <p>In recent years many innovative schools have begun a shift toward the use of educational technology. Even though your institution may be ready to make a similar transition, it’s not always clear where to start. Without a clear vision and wise counsel, such a shift can be time-consuming as well as costly.</p> 
+          <p>In this guide you’ll find a simple, 5-step approach to deploying a digital education solution – from defining your preliminary goals to fully implementing your online education platform.</p> 
+          <div class="sub-contain"> 
+           <div class="sub-wrapper"> 
+            <div class="guide-overview-left"> 
+             <h2>Define your goals</h2> 
+             <p>Discover what web-enabled education means for you.</p> 
+             <a href="#tab=define-your-goals" data-g-event="Edu: Guide" data-g-action="Define your goals" data-g-label="Read More">Mais informações</a> 
+            </div> 
+            <div class="define-your-goals-bg guide-overview-right"></div> 
+           </div> 
+           <div class="sub-wrapper"> 
+            <div class="guide-overview-left"> 
+             <h2>Invest in access</h2> 
+             <p>Get proper internet connectivity, and learn how to scale and optimize it.</p> 
+             <a href="#tab=invest-in-access" data-g-event="Edu: Guide" data-g-action="Invest in access" data-g-label="Read More">Mais informações</a> 
+            </div> 
+            <div class="invest-in-access-bg guide-overview-right"></div> 
+           </div> 
+           <div class="sub-wrapper"> 
+            <div class="guide-overview-left"> 
+             <h2>Build your team</h2> 
+             <p>Find the right people to make it happen.</p> 
+             <a href="#tab=build-your-team" data-g-event="Edu: Guide" data-g-action="Build your team" data-g-label="Read More">Mais informações</a> 
+            </div> 
+            <div class="build-your-team-bg guide-overview-right"></div> 
+           </div> 
+           <div class="sub-wrapper"> 
+            <div class="guide-overview-left"> 
+             <h2>Offer web tools</h2> 
+             <p>Customize and deploy education tools for students, staff, and teachers.</p> 
+             <a href="#tab=offer-web-tools" data-g-event="Edu: Guide" data-g-action="Offer web tools" data-g-label="Read More">Mais informações</a> 
+            </div> 
+            <div class="offer-web-tools-bg guide-overview-right"></div> 
+           </div> 
+           <div class="sub-wrapper"> 
+            <div class="guide-overview-left"> 
+             <h2>Manage change</h2> 
+             <p>Develop skills, spread the word, and monitor progress for continued improvements.</p> 
+             <a href="#tab=manage-change" data-g-event="Edu: Guide" data-g-action="Manage change" data-g-label="Read More">Mais informações</a> 
+            </div> 
+            <div class="manage-change-bg guide-overview-right"></div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="gweb-tabset-content" id="define-your-goals"> 
+          <h1>Define your goals</h1> 
+          <div class="sub-content-wrapper"> 
+           <h2>Entenda o que sua escola espera atingir com a educação on-line</h2> 
+           <p>Os educadores que conduziram mudanças tecnológicas bem-sucedidas costumam repetir o mesmo mantra: “comece pela aprendizagem”. Depois que você estabelecer metas claras, sua escola poderá selecionar as soluções tecnológicas que aumentarão a probabilidade de sucesso. Por exemplo, seu foco é elevar notas e pontuações em provas? Ou aumentar o envolvimento dos alunos, dentro e fora da escola? Visite outras instituições que sejam referências para você. Reserve um tempo para entender as metas dessas instituições e como elas chagaram lá.</p> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Mapeie as necessidades de TI e considere o uso de tecnologias abertas</h2> 
+           <p>Depois que você entender suas metas educacionais, mapeie os processos necessários e os requisitos tecnológicos. Ao mapear as necessidades de TI, considere o uso de tecnologias abertas para atingir metas. O acesso constante e estável à Web pode ajudar a tornar o ensino e a aprendizagem muito mais acessíveis e colaborativos. Uma plataforma de aprendizagem aberta e baseada na Web difere das plataformas fechadas tradicionais porque é:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Open </strong><br> Educational resources can easily be published, curated and shared by educators worldwide. This means access to the best content for everyone, on multiple devices. </li> 
+             <li><strong> Cost-effective </strong><br> High-quality resources are available globally and at the lowest costs. </li> 
+             <li><strong> Collaborative </strong><br> Your students, teachers, parents – and even “digital pen pals” – will be engaged by and enjoy new opportunities to learn from each other. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Converse com as partes interessadas sobre os requisitos técnicos e as possíveis soluções</h2> 
+           <p>É importante identificar quem influencia, formal e informalmente, a decisão de aprimorar a educação em sua instituição por meio do uso da tecnologia. Talvez seja uma boa ideia se reunir com o diretor da instituição e com o gerente de TI e qualquer liderança executiva para discutir a visão e as ofertas. Agende reuniões de acompanhamento conforme necessário para assegurar o compromisso. Durante as reuniões, é útil distribuir estes recursos, que foram desenvolvidos para ajudar as partes interessadas a entender a solução baseada na nuvem do Google for Education:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> <a data-g-event="Edu: Guide: Define" data-g-action="Text Link" data-g-label="Briefing" href="/pdfs/guide/briefing.pdf" target="_blank">Briefing sheet</a> </strong><br> The sheet offers a printable overview of getting education online.</li>  
+             <li><strong> <a data-g-event="Edu: Guide: Define" data-g-action="Text Link" data-g-label="Case Studies" href="/intl/pt-BR/case-studies/" target="_blank">Case studies</a> </strong><br> Highlight the impact Google for Education has made for schools in your region. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Determine os recursos e os sistemas atuais da sua escola</h2> 
+           <p>Qual é a situação atual de sua escola em relação à possibilidade de usar recursos on-line? Antes de seguir adiante, você precisa ter uma visão clara dos seguintes pontos:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Technical readiness </strong><br> <a data-g-event="Edu: Guide: Define" data-g-action="Text Link" data-g-label="School Engagement Due Dilligence" href="/pdfs/guide/school-engagement-due-diligence-form.pdf" target="_blank">The school engagement due diligence form</a> is a questionnaire that will help you assess the current status of your school’s Internet access. This document captures the decision-making process, information about all of your users, the status of your existing infrastructure, and your future plans for infrastructure augmentation. </li> 
+             <li><strong> Staff readiness </strong><br> Are your teachers excited about improving learning with technology and access? <a data-g-event="Edu: Guide: Define" data-g-action="Text Link" data-g-label="Hopes And Fears" href="/pdfs/guide/hopes-and-fears-protocol.pdf" target="_blank">This Hopes and Fears activity</a> from Richland Two School District is a good model for a survey you could send to your staff to gauge how they are feeling, and whether they foresee any challenges with the deployment of a technology solution. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Entenda o trabalho exigido</h2> 
+           <p>Uma coisa é dizer que você está pronto para fazer a migração para uma solução educacional on-line, outra é fazer a migração. Você encontrará diversos recursos e atalhos úteis para uma migração bem-sucedida por meio do uso de:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> <a data-g-event="Edu: Guide: Define" data-g-action="Text Link" data-g-label="Project Plan Samples" href="/pdfs/guide/project-plan-samples.pdf" target="_blank">Project plan samples</a> </strong><br> These templates will help you define, plan, and manage your digital transformation, from start to finish. </li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="gweb-tabset-content" id="invest-in-access"> 
+          <h1>Invest in access</h1> 
+          <div class="sub-content-wrapper"> 
+           <p> The most exciting, leading-edge technologies will falter if your school lacks sufficient power under the hood. Is your institution ready to support a 21st-century teaching and learning environment?<br><br><br>This section provides guidance on building a campus-wide Internet infrastructure that will support cloud-based services and other applications. For more details, refer to the <a data-g-action="Text Link" data-g-event="Edu: Guide: Invest" data-g-label="Edu Access Infrastructure Guide" href="/pdfs/guide/edu-access-infrastructure-guide.pdf" target="_blank">Google for Education – access infrastructure guide</a>; here you can learn about the elements of access that need to be considered, the standards required to create a functional network, and simple steps to follow when deploying your new infrastructure.</p> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Entenda suas necessidades de infraestrutura</h2> 
+           <p> To assess your needs, it’s helpful to first complete the <a data-g-action="Text Link" data-g-event="Edu: Guide: Invest" data-g-label="School Engagement Due Dilligence" href="/pdfs/guide/school-engagement-due-diligence-form.pdf" target="_blank">school engagement due diligence form</a> As you’re doing so, carefully consider:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li> Descubra as <a data-g-action="Text Link" data-g-event="Edu: Guide: Invest" data-g-label="NRENS" href="http://en.wikipedia.org/wiki/National_research_and_education_network" target="_blank">redes educacionais disponíveis em seu país</a>. </li> 
+             <li> Consulte seus parceiros para selecionar as tecnologias e os equipamentos mais adequados às necessidades. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Faça upgrade da conectividade com a Internet para aprimorar a experiência na Web</h2> 
+           <p>O gerenciamento aprimorado da rede da escola pode criar uma experiência melhor para todos os usuários. Um parceiro de acesso ajuda a otimizar a infraestrutura da escola por meio dos seguintes serviços:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Bandwidth management </strong><br> Depending on your needs and network capacity, you can set caps and rules to allocate the best levels for students and teachers (e.g., to allow for email capability, video streaming, or live classroom collaboration).<br><br>To determine the minimum bandwidth needed, refer to the <a href="/pdfs/guide/edu-access-infrastructure-guide.pdf" target="_blank">Education – access infrastructure guide</a> </li> 
+             <li><strong> Network access and control </strong><br> As much as possible, endeavor to balance a strong method of authentication setting that protects the network with a convenient, user-friendly interface to get online.<br><br>Review (and remove) any potential restrictions to the physical access of your computer labs, thereby ensuring that your school can offer an optimal experience to students and teachers alike. </li> 
+             <li><strong> Network monitoring </strong><br> Freeware tools, such as Cacti and SmokePing MRTG, can be used for network visibility, and to notify your IT admins if problems arise with any networking equipment. This will ensure a quality experience for all users. Implement LAN and WiFi solutions to promote online learning anytime, anywhere </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Implemente soluções de LAN e Wi-Fi para promover o ensino on-line a qualquer hora e em qualquer lugar</h2> 
+           <p> Use o <a href="/pdfs/guide/edu-access-infrastructure-guide.pdf" target="_blank">Google for Education: guia da infraestrutura de acesso</a> para determinar a melhor solução de rede para sua escola (LAN cabeada ou Wi-Fi) e avaliar as necessidades de largura de banda. Em seguida, gerencie o investimento em largura de banda com o software e a infraestrutura de gerenciamento de rede adequados, como servidores proxy e em cache.</p> 
+          </div> 
+         </div> 
+         <div class="gweb-tabset-content" id="build-your-team"> 
+          <h1>Build your team</h1> 
+          <div class="sub-content-wrapper"> 
+           <p>A adoção de recursos educacionais on-line exigirá uma equipe dedicada em sua escola. Quais são os melhores candidatos? Quem trará motivação e conhecimentos específicos para a empreitada? Veja a seguir um atalho para encontrar a "equipe dos sonhos".</p> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Create an internal support team</h2> 
+           <p>Este grupo fornecerá orientações e viabilizará o sucesso da solução após a implantação.</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> The decision maker </strong><br> The decision maker provides high-level support, guidance, and sign-off on key decisions and major purchases for your school. This is typically your IT director, your school’s president, or the leader of a sponsoring institution. </li> 
+             <li><strong> The budget holder </strong><br> The budget holder is an internal or external financial sponsor of the project. </li> 
+             <li><strong> Administradores </strong><br> Administrators are typically members of your school’s ICT department, and are responsible for managing your solution once it’s been deployed. </li> 
+             <li><strong> Advocates </strong><br> Advocates will mostly be your teachers and staff, but may include some students. They will own the process of helping new users adopt the solution, and integrate it into their daily activities. Advocates also will be responsible for conducting user training. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Monte uma equipe de implantação:</h2> 
+           <p>The deployment team provides technical expertise, and will drive the implementation of your solution. Many schools have successfully recruited a mix of internal staff and external partners to assist with everything from conducting the initial evaluation to setting up and managing the transition.<br><br>At a number of schools, the following deployment team structure has proved successful:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Project Manager </strong><br> Project Manager manages the stakeholders and oversees the project from start to finish. </li> 
+             <li><strong> Change Manager </strong><br> Change Manager drives adoption within the organization. </li> 
+             <li><strong> Access Partners </strong><br> Access Partners install or upgrade infrastructure to provide Internet access for schools, and help manage their bandwidth and WiFi efficiently. They also provide LAN and WiFi expertise to help clients get the most from their wireless networks. Access partners may include ISPs when schools need a “last-mile” bandwidth setup. </li> 
+             <li><strong> Tools Partners </strong><br> Tools Partners help schools with the deployment of web tools. Apps deployment specialists – typically experienced IT service companies – assist with the initial diagnostic evaluation, manage the setup of Apps and the transition process, and then provide ongoing support. </li> 
+             <li><strong> Skills Partners </strong><br> Skills Partners provide training in online skills and Google for Education tools. Additionally, they develop a customized professional development plan to meet your school’s needs. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <p>É igualmente importante (e muitas vezes mais difícil) identificar os parceiros externos adequados. Para assegurar que você terá a colaboração de parceiros que oferecem a combinação ideal de habilidades e consideram os interesses de sua escola, é preciso:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Understand the skills and qualifications you need for your deployment team </strong><br> <a data-g-action="Text Link" data-g-event="Edu: Guide: Build" data-g-label="Guide To Onboarding Partners" href="/pdfs/guide/guide-to-recruiting-partners.pdf" target="_blank">Guide to onboarding partners</a> – Here you’ll find helpful tips on how to bring Google for Education partners onboard. </li> 
+             <li><strong> Carefully assess the capabilities of potential candidates </strong><br> <a data-g-action="Text Link" data-g-event="Ede: Guide: Build" data-g-label="Partner Criteria" href="/pdfs/guide/partner-criteria-assessment-form.pdf" target="_blank">Partner criteria assessment form template</a> – You can use this sample form to determine if your prospective partner has the capabilities needed to provide your solution. </li> 
+             <li><strong> Sign off on the specific services the partner will provide </strong><br> <a data-g-action="Text Link" data-g-event="Edu: Guide: Build" data-g-label="Sample SOW" href="/pdfs/guide/sample-deployment-service.pdf" target="_blank">Sample SOW for G Suite deployment services</a> – This sample Statement of Work clearly defines the scope of work, and what your expectations are for your partners. </li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="gweb-tabset-content" id="offer-web-tools"> 
+          <h1>Offer web tools</h1> 
+          <div class="sub-content-wrapper"> 
+           <p>Today’s students are increasingly showing a preference for an always-on, always connected environment for work and play. Ideally, your delivery of educational content should reflect that growing preference, with an engaging, digital curriculum.<br><br>Your new web tools should be directly relevant to each user’s needs, and practical (as well as hassle-free) for them to employ. The tools should also align with the school’s core processes and existing systems. By working with teachers and staff, including the ICT director, you can address some of your school’s challenges – including the need to perform time-consuming administrative tasks, and grade tests and papers by hand – and show how they can be overcome with automated, efficient web tools.<br><br>In many countries, a wide range of local content and resources are already available to universities and schools. By leveraging these web-enabled instructional tools, you can reduce IT costs, help overcome physical barriers to education, and better engage all of your students.</p> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Descubra o potencial da aprendizagem baseada na Web</h2> 
+           <p>Algumas considerações durante a implantação:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Deploy web tools in phases </strong><br> You don’t have to dive into the deep end immediately; it’s easiest (and wisest) to plan your digital deployment in smaller, more manageable steps. For more information, refer to the <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Technical Transition Guide" href="/pdfs/guide/gapps-transition-guide.pdf" target="_blank">technical transition guide</a> </li> 
+             <li><strong> Set up a portal for distributing accounts/password </strong><br> The distribution of accounts/passwords should be automated and seamless. Many schools create a portal where users can quickly and easily sign up for an Apps account and receive a temporary password. </li> 
+             <li><strong> Develop an automated password reset policy </strong><br> Users – especially overworked, stressed-out students – can (and do) forget their passwords. The simplest solution is to have all users provide a password recovery email and phone number during the initial activation of their account, so that password reset requests need not be directed to a helpdesk. You can further reduce your helpdesk’s workload by routing the password retrieval process through the portal set up to distribute accounts and passwords (described above). </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <p>More and more schools are enabling web-based learning through G Suite. Here are a few case studies highlighting the challenges several schools have faced recently, as well as some of the benefits they have enjoyed:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li> In Bangkok, Thailand, Mattayomwatnairong Schools adopted G Suite for Education to enable web-based learning for their K-12 students. As a result, students were able to continue their education with fewer disruptions, even when schools were closed during such crisis situations as floods or protests. <a class="lb" data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Watch Video" data-lightbox-height="340" data-lightbox-width="550" href="https://www.youtube.com/watch?v=dsuZNUMkdkw&amp;autoplay=1" target="_blank" data-lightbox-index="0">Watch video</a> </li> 
+             <li> The Municipality of Vicente López (MVL) is a school district in Buenos Aires, Argentina that provides educational instruction to more than 3,600 students. Prior to adopting a web-based solution, access to content was restricted to on-site computer labs. But now with G Suite, students and teachers can access content anywhere, on any device, enabling them to become active content consumers (and producers). The improved quality of instructional content – combined with more channels for collaboration – engages students, facilitates self-directed study, and makes students more receptive to feedback from their teachers and classmates. <a class="lb" data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Watch Video" data-lightbox-height="340" data-lightbox-width="550" href="https://www.youtube.com/watch?v=2seSSimGr6U&amp;autoplay=1" target="_blank" data-lightbox-index="1">Watch video</a> </li> 
+             <li> At India’s Birla Institute of Technology and Science (BITS) in Pilani, administrators observed several immediate benefits following the university-wide deployment of G Suite. Their old server had limited storage capacity, which frequently caused emails to bounce back and made communication difficult. But post-deployment of Apps, the university’s enhanced storage capabilities enabled increased academic collaboration while delivering savings in both capital and operational expenditures. University users – especially off-campus students – have benefited from using Apps to facilitate collaboration, particularly the tools that allow them to share video files, record lectures, and present slides. <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Read Case Study" href="/pdfs/guide/bits-pilani.pdf" target="_blank">Read case study (PDF)</a> </li> 
+             <li> Petra Christian University in Indonesia reduced time and money spent on valuable IT resources with a stable communication platform: G Suite. Their legacy server-based systems had been costly, insecure, and unstable. With every power outage, the on-premise mail servers crashed and required excessive maintenance. Now these resources are deployed by developing internal apps that will continue to improve education at Petra. <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Read Case Study" href="/pdfs/guide/petra-christian-university.pdf" target="_blank">Read case study (PDF)</a> </li> 
+            </ul> 
+            <p> For more information on deploying G Suite for Education, refer to the <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Deployment Guide" href="/pdfs/guide/google-apps-for-education-deployment-guide.pdf" target="_blank">G Suite for Education deployment guide</a> – a step-by-step outline for completing the technical aspects of your deployment. This guide also includes relevant help-center articles and videos.</p> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Integre sua solução</h2> 
+           <p> It’s not enough to simply deploy web-based tools. You must make sure they are relevant by integrating them with your school’s day-to-day activities, as well as your third-party software and existing legacy systems. Use Section B of the <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="School Engagement Due Dilligence" href="/pdfs/guide/school-engagement-due-diligence-form.pdf" target="_blank">school engagement due diligence form</a> to help identify core processes to integrate. We recommend connecting G Suite to a Single Sign-On server, so that users can access all internal tools with a single username and password. Many schools also integrate G Suite with learning platforms such as Moodle and Blackbird. For more details, refer to <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="G Suite Integration" href="/pdfs/guide/google-apps-integration-with-third-party-systems.pdf" target="_blank">G Suite integration with third-party systems</a>.<br><br>These universities have successfully integrated G Suite for Education into their existing educational systems and processes:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li> Université Cadi Ayyad, Morocco, deployed G Suite accounts as their main authentication platform. Students and staff use their Google accounts to access the Internet over the university WiFi. They also use their accounts to access the university intranet, which was built using Google sites and G Suite scripts. Now students can easily access course material, request transcripts, receive their grades, and log onto the university’s eLearning platform. </li> 
+             <li> A Jomo Kenyatta University of Agriculture and Technology (JKUAT), no Quênia, transformou os serviços usando o Google Mail, o Google Agenda e o Google Drive para postar grades de horário, materiais de cursos, tutoriais e pesquisas. A universidade também gerenciou as solicitações e autorizações de usuários por meio do Formulários Google. <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Read Case Study" href="/pdfs/guide/jkuat.pdf" target="_blank">Leia o estudo de caso (PDF)</a> </li> 
+             <li> A Ladoke Akintola University of Technology, da Nigéria, simplificou com o Google Apps todas as tarefas administrativas, incluindo a folha de pagamento, a inscrição em cursos e a entrega de resultados de testes. Além disso, a universidade fez a transição para um modelo de “administração sem papel” no qual todas as operações, atividades e documentações são completamente digitais. A integração do Google Apps também viabilizou o ensino on-line. <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Read Case Study" href="/pdfs/guide/lautech.pdf" target="_blank">Leia o estudo de caso (PDF)</a> </li> 
+            </ul> 
+            <p> Our <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Process Integration" href="/pdfs/guide/process-integration-with-google-apps-for-education.pdf" target="_blank">process integration with G Suite for Education</a> document outlines other ways in which Apps have been used successfully. For custom integration of your solution with our APIs, please visit the <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Developers Apps Platform" href="https://developers.google.com/google-apps/" target="_blank">G Suite API website.</a></p> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="gweb-tabset-content" id="manage-change"> 
+          <h1>Manage change</h1> 
+          <div class="sub-content-wrapper"> 
+           <h2>Desenvolva habilidades</h2> 
+           <p>A migração de conteúdo para a Web não é responsabilidade exclusiva de sua equipe de TI. Todas as partes interessadas devem saber utilizar as ferramentas digitais para viabilizar a migração.</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Administradores </strong><br> Administrators should be actively involved in the initial setup of the web tools, so they’ll have the ability to troubleshoot any problems that may arise. Once the solution has been deployed, this group should receive training on provisioning and managing accounts. Visit the <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="G Suite Help Center" href="https://support.google.com/a/#topic=29157" target="_blank">G Suite Support Site</a> for more details. </li> 
+             <li><strong> Users/trainers </strong><br> Users/Trainers will build excitement by demonstrating how the products can be used (and the advantages of doing so). As dedicated trainers, they will drive the adoption of the new solution. Check out the <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="G Suite Help Center" href="/training/" target="_self">Google for Education Learning Center</a> for training resources. </li> 
+             <li><strong> All other constituents </strong><br> All Other Constituents can be ready to offer training on basic web skills as needed with <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Google Web Academy" href="http://www.webacademy.com/splash/" target="_blank">Google Web Academy</a>, a program that provides educational resources and certifications to students and professionals. </li> 
+            </ul> 
+            <p> Para encontrar um instrutor certificado para treinamentos presenciais, acesse o <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Education Trainer Directory" href="http://edudirectory.withgoogle.com/" target="_blank">Diretório de instrutores do Google for Education</a> (em inglês). Para saber como se tornar um Instrutor certificado pelo Google e/ou um Instrutor do Google for Education, acesse a <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Learning Center" href="/training/" target="_self">Central de aprendizagem</a>.</p> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Divulgue a notícia</h2> 
+           <p>Success breeds success – and your school’s will continue to inspire your faculty and staff, as well as other teams at other schools. Don’t be shy about sharing what worked (and what didn’t).<br><br>Here’s how innovative schools have promoted their move to a cloud-based education:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Hosting a rollout event </strong><br> Many schools that launched G Suite for Education have hosted a “Go Google” event. Designed to encourage student sign-ups and continued use, the itinerary consists of discussions highlighting why the school decided to go Google, and the benefits the school expects to see post-transition.<br><br>To get you started, here’s a <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Sample Schedule" href="/pdfs/guide/google-day-program.pdf" target="_blank">sample schedule of an event</a>. </li> 
+             <li> Promovendo a mudança por meio dos vários canais de comunicação da escola, como comunicados à imprensa e e-mails de divulgação. </li> 
+            </ul> 
+            <p> Acesse o <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Change Management Guide" href="/pdfs/guide/change-management-guide-public.pdf" target="_blank">guia de gerenciamento da mudança</a> para ver modelos de logotipos e comunicados que ajudam a promover o Google no campus e em toda a comunidade.</p> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Gerencie a solução</h2> 
+           <p>Parabéns! Você iniciou a mudança para um ambiente educacional on-line... um grande feito. Mas você ainda tem um desafio significativo pela frente: assegurar que o caminho traçado seja claro e acessível para todos. Para continuar viabilizando o ensino e a aprendizagem dinâmicos:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Identifique novas formas de integrar ferramentas baseadas na Web aos sistemas da escola para manter a motivação e ampliar os benefícios: </strong><br> 
+              <ul> 
+               <li>Personalize indicadores-chave de desempenho de acordo com os requisitos e os objetivos específicos de sua escola</li> 
+               <li>Monitore o uso continuamente</li> 
+               <li>Conduza treinamentos on-line para membros da equipe de TI, funcionários, professores e alunos</li> 
+               <li>Certifique-se de que os usuários possam encontrar e rastrear conteúdos locais</li> 
+              </ul> </li> 
+             <li><strong> Crie comunidades e fóruns para usuários para permitir a aprendizagem conjunta e a troca de conhecimentos: </strong><br> 
+              <ul> 
+               <li>Realize eventos comunitários presenciais para que escolas da vizinhança, pais e outras pessoas entendam os benefícios da educação baseada na Web e adquiram algumas habilidades básicas.</li> 
+               <li>Crie fóruns on-line para compartilhamento e discussões.</li> 
+               <li> Identifique canais e recursos da comunidade para aumentar a adoção da ferramenta da Web e expandir a comunidade do Google for Education. Saiba mais sobre os programas para a comunidade do Google for Education em: <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Community Programs" href="/intl/pt-BR/resources/programs/" target="_blank"> edu.google.com/resources/programs/</a></li> 
+              </ul> </li> 
+             <li><strong> Monitore o desempenho para assegurar o sucesso a longo prazo: </strong><br> 
+              <ul> 
+               <li>Para aumentar a frequência de uso, determine o percentual de usuários ativos.</li> 
+               <li> For G Suite, look at the total number of Apps licenses vs. the number of 30-day active Apps licenses. An analysis is available on the “user behavior reports” of the <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Apps Usage Activity" href="https://support.google.com/a/answer/1645537" target="_blank">admin console dashboard</a>.</li> 
+               <li>Avalie cuidadosamente o impacto das ferramentas on-line nos resultados de provas e no sucesso acadêmico como um todo. E, mais uma vez, divulgue as vantagens.</li> 
+              </ul> </li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="mobile"> 
+       <div id="overview" class="stui-zippy"> 
+        <h2 class="stui-toggle-control">Visão geral</h2> 
+        <div class="stui-drawer"> 
+         <div class="stui-drawer-content"> 
+          <p>In recent years many innovative schools have begun a shift toward the use of educational technology. Even though your institution may be ready to make a similar transition, it’s not always clear where to start. Without a clear vision and wise counsel, such a shift can be time-consuming as well as costly.</p> 
+          <p>In this guide you’ll find a simple, 5-step approach to deploying a digital education solution – from defining your preliminary goals to fully implementing your online education platform.</p> 
+          <div class="sub-contain"> 
+           <div class="sub-wrapper"> 
+            <div class="guide-overview-left"> 
+             <h2>Define your goals</h2> 
+             <p>Discover what web-enabled education means for you.</p> 
+             <a href="#tab=define-your-goals" data-g-event="Edu: Guide" data-g-action="Define your goals" data-g-label="Read More">Mais informações</a> 
+            </div> 
+            <div class="define-your-goals-bg guide-overview-right"></div> 
+           </div> 
+           <div class="sub-wrapper"> 
+            <div class="guide-overview-left"> 
+             <h2>Invest in access</h2> 
+             <p>Get proper internet connectivity, and learn how to scale and optimize it.</p> 
+             <a href="#tab=invest-in-access" data-g-event="Edu: Guide" data-g-action="Invest in access" data-g-label="Read More">Mais informações</a> 
+            </div> 
+            <div class="invest-in-access-bg guide-overview-right"></div> 
+           </div> 
+           <div class="sub-wrapper"> 
+            <div class="guide-overview-left"> 
+             <h2>Build your team</h2> 
+             <p>Find the right people to make it happen.</p> 
+             <a href="#tab=build-your-team" data-g-event="Edu: Guide" data-g-action="Build your team" data-g-label="Read More">Mais informações</a> 
+            </div> 
+            <div class="build-your-team-bg guide-overview-right"></div> 
+           </div> 
+           <div class="sub-wrapper"> 
+            <div class="guide-overview-left"> 
+             <h2>Offer web tools</h2> 
+             <p>Customize and deploy education tools for students, staff, and teachers.</p> 
+             <a href="#tab=offer-web-tools" data-g-event="Edu: Guide" data-g-action="Offer web tools" data-g-label="Read More">Mais informações</a> 
+            </div> 
+            <div class="offer-web-tools-bg guide-overview-right"></div> 
+           </div> 
+           <div class="sub-wrapper"> 
+            <div class="guide-overview-left"> 
+             <h2>Manage change</h2> 
+             <p>Develop skills, spread the word, and monitor progress for continued improvements.</p> 
+             <a href="#tab=manage-change" data-g-event="Edu: Guide" data-g-action="Manage change" data-g-label="Read More">Mais informações</a> 
+            </div> 
+            <div class="manage-change-bg guide-overview-right"></div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div id="define-your-goals" class="stui-zippy"> 
+        <h2 class="stui-toggle-control">Define your goals</h2> 
+        <div class="stui-drawer"> 
+         <div class="stui-drawer-content"> 
+          <h1>Define your goals</h1> 
+          <div class="sub-content-wrapper"> 
+           <h2>Entenda o que sua escola espera atingir com a educação on-line</h2> 
+           <p>Os educadores que conduziram mudanças tecnológicas bem-sucedidas costumam repetir o mesmo mantra: “comece pela aprendizagem”. Depois que você estabelecer metas claras, sua escola poderá selecionar as soluções tecnológicas que aumentarão a probabilidade de sucesso. Por exemplo, seu foco é elevar notas e pontuações em provas? Ou aumentar o envolvimento dos alunos, dentro e fora da escola? Visite outras instituições que sejam referências para você. Reserve um tempo para entender as metas dessas instituições e como elas chagaram lá.</p> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Mapeie as necessidades de TI e considere o uso de tecnologias abertas</h2> 
+           <p>Depois que você entender suas metas educacionais, mapeie os processos necessários e os requisitos tecnológicos. Ao mapear as necessidades de TI, considere o uso de tecnologias abertas para atingir metas. O acesso constante e estável à Web pode ajudar a tornar o ensino e a aprendizagem muito mais acessíveis e colaborativos. Uma plataforma de aprendizagem aberta e baseada na Web difere das plataformas fechadas tradicionais porque é:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Open </strong><br> Educational resources can easily be published, curated and shared by educators worldwide. This means access to the best content for everyone, on multiple devices. </li> 
+             <li><strong> Cost-effective </strong><br> High-quality resources are available globally and at the lowest costs. </li> 
+             <li><strong> Collaborative </strong><br> Your students, teachers, parents – and even “digital pen pals” – will be engaged by and enjoy new opportunities to learn from each other. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Converse com as partes interessadas sobre os requisitos técnicos e as possíveis soluções</h2> 
+           <p>É importante identificar quem influencia, formal e informalmente, a decisão de aprimorar a educação em sua instituição por meio do uso da tecnologia. Talvez seja uma boa ideia se reunir com o diretor da instituição e com o gerente de TI e qualquer liderança executiva para discutir a visão e as ofertas. Agende reuniões de acompanhamento conforme necessário para assegurar o compromisso. Durante as reuniões, é útil distribuir estes recursos, que foram desenvolvidos para ajudar as partes interessadas a entender a solução baseada na nuvem do Google for Education:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> <a data-g-event="Edu: Guide: Define" data-g-action="Text Link" data-g-label="Briefing" href="/pdfs/guide/briefing.pdf" target="_blank">Briefing sheet</a> </strong><br> The sheet offers a printable overview of getting education online.</li>  
+             <li><strong> <a data-g-event="Edu: Guide: Define" data-g-action="Text Link" data-g-label="Case Studies" href="/intl/pt-BR/case-studies/" target="_blank">Case studies</a> </strong><br> Highlight the impact Google for Education has made for schools in your region. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Determine os recursos e os sistemas atuais da sua escola</h2> 
+           <p>Qual é a situação atual de sua escola em relação à possibilidade de usar recursos on-line? Antes de seguir adiante, você precisa ter uma visão clara dos seguintes pontos:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Technical readiness </strong><br> <a data-g-event="Edu: Guide: Define" data-g-action="Text Link" data-g-label="School Engagement Due Dilligence" href="/pdfs/guide/school-engagement-due-diligence-form.pdf" target="_blank">The school engagement due diligence form</a> is a questionnaire that will help you assess the current status of your school’s Internet access. This document captures the decision-making process, information about all of your users, the status of your existing infrastructure, and your future plans for infrastructure augmentation. </li> 
+             <li><strong> Staff readiness </strong><br> Are your teachers excited about improving learning with technology and access? <a data-g-event="Edu: Guide: Define" data-g-action="Text Link" data-g-label="Hopes And Fears" href="/pdfs/guide/hopes-and-fears-protocol.pdf" target="_blank">This Hopes and Fears activity</a> from Richland Two School District is a good model for a survey you could send to your staff to gauge how they are feeling, and whether they foresee any challenges with the deployment of a technology solution. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Entenda o trabalho exigido</h2> 
+           <p>Uma coisa é dizer que você está pronto para fazer a migração para uma solução educacional on-line, outra é fazer a migração. Você encontrará diversos recursos e atalhos úteis para uma migração bem-sucedida por meio do uso de:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> <a data-g-event="Edu: Guide: Define" data-g-action="Text Link" data-g-label="Project Plan Samples" href="/pdfs/guide/project-plan-samples.pdf" target="_blank">Project plan samples</a> </strong><br> These templates will help you define, plan, and manage your digital transformation, from start to finish. </li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div id="invest-in-access" class="stui-zippy"> 
+        <h2 class="stui-toggle-control">Invest in access</h2> 
+        <div class="stui-drawer"> 
+         <div class="stui-drawer-content"> 
+          <h1>Invest in access</h1> 
+          <div class="sub-content-wrapper"> 
+           <p> The most exciting, leading-edge technologies will falter if your school lacks sufficient power under the hood. Is your institution ready to support a 21st-century teaching and learning environment?<br><br><br>This section provides guidance on building a campus-wide Internet infrastructure that will support cloud-based services and other applications. For more details, refer to the <a data-g-action="Text Link" data-g-event="Edu: Guide: Invest" data-g-label="Edu Access Infrastructure Guide" href="/pdfs/guide/edu-access-infrastructure-guide.pdf" target="_blank">Google for Education – access infrastructure guide</a>; here you can learn about the elements of access that need to be considered, the standards required to create a functional network, and simple steps to follow when deploying your new infrastructure.</p> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Entenda suas necessidades de infraestrutura</h2> 
+           <p> To assess your needs, it’s helpful to first complete the <a data-g-action="Text Link" data-g-event="Edu: Guide: Invest" data-g-label="School Engagement Due Dilligence" href="/pdfs/guide/school-engagement-due-diligence-form.pdf" target="_blank">school engagement due diligence form</a> As you’re doing so, carefully consider:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li> Descubra as <a data-g-action="Text Link" data-g-event="Edu: Guide: Invest" data-g-label="NRENS" href="http://en.wikipedia.org/wiki/National_research_and_education_network" target="_blank">redes educacionais disponíveis em seu país</a>. </li> 
+             <li> Consulte seus parceiros para selecionar as tecnologias e os equipamentos mais adequados às necessidades. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Faça upgrade da conectividade com a Internet para aprimorar a experiência na Web</h2> 
+           <p>O gerenciamento aprimorado da rede da escola pode criar uma experiência melhor para todos os usuários. Um parceiro de acesso ajuda a otimizar a infraestrutura da escola por meio dos seguintes serviços:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Bandwidth management </strong><br> Depending on your needs and network capacity, you can set caps and rules to allocate the best levels for students and teachers (e.g., to allow for email capability, video streaming, or live classroom collaboration).<br><br>To determine the minimum bandwidth needed, refer to the <a href="/pdfs/guide/edu-access-infrastructure-guide.pdf" target="_blank">Education – access infrastructure guide</a> </li> 
+             <li><strong> Network access and control </strong><br> As much as possible, endeavor to balance a strong method of authentication setting that protects the network with a convenient, user-friendly interface to get online.<br><br>Review (and remove) any potential restrictions to the physical access of your computer labs, thereby ensuring that your school can offer an optimal experience to students and teachers alike. </li> 
+             <li><strong> Network monitoring </strong><br> Freeware tools, such as Cacti and SmokePing MRTG, can be used for network visibility, and to notify your IT admins if problems arise with any networking equipment. This will ensure a quality experience for all users. Implement LAN and WiFi solutions to promote online learning anytime, anywhere </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Implemente soluções de LAN e Wi-Fi para promover o ensino on-line a qualquer hora e em qualquer lugar</h2> 
+           <p> Use o <a href="/pdfs/guide/edu-access-infrastructure-guide.pdf" target="_blank">Google for Education: guia da infraestrutura de acesso</a> para determinar a melhor solução de rede para sua escola (LAN cabeada ou Wi-Fi) e avaliar as necessidades de largura de banda. Em seguida, gerencie o investimento em largura de banda com o software e a infraestrutura de gerenciamento de rede adequados, como servidores proxy e em cache.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div id="build-your-team" class="stui-zippy"> 
+        <h2 class="stui-toggle-control">Build your team</h2> 
+        <div class="stui-drawer"> 
+         <div class="stui-drawer-content"> 
+          <h1>Build your team</h1> 
+          <div class="sub-content-wrapper"> 
+           <p>A adoção de recursos educacionais on-line exigirá uma equipe dedicada em sua escola. Quais são os melhores candidatos? Quem trará motivação e conhecimentos específicos para a empreitada? Veja a seguir um atalho para encontrar a "equipe dos sonhos".</p> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Create an internal support team</h2> 
+           <p>Este grupo fornecerá orientações e viabilizará o sucesso da solução após a implantação.</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> The decision maker </strong><br> The decision maker provides high-level support, guidance, and sign-off on key decisions and major purchases for your school. This is typically your IT director, your school’s president, or the leader of a sponsoring institution. </li> 
+             <li><strong> The budget holder </strong><br> The budget holder is an internal or external financial sponsor of the project. </li> 
+             <li><strong> Administradores </strong><br> Administrators are typically members of your school’s ICT department, and are responsible for managing your solution once it’s been deployed. </li> 
+             <li><strong> Advocates </strong><br> Advocates will mostly be your teachers and staff, but may include some students. They will own the process of helping new users adopt the solution, and integrate it into their daily activities. Advocates also will be responsible for conducting user training. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Monte uma equipe de implantação:</h2> 
+           <p>The deployment team provides technical expertise, and will drive the implementation of your solution. Many schools have successfully recruited a mix of internal staff and external partners to assist with everything from conducting the initial evaluation to setting up and managing the transition.<br><br>At a number of schools, the following deployment team structure has proved successful:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Project Manager </strong><br> Project Manager manages the stakeholders and oversees the project from start to finish. </li> 
+             <li><strong> Change Manager </strong><br> Change Manager drives adoption within the organization. </li> 
+             <li><strong> Access Partners </strong><br> Access Partners install or upgrade infrastructure to provide Internet access for schools, and help manage their bandwidth and WiFi efficiently. They also provide LAN and WiFi expertise to help clients get the most from their wireless networks. Access partners may include ISPs when schools need a “last-mile” bandwidth setup. </li> 
+             <li><strong> Tools Partners </strong><br> Tools Partners help schools with the deployment of web tools. Apps deployment specialists – typically experienced IT service companies – assist with the initial diagnostic evaluation, manage the setup of Apps and the transition process, and then provide ongoing support. </li> 
+             <li><strong> Skills Partners </strong><br> Skills Partners provide training in online skills and Google for Education tools. Additionally, they develop a customized professional development plan to meet your school’s needs. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <p>É igualmente importante (e muitas vezes mais difícil) identificar os parceiros externos adequados. Para assegurar que você terá a colaboração de parceiros que oferecem a combinação ideal de habilidades e consideram os interesses de sua escola, é preciso:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Understand the skills and qualifications you need for your deployment team </strong><br> <a data-g-action="Text Link" data-g-event="Edu: Guide: Build" data-g-label="Guide To Onboarding Partners" href="/pdfs/guide/guide-to-recruiting-partners.pdf" target="_blank">Guide to onboarding partners</a> – Here you’ll find helpful tips on how to bring Google for Education partners onboard. </li> 
+             <li><strong> Carefully assess the capabilities of potential candidates </strong><br> <a data-g-action="Text Link" data-g-event="Ede: Guide: Build" data-g-label="Partner Criteria" href="/pdfs/guide/partner-criteria-assessment-form.pdf" target="_blank">Partner criteria assessment form template</a> – You can use this sample form to determine if your prospective partner has the capabilities needed to provide your solution. </li> 
+             <li><strong> Sign off on the specific services the partner will provide </strong><br> <a data-g-action="Text Link" data-g-event="Edu: Guide: Build" data-g-label="Sample SOW" href="/pdfs/guide/sample-deployment-service.pdf" target="_blank">Sample SOW for G Suite deployment services</a> – This sample Statement of Work clearly defines the scope of work, and what your expectations are for your partners. </li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div id="offer-web-tools" class="stui-zippy"> 
+        <h2 class="stui-toggle-control">Offer web tools</h2> 
+        <div class="stui-drawer"> 
+         <div class="stui-drawer-content"> 
+          <h1>Offer web tools</h1> 
+          <div class="sub-content-wrapper"> 
+           <p>Today’s students are increasingly showing a preference for an always-on, always connected environment for work and play. Ideally, your delivery of educational content should reflect that growing preference, with an engaging, digital curriculum.<br><br>Your new web tools should be directly relevant to each user’s needs, and practical (as well as hassle-free) for them to employ. The tools should also align with the school’s core processes and existing systems. By working with teachers and staff, including the ICT director, you can address some of your school’s challenges – including the need to perform time-consuming administrative tasks, and grade tests and papers by hand – and show how they can be overcome with automated, efficient web tools.<br><br>In many countries, a wide range of local content and resources are already available to universities and schools. By leveraging these web-enabled instructional tools, you can reduce IT costs, help overcome physical barriers to education, and better engage all of your students.</p> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Descubra o potencial da aprendizagem baseada na Web</h2> 
+           <p>Algumas considerações durante a implantação:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Deploy web tools in phases </strong><br> You don’t have to dive into the deep end immediately; it’s easiest (and wisest) to plan your digital deployment in smaller, more manageable steps. For more information, refer to the <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Technical Transition Guide" href="/pdfs/guide/gapps-transition-guide.pdf" target="_blank">technical transition guide</a> </li> 
+             <li><strong> Set up a portal for distributing accounts/password </strong><br> The distribution of accounts/passwords should be automated and seamless. Many schools create a portal where users can quickly and easily sign up for an Apps account and receive a temporary password. </li> 
+             <li><strong> Develop an automated password reset policy </strong><br> Users – especially overworked, stressed-out students – can (and do) forget their passwords. The simplest solution is to have all users provide a password recovery email and phone number during the initial activation of their account, so that password reset requests need not be directed to a helpdesk. You can further reduce your helpdesk’s workload by routing the password retrieval process through the portal set up to distribute accounts and passwords (described above). </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <p>More and more schools are enabling web-based learning through G Suite. Here are a few case studies highlighting the challenges several schools have faced recently, as well as some of the benefits they have enjoyed:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li> In Bangkok, Thailand, Mattayomwatnairong Schools adopted G Suite for Education to enable web-based learning for their K-12 students. As a result, students were able to continue their education with fewer disruptions, even when schools were closed during such crisis situations as floods or protests. <a class="lb" data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Watch Video" data-lightbox-height="340" data-lightbox-width="550" href="https://www.youtube.com/watch?v=dsuZNUMkdkw&amp;autoplay=1" target="_blank" data-lightbox-index="0">Watch video</a> </li> 
+             <li> The Municipality of Vicente López (MVL) is a school district in Buenos Aires, Argentina that provides educational instruction to more than 3,600 students. Prior to adopting a web-based solution, access to content was restricted to on-site computer labs. But now with G Suite, students and teachers can access content anywhere, on any device, enabling them to become active content consumers (and producers). The improved quality of instructional content – combined with more channels for collaboration – engages students, facilitates self-directed study, and makes students more receptive to feedback from their teachers and classmates. <a class="lb" data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Watch Video" data-lightbox-height="340" data-lightbox-width="550" href="https://www.youtube.com/watch?v=2seSSimGr6U&amp;autoplay=1" target="_blank" data-lightbox-index="1">Watch video</a> </li> 
+             <li> At India’s Birla Institute of Technology and Science (BITS) in Pilani, administrators observed several immediate benefits following the university-wide deployment of G Suite. Their old server had limited storage capacity, which frequently caused emails to bounce back and made communication difficult. But post-deployment of Apps, the university’s enhanced storage capabilities enabled increased academic collaboration while delivering savings in both capital and operational expenditures. University users – especially off-campus students – have benefited from using Apps to facilitate collaboration, particularly the tools that allow them to share video files, record lectures, and present slides. <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Read Case Study" href="/pdfs/guide/bits-pilani.pdf" target="_blank">Read case study (PDF)</a> </li> 
+             <li> Petra Christian University in Indonesia reduced time and money spent on valuable IT resources with a stable communication platform: G Suite. Their legacy server-based systems had been costly, insecure, and unstable. With every power outage, the on-premise mail servers crashed and required excessive maintenance. Now these resources are deployed by developing internal apps that will continue to improve education at Petra. <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Read Case Study" href="/pdfs/guide/petra-christian-university.pdf" target="_blank">Read case study (PDF)</a> </li> 
+            </ul> 
+            <p> For more information on deploying G Suite for Education, refer to the <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Deployment Guide" href="/pdfs/guide/google-apps-for-education-deployment-guide.pdf" target="_blank">G Suite for Education deployment guide</a> – a step-by-step outline for completing the technical aspects of your deployment. This guide also includes relevant help-center articles and videos.</p> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Integre sua solução</h2> 
+           <p> It’s not enough to simply deploy web-based tools. You must make sure they are relevant by integrating them with your school’s day-to-day activities, as well as your third-party software and existing legacy systems. Use Section B of the <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="School Engagement Due Dilligence" href="/pdfs/guide/school-engagement-due-diligence-form.pdf" target="_blank">school engagement due diligence form</a> to help identify core processes to integrate. We recommend connecting G Suite to a Single Sign-On server, so that users can access all internal tools with a single username and password. Many schools also integrate G Suite with learning platforms such as Moodle and Blackbird. For more details, refer to <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="G Suite Integration" href="/pdfs/guide/google-apps-integration-with-third-party-systems.pdf" target="_blank">G Suite integration with third-party systems</a>.<br><br>These universities have successfully integrated G Suite for Education into their existing educational systems and processes:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li> Université Cadi Ayyad, Morocco, deployed G Suite accounts as their main authentication platform. Students and staff use their Google accounts to access the Internet over the university WiFi. They also use their accounts to access the university intranet, which was built using Google sites and G Suite scripts. Now students can easily access course material, request transcripts, receive their grades, and log onto the university’s eLearning platform. </li> 
+             <li> A Jomo Kenyatta University of Agriculture and Technology (JKUAT), no Quênia, transformou os serviços usando o Google Mail, o Google Agenda e o Google Drive para postar grades de horário, materiais de cursos, tutoriais e pesquisas. A universidade também gerenciou as solicitações e autorizações de usuários por meio do Formulários Google. <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Read Case Study" href="/pdfs/guide/jkuat.pdf" target="_blank">Leia o estudo de caso (PDF)</a> </li> 
+             <li> A Ladoke Akintola University of Technology, da Nigéria, simplificou com o Google Apps todas as tarefas administrativas, incluindo a folha de pagamento, a inscrição em cursos e a entrega de resultados de testes. Além disso, a universidade fez a transição para um modelo de “administração sem papel” no qual todas as operações, atividades e documentações são completamente digitais. A integração do Google Apps também viabilizou o ensino on-line. <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Read Case Study" href="/pdfs/guide/lautech.pdf" target="_blank">Leia o estudo de caso (PDF)</a> </li> 
+            </ul> 
+            <p> Our <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Process Integration" href="/pdfs/guide/process-integration-with-google-apps-for-education.pdf" target="_blank">process integration with G Suite for Education</a> document outlines other ways in which Apps have been used successfully. For custom integration of your solution with our APIs, please visit the <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Developers Apps Platform" href="https://developers.google.com/google-apps/" target="_blank">G Suite API website.</a></p> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div id="manage-change" class="stui-zippy"> 
+        <h2 class="stui-toggle-control">Manage change</h2> 
+        <div class="stui-drawer"> 
+         <div class="stui-drawer-content"> 
+          <h1>Manage change</h1> 
+          <div class="sub-content-wrapper"> 
+           <h2>Desenvolva habilidades</h2> 
+           <p>A migração de conteúdo para a Web não é responsabilidade exclusiva de sua equipe de TI. Todas as partes interessadas devem saber utilizar as ferramentas digitais para viabilizar a migração.</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Administradores </strong><br> Administrators should be actively involved in the initial setup of the web tools, so they’ll have the ability to troubleshoot any problems that may arise. Once the solution has been deployed, this group should receive training on provisioning and managing accounts. Visit the <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="G Suite Help Center" href="https://support.google.com/a/#topic=29157" target="_blank">G Suite Support Site</a> for more details. </li> 
+             <li><strong> Users/trainers </strong><br> Users/Trainers will build excitement by demonstrating how the products can be used (and the advantages of doing so). As dedicated trainers, they will drive the adoption of the new solution. Check out the <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="G Suite Help Center" href="/training/" target="_self">Google for Education Learning Center</a> for training resources. </li> 
+             <li><strong> All other constituents </strong><br> All Other Constituents can be ready to offer training on basic web skills as needed with <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Google Web Academy" href="http://www.webacademy.com/splash/" target="_blank">Google Web Academy</a>, a program that provides educational resources and certifications to students and professionals. </li> 
+            </ul> 
+            <p> Para encontrar um instrutor certificado para treinamentos presenciais, acesse o <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Education Trainer Directory" href="http://edudirectory.withgoogle.com/" target="_blank">Diretório de instrutores do Google for Education</a> (em inglês). Para saber como se tornar um Instrutor certificado pelo Google e/ou um Instrutor do Google for Education, acesse a <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Learning Center" href="/training/" target="_self">Central de aprendizagem</a>.</p> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Divulgue a notícia</h2> 
+           <p>Success breeds success – and your school’s will continue to inspire your faculty and staff, as well as other teams at other schools. Don’t be shy about sharing what worked (and what didn’t).<br><br>Here’s how innovative schools have promoted their move to a cloud-based education:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Hosting a rollout event </strong><br> Many schools that launched G Suite for Education have hosted a “Go Google” event. Designed to encourage student sign-ups and continued use, the itinerary consists of discussions highlighting why the school decided to go Google, and the benefits the school expects to see post-transition.<br><br>To get you started, here’s a <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Sample Schedule" href="/pdfs/guide/google-day-program.pdf" target="_blank">sample schedule of an event</a>. </li> 
+             <li> Promovendo a mudança por meio dos vários canais de comunicação da escola, como comunicados à imprensa e e-mails de divulgação. </li> 
+            </ul> 
+            <p> Acesse o <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Change Management Guide" href="/pdfs/guide/change-management-guide-public.pdf" target="_blank">guia de gerenciamento da mudança</a> para ver modelos de logotipos e comunicados que ajudam a promover o Google no campus e em toda a comunidade.</p> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Gerencie a solução</h2> 
+           <p>Parabéns! Você iniciou a mudança para um ambiente educacional on-line... um grande feito. Mas você ainda tem um desafio significativo pela frente: assegurar que o caminho traçado seja claro e acessível para todos. Para continuar viabilizando o ensino e a aprendizagem dinâmicos:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Identifique novas formas de integrar ferramentas baseadas na Web aos sistemas da escola para manter a motivação e ampliar os benefícios: </strong><br> 
+              <ul> 
+               <li>Personalize indicadores-chave de desempenho de acordo com os requisitos e os objetivos específicos de sua escola</li> 
+               <li>Monitore o uso continuamente</li> 
+               <li>Conduza treinamentos on-line para membros da equipe de TI, funcionários, professores e alunos</li> 
+               <li>Certifique-se de que os usuários possam encontrar e rastrear conteúdos locais</li> 
+              </ul> </li> 
+             <li><strong> Crie comunidades e fóruns para usuários para permitir a aprendizagem conjunta e a troca de conhecimentos: </strong><br> 
+              <ul> 
+               <li>Realize eventos comunitários presenciais para que escolas da vizinhança, pais e outras pessoas entendam os benefícios da educação baseada na Web e adquiram algumas habilidades básicas.</li> 
+               <li>Crie fóruns on-line para compartilhamento e discussões.</li> 
+               <li> Identifique canais e recursos da comunidade para aumentar a adoção da ferramenta da Web e expandir a comunidade do Google for Education. Saiba mais sobre os programas para a comunidade do Google for Education em: <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Community Programs" href="/intl/pt-BR/resources/programs/" target="_blank"> edu.google.com/resources/programs/</a></li> 
+              </ul> </li> 
+             <li><strong> Monitore o desempenho para assegurar o sucesso a longo prazo: </strong><br> 
+              <ul> 
+               <li>Para aumentar a frequência de uso, determine o percentual de usuários ativos.</li> 
+               <li> For G Suite, look at the total number of Apps licenses vs. the number of 30-day active Apps licenses. An analysis is available on the “user behavior reports” of the <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Apps Usage Activity" href="https://support.google.com/a/answer/1645537" target="_blank">admin console dashboard</a>.</li> 
+               <li>Avalie cuidadosamente o impacto das ferramentas on-line nos resultados de provas e no sucesso acadêmico como um todo. E, mais uma vez, divulgue as vantagens.</li> 
+              </ul> </li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Produtos</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/products/devices/">Dispositivos</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/products/productivity-tools/">Ferramentas de produtividade</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/products/productivity-tools/classroom/">Google Sala de aula</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/products/more-products/">Mais produtos</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Treinamento</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=pt_BR" target="_blank">Treinamento para professores</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">Treinamento para administradores de TI</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">Diretório de parceiros</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/resources/communities/">Comunidades</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Recursos</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/resources/programs/">Programas</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/resources/computerscience/">Ciência da computação</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/resources/global-education/">Educação global</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/it/">TI</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">Recursos para desenvolvedores</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/access/">Acessar</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/contact/">Vendas</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">Suporte</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/partners/">Programa para parceiros</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/case-studies/">Estudos de caso</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">Ver escolas que utilizam Chromebooks</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">Blog</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="Pesquisar neste site" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/access/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/access/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/en_in/access/"> English (India) </option><option value="/intl/en_uk/access/"> English (United Kingdom) </option><option value="/access/"> English (United States) </option><option value="/intl/es-419_mx/access/"> español (México) </option><option value="/intl/es-419/access/"> español (Latinoamérica) </option><option value="/intl/fr_be/access/"> français (Belgique) </option><option value="/intl/id/access/"> Indonesia (Indonesia) </option><option value="/intl/ms/access/"> Bahasa Melayu (Malaysia) </option><option selected value="/intl/pt-BR/access/"> português (Brasil) </option><option value="/intl/th/access/"> ไทย (ไทย) </option><option value="/intl/tr/access/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/pt/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/pt/policies/privacy/">Privacidade</a> </li> 
+      <li> <a href="https://www.google.com/intl/pt/policies/terms/">Termos</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script> 
+  <script src="/compiled/guide-mobile.min.js"></script> 
+  <script id="contact-script" src="/js/access.min.js"></script>  
+ </body>
+</html>

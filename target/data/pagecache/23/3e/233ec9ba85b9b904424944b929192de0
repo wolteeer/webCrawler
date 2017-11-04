@@ -1,0 +1,260 @@
+<!doctype html>
+<html class="google mmfb" dir="ltr" lang="nl">
+ <head> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script> 
+  <meta charset="utf-8"> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <title>
+      Tools en services voor online adverteren via Google AdWords – Google
+    </title> 
+  <link href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;lang=nl" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto+Slab:300,400,500&amp;lang=nl" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Product+Sans:400&amp;lang=nl" rel="stylesheet"> 
+  <link href="../../home/css/adwords.min.css" rel="stylesheet"> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/v2_8_3/basic.js"></script> 
+  <link href="/home/images/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://adwords.google.com/intl/nl_nl/home/tools/" rel="canonical"> 
+  <script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "brand": {
+      "@type": "Thing",
+      "name": "AdWords"
+    },
+    "name": "Online Advertising Tools &amp; Services - Google AdWords",
+    "description": "Discover additional online advertising tools and services that can help you create better ad campaigns with Google AdWords.",
+    "url": "https://adwords.google.com/intl/nl_nl/home/tools/",
+    "logo": "https://lh3.googleusercontent.com/-uNZ_qMhKvZA/Vd5W1dmYTLI/AAAAAAAAQ5U/a5AyNN5FQiA6uL8XtMpVsCsEbA0Tiw_awCHM/s251/AdWords.png",
+    "sameAs": [
+      "https://twitter.com/adwords",
+      "https://plus.google.com/+GoogleAds",
+      "https://adwords.googleblog.com/",
+      "https://www.youtube.com/user/learnwithgoogle"
+    ],
+    "telephone": "0800-265 9292"
+  }
+    </script> 
+ </head> 
+ <body class="tools-page overview long-l10n" data-ng-app="rs.adwords"> 
+  <header class="header" role="banner"> 
+   <h1 class="product-logo"> <a href="../../home/"><img alt="Google" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" srcset="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png 2x"> <span class="site-name">AdWords</span></a> </h1> 
+   <nav class="main-navigation contains-sub-nav" data-ng-controller="rs.navigation.NavCtrl as navCtrl"> 
+    <h1> AdWords </h1> 
+    <ul class="outer-nav"> 
+     <li> <a href="../../home/">Startpagina</a> </li> 
+     <li> <a href="../../home/how-it-works/">Hoe het werkt</a> </li> 
+     <li> <a href="../../home/pricing/">Prijzen</a> </li> 
+     <li class="parent">Tools 
+      <ul class="sub-nav"> 
+       <li class="active">Overzicht </li> 
+       <li> <a href="../../home/tools/manager-accounts/">Manageraccounts</a> </li> 
+       <li> <a href="../../home/tools/keyword-planner/">Zoekwoordplanner</a> </li> 
+       <li> <a href="../../home/tools/adwords-editor/">AdWords Editor</a> </li> 
+      </ul> </li> 
+     <li> <a href="../../home/resources/learning/">Bronnen</a> </li> 
+    </ul> 
+    <div class="cta cta-wrapper"> 
+     <a class="cta-signin" href="/um/signin?hl=nl&amp;sourceid=awo&amp;subid=nl-ww-et-g-aw-a-tools-awhp!o2" rel="nofollow">Inloggen</a> 
+     <a class="cta-call" href="tel:0800-2659292">
+      <svg class="icon-phone-green" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+       <path d="M6.4,13.9c2.6,5,6.7,9.1,11.7,11.7l3.9-3.9c0.5-0.5,1.2-0.6,1.8-0.4c2,0.7,4.1,1,6.4,1c1,0,1.8,0.8,1.8,1.8v6.2 c0,1-0.8,1.8-1.8,1.8C13.5,32,0,18.5,0,1.8C0,0.8,0.8,0,1.8,0H8c1,0,1.8,0.8,1.8,1.8c0,2.2,0.4,4.4,1,6.4c0.2,0.6,0.1,1.3-0.4,1.8 L6.4,13.9z"> 
+       </path>
+      </svg> <img alt="phone icon" class="icon-phone-green" height="16" src="//www.google.com/ads/images/icons/icon-ui-phone.png" width="16"> Bel ons</a> 
+     <a class="cta-signup" href="/um/StartNow?hl=nl&amp;sourceid=awo&amp;subid=nl-ww-et-g-aw-a-tools-awhp!o2" rel="nofollow">Nu beginnen</a> 
+     <div class="cta-expand"> 
+      <div class="cta-expand-top"> 
+       <p class="font-large"> Doe het zelf. </p> 
+       <p> <a class="cta-signup" href="/um/StartNow?hl=nl&amp;sourceid=awo&amp;subid=nl-ww-et-g-aw-a-tools-awhp!o2" rel="nofollow">NU STARTEN</a> </p> 
+      </div> 
+      <div class="cta-expand-botm"> 
+       <p class="font-large"> Overleg met een expert. </p> 
+       <p class="phone-number font-medium"> <a href="tel:0800-2659292">
+         <svg class="icon-phone-green" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M6.4,13.9c2.6,5,6.7,9.1,11.7,11.7l3.9-3.9c0.5-0.5,1.2-0.6,1.8-0.4c2,0.7,4.1,1,6.4,1c1,0,1.8,0.8,1.8,1.8v6.2 c0,1-0.8,1.8-1.8,1.8C13.5,32,0,18.5,0,1.8C0,0.8,0.8,0,1.8,0H8c1,0,1.8,0.8,1.8,1.8c0,2.2,0.4,4.4,1,6.4c0.2,0.6,0.1,1.3-0.4,1.8 L6.4,13.9z"> 
+          </path>
+         </svg> <img alt="phone icon" class="icon-phone-green" height="16" src="//www.google.com/ads/images/icons/icon-ui-phone.png" width="16"> 0800-265 9292<sup>*</sup></a> </p> 
+       <p class="font-small"> * Ma-vr: 09 -19 uur </p> 
+      </div> 
+     </div> 
+    </div> 
+   </nav>
+   <button class="nav-toggle-button"><span class="icon-menu-els"><span class="menu-bar"></span> <span class="menu-bar"></span> <span class="menu-bar"></span></span></button> 
+  </header> 
+  <div class="main" role="main"> 
+   <section class="section section-hero" id="section-0"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-5 section-hero-copy"> 
+       <h1 class="font-dark"> Doe meer met uw advertenties. </h1> 
+       <p class="font-large"> Ontdek extra tools om uw AdWords-strategie nog effectiever te maken. </p> 
+      </div> 
+     </div> 
+    </div> 
+    <section class="section-hero-media section-hero-media section-hero-media-right section-hero-top-of-search deep-teal"> 
+     <div class="hero-image"> 
+      <div class="tools-overlay"> 
+       <div class="tools-you-only-pay-desktop-image hidden-xs"> 
+        <p class="tools-chart-legend"> <span class="tools-clicks">Klikken</span> <span class="tools-costs">Kosten</span> </p> 
+        <p class="table-headings"> <span class="tools-campaign">Campagne</span> <span class="tools-budget">Budget</span> <span class="tools-status">Status</span> </p> 
+       </div> 
+      </div> 
+     </div> 
+    </section>
+    <a class="fab fab-bottom-center google-blue gweb-smoothscroll-control" href="#cards">
+     <svg class="icon-fab-scroll" enable-background="new 0 0 32 32" height="18px" version="1.1" viewbox="0 0 32 32" width="18px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+      <polygon points="28.2,6.1 16,18.3 3.8,6.1 0,9.9 16,25.9 32,9.9"></polygon>
+     </svg> <img alt="" class="icon-fab-scroll" height="18" src="//www.google.com/ads/images/icons/icon-fab-scroll.png" width="18"></a> 
+   </section> 
+   <section class="section light-gray" id="cards"> 
+    <div class="site-width"> 
+     <p class="ptag-header"> Vind de tool<br> die u nodig heeft. </p> 
+     <div class="cols-row"> 
+      <div class="col-4 col-m-3 card card-related"> 
+       <a class="card-inner" href="../../home/tools/manager-accounts/"><img alt="" class="product-logo" src="//www.google.com/images/branding/product/1x/googleg_64dp.png"> <h3> Manageraccounts </h3> <p class="last"> Beheer meerdere AdWords-accounts vanuit één dashboard. Met rapportage voor verschillende accounts, toegangscontrole en geconsolideerde facturering. </p>
+        <svg class="icon-arrow-related" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <polygon points="16,0 13.2,2.8 24.3,14 0,14 0,18 24.3,18 13.2,29.2 16,32 32,16"> 
+         </polygon>
+        </svg> <img alt="related arrow icon" class="icon-arrow-related" height="16" src="//www.google.com/ads/images/icons/icon-arrow-related.png" width="16"></a> 
+      </div> 
+      <div class="col-4 col-m-3 card card-related"> 
+       <a class="card-inner" href="../../home/tools/keyword-planner/"><img alt="" class="product-logo" src="//www.google.com/images/branding/product/1x/googleg_64dp.png"> <h3> Zoekwoordplanner </h3> <p class="last"> Vergelijk zoekvolume en kostenramingen van zoekwoorden en stel efficiëntere campagnes op. </p>
+        <svg class="icon-arrow-related" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <polygon points="16,0 13.2,2.8 24.3,14 0,14 0,18 24.3,18 13.2,29.2 16,32 32,16"> 
+         </polygon>
+        </svg> <img alt="related arrow icon" class="icon-arrow-related" height="16" src="//www.google.com/ads/images/icons/icon-arrow-related.png" width="16"></a> 
+      </div> 
+      <div class="col-4 col-m-3 card card-related"> 
+       <a class="card-inner" href="../../home/tools/adwords-editor/"><img alt="" class="product-logo" src="//www.google.com/images/branding/product/1x/googleg_64dp.png"> <h3> AdWords Editor </h3> <p class="last"> Zorg voor een efficiënt beheer van uitgebreide AdWords-accounts met tools voor bulksgewijs bewerken. </p>
+        <svg class="icon-arrow-related" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+         <polygon points="16,0 13.2,2.8 24.3,14 0,14 0,18 24.3,18 13.2,29.2 16,32 32,16"> 
+         </polygon>
+        </svg> <img alt="related arrow icon" class="icon-arrow-related" height="16" src="//www.google.com/ads/images/icons/icon-arrow-related.png" width="16"></a> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <footer class="footer" id="footer" role="contentinfo"> 
+   <div class="cookie-bar-container"></div> 
+   <div class="site-width"> 
+    <div class="footer-upper cols-row"> 
+     <div class="footer-social col-6"> 
+      <dl> 
+       <dt>
+         Volg ons op: 
+       </dt> 
+       <dd> 
+        <a href="https://www.facebook.com/adwords" rel="noopener" target="_blank" title="Facebook">
+         <svg class="icon-footer-facebook" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,0H3.2C1.4,0,0,1.4,0,3.2v25.6C0,30.6,1.4,32,3.2,32h25.6c1.8,0,3.2-1.4,3.2-3.2V3.2 C32,1.4,30.6,0,28.8,0z M27.2,8H24c-0.9,0-1.6,0.7-1.6,1.6v3.2h4.8v4.8h-4.8v11.2h-4.8V17.6h-3.2v-4.8h3.2v-4c0-3.1,2.5-5.6,5.6-5.6 h4V8z"> 
+          </path>
+         </svg> <img alt="Facebook" class="icon-footer-facebook" height="20" src="//www.google.com/ads/images/icons/icon-footer-facebook.png" width="20"></a> 
+       </dd> 
+      </dl> 
+     </div> 
+    </div> 
+    <nav class="footer-nav cols-row"> 
+     <dl class="col-3"> 
+      <dt>
+        Leren en ondersteuning 
+      </dt> 
+      <dd> 
+       <a href="https://support.google.com/adwords/answer/6146252?hl=nl&amp;utm_medium=et&amp;utm_campaign=nl&amp;utm_source=ww-ww-et-b2bfooter_adwords"> Een handig overzicht van AdWords</a> 
+      </dd> 
+      <dd> 
+       <a href="https://support.google.com/adwords/?hl=nl#topic=3119071&amp;utm_source=smb_marketing&amp;utm_medium=referral&amp;utm_campaign=us-en-et-awhp-footer&amp;utm_content=NL"> Helpcentrum van AdWords</a> 
+      </dd> 
+      <dd> 
+       <a href="https://plus.google.com/+GoogleAds/posts?hl=nl">AdWords op Google+</a> 
+      </dd> 
+      <dd> 
+       <a href="https://digitalewerkplaats.withgoogle.com">Digitale Werkplaats</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Ontwikkelaars 
+      </dt> 
+      <dd> 
+       <a href="https://developers.google.com/?hl=nl">Site van Google Developers</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/adwords/api/?hl=nl">AdWords API</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/adwords/scripts/?hl=nl">AdWords-scripts</a> 
+      </dd> 
+      <dd> 
+       <a href="https://support.google.com/adwords/answer/2476688?hl=nl">Remarketingtags voor AdWords</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Gerelateerde producten 
+      </dt> 
+      <dd> 
+       <a href="https://www.google.nl/intl/nl/retail/shopping-campaigns/">Shopping-campagnes</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.nl/intl/nl/business/">Google Mijn Bedrijf</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/intl/nl/chrome/">Chrome</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Meer oplossingen van Google 
+      </dt> 
+      <dd> 
+       <a href="https://www.google.nl/intl/nl/services/">Google Bedrijfsoplossingen</a> 
+      </dd> 
+      <dd> 
+       <a href="https://gsuite.google.nl/intl/nl/?utm_medium=et&amp;utm_source=gmb&amp;utm_campaign=footer"> G Suite</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.thinkwithgoogle.com/">Think with Google</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.nl/intl/nl/adsense/start/?utm_source=internal&amp;utm_medium=et&amp;utm_campaign=adwords-homepage"> AdSense</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/admob/?utm_source=Internal&amp;utm_medium=et&amp;utm_campaign=google-ads"> AdMob</a> 
+      </dd> 
+     </dl> 
+    </nav> 
+    <div class="footer-lower cols-row"> 
+     <div class="footer-meta-links col-9"> 
+      <ul> 
+       <li> <a href="https://support.google.com/adwords/?hl=nl#topic=3119071">
+         <svg class="icon-footer-help" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path clip-rule="evenodd" d="M16 0C7.2 0 0 7.2 0 16c0 3 .9 5.9 2.3 8.3L0 32l7.7-2.3C10.2 31.1 13 32 16 32c8.8 0 16-7.2 16-16S24.8 0 16 0zm1.3 24.6c-.3.3-.7.5-1.2.5s-1-.2-1.2-.5c-.3-.3-.4-.7-.4-1.1 0-.2 0-.4.1-.6.1-.2.2-.4.3-.5.1-.1.3-.3.5-.3.2-.1.4-.1.7-.1.3 0 .5 0 .7.1.2.1.4.2.5.3.1.1.3.3.3.5.1.2.1.4.1.6 0 .5-.1.8-.4 1.1zm3.8-11.4c-.2.5-.4.9-.6 1.3l-.9 1.2c-.3.4-.7.8-1 1.1-.4.4-.7.9-.9 1.4-.2.5-.2.8-.3 1.8h-2.8c0-1 0-1.2.1-1.6.1-.4.2-1 .3-1.3.2-.3.4-.7.6-1 .2-.3.6-.7.9-1 .2-.3.5-.5.7-.7.2-.2.4-.5.6-.7.2-.3.3-.5.4-.8.1-.3.1-.6.1-1 0-.8-.2-1.4-.6-1.8-.4-.4-1-.6-1.7-.6-.3 0-.6.1-.9.1-.3.1-.5.2-.8.4s-.4.6-.5.8c-.1.3-.2 1.2-.2 1.2h-3c0-2 .2-1.6.4-2.2.3-.6.7-1.2 1.1-1.6.5-.4 1-.7 1.7-.9.8-.3 1.5-.4 2.2-.4.8 0 1.6.1 2.2.3.7.2 1.2.5 1.7.9s.8.9 1 1.5c.2.6.4 1.3.4 2.1 0 .6-.1 1.1-.2 1.5z" fill-rule="evenodd"></path>
+         </svg> <img alt="Help" class="icon-footer-help" height="20" src="//www.google.com/ads/images/icons/icon-footer-help.png" width="20"> Help</a> </li> 
+       <li> <a href="//www.google.nl">Google</a> </li> 
+       <li> <a href="//www.google.nl/intl/nl/policies/privacy/">Privacy</a> </li> 
+       <li> <a href="//www.google.nl/intl/nl/policies/terms/">Voorwaarden</a> </li> 
+      </ul> 
+     </div> 
+     <div class="footer-locale-switcher col-3"> 
+      <label class="visually-hidden" for="footer-locales"><span>Taal of regio wijzigen:</span></label>
+      <select class="footer-locales" id="footer-locales" onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="/intl/en/home/tools/"> English </option> <option value="/intl/ar/home/tools/"> ‫العربية‬ </option> <option value="/intl/fr_dz/home/tools/"> Algérie – Français </option> <option value="/intl/es-419_ar/home/tools/"> Argentina – Español (Latinoamérica) </option> <option value="/intl/en_au/home/tools/"> Australia – English </option> <option value="/intl/en_bd/home/tools/"> Bangladesh – English </option> <option value="/intl/nl_be/home/tools/"> België – Nederlands </option> <option value="/intl/fr_be/home/tools/"> Belgique – Français </option> <option value="/intl/es-419_bo/home/tools/"> Bolivia – Español (Latinoamérica) </option> <option value="/intl/pt-BR_br/home/tools/"> Brasil – Português (Brasil) </option> <option value="/intl/en_ca/home/tools/"> Canada – English </option> <option value="/intl/fr_ca/home/tools/"> Canada – Français </option> <option value="/intl/cs_cz/home/tools/"> Česká republika – Čeština </option> <option value="/intl/es-419_cl/home/tools/"> Chile – Español (Latinoamérica) </option> <option value="/intl/es-419_co/home/tools/"> Colombia – Español (Latinoamérica) </option> <option value="/intl/es-419_cr/home/tools/"> Costa Rica – Español (Latinoamérica) </option> <option value="/intl/en_cy/home/tools/"> Cyprus – English </option> <option value="/intl/da_dk/home/tools/"> Danmark – Dansk </option> <option value="/intl/de_de/home/tools/"> Deutschland – Deutsch </option> <option value="/intl/es-419_ec/home/tools/"> Ecuador – Español (Latinoamérica) </option> <option value="/intl/et_ee/home/tools/"> Eesti – Eesti </option> <option value="/intl/en_eg/home/tools/"> Egypt – English </option> <option value="/intl/es-419_sv/home/tools/"> El Salvador – Español (Latinoamérica) </option> <option value="/intl/es_es/home/tools/"> España – Español </option> <option value="/intl/ca_es/home/tools/"> Espanya – Català </option> <option value="/intl/es-419_us/home/tools/"> Estados Unidos – Español (Latinoamérica) </option> <option value="/intl/fr_fr/home/tools/"> France – Français </option> <option value="/intl/es-419_gt/home/tools/"> Guatemala – Español (Latinoamérica) </option> <option value="/intl/es-419_hn/home/tools/"> Honduras – Español (Latinoamérica) </option> <option value="/intl/en_hk/home/tools/"> Hong Kong – English </option> <option value="/intl/hr_hr/home/tools/"> Hrvatska – Hrvatski </option> <option value="/intl/en_in/home/tools/"> India – English </option> <option value="/intl/id_id/home/tools/"> Indonesia – Bahasa Indonesia </option> <option value="/intl/en_ie/home/tools/"> Ireland – English </option> <option value="/intl/it_it/home/tools/"> Italia – Italiano </option> <option value="/intl/lv_lv/home/tools/"> Latvija – Latviešu </option> <option value="/intl/lt_lt/home/tools/"> Lietuva – Lietuvių </option> <option value="/intl/hu_hu/home/tools/"> Magyarország – Magyar </option> <option value="/intl/ms_my/home/tools/"> Malaysia – Bahasa Melayu </option> <option value="/intl/en_my/home/tools/"> Malaysia – English </option> <option value="/intl/es-419_mx/home/tools/"> México – Español (Latinoamérica) </option> <option selected value="/intl/nl_nl/home/tools/"> Nederland – Nederlands </option> <option value="/intl/en_np/home/tools/"> Nepal – English </option> <option value="/intl/en_nz/home/tools/"> New Zealand – English </option> <option value="/intl/es-419_ni/home/tools/"> Nicaragua – Español (Latinoamérica) </option> <option value="/intl/en_ng/home/tools/"> Nigeria – English </option> <option value="/intl/no_no/home/tools/"> Norge – Norsk </option> <option value="/intl/de_at/home/tools/"> Österreich – Deutsch </option> <option value="/intl/en_pk/home/tools/"> Pakistan – English </option> <option value="/intl/es-419_pa/home/tools/"> Panamá – Español (Latinoamérica) </option> <option value="/intl/es-419_py/home/tools/"> Paraguay – Español (Latinoamérica) </option> <option value="/intl/es-419_pe/home/tools/"> Perú – Español (Latinoamérica) </option> <option value="/intl/en_ph/home/tools/"> Philippines – English </option> <option value="/intl/fil_ph/home/tools/"> Pilipinas – Filipino </option> <option value="/intl/pl_pl/home/tools/"> Polska – Polski </option> <option value="/intl/pt-PT_pt/home/tools/"> Portugal – Português (Portugal) </option> <option value="/intl/es-419_pr/home/tools/"> Puerto Rico – Español (Latinoamérica) </option> <option value="/intl/es-419_do/home/tools/"> República Dominicana – Español (Latinoamérica) </option> <option value="/intl/ro_md/home/tools/"> Republica Moldova – Română </option> <option value="/intl/ro_ro/home/tools/"> România – Română </option> <option value="/intl/en_sa/home/tools/"> Saudi Arabia – English </option> <option value="/intl/de_ch/home/tools/"> Schweiz – Deutsch </option> <option value="/intl/en_sg/home/tools/"> Singapore – English </option> <option value="/intl/sl_si/home/tools/"> Slovenija – Slovenščina </option> <option value="/intl/sk_sk/home/tools/"> Slovensko – Slovenčina </option> <option value="/intl/en_za/home/tools/"> South Africa – English </option> <option value="/intl/en_lk/home/tools/"> Sri Lanka – English </option> <option value="/intl/fr_ch/home/tools/"> Suisse – Français </option> <option value="/intl/fi_fi/home/tools/"> Suomi – Suomi </option> <option value="/intl/sv_se/home/tools/"> Sverige – Svenska </option> <option value="/intl/fr_tn/home/tools/"> Tunisie – Français </option> <option value="/intl/tr_tr/home/tools/"> Türkiye – Türkçe </option> <option value="/intl/en_ae/home/tools/"> United Arab Emirates – English </option> <option value="/intl/en_uk/home/tools/"> United Kingdom – English </option> <option value="/intl/en_us/home/tools/"> United States – English </option> <option value="/intl/es-419_uy/home/tools/"> Uruguay – Español (Latinoamérica) </option> <option value="/intl/es-419_ve/home/tools/"> Venezuela – Español (Latinoamérica) </option> <option value="/intl/vi_vn/home/tools/"> Việt Nam – Tiếng Việt </option> <option value="/intl/el_gr/home/tools/"> Ελλάδα – Ελληνικά </option> <option value="/intl/ru_by/home/tools/"> Беларусь – Русский </option> <option value="/intl/bg_bg/home/tools/"> България – Български </option> <option value="/intl/ru_kz/home/tools/"> Казахстан – Русский </option> <option value="/intl/ru_ru/home/tools/"> Россия – Русский </option> <option value="/intl/sr_rs/home/tools/"> Србија – Српски </option> <option value="/intl/uk_ua/home/tools/"> Україна – Українська </option> <option value="/intl/iw_il/home/tools/"> ‫ישראל – עברית‬ </option> <option value="/intl/ar_ae/home/tools/"> ‫الإمارات العربية المتحدة – العربية‬ </option> <option value="/intl/ar_dz/home/tools/"> ‫الجزائر – العربية‬ </option> <option value="/intl/ar_sa/home/tools/"> ‫المملكة العربية السعودية – العربية‬ </option> <option value="/intl/ar_tn/home/tools/"> ‫تونس – العربية‬ </option> <option value="/intl/ar_eg/home/tools/"> ‫مصر – العربية‬ </option> <option value="/intl/hi_in/home/tools/"> भारत – हिन्दी </option> <option value="/intl/th_th/home/tools/"> ไทย – ไทย </option> <option value="/intl/ko_kr/home/tools/"> 대한민국 – 한국어 </option> <option value="/intl/zh-TW_tw/home/tools/"> 台灣 – 中文（繁體中文） </option> <option value="/intl/ja_jp/home/tools/"> 日本 – 日本語 </option> <option value="/intl/zh-TW_hk/home/tools/"> 香港 – 中文（繁體中文） </option> </select> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <script src="//www.gstatic.com/external_hosted/picturefill/picturefill.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-messages.min.js"></script> 
+  <script async data-gtmid="GTM-DJXNX" src="//www.google.com/ads/js/peitho2/peitho2.min.js"></script> 
+  <script src="../../home/js/adwords.rs.min.js"></script> 
+  <script src="https://www.gstatic.com/brandstudio/kato/cookie_choice_component/cookie_consent_bar.js"></script> 
+  <script>
+    var cookieBarContainer = document.getElementsByClassName('cookie-bar-container')[0];
+    new google.CookieConsentBar(null, cookieBarContainer);
+    </script>  
+ </body>
+</html>

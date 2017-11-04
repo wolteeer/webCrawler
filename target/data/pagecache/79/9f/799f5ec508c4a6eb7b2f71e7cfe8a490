@@ -1,0 +1,686 @@
+<!doctype html>
+<html class="google mmfb" lang="nl" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/nl/trust/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="This webpage explains Google's privacy and security commitments for the tools we provide for schools." name="description"> 
+  <title>
+    Google for Education: Bringing Learning Online
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/nl/trust/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Bringing Learning Online" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/nl/trust/" property="og:url"> 
+  <meta content="" property="og:image"> 
+  <meta content="This webpage explains Google's privacy and security commitments for the tools we provide for schools." property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/nl/trust/" name="twitter:url"> 
+  <meta content="Google for Education: Bringing Learning Online" name="twitter:title"> 
+  <meta content="" name="twitter:image"> 
+  <meta content="This webpage explains Google's privacy and security commitments for the tools we provide for schools." name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Bringing Learning Online" itemprop="name"> 
+  <meta content="This webpage explains Google's privacy and security commitments for the tools we provide for schools." itemprop="description"> 
+  <meta content="" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Bringing Learning Online",
+    "description": "This webpage explains Google's privacy and security commitments for the tools we provide for schools.",
+    "url": "https://edu.google.com/intl/nl/trust/",
+    "logo": "",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="trust" ng-cloak> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/nl/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-help-desktop" class="maia-button expert-desktop get-help-blue nl" data-g-event="Edu: Global Header" data-g-action="Talk to an Expert" data-g-label="Header" href="/intl/nl/contact/">Contact opnemen met een expert</a>
+      <a id="get-google-desktop" class="maia-button expert-desktop nl" data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Aan de slag met Google-producten</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">Hoe kunnen we je helpen?</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>Aan de slag met productiviteitstools</h5> 
+        <p>Gebruik productiviteitstools van Google, zoals Google Classroom, Google Documenten, Google Drive, Google Hangouts, e-mail en meer, gratis en zonder advertenties.</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=nl#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Aanmelden voor G Suite</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Aan de slag met apparaten</h5> 
+        <p>Wil je Chromebooks of Android-apparaten gaan gebruiken op school? Ons team kan je op weg helpen.</p> 
+        <a class="maia-button overlay-button" href="/intl/nl/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Contact opnemen met een expert</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Praten met andere docenten</h5> 
+        <p>Wil je praten met collega's die zijn overgestapt op Google? Ontdek onze community van docenten.</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Andere docenten vinden</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li class="active"> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/" target="_self">Startpagina</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">Producten</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/devices/" target="_self">Apparaten <br><span class="dropdown-item-description">Chromebooks and Tablets</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/productivity-tools/" target="_self">Productiviteitstools <br><span class="dropdown-item-description">Docs, Gmail and More</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/productivity-tools/classroom/" target="_self">Classroom <br><span class="dropdown-item-description">Mission control for teachers and students</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtual reality field trips</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/more-products/" target="_self">Meer producten <br><span class="dropdown-item-description">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">Training</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://sites.google.com/site/localizededulearningcenter/nl" target="_self">Docenttraining <br><span class="dropdown-item-description">in tools voor Google for Education</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT-beheerderstraining <br><span class="dropdown-item-description">voor G Suite beheerders</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Partneroverzicht <br><span class="dropdown-item-description">to help your school go Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/communities/" target="_self">Community's <br><span class="dropdown-item-description">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">Bronnen</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:News &amp;amp; Events" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/news-and-events/" target="_self">Nieuws en evenementen </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/programs/" target="_self">Programma's <br><span class="dropdown-item-description">for students and teachers</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/case-studies/" target="_self">Casestudy's </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/computerscience/" target="_self">Onderwijs in computerwetenschap <br><span class="dropdown-item-description">Programs, Funding, and Research</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/global-education/" target="_self">Onderwijs wereldwijd </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/nl/it/" target="_self">IT-gids</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/nl/higher-education/" target="_self">Hoger onderwijs</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Producten</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/devices/" target="_self">Apparaten <span class="nav-subtext">Chromebooks and Tablets</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/productivity-tools/" target="_self">Productiviteitstools <span class="nav-subtext">Docs, Gmail and More</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/productivity-tools/classroom/" target="_self">Classroom <span class="nav-subtext">Mission control for teachers and students</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtual reality field trips</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/more-products/" target="_self">Meer producten <span class="nav-subtext">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Training</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://sites.google.com/site/localizededulearningcenter/nl" target="_self">Docenttraining <span class="nav-subtext">in tools voor Google for Education</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT-beheerderstraining <span class="nav-subtext">voor G Suite beheerders</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Partneroverzicht <span class="nav-subtext">to help your school go Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/communities/" target="_self">Community's <span class="nav-subtext">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Bronnen</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="News &amp;amp; Events" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/news-and-events/" target="_self">Nieuws en evenementen </a> </li> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/programs/" target="_self">Programma's <span class="nav-subtext">for students and teachers</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/case-studies/" target="_self">Casestudy's </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/computerscience/" target="_self">Onderwijs in computerwetenschap <span class="nav-subtext">Programs, Funding, and Research</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/global-education/" target="_self">Onderwijs wereldwijd </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">IT-gids</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/it/" target="_self">IT </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/trust/" target="_self">Privacypagina's </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Hoger onderwijs</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/higher-education/" target="_self">Hoger onderwijs </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-help-desktop" class="gray-btn talk-to-an-expert-mobile get-help-blue nl" data-g-event="Edu: Global Header" data-g-action="Talk to an Expert" data-g-label="Header" href="/intl/nl/contact/">Contact opnemen met een expert</a> </h4>
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile nl" data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Aan de slag met Google-producten</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">Hoe kunnen we je helpen?</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>Aan de slag met productiviteitstools</h5> 
+         <p>Gebruik productiviteitstools van Google, zoals Google Classroom, Google Documenten, Google Drive, Google Hangouts, e-mail en meer, gratis en zonder advertenties.</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=nl#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Aanmelden voor G Suite</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Aan de slag met apparaten</h5> 
+         <p>Wil je Chromebooks of Android-apparaten gaan gebruiken op school? Ons team kan je op weg helpen.</p> 
+         <a class="maia-button overlay-button" href="/intl/nl/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Contact opnemen met een expert</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Praten met andere docenten</h5> 
+         <p>Wil je praten met collega's die zijn overgestapt op Google? Ontdek onze community van docenten.</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Andere docenten vinden</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="main-wrapper maia-max"> 
+    <section class="section hero section--full-bg-img section--full text--center nl_NL"> 
+     <div class="maia-aux"> 
+      <h2 class="text--center text--white text--hairline text__headline">Informatie over privacy en beveiliging</h2> 
+     </div> 
+    </section> 
+    <section class="section intro maia-aux"> 
+     <div class="maia-cols section--center"> 
+      <div class="maia-col-10 section__content"> 
+       <h3 class="text__header">De missie van Google is alle informatie ter wereld ordenen en universeel toegankelijk en bruikbaar maken. Als onderdeel van deze missie zouden zowel docenten als leerlingen over de hele wereld toegang moeten hebben tot technologie om te kunnen leren en samenwerken.</h3> 
+       <p>Daarom bieden we docenten krachtige oplossingen die betaalbaar en eenvoudig in gebruik zijn. We weten dat we vertrouwen kunnen winnen door de privacy van docenten en leerlingen te beschermen en de beste beveiligingsmaatregelen te bieden. Op deze webpagina wordt duidelijk uitgelegd hoe we ons inzetten voor privacy en beveiliging.</p> 
+      </div> 
+     </div> 
+    </section> 
+    <nav class="section page-nav"> 
+     <div class="maia-aux section__content"> 
+      <h3 class="text__header">Vind antwoorden op veelgestelde vragen</h3> 
+      <ul class="wrapper"> 
+       <li class="cat None"> <input type="checkbox"> <h4 class="m-icon-pseudo"><strong><a class="gewb-smoothscroll-control" href="#google-apps-for-edu">G Suite for Education core services</a></strong></h4> 
+        <ul class="taller reduce-margin-more"> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#what-are-google-apps-for-edu">Wat zijn de kernservices van G Suite for Education?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#does-google-own-school-or-student-data">Zijn gegevens van scholen en leerlingen eigendom van Google?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#does-google-sell-school-or-student-data-to-third-parties">Does Google sell school or student data to third parties?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#gdpr">Op welke manier wordt de GDPR geïmplementeerd in G Suite for Education?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#are-there-ads-in-google-apps-of-education">Bevat G Suite for Education advertenties?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#how-does-google-keep-data-secure">Hoe zorgt Google ervoor dat gegevens beschermd zijn?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#how-does-google-ensure-its-tools-are-reliable">Hoe zorgt Google ervoor dat de tools betrouwbaar zijn?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#which-third-parties-have-reviewed-Googles-security-practices">Door welke derden zijn de beveiligingsmaatregelen van Google gecontroleerd?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#how-do-i-know-that-other-customers-sharing-the-same-servers-cant-access-my-data">Hoe kan ik er zeker van zijn dat andere klanten die dezelfde servers gebruiken, geen toegang hebben tot mijn gegevens?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#how-do-you-know-were-keeping-our-word">Hoe weet je zeker dat we ons aan ons woord houden?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#has-google-signed-the-student-privacy-ledge">Heeft Google de Student Privacy Pledge ondertekend?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#does-google-encrypt-my-data">Versleutelt Google mijn gegevens?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#how-do-google-services-collect-and-use-information-with-g-suite-for-education-accounts">How do Google services collect and use information with G Suite for Education accounts?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#what-kind-of-scanning-or-indexing-of-user-data-is-done">Worden gebruikersgegevens gescand/geïndexeerd in G Suite for Education-accounts?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#does-google-apps-for-education-comply-with-ferpa">Voldoet het gebruik van G Suite for Education aan de Family Educational Rights and Privacy Act (FERPA)?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#is-my-school-still-compliant-us-eu-safe-harbor-agreement">Met het oog op de veranderingen in de Safe Harbour-overeenkomst tussen de VS en de EU: welke opties biedt G Suite for Education om te voldoen aan de Europese richtlijn voor gegevensbescherming?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#can-google-apps-for-edu-be-used-in-compliance-with-coppa">Kan G Suite for Education worden gebruikt in overeenstemming met de Children's Online Privacy Protection Act (COPPA) van 1998?</a> </li> 
+        </ul> </li> 
+       <li class="cat None"> <input type="checkbox"> <h4 class="m-icon-pseudo"><strong><a class="gewb-smoothscroll-control" href="#chromebooks-for-edu">Chromebooks for Education</a></strong></h4> 
+        <ul class="reduce-margin-more"> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#who-uses-chromebooks-for-edu">Voor wie zijn Chromebooks for Education bestemd?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#are-chromebooks-safe-secure-for-my-students">Zijn Chromebooks veilig voor mijn leerlingen?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#are-chromebooks-compatible-with-online-testing">Zijn Chromebooks geschikt voor online toetsen?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#how-is-data-used-and-protected-for-students-on-chromebooks-for-edu">Hoe worden de gegevens gebruikt en beschermd van leerlingen die Chromebooks for Education gebruiken?</a> </li> 
+        </ul> </li> 
+       <li class="cat None"> <input type="checkbox"> <h4 class="m-icon-pseudo"><strong><a class="gewb-smoothscroll-control" href="#additional-services">Aanvullende services</a></strong></h4> 
+        <ul class="reduce-margin-more"> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#additional-services">Welke aanvullende Google-consumentenservices kunnen worden gebruikt met G Suite for Education-accounts?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#how-can-families-keep-their-kids-safe-online-at-home-too">Wat kunnen gezinnen doen om hun kinderen veilig te laten internetten?</a> </li> 
+        </ul> </li> 
+      </ul> 
+     </div> 
+    </nav> 
+    <aside id="google-apps-for-edu" class="section section--full-bg-img section--full text--center google-apps-for-edu nl_NL"> 
+     <div class="maia-aux text--center"> 
+      <h2 class="text--center text--white text--light text__header">G Suite for Education</h2> 
+     </div> 
+    </aside> 
+    <section class="section maia-aux"> 
+     <div id="what-are-google-apps-for-edu" class="maia-cols section--center"> 
+      <div class="maia-col-10 section__content"> 
+       <h3 class="text--center text__header">Wat zijn de kernservices van G Suite for Education?</h3> 
+       <p> De <a href="https://www.google.com/apps/intl/en/terms/user_features.html">kernservices</a> van G Suite for Education staan aan de basis van het educatieve aanbod van Google voor scholen. De kernservices zijn Gmail (inclusief Inbox by Gmail), Agenda, Classroom, Contacten, Drive, Documenten, Formulieren, Discussiegroepen, Spreadsheets, Sites, Presentaties, Talk/Hangouts en Vault. Deze services zijn onderworpen aan de <a href="https://www.google.com/apps/intl/en/terms/education_terms.html">Overeenkomst voor G Suite for Education</a>. </p> 
+       <p> Schools can use G Suite core services in compliance with COPPA and FERPA. G Suite core services contain no advertising and do not use information in those services for advertising purposes. </p> 
+       <p> Meer dan 50 miljoen leerlingen, docenten en beheerders in vrijwel elk land ter wereld vertrouwen op G Suite om te leren en samen te werken. Het is onze missie om de privacy en veiligheid van al onze gebruikers te waarborgen, dus ook die van leerlingen. </p> 
+       <p> Please note that there are additional services outside of the G Suite core services that G Suite users can access. These services are not governed by the Student Privacy Pledge or the G Suite agreement, so we may use information in these services in ways we would not for G Suite core services. For example, additional services may serve ads, and Google may use information in these additional services to improve them. For G Suite users in primary/secondary (K-12) schools, Google does not use any user personal information (or any information associated with a Google Account) to target ads. Please review the <a href="https://www.google.com/work/apps/terms/education_privacy.html">G Suite Privacy Notice</a>, <a href="https://www.google.com/policies/terms">Google Terms of Service</a> and <a href="https://www.google.com/policies/privacy/">Google Privacy Policy</a>. Learn more about the differences between core services and additional services below. </p> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/a/answer/6356441?hl=en&amp;ref_topic=6047382">Learn more about G Suite core and additional services</a> 
+       <a class="cta m-icon-pseudo" href="https://www.google.com/apps/intl/nl/terms/education_terms.html">Read our G Suite agreement (Google's contract with schools covering G Suite core services)</a> 
+      </div> 
+     </div> 
+     <hr> 
+     <div class="maia-cols "> 
+      <div id="does-google-own-school-or-student-data" class="maia-col-4"> 
+       <figure class="icon">
+        <img src="/images/trust/does-google-own-school-or-student-data.svg" alt="School">
+       </figure> 
+       <h3 class="text__header">Zijn gegevens van scholen en leerlingen eigendom van Google?</h3> 
+       <p> Nee. Google krijgt geen eigendom van klantgegevens in de <a href="https://www.google.com/apps/intl/en/terms/user_features.html">kernservices</a> van G Suite. Dit staat ook in onze <a href="https://www.google.com/apps/intl/en/terms/education_terms.html">contracten</a> (bij 'Intellectueel eigendom'). </p> 
+       <p> We bieden krachtige, gebruiksvriendelijke beheertools en dashboards waarmee beheerders eenvoudig de services, het gebruik en de gegevens van de organisatie kunnen bijhouden. We bewaren persoonlijke gegevens slechts zo lang als je zelf wilt. Wanneer een onderwijsinstituut, school of universiteit stopt met het gebruik van Google, zorgen wij ervoor dat de instelling zijn <a href="https://support.google.com/a/answer/100458?hl=nl">gegevens eenvoudig kan meenemen</a>. </p> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/a/answer/100458?hl=en">Learn how to take data out of Google</a> 
+       <a class="cta m-icon-pseudo" href="http://www.google.com/apps/intl/en/terms/education_terms.html">Read the contract (section on "intellectual property")</a> 
+      </div> 
+      <div id="does-google-sell-school-or-student-data-to-third-parties" class="maia-col-4"> 
+       <figure class="icon">
+        <img src="/images/trust/does-doogle-sell-school-data-to-third-parties.svg" alt="Information Sharing">
+       </figure> 
+       <h3 class="text__header">Does Google sell school or student data to third parties?</h3> 
+       <p> We verkopen je gegevens in G Suite niet door aan derden en we delen geen persoonlijke gegevens in onze systemen met derden, behalve in de zeldzame gevallen die staan vermeld in de <a href="https://www.google.com/apps/intl/nl/terms/education_terms.html">Overeenkomst voor G Suite</a><a href="https://www.google.com/intl/nl/policies/privacy/"> en in ons </a>Privacybeleid. Voorbeelden zijn wanneer je ons vraagt je gegevens te delen, of wanneer we een wettelijke verplichting hebben om je gegevens te delen. </p> 
+       <a class="cta m-icon-pseudo" href="https://www.google.com/intl/nl/policies/privacy/#nosharing">Meer informatie over het delen van gegevens</a> 
+      </div> 
+      <div id="are-there-ads-in-google-apps-of-education" class="maia-col-4"> 
+       <figure class="icon">
+        <img src="/images/trust/are-there-ads-in-google-apps-for-edu.svg" alt="No Ads">
+       </figure> 
+       <h3 class="text__header">Bevat G Suite advertenties?</h3> 
+       <p> Nee. In het pakket met <a href="https://www.google.com/apps/intl/nl/terms/user_features.html">kernservices</a> van G Suite worden geen advertenties weergegeven. Buiten de <a href="https://www.google.com/apps/intl/nl/terms/user_features.html">kernservices</a> van G Suite kunnen in aanvullende Google-services wel advertenties worden weergegeven, zoals beschreven in het <a href="https://www.google.com/work/apps/terms/education_privacy.html">Privacybericht voor G Suite</a>. Google maakt bij G Suite-gebruikers in het basisonderwijs geen gebruik van persoonlijke gebruikersgegevens (of andere gegevens verbonden aan een Google-account) om gerichte advertenties weer te geven. </p> 
+       <a class="cta m-icon-pseudo" href="https://www.google.com/apps/intl/nl/terms/education_terms.html">Read our G Suite agreement (Google's contract with schools covering G Suite core services)</a> 
+       <a class="cta m-icon-pseudo" href="https://www.google.com/work/apps/terms/education_privacy.html">Lees de Privacykennisgeving van G Suite</a> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/work/answer/6056650?hl=nl">More about Privacy</a> 
+      </div> 
+     </div> 
+    </section> 
+    <section id="gdpr" class="section background--grey"> 
+     <div class="maia-aux text--center additional-services section--center"> 
+      <div id="trust-gdpr" class="maia-cols section--center"> 
+       <div class="maia-col-10 section__content"> 
+        <h3 class="text--center text__header">Op welke manier wordt de GDPR geïmplementeerd in G Suite for Education?</h3> 
+        <p> Onze gebruikers kunnen erop rekenen dat Google <a href="https://www.blog.google/topics/google-cloud/google-cloud-our-commitment-general-data-protection-regulation-gdpr/" target="_blank">de GDPR implementeert</a> in G Suite for Education. Bekijk onze <a href="https://www.google.com/cloud/security/gdpr/#gdpr-what-you-can-do__footnotes" target="_blank">GDPR-website</a> voor meer informatie, inclusief tips over hoe je je kunt voorbereiden op de GDPR, die van kracht wordt op 25 mei 2018. </p> 
+       </div> 
+      </div> 
+     </div> 
+    </section> 
+    <aside class="section quote section--full-bg-img"> 
+     <div class="maia-aux text--center"> 
+      <blockquote> 
+       <q class="text__header">""Google heeft bewezen dat het een veilig bedrijf is. Ik ken geen enkele scholengemeenschap waar de veiligheid net zo streng wordt gecontroleerd.""</q> 
+       <footer class="cite"> 
+        <cite class="author"><strong>Henry Thiele</strong></cite> 
+        <p class="title">Conrector voor technologie en onderwijs</p> 
+        <p class="title">Maine Township High School District 207, Illinois</p> 
+       </footer> 
+      </blockquote> 
+     </div> 
+    </aside> 
+    <section class="section maia-aux"> 
+     <div class="maia-cols questions"> 
+      <div id="how-does-google-keep-data-secure" class="maia-col-12"> 
+       <h3 class="text__header">Hoe zorgt Google ervoor dat gegevens beschermd zijn?</h3> 
+       <p> We zetten ons volledig in voor de beveiliging en privacy van je gegevens en voorkomen ongeautoriseerde toegang tot jouw gegevens en die van de school. Onze systemen behoren tot de veiligste in de sector en we bieden effectieve beveiliging tegen alle onwettige pogingen om toegang te verkrijgen tot de gegevens van onze klanten. </p> 
+       <p> De <a href="https://www.youtube.com/watch?v=avP5d16wEp0">datacentrums</a> van Google gebruiken aangepaste hardware waarop een aangepast verbeterd besturingssysteem en bestandssysteem wordt uitgevoerd. Deze systemen zijn allemaal geoptimaliseerd voor beveiliging en prestatie. Aangezien Google de gehele hardwarevoorraad beheert, kunnen we snel reageren op bedreigingen of zwakke punten als deze zich voordoen. </p> 
+       <p> Google <a href="http://googleblog.blogspot.nl/2014/03/staying-at-forefront-of-email-security.html">versleutelt</a> gegevens in Gmail (inclusief bijlagen) en Drive terwijl deze worden verzonden. Dit zorgt ervoor dat uw berichten niet alleen veilig zijn wanneer ze tussen u en de Google-servers worden overgedragen, maar ook als ze tussen de datacentrums van Google worden verplaatst. </p> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/work/answer/6056693?hl=nl">Meer informatie over veiligheid</a> 
+      </div> 
+      <div id="how-does-google-ensure-its-tools-are-reliable" class="maia-col-4 questions-widget"> 
+       <figure class="icon">
+        <img src="/images/trust/how-does-google-ensure-its-tools-are-reliable.svg" alt="Reliable tools">
+       </figure> 
+       <h3 class="text__header">Hoe zorgt Google ervoor dat de tools betrouwbaar zijn?</h3> 
+       <p> Onze beproefde infrastructuur kan meer dan 100 miljard zoekopdrachten per maand verwerken. Services zoals Gmail kunnen worden opgeschaald naar honderden miljoenen gebruikers met een beschikbaarheid van 99,978% en geen geplande uitvaltijd. We hebben meer dan 450 voltijdstechnici in dienst (de meest toonaangevende beveiligingsexperts ter wereld) die zich inzetten om je gegevens te beschermen. </p> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/work/answer/6056635?hl=nl">Meer informatie over betrouwbaarheid</a> 
+      </div> 
+      <div id="which-third-parties-have-reviewed-Googles-security-practices" class="maia-col-4 questions-widget"> 
+       <figure class="icon">
+        <img src="/images/trust/which-third-parties-have-reviewed-googles-security-practices.svg" alt="Security practices">
+       </figure> 
+       <h3 class="text__header">Door welke derden zijn de beveiligingsmaatregelen van Google gecontroleerd?</h3> 
+       <p> We vragen onafhankelijke audit-instanties onze processen voor gegevensbescherming te controleren. De onafhankelijke auditor Ernst &amp; Young heeft geverifieerd dat onze werkwijzen en contracten voor G Suite voldoen aan ISO/IEC 27018:2014. G Suite en onze datacenters zijn onderworpen aan SSAE 16/ISAE 3402 Type II SOC 2-audits en hebben een ISO 27001-certificering verkregen. </p> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/work/answer/6056694">More about Compliance</a> 
+       <a class="cta m-icon-pseudo" href="https://services.google.com/fh/files/blogs/btd-sec-op-2014-grey.pdf">See our security audit certifications</a> 
+       <a class="cta m-icon-pseudo" href="https://cert.webtrust.org/soc3_google.html">Details of SOC3</a> 
+      </div> 
+      <div id="how-do-i-know-that-other-customers-sharing-the-same-servers-cant-access-my-data" class="maia-col-4 questions-widget"> 
+       <figure class="icon">
+        <img src="/images/trust/how-does-google-keep-data-secure.svg" alt="Keep Data Secure">
+       </figure> 
+       <h3 class="text__header">Hoe kan ik er zeker van zijn dat andere klanten die dezelfde servers gebruiken geen toegang hebben tot mijn gegevens?</h3> 
+       <p> Gegevens worden net zo beschermd als wanneer ze op een eigen server zouden staan. Niet-gemachtigde externe partijen hebben geen toegang tot uw gegevens. Andere klanten hebben geen toegang tot uw gegevens, en u heeft geen toegang tot die van hen. Sterker nog, alle gebruikersaccounts zijn beschermd door deze veilige infrastructuur, waardoor de ene gebruiker de gegevens van een andere niet kan zien. Dit is vergelijkbaar met de segmentering van klantgegevens in andere gedeelde infrastructuren, zoals online banktoepassingen. </p> 
+      </div> 
+      <hr> 
+      <div id="how-do-you-know-were-keeping-our-word" class="maia-col-4 questions-widget"> 
+       <figure class="icon">
+        <img src="/images/trust/how-do-you-know-were-keeping-our-word.svg" alt="Keeping our words">
+       </figure> 
+       <h3 class="text__header">Hoe weet je zeker dat we ons aan ons woord houden?</h3> 
+       <p> We stellen contractuele verbintenissen op in onze <a href="https://www.google.com/apps/intl/nl/terms/education_terms.html">G Suite-overeenkomst</a> en leggen ons <a href="https://www.google.com/work/apps/terms/dpa_terms.html">hier</a> vast op privacy- en beveiligingsstandaarden. Het is onze missie om al onze gebruikers de hoogste mate van transparantie te bieden. Dit doen we via real-time dashboards om de systeemprestaties te controleren, doorlopende procesaudits en informatie over de locatie van onze datacentra. Het zijn jouw gegevens en we willen dat je weet wat er met je gegevens gebeurt, zodat je altijd een weloverwogen keuze kunt maken. </p> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/work/answer/6056758?hl=nl">Meer informatie over transparantie</a> 
+      </div> 
+      <div id="has-google-signed-the-student-privacy-ledge" class="maia-col-4 questions-widget"> 
+       <figure class="icon">
+        <img src="/images/trust/has-google-signed-the-student-privacy-pledge.svg" alt="Student Privacy Pledge">
+       </figure> 
+       <h3 class="text__header">Heeft Google de Student Privacy Pledge ondertekend?</h3> 
+       <p> Ja. Google heeft de Student Privacy Pledge ondertekend om nog eens te bevestigen dat we ons inzetten voor scholen. Deze verbintenis werd geïntroduceerd door het Future of Privacy Forum (FPF) en de Software and Information Industry Association (SIIA). Dit geeft aan dat bij onze educatieve services de persoonlijke gegevens van leerlingen worden beschermd. </p> 
+       <a class="cta m-icon-pseudo" href="https://studentprivacypledge.org/">Read the Student Privacy Pledge</a> 
+       <a class="spp-badge" href="http://studentprivacypledge.org/"><img src="/images/trust/student-privacy-pledge-signatory-badge.png" alt="Student privacy pledge signatory"></a> 
+      </div> 
+      <div id="does-google-encrypt-my-data" class="maia-col-4 questions-widget"> 
+       <figure class="icon">
+        <img src="/images/trust/which-third-parties-have-reviewed-googles-security-practices.svg" alt="Security practices">
+       </figure> 
+       <h3 class="text__header">Versleutelt Google mijn gegevens?</h3> 
+       <p> Ja. Gegevens worden op verschillende niveaus versleuteld. Google dwingt HTTPS (Hypertext Transfer Protocol Secure) af voor alle gegevens die worden verzonden tussen gebruikers en G Suite-services en gebruikt Perfect Forward Secrecy (PFS) voor alle services. Google versleutelt ook berichten die worden verzonden met andere e-mailservers met 256-bits Transport Layer Security (TLS) en gebruikt 2048 RSA-versleutelingssleutels voor de validatie en belangrijke overdrachtsfases. Hiermee worden berichten beschermd als gebruikers e-mails verzenden en ontvangen met externe partijen die ook gebruikmaken van TLS. </p> 
+      </div> 
+      <hr> 
+      <div id="how-do-google-services-collect-and-use-information-with-g-suite-for-education-accounts" class="maia-col-4 questions-widget"> 
+       <h3 class="text__header">How do Google services collect and use information with G Suite for Education accounts?</h3> 
+       <p> The G Suite for Education Privacy Notice can help schools, students, and parents understand what information Google services collect when used with G Suite for Education accounts, and what they do with that information. </p> 
+       <a class="cta m-icon-pseudo" href="https://gsuite.google.com/terms/education_privacy.html">Lees de Privacykennisgeving van G Suite</a> 
+      </div> 
+      <div id="what-kind-of-scanning-or-indexing-of-user-data-is-done" class="maia-col-4 questions-widget"> 
+       <h3 class="text__header">Worden gebruikersgegevens gescand/geïndexeerd in G Suite for Education-accounts?</h3> 
+       <p> G Suite <a href="http://www.google.com/apps/intl/en/terms/user_features.html">services</a> don't collect or use information in those services for advertising purposes or to create ads profiles. </p> 
+       <p> Gmail voor consumenten en voor G Suite-gebruikers wordt uitgevoerd op dezelfde beproefde infrastructuur. Hierdoor leveren wij goede prestaties, betrouwbaarheid en veiligheid aan al onze gebruikers. G Suite is echter een apart aanbod met aanvullende functies voor <a href="http://googleenterprise.blogspot.com/2013/12/keeping-you-safe-in-2013.html">beveiliging</a>, <a href="https://support.google.com/a/topic/2413312">beheer</a> en <a href="http://googleappsupdates.blogspot.com/2015/01/google-apps-vault-added-to-all-google.html">archivering</a> voor klanten van Education, Work en Government. </p> 
+       <p> Zoals veel e-mailproviders maken we in Gmail gebruik van scanfuncties om onze klanten veilig te houden en hun productervaring te verbeteren. In Gmail voor G Suite bieden we virus- en spamdetectie, spellingcontrole, relevante zoekresultaten en functies als Prioriteitsinbox en automatische detectie van agenda-afspraken. Alle binnenkomende e-mails worden volledig automatisch gescand om productfuncties te kunnen bieden. We scannen GEEN e-mails van G Suite voor advertentiedoeleinden. </p> 
+       <a class="cta m-icon-pseudo" href="https://www.google.com/work/apps/terms/education_privacy.html">Lees de Privacykennisgeving van G Suite</a> 
+      </div> 
+     </div> 
+    </section> 
+    <section class="section background--grey"> 
+     <div class="maia-aux"> 
+      <div class="maia-cols "> 
+       <div id="does-google-apps-for-education-comply-with-ferpa" class="maia-col-4"> 
+        <h3 class="text__header">Voldoet het gebruik van G Suite for Education aan de Family Educational Rights and Privacy Act (FERPA)?</h3> 
+        <p> Ja. De <a href="https://www.google.com/apps/intl/en/terms/user_features.html">kernservices</a> van G Suite voldoen aan de Family Educational Rights and Privacy Act (FERPA) en in onze <a href="http://www.google.com/apps/intl/en/terms/education_terms.html">overeenkomsten</a> is opgenomen dat we ons daarvoor inzetten. </p> 
+        <a class="cta m-icon-pseudo" href="https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html">Meer informatie over FERPA</a> 
+       </div> 
+       <div id="is-my-school-still-compliant-us-eu-safe-harbor-agreement" class="maia-col-4"> 
+        <h3 class="text__header">Met het oog op de veranderingen in de Safe Harbour-overeenkomst tussen de VS en de EU: welke opties biedt G Suite for Education om te voldoen aan de Europese richtlijn voor gegevensbescherming?</h3> 
+        <p> Scholen kunnen kiezen voor ons <a href="https://www.google.com/work/apps/terms/dpa_terms.html">Amendement gegevensverwerking</a> en voor onze <a href="https://www.google.com/intx/nl/work/apps/terms/mcc_terms.html">modelcontractclausules</a>. Dit zijn aanvullende manieren om te voldoen aan de geschiktheids- en veiligheidsvereisten van de richtlijn voor gegevensbescherming van de EU. Modelcontractclausules zijn specifiek gemaakt door de Europese Commissie om de overdracht van persoonlijke gegevens uit Europa te voorkomen. </p> 
+        <p> Als je dit nog niet hebt gedaan, willen we je als G Suite-klant hieraan herinneren, zodat je kunt overwegen je aan te melden voor het amendement voor het verwerken van gegevens en de modelcontractclausules. </p> 
+        <a class="cta m-icon-pseudo" href="https://support.google.com/a/answer/2888485?hl=nl">See opt-in instructions</a> 
+        <a class="cta m-icon-pseudo" href="https://www.google.com/work/apps/terms/mcc_terms.html">More about model contract clauses</a> 
+       </div> 
+       <div id="can-google-apps-for-edu-be-used-in-compliance-with-coppa" class="maia-col-4"> 
+        <h3 class="text__header">Kan G Suite for Education worden gebruikt in overeenstemming met de Children's Online Privacy Protection Act (COPPA) van 1998?</h3> 
+        <p> Ja. In de contracten die we met scholen afsluiten, staat dat scholen die G Suite gebruiken, verplicht zijn toestemming van de ouders te krijgen conform de COPPA. Onze services kunnen worden gebruikt conform de COPPA, mits de school zorgt voor toestemming van de ouders. </p> 
+        <a class="cta m-icon-pseudo" href="https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule">Lees de COPPA</a> 
+        <a class="cta m-icon-pseudo" href="https://support.google.com/a/answer/6356509?hl=en&amp;ref_topic=6047382">Read our help center article “Getting consent for G Suite”</a> 
+       </div> 
+      </div> 
+     </div> 
+    </section> 
+    <aside id="chromebooks-for-edu" class="section section--full-bg-img chromebooks-for-edu nl_NL"> 
+     <div class="maia-aux text--center"> 
+      <h2 class="text--center text--white text--light text__header">Chromebooks for Education</h2> 
+     </div> 
+    </aside> 
+    <section class="section maia-aux"> 
+     <div id="who-uses-chromebooks-for-edu" class="maia-cols section--center"> 
+      <div class="maia-col-10 section__content"> 
+       <h3 class="text--center text__header">Voor wie zijn Chromebooks for Education bestemd?</h3> 
+       <p> Miljoenen leerlingen gebruiken een Chromebook om te leren. Dankzij de privacy- en beveiligingsfuncties is de Chromebook in de afgelopen twee jaar het best verkochte apparaat op Amerikaanse basisscholen en middelbare scholen. Beheerders kunnen instellingen beheren om leerlingen zo veel toegang te geven als de school wenselijk vindt. </p> 
+       <p> Hoewel Chromebooks niet tot de kernservices behoren, zorgen we ervoor dat ze voldoen aan de Student Privacy Pledge zodat scholen ze kunnen gebruiken in overeenstemming met de COPPA en FERPA. We zorgen er met name voor dat gegevens die op een Chromebook worden ingevoerd, niet worden gebruikt om leerlingen te targeten met advertenties. Je kunt hieronder meer informatie vinden. </p> 
+      </div> 
+     </div> 
+     <hr> 
+     <div class="maia-cols "> 
+      <div id="are-chromebooks-safe-secure-for-my-students" class="maia-col-4"> 
+       <figure class="icon">
+        <img src="/images/trust/are-chromebooks-safe-secure-for-my-students.svg" alt="Chromebooks safety">
+       </figure> 
+       <h3 class="text__header">Zijn Chromebooks veilig voor mijn leerlingen?</h3> 
+       <p> Ja. Chromebooks zijn ontworpen met meerdere beveiligingslagen om ze te beschermen tegen virussen en malware, zonder extra beveiligingssoftware. Tien procent van de opstarttijd wordt gebruikt om opnieuw te verifiëren dat er niet is geknoeid met het apparaat, dus telkens wanneer je een Chromebook opstart, wordt de beveiliging gecontroleerd. Aangezien Chromebooks kunnen worden beheerd via internet, is het voor beheerders op scholen eenvoudig <a href="https://support.google.com/chrome/a/answer/2657289?hl=nl">beleid en instellingen te configureren</a>, zoals het inschakelen van Safe Browsing of het blokkeren van schadelijke sites. </p> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/chromebook/answer/3438631?hl=nl&amp;source=genius-rts">More about Chromebook security</a> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/chromebook/topic/2586066?hl=nl&amp;ref_topic=3399710&amp;vid=1-635767239467175381-97505593&amp;source=genius-rts">More about Chromebook privacy</a> 
+       <a class="cta m-icon-pseudo" href="https://www.google.com/chrome/browser/privacy/whitepaper.html">Read the Chrome privacy whitepaper</a> 
+      </div> 
+      <div id="are-chromebooks-compatible-with-online-testing" class="maia-col-4"> 
+       <figure class="icon">
+        <img src="/images/trust/are-chromebooks-compatible-with-online-testing.svg" alt="Online testing">
+       </figure> 
+       <h3 class="text__header">Zijn Chromebooks geschikt voor online toetsen?</h3> 
+       <p> Chromebooks vormen een veilig platform voor het beheren van toetsen voor leerlingen. Als de apparaten correct zijn geconfigureerd, voldoen ze aan de toepasselijke toetsnormen voor het basisonderwijs en middelbaar onderwijs. Met Chromebooks kun je de toegang van leerlingen tot internet tijdens een toets uitschakelen. Daarnaast kun je externe opslag, screenshots en de mogelijkheid voor afdrukken uitschakelen. De PARCC (zie TestNav) en het Smarter Balanced Assessment Consortium hebben geverifieerd dat Chromebooks voldoen aan de vereisten die voor online leerlingen gelden qua hardware en besturingssysteem. </p> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/chrome/a/answer/3273084?hl=nl">Chromebooks configureren voor toetsen</a> 
+      </div> 
+      <div id="how-is-data-used-and-protected-for-students-on-chromebooks-for-edu" class="maia-col-4"> 
+       <figure class="icon">
+        <img src="/images/trust/how-is-data-used-and-protected-when-students-use-chromebooks-for-edu.svg" alt="Chrome Sync">
+       </figure> 
+       <h3 class="text__header">Hoe worden de gegevens gebruikt en beschermd van leerlingen die Chromebooks for Education gebruiken?</h3> 
+       <p> Met behulp van <a href="https://support.google.com/chromebook/answer/2914794?hl=nl">Chrome-synchronisatie</a> kun je bij een Chromebook of Chrome-browser inloggen op je Google-account, zodat je al je apps, extensies, bladwijzers en vaak bezochte webpagina's voor handen hebt. Dit betekent dat leerlingen direct aan de slag kunnen gaan. Dat is een van de redenen waarom Chromebooks zo populair zijn geworden in de klas, vooral op scholen die niet voor elk kind een laptop kunnen aanschaffen. Dankzij Chromebooks en Chrome-synchronisatie hebben leerlingen een gepersonaliseerde omgeving op elk apparaat dat ze met hun klasgenoten delen. </p> 
+       <p> Persoonlijk identificeerbare gegevens via Chrome-synchronisatie in G Suite-accounts worden enkel gebruikt om de betreffende persoon functionaliteit te bieden in Chrome. Een voorbeeld is dat leerlingen op verschillende apparaten veilig toegang hebben tot hun eigen browsergegevens en -instellingen. Bovendien verzamelen onze systemen samengevoegde gegevens van miljoenen gebruikers van Chrome-synchronisatie. Nadat de informatie over individuele gebruikers volledig is verwijderd, gebruiken we deze anonieme totaalgegevens om onze services te verbeteren. Als de gegevens bijvoorbeeld laten zien dat miljoenen mensen een webpagina hebben bezocht die niet werkt, kan de site lager in de zoekresultaten worden geplaatst. Dit houdt geen verband met specifieke personen en wordt niet gebruikt om het gedrag van leerlingen te analyseren. Beheerders kunnen indien gewenst <a href="https://support.google.com/chrome/a/answer/6309115">Chrome-synchronisatie uitschakelen</a> en gebruikers kunnen <a href="https://support.google.com/chromebook/answer/2914794?hl=nl">kiezen welke informatie ze willen synchroniseren</a>. Gegevens van Chrome-synchronisatie van G Suite-gebruikers worden niet gebruikt om individuele leerlingen te targeten met advertenties. </p> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/chromebook/answer/2914794?hl=nl">Learn more about Chrome Sync</a> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/chrome/a/answer/1289314?hl=nl">Learn how to manage Chrome devices</a> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/chrome/answer/1181035?hl=nl">See how to encrypt your synced data</a> 
+      </div> 
+     </div> 
+    </section> 
+    <section class="section background--grey"> 
+     <div class="maia-aux text--center additional-services section--center"> 
+      <div id="additional-services" class="maia-cols section--center"> 
+       <div class="maia-col-10 section__content"> 
+        <h3 class="text--center text__header">Aanvullende services</h3> 
+        <p> Scholen kunnen bepalen of leerlingen of docenten aanvullende consumentenservices van Google kunnen gebruiken bij hun G Suite-accounts. Wij willen ervoor zorgen dat persoonlijke gegevens van leerlingen in het basisonderwijs en voortgezet onderwijs niet worden gebruikt voor de targeting van advertenties in deze services. Soms worden er zelfs helemaal geen advertenties weergegeven. </p> 
+        <p> De meeste aanvullende services vallen onder de <a href="https://www.google.com/intl/nl/policies/terms/">Servicevoorwaarden van Google</a> en het <a href="https://www.google.com/intl/nl/policies/privacy/">Privacybeleid</a>. Voor bepaalde services kunnen bovendien <a href="https://support.google.com/a/answer/181865?hl=nl">specifieke voorwaarden</a> gelden. </p> 
+        <p> Bestuurders op scholen kunnen zelf beslissen of ze deze services willen inschakelen of uitschakelen voor bepaalde groepen docenten en leerlingen. Elke organisatie en gemeenschap is anders. Daarom kunnen scholen tools naar wens configureren, zodat ze kunnen voldoen aan de specifieke behoeften van leerlingen en docenten. </p> 
+        <a class="cta m-icon-pseudo" href="https://support.google.com/a/answer/6356441?hl=en&amp;ref_topic=6047382">Learn more about G Suite core and additional services</a> 
+        <a class="cta m-icon-pseudo" href="https://support.google.com/a/answer/181865?hl=en">Learn more about additional services that can be used with G Suite accounts, and see any service-specific terms that apply to them</a> 
+        <a class="cta m-icon-pseudo" href="https://www.google.com/intl/nl/policies/terms/">Read the Google Terms of Service</a> 
+        <a class="cta m-icon-pseudo" href="https://www.google.com/intl/nl/policies/privacy/">Read the Google Privacy Policy that governs many additional services</a> 
+       </div> 
+      </div> 
+     </div> 
+    </section> 
+    <section class="section maia-aux more-details"> 
+     <div class="maia-cols "> 
+      <div id="how-can-families-keep-their-kids-safe-online-at-home-too" class="maia-col-4"> 
+       <h3 class="text__header">Wat kunnen gezinnen doen om hun kinderen veilig te laten internetten?</h3> 
+       <p> Naast deze pagina met informatie over onze services voor scholen kun je informatie vinden over veilig internetgebruik voor kinderen buiten school. We hebben samen met vele partners het Google-gezinscentrum voor Veilig Internet ontwikkeld. </p> 
+       <a class="cta m-icon-pseudo" href="https://www.google.com/intl/nl/safetycenter/families/start/">Bezoek het Google-gezinscentrum voor Veilig Internet</a> 
+      </div> 
+      <div id="" class="maia-col-4"> 
+       <h3 class="text__header">Waar vind ik meer informatie?</h3> 
+       <a class="cta m-icon-pseudo" href="https://www.google.com/apps/intl/nl/terms/education_terms.html">Read our G Suite agreement (Google's contract with schools covering G Suite core services)</a> 
+       <a class="cta m-icon-pseudo" href="https://www.g4w.co/data-security-transparency-privacy-google-apps-for-education-sept-2014-google-drive">Read our G Suite security summary</a> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/work/answer/6057301?hl=nl">Visit the Trust help center</a> 
+      </div> 
+     </div> 
+    </section> 
+    <a class="back gweb-smoothscroll-control m-icon"></a> 
+   </div> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Producten</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/products/devices/">Apparaten</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/products/productivity-tools/">Productiviteitstools</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/products/more-products/">Meer producten</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Training</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://sites.google.com/site/localizededulearningcenter/nl" target="_blank">Docenttraining</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">IT-beheerderstraining</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">Partneroverzicht</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/resources/communities/">Community's</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Bronnen</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:News &amp;amp; Events" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/resources/news-and-events/">Nieuws en evenementen</a></li> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/resources/programs/">Programma's</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/resources/computerscience/">Onderwijs in computerwetenschap</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/resources/global-education/">Onderwijs wereldwijd</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/it/">IT</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">Bronnen voor ontwikkelaars</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/access/">Toegang</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/contact/">Verkoop</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">Ondersteuning</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/partners/">Partnerprogramma</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/case-studies/">Casestudy's</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">Scholen met Chromebooks</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">Blog</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="Zoeken op deze site" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/trust/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/trust/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/da/trust/"> dansk (Danmark) </option><option value="/intl/en_au/trust/"> English (Australia) </option><option value="/intl/en_ca/trust/"> English (Canada) </option><option value="/intl/en_in/trust/"> English (India) </option><option value="/intl/en_nz/trust/"> English (New Zealand) </option><option value="/intl/en_uk/trust/"> English (United Kingdom) </option><option value="/trust/"> English (United States) </option><option value="/intl/es-419_mx/trust/"> español (México) </option><option value="/intl/es-419/trust/"> español (Latinoamérica) </option><option value="/intl/fi/trust/"> suomi (Suomi) </option><option value="/intl/fr_be/trust/"> français (Belgique) </option><option value="/intl/id/trust/"> Indonesia (Indonesia) </option><option value="/intl/ja/trust/"> 日本語 (日本) </option><option value="/intl/ms/trust/"> Bahasa Melayu (Malaysia) </option><option selected value="/intl/nl/trust/"> Nederlands (Nederland) </option><option value="/intl/no/trust/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/trust/"> português (Brasil) </option><option value="/intl/sv/trust/"> svenska (Sverige) </option><option value="/intl/th/trust/"> ไทย (ไทย) </option><option value="/intl/tr/trust/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/nl/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/nl/policies/privacy/">Privacy</a> </li> 
+      <li> <a href="https://www.google.com/intl/nl/policies/terms/">Voorwaarden</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script>  
+ </body>
+</html>

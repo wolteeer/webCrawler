@@ -1,0 +1,550 @@
+<!doctype html>
+<html lang="es_419">
+ <head> 
+  <script>(function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)</script> 
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"> 
+  <meta charset="utf-8"> 
+  <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"> 
+  <meta property="og:url" content="www.google.com/intl/es-419_ALL/drive/using-drive/"> 
+  <meta name="twitter:url" content="www.google.com/intl/es-419_ALL/drive/using-drive/"> 
+  <meta name="twitter:title" content="Cómo usar Google Drive: Nuevas funciones, beneficios y ventajas del almacenamiento de Google en la nube"> 
+  <meta name="twitter:image" content="https://www.google.com/drive/static/images/drive/logo-drive.png"> 
+  <meta name="twitter:description" content="Obtén más información sobre las últimas funciones y ventajas de Google Drive, incluidas la integración de Gmail, la opción para compartir y almacenar fotos con facilidad, las nuevas aplicaciones y mucho más."> 
+  <meta name="twitter:creator" content="google"> 
+  <!-- Open Graph --> 
+  <meta content="Cómo usar Google Drive: Nuevas funciones, beneficios y ventajas del almacenamiento de Google en la nube" property="og:title"> 
+  <meta content="https://www.google.com/drive/static/images/drive/logo-drive.png" property="og:image"> 
+  <meta content="Obtén más información sobre las últimas funciones y ventajas de Google Drive, incluidas la integración de Gmail, la opción para compartir y almacenar fotos con facilidad, las nuevas aplicaciones y mucho más." property="og:description"> 
+  <meta property="og:type" content="website"> 
+  <!-- Doc Meta --> 
+  <title>Cómo usar Google Drive: Nuevas funciones, beneficios y ventajas del almacenamiento de Google en la nube</title> 
+  <meta content="Obtén más información sobre las últimas funciones y ventajas de Google Drive, incluidas la integración de Gmail, la opción para compartir y almacenar fotos con facilidad, las nuevas aplicaciones y mucho más." name="description"> 
+  <link rel="prefetch" href="//www.google.com/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png"> 
+  <link rel="stylesheet" href="//www.gstatic.com/external_hosted/normalize/normalize.css"> 
+  <link rel="stylesheet" href="//www.google.com/css/maia.experimental.css"> 
+  <link rel="stylesheet" href="//www.google.com/css/gweb/lightbox.css"> 
+  <script src="//www.google.com/js/google.js"></script> 
+  <script>
+      var _gaq = _gaq || [];
+      _gaq.push(['_cookiePathCopy', '/a/']);
+      _gaq.push(['_cookiePathCopy', '/apps/']);
+      _gaq.push(['_cookiePathCopy', '/work/']);
+      _gaq.push(['_cookiePathCopy', '/work/apps/business/']);
+      _gaq.push(['_cookiePathCopy', '/intl/']);
+      _gaq.push(['_cookiePathCopy', '/intx/']);
+      _gaq.push(['_cookiePathCopy', '/work/']);
+    new gweb.analytics.AutoTrack({profile: "UA-28613865-1"});
+  </script> 
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Product+Sans" rel="stylesheet"> 
+  <!-- External Scripts --> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/modernizr.js"></script> 
+  <!-- Favicon --> 
+  <link href="/drive/static/images/drive/favicon.ico" rel="icon" type="image/png"> 
+  <!-- Stylesheet --> 
+  <link href="/drive/static/dist/css/main.min.css" rel="stylesheet"> 
+  <link rel="canonical" href="https://www.google.com/intl/es-419_ALL/drive/using-drive/"> 
+ </head> 
+ <body class="using-drive nav-light"> 
+  <span itemscope itemtype="http://schema.org/LocalBusiness"> 
+   <!-- Header --> 
+   <header class="header" role="banner"> 
+    <div class="header-item with-site-logo"> 
+     <a class="site-logo site-logo-link" href="/intl/es-419_ALL/drive/" data-g-event="Drive" data-g-action="Header" data-g-label="Drive logo"> 
+      <div class="lockup lockup--light js-lockup" dir="ltr"> 
+       <span class="lockup-logo js-site-logo-image"></span> 
+       <span class="lockup-text"></span> 
+       <span class="lockup-brand">Drive</span> 
+      </div> </a> 
+    </div> 
+    <nav class="nav-site" data-nav-name="mobile"> 
+     <img itemprop="image" alt="Drive logo" src="/drive/static/images/drive/logo-drive.png"> 
+     <ul> 
+      <li> <a class="meet" href="/intl/es-419_ALL/drive/" data-g-event="Drive" data-g-action="Header" data-g-label="Descubrir Drive">Descubrir Drive</a> </li> 
+      <li> <a class="using-drive" href="/intl/es-419_ALL/drive/using-drive/" data-g-event="Drive" data-g-action="Header" data-g-label="Cómo usar Drive">Cómo usar Drive</a> </li> 
+      <li> <a class="price" href="/intl/es-419_ALL/drive/pricing/" data-g-event="Drive" data-g-action="Pricing" data-g-label="Precios">Precios</a> </li> 
+      <li class="mobile-is-hidden device-is-hidden"> <a class="download" href="/intl/es-419_ALL/drive/download/" data-g-event="Drive" data-g-action="Header" data-g-label="Descargar">Descargar</a> </li> 
+      <li> <a class="work" href="//gsuite.google.com/intl/es_419/driveforwork/?utm_medium=et&amp;utm_source=aboutdrive&amp;utm_content=consnav&amp;utm_campaign=es_419" data-g-event="Drive" data-g-action="Header" data-g-label="Para el trabajo">Para el trabajo</a> </li> 
+      <li class="last-default"> <a class="help" href="//support.google.com/drive/answer/2424384?hl=es" data-g-event="Drive" data-g-action="Header" data-g-label="Ayuda">Ayuda</a> </li> 
+      <li class="mobile-is-hidden float-in"> <a class="go-to-drive get-started" href="https://accounts.google.com/ServiceLogin?service=wise&amp;passive=true&amp;continue=http://drive.google.com/?utm_source=es-419&amp;utm_medium=button&amp;utm_campaign=web&amp;utm_content=gotodrive&amp;usp=gtd&amp;ltmpl=drive" data-g-event="Drive" data-g-action="Header" data-g-label="Ir a Google Drive">Ir a Google Drive</a> </li> 
+      <li class="download-app mobile-is-visible crushed-is-visible"> <a class="download-mobile-android boxed-in" href="//play.google.com/store/apps/details?id=com.google.android.apps.docs&amp;hl=es" data-g-event="Drive" data-g-action="Header" data-g-label="Descargar para Android">Descargar para Android</a> <a class="download-mobile-ios boxed-in" href="//itunes.apple.com/en/app/google-drive/id507874739" data-g-event="Drive" data-g-action="Header" data-g-label="Descargar para iOS">Descargar para iOS</a> <a class="download-mobile boxed-in get-started" href="" data-g-event="Drive" data-g-action="Header" data-g-label="Acceder">Acceder</a> </li> 
+     </ul> 
+    </nav> 
+    <div class="mobile-nav-toggle js-mobilenav"> 
+     <div class="icon icon-mobile-open toggle-nav-open js-mobilenav-toggle" data-target-nav="mobile"></div> 
+     <div class="icon icon-mobile-close toggle-nav-closed js-mobilenav-toggle-close" data-target-nav="mobile"></div> 
+    </div> 
+   </header> </span> 
+  <!-- End Header --> 
+  <!-- Intro section with photo background --> 
+  <section class="section-intro section-panel-fullscreen js-fullscreen"> 
+   <div class="section-photo-fullscreen section-photo js-parallax-image js-responsive-image" data-breakpoints="320,768,1024,1200,1600" data-known-dimensions="false" data-origin="0" data-preserve-aspect-ratio="false" data-reverse-parallax="true" data-src="/drive/static/images/features/intro.jpg"></div> 
+   <div class="section-centered section-vertical-align js-vertical-align js-parallax-image" data-origin="0" data-parallax-speed="3" data-reverse-parallax="true" data-parallax-fade="true"> 
+    <div class="one-whole"> 
+     <img alt="Drive logo" src="/drive/static/images/drive/logo-drive.png"> 
+     <h1 class="section-headline section-headline-large section-headline-white">Explora las funciones de almacenamiento de Drive</h1> 
+    </div> 
+   </div> 
+   <div class="arrow-hint"> 
+    <a href="#start" class="gweb-smoothscroll-control"> 
+     <div class="icon icon-arrow-hint animated-arrow-1"></div> 
+     <div class="icon icon-arrow-hint animated-arrow-2"></div> </a> 
+   </div> 
+  </section> 
+  <!-- scrollable wrapper --> 
+  <div class="unfixed-wrapper" id="start"> 
+   <!-- Space --> 
+   <section class="section-space section-divider js-hinted-fullscreen"> 
+    <div class="section-centered section-centered-text"> 
+     <h2 class="heading-headline">Tus archivos, como tú quieras: Características de Drive</h2> 
+     <div class="tabs tabs-space js-tabs" data-tab-name="space-to-play"> 
+      <div class="tabs-list mobile-is-hidden"> 
+       <div class="tabs-tab one-quarter tabs-tab-first js-activate-tab" data-tab-target="space"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Espacio de 15&nbsp;GB">Espacio de 15&nbsp;GB</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter js-activate-tab" data-tab-target="file"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Guarda cualquier archivo">Guarda cualquier archivo</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter js-activate-tab" data-tab-target="share"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Comparte como quieras">Comparte como quieras</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter one-quarter tabs-tab-last js-activate-tab" data-tab-target="disaster"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Seguro y protegido">Seguro y protegido</label> 
+       </div> 
+      </div> 
+      <div class="tabs-content with-select js-tab-content-container js-select-menu-container" data-select-first="true" data-select-populated="true"> 
+       <!-- Mobile select menu --> 
+       <div class="select-menu-wrapper select-menu-wrapper-devices"> 
+        <div class="icon icon-toggle_is-active">
+         &nbsp;
+        </div> 
+        <select class="select-menu js-select-menu"> <option class="js-select-menu-option select-menu-option" value="Espacio de 15&nbsp;GB">Espacio de 15&nbsp;GB</option> <option class="js-select-menu-option select-menu-option" value="Guarda cualquier archivo">Guarda cualquier archivo</option> <option class="js-select-menu-option select-menu-option" value="Comparte como quieras">Comparte como quieras</option> <option class="js-select-menu-option select-menu-option" value="Seguro y protegido">Seguro y protegido</option> </select> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Espacio de 15&nbsp;GB" data-tab-name="space"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Tu almacenamiento funciona con Drive, Gmail y Google Fotos para que puedas almacenar archivos, guardar archivos adjuntos a correos electrónicos y crear copias de seguridad de las fotos directamente en Drive. También puedes <a href="https://www.google.com/settings/storage?hl=es-419">comprar un plan con más capacidad de almacenamiento en la nube</a> si necesitas más espacio.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/intl/es-419_ALL/drive/images/features/tabs-1-1.png" alt="Logotipo de 15&nbsp;GB de almacenamiento gratuito en Google Drive"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Guarda cualquier archivo" data-tab-name="file"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Fotos, videos, presentaciones, archivos PDF y hasta archivos de Microsoft Office. En Drive puedes guardar todo tipo de archivos de forma segura.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-1-2.png" alt="Lista de tipos de archivos de Google Drive, incluidos documentos, imágenes y música"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Comparte como quieras" data-tab-name="share"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Los archivos que guardas en Drive son privados hasta que decidas compartirlos con otras personas. Puedes invitar a otros rápidamente a ver, comentar y editar cualquier archivo o carpeta que elijas. Simplifica la colaboración en línea.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-1-3.png" alt="Opciones de uso compartido y privacidad de Google Drive"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Seguro y protegido" data-tab-name="disaster"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>La seguridad de tus archivos es fundamental. Por eso, los archivos que guardas en Drive no corren peligro, sin importar qué suceda con tu smartphone, tablet o computadora. Drive usa encriptación SSL, el mismo protocolo de seguridad que se aplica a Gmail y a otros servicios de Google.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-1-4.png" alt="Candado de seguridad de Google Drive"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- With Google --> 
+   <section class="section-with-google section-divider js-hinted-fullscreen"> 
+    <div class="section-centered section-centered-text"> 
+     <h2 class="heading-headline">Diseñado para integrarse con Google</h2> 
+     <div class="tabs tabs-space js-tabs" data-tab-name="space-to-play"> 
+      <div class="tabs-list mobile-is-hidden"> 
+       <div class="tabs-tab one-quarter tabs-tab-first js-activate-tab" data-tab-target="attachments"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Guarda archivos adjuntos de Gmail">Guarda archivos adjuntos de Gmail</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter js-activate-tab" data-tab-target="search"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Búsqueda potente">Búsqueda potente</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter js-activate-tab" data-tab-target="photos"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Google Fotos">Google Fotos</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter one-quarter tabs-tab-last js-activate-tab" data-tab-target="chromebooks"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Chromebooks">Chromebooks</label> 
+       </div> 
+      </div> 
+      <div class="tabs-content with-select js-tab-content-container js-select-menu-container" data-select-first="true" data-select-populated="true"> 
+       <!-- Mobile select menu --> 
+       <div class="select-menu-wrapper select-menu-wrapper-devices"> 
+        <div class="icon icon-toggle_is-active">
+         &nbsp;
+        </div> 
+        <select class="select-menu js-select-menu"> <option class="js-select-menu-option select-menu-option" value="Guarda archivos adjuntos de Gmail">Guarda archivos adjuntos de Gmail</option> <option class="js-select-menu-option select-menu-option" value="Búsqueda potente">Búsqueda potente</option> <option class="js-select-menu-option select-menu-option" value="Google Fotos">Google Fotos</option> <option class="js-select-menu-option select-menu-option" value="Chromebooks">Chromebooks</option> </select> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Guarda archivos adjuntos de Gmail" data-tab-name="attachments"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/intl/es-419_ALL/drive/images/features/tabs-2-1.jpg" alt="El archivo adjunto de foto de Gmail se guarda en Drive con un solo clic"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Coloca el cursor sobre un archivo adjunto en Gmail y busca el logotipo de Drive. Así puedes guardar archivos adjuntos en Drive, organizarlos y compartirlos en un lugar único y seguro.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Búsqueda potente" data-tab-name="search"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/intl/es-419_ALL/drive/images/features/tabs-2-2.png" alt="El archivo adjunto de foto de Gmail se guarda en Drive con un solo clic"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Drive puede reconocer objetos en tus imágenes y texto en documentos escaneados. De este modo, puedes buscar términos como "Torre Eiffel" para encontrar documentos de texto con esas palabras, además de imágenes de la Torre Eiffel.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Google Fotos" data-tab-name="photos"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/intl/es-419_ALL/drive/images/features/tabs-2-3.jpg" alt="Foto de la costa de Oregón almacenada en Google Drive y compartida en Google+"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Guarda tus fotos en Drive y mira cómo cobran vida en Google Fotos. Puedes darles una apariencia profesional sin esfuerzo, además de convertirlas en animaciones, películas y mucho más.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Chromebooks" data-tab-name="chromebooks"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-2-4.jpg" alt="Datos de Google Drive en Chromebooks"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Google Drive ya viene instalado en las Chromebooks, por lo que se realiza una copia de seguridad de los archivos y las fotos automáticamente. Obtendrás 100&nbsp;GB de almacenamiento gratuito durante dos años con las Chromebooks más nuevas.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- Apps --> 
+   <p id="google-apps">&nbsp;</p> 
+   <section class="section-apps section-divider js-hinted-fullscreen"> 
+    <div class="section-centered section-centered-text"> 
+     <h2 class="heading-headline">Trabaja de forma más eficiente con apps</h2> 
+     <div class="tabs tabs-space js-tabs" data-tab-name="space-to-play"> 
+      <div class="tabs-list mobile-is-hidden"> 
+       <div class="tabs-tab one-quarter tabs-tab-first js-activate-tab" data-tab-target="docs"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Documentos, Hojas de cálculo y Presentaciones">Documentos, Hojas de cálculo y Presentaciones</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter js-activate-tab" data-tab-target="forms"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Formularios de Google">Formularios de Google</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter js-activate-tab" data-tab-target="office"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Dibujos de Google">Dibujos de Google</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter one-quarter tabs-tab-last js-activate-tab" data-tab-target="more"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Más apps de Drive">Más apps de Drive</label> 
+       </div> 
+      </div> 
+      <div class="tabs-content with-select js-tab-content-container js-select-menu-container" data-select-first="true" data-select-populated="true"> 
+       <!-- Mobile select menu --> 
+       <div class="select-menu-wrapper select-menu-wrapper-devices"> 
+        <div class="icon icon-toggle_is-active">
+         &nbsp;
+        </div> 
+        <select class="select-menu js-select-menu"> <option class="js-select-menu-option select-menu-option" value="Documentos, Hojas de cálculo y Presentaciones">Documentos, Hojas de cálculo y Presentaciones</option> <option class="js-select-menu-option select-menu-option" value="Formularios de Google">Formularios de Google</option> <option class="js-select-menu-option select-menu-option" value="Dibujos de Google">Dibujos de Google</option> <option class="js-select-menu-option select-menu-option" value="Más apps de Drive">Más apps de Drive</option> </select> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Documentos, Hojas de cálculo y Presentaciones" data-tab-name="docs"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Crea y colabora con otros usuarios. Comparte documentos y archivos, y crea hojas de cálculo y presentaciones al instante gracias a nuestras apps de <a href="//www.google.com/docs/about/" target="_blank">Documentos</a>, <a href="//www.google.com/sheets/about/" target="_blank">Hojas de cálculo</a> y <a href="//www.google.com/slides/about/" target="_blank">Presentaciones</a>.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-3-1.png" alt="Documentos, Hojas de cálculo y Presentaciones de Google Drive disponibles para compartir"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Formularios de Google" data-tab-name="forms"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p><a href="//www.google.com/forms/about/?usp=mkt_formsdrive">Formularios de Google</a> te permite realizar una encuesta o crear rápidamente una lista de integrantes de un equipo con un sencillo formulario en línea. Luego visualiza los resultados perfectamente organizados en una hoja de cálculo.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/intl/es-419_ALL/drive/images/features/tabs-3-3.png" alt="Ejemplo de Formularios de Google en Google Drive"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Dibujos de Google" data-tab-name="office"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Diseña gráficos y diagramas de flujo, y agrégalos fácilmente a otros documentos o incorpóralos a un sitio web con <a href="https://docs.google.com/drawings/?usp=mkt_drawings">Dibujos de Google</a>.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-3-2.png" alt="Ícono de Dibujos de Google"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Más apps de Drive" data-tab-name="more"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Edita tu foto de perfil, diseña un jardín, crea un mapa conceptual y mucho más. Con más de cien apps para Drive, puedes aprovechar mejor tu contenido. Para probarlas, instala una de las apps de la <a href="https://chrome.google.com/webstore/category/collection/drive_apps?hl=es-419">colección de Drive</a> que puedes encontrar en Chrome Web&nbsp;Store.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/intl/es-419_ALL/drive/images/features/tabs-3-4.jpg" alt="Más de cien&nbsp;aplicaciones de Google Drive disponibles"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- Take it further --> 
+   <section class="section-further js-hinted-fullscreen"> 
+    <div class="section-centered section-centered-text"> 
+     <h2 class="heading-headline">Llega aún más lejos con Drive</h2> 
+     <div class="tabs tabs-space js-tabs" data-tab-name="space-to-play"> 
+      <div class="tabs-list mobile-is-hidden"> 
+       <div class="tabs-tab one-third tabs-tab-first js-activate-tab" data-tab-target="paperless"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Escanea documentos">Escanea documentos</label> 
+       </div> 
+       <div class="tabs-tab one-third tabs-tab-first one-third js-activate-tab" data-tab-target="offline"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Trabajar sin conexión">Trabajar sin conexión</label> 
+       </div> 
+       <div class="tabs-tab one-third tabs-tab-first one-third one-third tabs-tab-last js-activate-tab" data-tab-target="versions"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Consultar las versiones anteriores">Consultar las versiones anteriores</label> 
+       </div> 
+      </div> 
+      <div class="tabs-content with-select js-tab-content-container js-select-menu-container" data-select-first="true" data-select-populated="true"> 
+       <!-- Mobile select menu --> 
+       <div class="select-menu-wrapper select-menu-wrapper-devices"> 
+        <div class="icon icon-toggle_is-active">
+         &nbsp;
+        </div> 
+        <select class="select-menu js-select-menu"> <option class="js-select-menu-option select-menu-option" value="Escanea documentos">Escanea documentos</option> <option class="js-select-menu-option select-menu-option" value="Trabajar sin conexión">Trabajar sin conexión</option> <option class="js-select-menu-option select-menu-option" value="Consultar las versiones anteriores">Consultar las versiones anteriores</option> </select> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Escanea documentos" data-tab-name="paperless"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/intl/es-419_ALL/drive/images/features/tabs-4-1.jpg" alt="Ejemplo de cómo se guardan los documentos en Drive al capturar una foto con un teléfono Android"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Con Drive para Android, puedes escanear todos tus documentos en papel. Simplemente toma una foto de los documentos, como recibos, cartas y estados de cuenta, y Drive los almacenará instantáneamente como archivos PDF.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Trabajar sin conexión" data-tab-name="offline"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-4-2.png" alt="Google Drive en línea y sin conexión"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Haz que tus archivos estén disponibles sin conexión para poder verlos cuando el teléfono o la tablet se queden sin servicio, como en un avión o en un edificio con mala conexión.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Consultar las versiones anteriores" data-tab-name="versions"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/intl/es-419_ALL/drive/images/features/tabs-4-3.png" alt="Ejemplo de un historial de revisión de un archivo de Google Drive"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>La mayoría de estos tipos de archivos permiten acceder al historial de los últimos 30&nbsp;días, de modo que puedes ver fácilmente quiénes hicieron cambios y volver a versiones anteriores. Es un método fácil para controlar las diferentes versiones de un archivo.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <!-- Footer --> 
+  <div class="signature-wrapper">
+   <div id="maia-signature"></div>
+  </div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="maia-cols first"> 
+      <div class="maia-col-3 footer-top social">
+        Compartir el sitio de Google Apps: 
+       <span class="plusone-button" id="plusone-httpwwwgooglecoma"></span> 
+       <script>
+    window.___gcfg = {
+      lang: 'es',
+      parsetags: 'explicit'
+    };
+
+    var gweb = gweb || {};  // namespace
+    gweb.plusOneButton = {};
+    gweb.plusOneButton.callbacks = {};
+    gweb.plusOneButton.onPlusOneLoad = function() {
+      for (var slug in gweb.plusOneButton.callbacks) {
+        gapi.plusone.render(slug, gweb.plusOneButton.callbacks[slug]);
+      }
+      gweb.plusOneButton.callbacks = {};
+    };
+              </script> 
+       <script src="//apis.google.com/js/platform.js">
+              </script> 
+       <script>
+              gweb.plusOneButton.callbacks['plusone-httpwwwgooglecoma'] = {
+      'annotation': 'none',
+      'href': 'http://www.google.com/a/',
+      'size': 'standard',
+      'callback': '',
+      'recommendations': 'true'
+    };
+    gweb.plusOneButton.onPlusOneLoad();
+  </script> 
+      </div> 
+      <div class="maia-col-3 footer-top social">
+        Seguir: 
+       <span class="follow"> <a href="//plus.google.com/+GoogleDrive" rel="publisher"><img alt="Google+" src="//www.google.com/images/branding/google_plus/2x/gplus_icon_flush_30dp.png" height="16" width="16" data-retina="16x16"></a> <a href="//twitter.com/googledrive/"><img alt="YouTube" src="/drive/static/images/drive/footer_twitter.png" data-retina="16x16"></a> <a href="//googledrive.blogspot.com/"><img alt="Blogger" src="/drive/static/images/drive/footer_blogger.jpg" data-retina="16x16"></a> </span> 
+      </div> 
+     </div> 
+     <div class="maia-cols"> 
+      <div class="footer-unit"> 
+       <h4>Acerca de Drive</h4> 
+       <ul> 
+        <li> <a href="/intl/es_419/drive/">Descubrir Google Drive</a> </li> 
+        <li> <a href="/intl/es_419/drive/using-drive/">Cómo usar Drive</a> </li> 
+        <li> <a href="//support.google.com/drive/answer/2424384?hl=es-419">Introducción a Google Drive</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>Planes y precios</h4> 
+       <ul> 
+        <li> <a href="//www.google.com/settings/storage">Consultar o actualizar el plan de almacenamiento</a> </li> 
+        <li> <a href="//support.google.com/drive/answer/2375123?hl=es-419">Precios de almacenamiento</a> </li> 
+        <li> <a href="//support.google.com/drive/topic/2375005?hl=es-419">Preguntas frecuentes sobre el almacenamiento</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>Descargas</h4> 
+       <ul> 
+        <li> <a href="https://www.google.com/intl/es-419_ALL/drive/download/">Drive para Mac o PC</a> </li> 
+        <li> <a href="//play.google.com/store/apps/details?id=com.google.android.apps.docs">Drive para Android</a> </li> 
+        <li> <a href="//itunes.apple.com/app/google-drive/id507874739">Drive para iOS</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>Asistencia</h4> 
+       <ul> 
+        <li> <a href="//support.google.com/drive/answer/2424384?hl=es-419">Centro de ayuda de Drive</a> </li> 
+        <li> <a href="//productforums.google.com/forum/#!forum/drive">Foro de ayuda de Google Drive</a> </li> 
+        <li> <a href="//support.google.com/drive/?hl=es-419#topic=14940&amp;contact=1">Envíanos un mensaje</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>Soluciones relacionadas</h4> 
+       <ul> 
+        <li> <a href="/intl/es_419/docs/about/">Documentos de Google</a> </li> 
+        <li> <a href="/intl/es_419/sheets/about/">Hojas de cálculo de Google</a> </li> 
+        <li> <a href="/intl/es_419/slides/about/">Presentaciones de Google</a> </li> 
+        <li> <a href="/intl/es_419/forms/about/">Formularios de Google</a> </li> 
+        <li> <a href="//gsuite.google.com/intl/es_419/driveforwork/?utm_medium=et&amp;utm_source=aboutdrive&amp;utm_content=footer&amp;utm_campaign=es_419">Google Drive</a> </li> 
+        <li> <a href="//cloud.google.com/?utm_medium=et&amp;utm_source=aboutdrive&amp;utm_content=footer&amp;utm_campaign=es_419">Google Cloud Platform</a> </li> 
+        <li> <a href="/intl/es_419/edu/">G Suite for Education</a> </li> 
+        <li> <a href="/intl/es_419/work/apps/government/">G Suite for Government</a> </li> 
+        <li> <a href="/intl/es_419/services/">Soluciones empresariales de Google</a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Cambiar de idioma:</span> <select onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="/intl/af_ALL/drive/using-drive/"> Afrikaans </option> <option value="/intl/ar_ALL/drive/using-drive/"> العربية </option> <option value="/intl/az_ALL/drive/using-drive/"> azərbaycan dili </option> <option value="/intl/bg_ALL/drive/using-drive/"> български </option> <option value="/intl/bn_ALL/drive/using-drive/"> বাংলা </option> <option value="/intl/ca_ALL/drive/using-drive/"> català </option> <option value="/intl/cs_ALL/drive/using-drive/"> čeština </option> <option value="/intl/da_ALL/drive/using-drive/"> dansk </option> <option value="/intl/de_ALL/drive/using-drive/"> Deutsch </option> <option value="/intl/el_ALL/drive/using-drive/"> Ελληνικά </option> <option value="/drive/using-drive/"> English (United States) </option> <option value="/intl/en-GB_ALL/drive/using-drive/"> English (United Kingdom) </option> <option value="/intl/es-419_ALL/drive/using-drive/" selected> español (Latinoamérica) </option> <option value="/intl/es_ALL/drive/using-drive/"> español </option> <option value="/intl/et_ALL/drive/using-drive/"> eesti </option> <option value="/intl/eu_ALL/drive/using-drive/"> euskara </option> <option value="/intl/fa_ALL/drive/using-drive/"> فارسی </option> <option value="/intl/fi_ALL/drive/using-drive/"> suomi </option> <option value="/intl/fil_ALL/drive/using-drive/"> Filipino </option> <option value="/intl/fr_ALL/drive/using-drive/"> français </option> <option value="/intl/fr-CA_ALL/drive/using-drive/"> français (Canada) </option> <option value="/intl/gl_ALL/drive/using-drive/"> galego </option> <option value="/intl/gu_ALL/drive/using-drive/"> ગુજરાતી </option> <option value="/intl/hi_ALL/drive/using-drive/"> हिन्दी </option> <option value="/intl/iw_ALL/drive/using-drive/"> עברית </option> <option value="/intl/hr_ALL/drive/using-drive/"> hrvatski </option> <option value="/intl/hu_ALL/drive/using-drive/"> magyar </option> <option value="/intl/hy_ALL/drive/using-drive/"> հայերեն </option> <option value="/intl/id_ALL/drive/using-drive/"> Indonesia </option> <option value="/intl/is_ALL/drive/using-drive/"> íslenska </option> <option value="/intl/it_ALL/drive/using-drive/"> italiano </option> <option value="/intl/ja_ALL/drive/using-drive/"> 日本語 </option> <option value="/intl/ka_ALL/drive/using-drive/"> ქართული </option> <option value="/intl/km_ALL/drive/using-drive/"> ខ្មែរ </option> <option value="/intl/kn_ALL/drive/using-drive/"> ಕನ್ನಡ </option> <option value="/intl/ko_ALL/drive/using-drive/"> 한국어 </option> <option value="/intl/lo_ALL/drive/using-drive/"> ລາວ </option> <option value="/intl/lt_ALL/drive/using-drive/"> lietuvių </option> <option value="/intl/lv_ALL/drive/using-drive/"> latviešu </option> <option value="/intl/ml_ALL/drive/using-drive/"> മലയാളം </option> <option value="/intl/mn_ALL/drive/using-drive/"> монгол </option> <option value="/intl/mr_ALL/drive/using-drive/"> मराठी </option> <option value="/intl/ms_ALL/drive/using-drive/"> Bahasa Melayu </option> <option value="/intl/ne_ALL/drive/using-drive/"> नेपाली </option> <option value="/intl/nl_ALL/drive/using-drive/"> Nederlands </option> <option value="/intl/no_ALL/drive/using-drive/"> norsk bokmål </option> <option value="/intl/pa_ALL/drive/using-drive/"> ਪੰਜਾਬੀ </option> <option value="/intl/pl_ALL/drive/using-drive/"> polski </option> <option value="/intl/pt-BR_ALL/drive/using-drive/"> português (Brasil) </option> <option value="/intl/pt-PT_ALL/drive/using-drive/"> português (Portugal) </option> <option value="/intl/ro_ALL/drive/using-drive/"> română </option> <option value="/intl/ru_ALL/drive/using-drive/"> русский </option> <option value="/intl/si_ALL/drive/using-drive/"> සිංහල </option> <option value="/intl/sk_ALL/drive/using-drive/"> slovenčina </option> <option value="/intl/sl_ALL/drive/using-drive/"> slovenščina </option> <option value="/intl/sr_ALL/drive/using-drive/"> српски </option> <option value="/intl/sv_ALL/drive/using-drive/"> svenska </option> <option value="/intl/sw_ALL/drive/using-drive/"> Kiswahili </option> <option value="/intl/ta_ALL/drive/using-drive/"> தமிழ் </option> <option value="/intl/te_ALL/drive/using-drive/"> తెలుగు </option> <option value="/intl/th_ALL/drive/using-drive/"> ไทย </option> <option value="/intl/tr_ALL/drive/using-drive/"> Türkçe </option> <option value="/intl/uk_ALL/drive/using-drive/"> українська </option> <option value="/intl/ur_ALL/drive/using-drive/"> اردو </option> <option value="/intl/vi_ALL/drive/using-drive/"> Tiếng Việt </option> <option value="/intl/zh-CN_ALL/drive/using-drive/"> 中文 (简体, 中国) </option> <option value="/intl/zh-HK_ALL/drive/using-drive/"> 中文 (繁體字, 中華人民共和國香港特別行政區) </option> <option value="/intl/zh-TW_ALL/drive/using-drive/"> 中文 (繁體, 台灣) </option> <option value="/intl/zu_ALL/drive/using-drive/"> isiZulu </option> </select></label> 
+     </div> 
+     <ul> 
+      <li> <a href="//www.google.com">Google</a> </li> 
+      <li> <a href="//www.google.com/about/">About Google</a> </li> 
+      <li> <a href="//www.google.com/intl/es-419/policies/privacy/">Privacy</a> </li> 
+      <li> <a href="//www.google.com/policies/terms/?hl=es-419">Terms</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Scripts --> 
+  <script src="//www.google.com/js/gweb/uri/updatelinks.js"></script> 
+  <script src="//www.gstatic.com/external_hosted/gsap/TweenMax.min.js"></script> 
+  <script src="//www.gstatic.com/external_hosted/morlock/morlock.min.js"></script> 
+  <script src="/drive/static/dist/js/drive-site.min.js"></script> 
+  <script>
+      var manageParams = new drive.QueryParamManager();
+    </script> 
+  <script>
+  var usingDrive = new drive.SetUp('usingDrive');
+</script>  
+ </body>
+</html>

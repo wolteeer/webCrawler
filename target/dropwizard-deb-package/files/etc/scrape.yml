@@ -1,0 +1,36 @@
+
+pageCacheDir: data/pagecache
+
+
+prettyPrintJsonResponse: true
+
+swagger:
+  title: HXScrape
+  description: HXScrape API
+  resourcePackage: org.humanityx.scrape.api.resource
+
+server:
+  type: simple
+
+  # Rest api prefix
+  rootPath: /api/v1/*
+
+  # Frontend prefix
+  applicationContextPath: /
+
+  # Admin prefix
+  adminContextPath: /admin
+
+  connector:
+    type: http
+    port: 1337
+  gzip:
+    bufferSize: 8KiB
+
+logging:
+  level: INFO
+  appenders:
+    - type: console
+      threshold: ALL
+      timeZone: UTC
+      target: stdout

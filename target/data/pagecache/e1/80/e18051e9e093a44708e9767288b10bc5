@@ -1,0 +1,707 @@
+<!doctype html>
+<html class="google en_GB" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <title>Google Expeditions | Gallery</title> 
+  <meta charset="utf-8"> 
+  <meta content="initial-scale=1, minimum-scale=1, maximum-scale=1, width=device-width" name="viewport"> 
+  <meta itemprop="name" content="Google Expeditions | Gallery"> 
+  <meta name="description" content="Imagine exploring coral reefs or the surface of Mars in an afternoon. With Expeditions, teachers can take students on immersive, virtual journeys."> 
+  <meta itemprop="description" content="Imagine exploring coral reefs or the surface of Mars in an afternoon. With Expeditions, teachers can take students on immersive, virtual journeys."> 
+  <meta itemprop="image" content="/images/expeditions/icons/expeditions-icon.png"> 
+  <meta property="og:title" content="Google Expeditions | Gallery"> 
+  <meta property="og:image" content="/images/expeditions/icons/expeditions-icon.png"> 
+  <meta property="og:description" content="Imagine exploring coral reefs or the surface of Mars in an afternoon. With Expeditions, teachers can take students on immersive, virtual journeys."> 
+  <meta property="og:url" content="https://www.google.com/expeditions/"> 
+  <meta property="og:type" content="website"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:title" content="Google Expeditions | Gallery"> 
+  <meta name="twitter:description" content="Imagine exploring coral reefs or the surface of Mars in an afternoon. With Expeditions, teachers can take students on immersive, virtual journeys."> 
+  <meta name="twitter:image" content="/images/expeditions/icons/expeditions-icon.png"> 
+  <meta name="twitter:url" content="http://twitter.com/googleforedu"> 
+  <meta name="twitter:creator" content="@googleforedu"> 
+  <link rel="stylesheet" href="/css/expeditions.min.css"> 
+  <link rel="icon" href="/videos/expeditions/favicon.ico" type="image/x-icon"> 
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:700|Roboto:100,300,500,700" rel="stylesheet" type="text/css"> 
+  <script src="https://www.gstatic.com/external_hosted/modernizr/modernizr.js"></script> 
+ </head> 
+ <body> 
+  <!-- Google Tag Manager --> 
+  <script>
+var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+  return cp;
+};
+
+dataLayer = [{
+  'country': 'uk',
+  'region': 'emea',
+  'propertyIndex': '36',
+  'language': 'en',
+  'host': location.host,
+  'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+  'path': location.pathname,
+  'cookiePath': cookiepathValue(),
+  'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+  'file': 'index.html',
+  'fileNoSuffix': 'index'
+}];
+</script> 
+  <noscript>
+   <iframe src="//www.googletagmanager.com/ns.html?id=GTM-T7366R" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');</script> 
+  <!-- End Google Tag Manager -->
+  <header class="header"> 
+   <div class="lockup header__lockup"> 
+    <a href="/expeditions/"> <img class="lockup__image" srcset="
+      /images/expeditions/lockup/google-expeditions.png,
+      /images/expeditions/lockup/google-expeditions_2x.png 2x" width="172" alt="Google Expeditions"> </a> 
+   </div> 
+   <div class="header__nav-toggle" aria-controls="nav" title="Expand/collapse navigation"> 
+    <div class="header__hamburger"></div> 
+   </div> 
+   <nav class="nav header__nav" id="nav" role="navigation" aria-hidden="true"> 
+    <ul class="nav__menu" role="menubar"> 
+     <li data-section="about" class="nav__item js-scroll-to" role="menuitem"> <a class="nav__link" href="/intl/en_uk/expeditions/#about">About</a> </li> 
+     <li data-section="how-it-works" class="nav__item js-scroll-to" role="menuitem"> <a class="nav__link" href="/intl/en_uk/expeditions/#how-it-works">How it works</a> </li> 
+     <li data-section="explore" class="nav__item js-scroll-to" role="menuitem"> <a class="nav__link" href="/intl/en_uk/expeditions/#explore">Explore</a> </li> 
+     <li data-section="get-started" class="nav__item js-scroll-to" role="menuitem"> <a class="nav__link" href="/intl/en_uk/expeditions/#get-started">Get started</a> </li> 
+    </ul> 
+   </nav> 
+   <a class="button header__get-app js-scroll-to" href="/expeditions/#get-started">Receive the app</a> 
+  </header> 
+  <main role="main" class="gallery"> 
+   <section class="gallery-hero"> 
+    <div class="gallery-hero-img" style="background-image: url('/images/expeditions/gallery/hero/aurora.jpg')"> 
+     <h1>Experience the Northern Lights</h1> 
+    </div> 
+    <div class="gallery-hero-img" style="background-image: url('/images/expeditions/gallery/hero/greatbarrierreef.jpg')"> 
+     <h1>Explore the Great Barrier Reef</h1> 
+    </div> 
+    <div class="gallery-hero-img" style="background-image: url('/images/expeditions/gallery/hero/circulatorysystem.jpg')"> 
+     <h1>Go Inside the Human Body</h1> 
+    </div> 
+    <div class="gallery-hero-img" style="background-image: url('/images/expeditions/gallery/hero/iss.jpg')"> 
+     <h1>Visit the International Space Station</h1> 
+    </div> 
+    <a class="button button--fab section__fab--scrolldown js-scroll-to" href="#gallery"></a> 
+   </section> 
+   <section class="page-desc">
+    Google Expeditions enables teachers to bring students on virtual trips to places all over the world. Expeditions are collections of linked virtual reality (VR) content and supporting materials that can be used alongside existing curriculum.
+   </section> 
+   <section id="gallery"> 
+    <section class="gallery-container"> 
+     <h2 class="gallery-title">Arts and Culture</h2> 
+     <p class="gallery-desc">Take a walk through museums and cities to explore art, music, literature, and religion from around the world.</p> 
+     <div class="carousel-wrapper"> 
+      <button class="carousel__button carousel__previous">Previous</button> 
+      <ul class="section__carousel gallery-1 transitioning"> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/arts-and-culture/dotd.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Mexico's Day of the Dead</h3> 
+         <p>Learn about the Day of the Dead and how Mexican families honor the role of death in life and connect with those who have died.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/arts-and-culture/hadzabetribe.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>The Hadzabe Tribe of Lake Eyasi</h3> 
+         <p>Discover what life is like for the Hadzabe tribe of Lake Eyasi. Located in Tanzania, they are among the last of the hunters-and-gatherers in the world.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/arts-and-culture/jazz.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>The History of Jazz</h3> 
+         <p>Visit some of the historic sites that helped define and currently celebrate America's true art form, jazz.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/arts-and-culture/vangogh.png'); "></div> 
+        <div class="overlay"> 
+         <h3>The Life and works of Van Gogh</h3> 
+         <p>Discover the life and works of Vincent Van Gogh by studying his art in museums around the world.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/arts-and-culture/placesoffaith.png'); "></div> 
+        <div class="overlay"> 
+         <h3>Places of Faith around the World</h3> 
+         <p>Visit historic places of faith around the world including: the old city of Jerusalem, the Catacomb of Priscilla, Borobudur in Indonesia, and the mosque at the Taj Mahal.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/arts-and-culture/roalddahl.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Roald Dahl: Phizz Whizzing</h3> 
+         <p>Visit Roald Dahl's "writing hut" where some of his most famous stories were written.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/arts-and-culture/westminster.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Pilgrimage to Westminster Abbey</h3> 
+         <p>Walk through history of the abbey that has stood on the site of the present Westminster Abbey since the late 10th century.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/arts-and-culture/russiatoday.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Russia Today</h3> 
+         <p>From the Moscow Metro to the Trans-Siberian Railway, meat counters to ballet classes. Experience Russia through a modern lens.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/arts-and-culture/baroque.png'); "></div> 
+        <div class="overlay"> 
+         <h3>Masterpieces of the Baroque</h3> 
+         <p>Learn about unique Baroque-style Architechture by fravelling to various places around Europe. In this tour we will explore Italy, France, and more.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/arts-and-culture/ebola.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Beating Ebola in Sierra Leone</h3> 
+         <p>Meet the incredible people who battled to rid the country of the deadly virus and see how they’re now beginning to rebuild their lives.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/arts-and-culture/renaissance.png'); "></div> 
+        <div class="overlay"> 
+         <h3>Masterpieces of the Renaissance</h3> 
+         <p>Visit museums around the world to study the techniques and style of Resnaissance art.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/arts-and-culture/khumbu.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>The Khumbu Society</h3> 
+         <p>Learn all about the Khumbu Society through this tour of northeastern Nepal on the Nepalese side of Mount Everest.</p> 
+        </div> </li> 
+      </ul> 
+      <button class="carousel__button carousel__next">Next</button> 
+     </div> 
+    </section> 
+    <section class="gallery-container"> 
+     <h2 class="gallery-title">Science</h2> 
+     <p class="gallery-desc">From propelling into outer space to examining the inside the human body, discover science through a new perspective by taking students on some of these Expeditions.</p> 
+     <div class="carousel-wrapper"> 
+      <button class="carousel__button carousel__previous">Previous</button> 
+      <ul class="section__carousel gallery-2 transitioning"> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/science/heart.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>The Heart</h3> 
+         <p>Learn about the pump that keeps your entire circulatory system functioning by taking a journey into the human the heart.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/science/iss.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>International Space Station</h3> 
+         <p>Explore the many modules that make up the International Space Station. Find out what’s in them and who built them.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/science/evolution.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Evolution</h3> 
+         <p>Tour the natural history museums and marine reserves around the world to understand how individual species have evolved over millions of years.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/science/circulatorysystem.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Circulatory System</h3> 
+         <p>Learn how the circulatory system of the human body carries one of the most important substance in your body: blood.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/science/hydroburning.png'); "></div> 
+        <div class="overlay"> 
+         <h3>Hydrogen Burning</h3> 
+         <p>This expedition will put you inside a burning hydrogen reaction and explain to you how hydrogen actually burns.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/science/cern.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>CERN</h3> 
+         <p>Take a tour of the European Organization for Nuclear Research and their massive underground labratory.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/science/digestivesystem.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>The Digestive System</h3> 
+         <p>On this expedition you'll be transformed into a rasberry and will travel through the digestive system to learn how each part functions.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/science/naturalresources.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>How People Use Natural Resources</h3> 
+         <p>Take a tour of the Everglades in Florida, where local habitants have been able to use many natural resources to their advantage.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/science/rocketjourney.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>From Assembly to Launch: A Rocket’s Journey</h3> 
+         <p>Take a glance around the Kennedy Space Centre in Florida and discover the complex journey a rocket goes on before blastoff</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/science/respiratorysystem.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Respiratory System</h3> 
+         <p>The respiratory system is the body’s structure that allows us to breath. Learn about key areas including the nose and mouth, trachea and lungs.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/science/moon.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>To the Moon with the Google Lunar XPRIZE</h3> 
+         <p>Put your spacesuit on and prepare to blast off 240,000 miles away from earth to our only natural satellite: The Moon. </p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/science/whipspider.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>The Whip Spider</h3> 
+         <p>Discover the creepy whip spider and learn how it spends its time in caves hunting other insects.</p> 
+        </div> </li> 
+      </ul> 
+      <button class="carousel__button carousel__next">Next</button> 
+     </div> 
+    </section> 
+    <section class="gallery-container"> 
+     <h2 class="gallery-title">Environment</h2> 
+     <p class="gallery-desc">Take students on a dive into the ocean, on a climb up a mountain or even on a flight over an active volcano. Discover different environments throughout the world through these Expeditions.</p> 
+     <div class="carousel-wrapper"> 
+      <button class="carousel__button carousel__previous">Previous</button> 
+      <ul class="section__carousel gallery-3 transitioning"> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/environment/galapagos.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Galapagos Islands</h3> 
+         <p>The Galápagos Islands are a volcanic archipelago in the Pacific Ocean. Take a trip into the historic and beaituful island.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/environment/volcanoes.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Volcanoes Around the World</h3> 
+         <p>Join this expedition to get a close-up look at volcanoes in Indonesia, Russia, Ethiopia, Iceland, and the United States.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/environment/northpole.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Exploring the North Pole</h3> 
+         <p>In this Expedition we’ll board a Russian “icebeaker” and traverse the icy Arctic Ocean to the North Pole.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/environment/borneoanimals.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Borneo Rainforest, Animal Adaptations</h3> 
+         <p>Immerse your students in this exciting trip to the Borneo Rainforests and learn all about various animals and insects.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/environment/everest.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Mount Everest</h3> 
+         <p>Take a climb up Everest. Located on the border of Tibet and Nepal, learn more about this magestic mountain and its history.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/environment/oceansafari.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Ocean Safari</h3> 
+         <p>This Ocean Safari will take you on a journey to see our favourite underwater animals -- 'the big 8.' </p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/environment/iceland.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Iceland</h3> 
+         <p>Iceland is a volcanic island that is still active today. Take students on a tour that offers sights unlike anywhere else on the planet.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/environment/nationalparks.png'); "></div> 
+        <div class="overlay"> 
+         <h3>The Hidden Worlds of National Parks</h3> 
+         <p>Take a full-sensory deep dive into five of America’s most breathtaking parks like you’ve never seen, heard or explored before. </p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/environment/kenya.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Samburu, Kenya</h3> 
+         <p>Walk through one of Kenya's famed national parks. Experience a safari up and close.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/environment/barrierreef.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>A Journey Along the Great Barrier Reef</h3> 
+         <p>In this expedition students will learn all about The Great Barrier Reef, looking at the biodiversity, different coral types, coral structure and growth factors. </p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/environment/sondoong.png'); "></div> 
+        <div class="overlay"> 
+         <h3>Son Doong</h3> 
+         <p>Dive into the largest cave that exists on this planet, Son Doong.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/environment/arcticglacier.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Exploring Inside an Arctic Glacier</h3> 
+         <p>Join an expedition to the North Pole and learn about the different types of clothing necessary to explore the Arctic and survive the extreme cold.</p> 
+        </div> </li> 
+      </ul> 
+      <button class="carousel__button carousel__next">Next</button> 
+     </div> 
+    </section> 
+    <section class="gallery-container"> 
+     <h2 class="gallery-title">History</h2> 
+     <p class="gallery-desc">Discover what the it was like to live in a different time. From roaming with dinosaurs to going into the trenches of war, see history through the eyes of those who lived before us.</p> 
+     <div class="carousel-wrapper"> 
+      <button class="carousel__button carousel__previous">Previous</button> 
+      <ul class="section__carousel gallery-4 transitioning"> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/history/pearlharbor.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Pearl Harbour and Hawaii during World War II</h3> 
+         <p>Learn how the Japanese bombing of Pearl Harbor pulled America into the war and how Hawai‘i served as an important base of operations.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/history/1066.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>1066 Battle of Hastings</h3> 
+         <p>Learn how King Harold of England was defeated at the Battle of Hastings in 1066. In this Expedition, we’ll explore both the battlefield and more.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/history/wwii.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>World War II</h3> 
+         <p>Learn more about how America joined the war efford in 1941 and see some iconic places that mark the war's history.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/history/dino.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Meet the Dinosaurs</h3> 
+         <p>The first dinosaurs lived over 200 million years ago and were small, fast meat-eaters. Today, come with us as we imagine them alive again.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/history/richardiii.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Richard III: The Man, The Myth, The Rediscovery</h3> 
+         <p>Solve one of the greatest mysteries of all time: how was King Richard III killed?</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/history/americawest.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>America Expands West</h3> 
+         <p>Experience the dramatically changing American frontier of the mid-1800s, as more people moved westward. </p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/history/battleofbritain.jpg');  background-position: 100% 50%;"></div> 
+        <div class="overlay"> 
+         <h3>Battle of Britain Memorial Flight</h3> 
+         <p>Go behind the scenes with the Royal Air Force and discover aircrafts used in the Battle of Britain Memorial Flight.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/history/vietnamwar.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Vietnam War</h3> 
+         <p>Learn about ongoing effects of The Vietnam War by exploring sites and momuments.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/history/littlebighorn.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Little Bighorn Battlefield</h3> 
+         <p>On June 25-26, 1876, the Battle of the Little Bighorn took place in Montana. In this expedition, students will be able to explore the historical site.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/history/admiral.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Admiral at War: Nelson and HMS Victory</h3> 
+         <p>Set sail and discover the incredible life and stunning battleship of arguably Britain's greatest naval hero: Admiral Horatio Lord Nelson.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/history/nativeamerican.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Native American Cultures</h3> 
+         <p>Horses, teepees, spiritual leaders and years of fighting for the Great Plains. Relive the story of the Native American and celebrate the unique traditions.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/history/greatdepression.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>The Great Depression</h3> 
+         <p>The Great Depression became one of the longest-lasting economic downturns in the world. Discover the trials and tribulations of those worst hit.</p> 
+        </div> </li> 
+      </ul> 
+      <button class="carousel__button carousel__next">Next</button> 
+     </div> 
+    </section> 
+    <section class="gallery-container"> 
+     <h2 class="gallery-title">Monuments</h2> 
+     <p class="gallery-desc">Visit monuments from around the world to gain a deep understanding of the significance of these landmarks.</p> 
+     <div class="carousel-wrapper"> 
+      <button class="carousel__button carousel__previous">Previous</button> 
+      <ul class="section__carousel gallery-5 transitioning"> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/monuments/7wonders.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>7 New Wonders of the World</h3> 
+         <p>Visit the new seven wonders of the world like you've never experienced before.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/monuments/buckingham.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Buckingham Palace</h3> 
+         <p>Take a tour the inside this royal home and experience an adventure like never before.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/monuments/greece.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Greece</h3> 
+         <p>This expedition will take you to Greece, to see some ancient ruins you will recognise and some you might not.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/monuments/aztecmayan.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Aztec and Mayan Ruins</h3> 
+         <p>This expedition showcases the modern-day look of years of erosion and destruction of different societies in Central and Southern America. </p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/monuments/americanlandmarks.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>American Landmarks</h3> 
+         <p>Go coast to coast across the United States to learn about U.S. history through American Landmarks.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/monuments/egypt.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Egypt</h3> 
+         <p>You’ve probably seen pictures of the pyramids in Egypt. On this Expedition, you get a chance to go a little bit closer to these ancient structures.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/monuments/greatwall.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>The Great Wall of China</h3> 
+         <p>On this Expedition, we’ll hike parts of the Great Wall and learn about its history and builders.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/monuments/petra.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Petra</h3> 
+         <p>On this expedition, you’ll explore the over-2,000-year-old carved streets and buildings of Petra in Ma’an province in southern Jordan.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/monuments/chichien.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Chichén Itzá</h3> 
+         <p>Join this Expedition to explore this UNESCO World Heritage Site and learn about the ancient Mayan civilization.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/monuments/machupicchu.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Machu Picchu</h3> 
+         <p>On this Expedition, you’ll explore the ruins of Machu Picchu, built by the Incas in the 15th century and a major Peruvian tourist attraction today.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/monuments/romanruins.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Roman Ruins</h3> 
+         <p>Explore the Colosseum and the Pantheon in Rome. Take a closer look at these structures and learn their history.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/monuments/versailles.png'); "></div> 
+        <div class="overlay"> 
+         <h3>Palace of Versailles</h3> 
+         <p>Look inside this wonder of French artistic brilliance and experience this majestic royal palace.</p> 
+        </div> </li> 
+      </ul> 
+      <button class="carousel__button carousel__next">Next</button> 
+     </div> 
+    </section> 
+    <section class="gallery-container"> 
+     <h2 class="gallery-title">Museums</h2> 
+     <p class="gallery-desc">Walk through art, science, and history museums around the world.</p> 
+     <div class="carousel-wrapper"> 
+      <button class="carousel__button carousel__previous">Previous</button> 
+      <ul class="section__carousel gallery-6 transitioning"> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/museums/specimensandstores.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Australian Museum Specimens and Stores</h3> 
+         <p>In this expedition, you’ll discover some of the natural science collections stores that contain many specimens of historical and scientific value.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/museums/charlesdickens.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Charles Dickens Museum</h3> 
+         <p>Explore the house of Charles Dickens, learn about some of the items on display and discover what life in Victorian London might have been like.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/museums/spacestation.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>The Space Station Museum</h3> 
+         <p>Explore the extensive collection of American astrological space expeditions materials.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/museums/guggenheim.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>The Solomon R. Guggenheim Museum</h3> 
+         <p>Every year, over a million visitors come to view the world-class art in this museum and experience the unique building, now you can be one of them.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/museums/merchantshouse.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>The Merchant's House Museum</h3> 
+         <p>Look over 3,000 possessions of the Tredwells, the wealthy merchant-class family who lived in this House, now museum, from 1835 to 1933.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/museums/americannaturalhistory.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>American Museum of Natural History</h3> 
+         <p>Explore the museum complex and collections which contain over 32 million specimens of plants, humans, animals, fossils, meteorites, and more.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/museums/911memorial.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>9/11 Memorial &amp; Museum</h3> 
+         <p>An educational guide on the history of 9/11, the design of the 9/11 Memorial &amp; Museum, and some of the artifacts preserved in its collection. </p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/museums/korea.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>National Museum of Korea</h3> 
+         <p>Visit some of the oldest and important artifacts from Korea's past.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/museums/iraq.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>An Intimate look inside the National Museum of Iraq</h3> 
+         <p>Walk through the National Museum of Iraq and examine rare Islamic texts and treasures from Mesopotamian civiliizaton. </p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/museums/thomasmellon.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Thomas Mellon</h3> 
+         <p>In this expedition, you’ll explore the Mellon homes and learn how Thomas Mellon worked his way from struggling farmer to the founder of one of the most successful banks in the world.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/museums/tenement.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Tenement Museum</h3> 
+         <p>The Tenement Museum preserves and interprets the history of immigration through the personal experiences of the generations of newcomers who settled in and built lives on Manhattan's Lower East Side.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/museums/cosmonautics.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Memorial Museum of Cosmonautics</h3> 
+         <p>Take a walk through the Memorial Museum of Cosmonautics and learn what it took to get humans into space.</p> 
+        </div> </li> 
+      </ul> 
+      <button class="carousel__button carousel__next">Next</button> 
+     </div> 
+    </section> 
+    <section class="gallery-container"> 
+     <h2 class="gallery-title">Reach Higher</h2> 
+     <p class="gallery-desc">Take students on a tour of university campuses and help them discover different careers by taking them on these Expeditions.</p> 
+     <div class="carousel-wrapper"> 
+      <button class="carousel__button carousel__previous">Previous</button> 
+      <ul class="section__carousel gallery-7 transitioning"> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/reach-higher/airlinepilot.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Career Expeditions: Airline Pilot</h3> 
+         <p>Experience a day in the life of an airplane pilot.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/reach-higher/wildlifecareers.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Career Expeditions: Wildlife Careers</h3> 
+         <p>Learn all about wildlife careers, focusing on the various jobs for those who care for animals.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/reach-higher/chef.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Career Expeditions: Concept Chef</h3> 
+         <p>Roll up your sleeves and discover what it takes to be one of the UK's most innovative chefs.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/reach-higher/bobber.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Rebel Metal</h3> 
+         <p>Motorcycle manufacturer Triumph invite us behind the scenes at the multimillion-pound launch of an astonishing new motorcycle: the Bonnevile Bobber.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/reach-higher/apprentice.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Secrets of the Apprentice</h3> 
+         <p>Follow Sarah Moreno, apprentice at the London Transport Museum, as she learns the art of being a curator in one of the UK’s most iconic organisations.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/reach-higher/ranger.png');  background-position: 100% 50%;"></div> 
+        <div class="overlay"> 
+         <h3>Career Expeditions: Forest Ranger</h3> 
+         <p>Experience a day in the life of a Community Ranger in England’s forests.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/reach-higher/coder.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Career Expeditions: Coder / Entrepreneur</h3> 
+         <p>Experience a day in the life of a modern day entrepreneur and coder.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/reach-higher/radioproducer.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Career Expeditions: Radio Producer</h3> 
+         <p>Experience a day in the life of a radio producer.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/reach-higher/astonmartin.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Licence to Thrill: Aston Martin DB11</h3> 
+         <p> Buckle up for an exciting ride as we reveal design principles, materials science, and even prototype camouflage that make Aston Martin a thrilling place to work.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/reach-higher/berklee.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Berklee School of Music</h3> 
+         <p>Located in the heart of Boston, Massachusettes, feel what it is like to be a student at the prestigous Berklee College of Music.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/reach-higher/notredame.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>University of Notre Dame</h3> 
+         <p>Visit the University of Notre Dame in Indiana and discover the oppurtunies and resources available on campus.</p> 
+        </div> </li> 
+       <li class="slide"> 
+        <div class="slide-img" style="background-image: url('/images/expeditions/gallery/reach-higher/stanford.jpg'); "></div> 
+        <div class="overlay"> 
+         <h3>Stanford University</h3> 
+         <p>Take a walk through Stanford University's vast campus located in beautiful California.</p> 
+        </div> </li> 
+      </ul> 
+      <button class="carousel__button carousel__next">Next</button> 
+     </div> 
+    </section> 
+   </section> 
+   <section class="gallery-footer"> 
+    <h2>Start exploring</h2> 
+    <p>With Google Expeditions, students can take field trips right from their classroom. Expeditions allows a teacher acting as a “guide” to lead classroom-sized groups of “explorers” through collections of 360° and 3D images while pointing out interesting sights along the way.</p> 
+    <a href="https://www.google.co.uk/pioneer-program/" target="_blank" class="link section__cta" style="display: inline-block">Sign up</a> 
+    <div class="download-badges"> 
+     <a class="download-badges__link" href="https://play.google.com/store/apps/details?id=com.google.vr.expeditions&amp;utm_source=ExpWeb&amp;utm_medium=web" target="_blank"> <img class="download-badges__badge download-badges__badge--play" srcset="/images/expeditions/icons/play-badge_v4.png, /images/expeditions/icons/play-badge_v4_2x.png" alt="Get it on Google Play"> </a> 
+     <a class="download-badges__link" href="https://itunes.apple.com/us/app/expeditions/id1131711060" target="_blank"> <img class="download-badges__badge download-badges__badge--appstore" srcset="/images/expeditions/icons/appstore-badge_v4.png, /images/expeditions/icons/appstore-badge_v4_2x.png" alt="Get it on the App Store"> </a> 
+    </div> 
+   </section> 
+  </main> 
+  <footer class="footer"> 
+   <div class="container"> 
+    <div class="social footer__social">
+      Follow us on: 
+     <a href="https://plus.google.com/+GoogleforEducation" class="footer__social-link footer__social-link--plus" target="_blank"></a> 
+     <a href="https://twitter.com/GoogleForEdu" class="footer__social-link footer__social-link--twitter" target="_blank"></a> 
+    </div> 
+    <nav class="footer__nav"> 
+     <img class="footer__logo" srcset="https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_74x24dp.png, https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_74x24dp.png 2x" alt="Google logo" width="74"> 
+     <a class="link footer__link" target="_blank" title="Help" href="https://support.google.com/edu/expeditions"> Help </a> 
+     <a class="link footer__link" target="_blank" title="Privacy" href="https://www.google.com/intl/en/policies/"> Privacy </a> 
+     <a class="link footer__link" target="_blank" title="Terms" href="https://www.google.com/intl/en/policies/terms/"> Terms </a> 
+    </nav> 
+   </div> 
+  </footer> 
+  <script src="https://www.gstatic.com/external_hosted/matchMedia/matchMedia.js"></script> 
+  <script src="https://www.gstatic.com/external_hosted/matchMedia/matchMedia.addListener.js"></script> 
+  <script src="https://www.gstatic.com/external_hosted/picturefill/picturefill.min.js"></script> 
+  <script src="https://ajax.googleapis.com/ajax/libs/hammerjs/2.0.8/hammer.min.js"></script> 
+  <script src="/js/expeditions.min.js" async></script>  
+ </body>
+</html>

@@ -1,0 +1,811 @@
+<!doctype html>
+<html class="google mmfb" lang="en" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/en_nz/teacher/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="#ItTakesATeacher to..." name="description"> 
+  <title>
+    Google for Education: Bringing Learning Online
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/en_nz/teacher/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Bringing Learning Online" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/en_nz/teacher/" property="og:url"> 
+  <meta content="/images/teacher/it-takes-a-teacher.jpg" property="og:image"> 
+  <meta content="#ItTakesATeacher to..." property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/en_nz/teacher/" name="twitter:url"> 
+  <meta content="Google for Education: Bringing Learning Online" name="twitter:title"> 
+  <meta content="/images/teacher/it-takes-a-teacher.jpg" name="twitter:image"> 
+  <meta content="#ItTakesATeacher to..." name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Bringing Learning Online" itemprop="name"> 
+  <meta content="#ItTakesATeacher to..." itemprop="description"> 
+  <meta content="/images/teacher/it-takes-a-teacher.jpg" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Bringing Learning Online",
+    "description": "#ItTakesATeacher to...",
+    "url": "https://edu.google.com/intl/en_nz/teacher/",
+    "logo": "/images/teacher/it-takes-a-teacher.jpg",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+  <link href="/css/teacher.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="itat"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/en_nz/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-help-desktop" class="maia-button expert-desktop get-help" data-g-event="Edu: Global Header" data-g-action="Talk to an Expert" data-g-label="Header" href="/intl/en_nz/contact/">Talk to an Expert</a>
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Get Google Products</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">How can we help you?</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>Get Productivity Tools</h5> 
+        <p>Get Google productivity tools, with Classroom, Google Docs, Drive, Hangouts, email and more included free of charge, with no ads.</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=en#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Sign up for G Suite</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Get Devices</h5> 
+        <p>Interested in getting Chromebooks or Android devices for your institution? Our team can help you find the right path.</p> 
+        <a class="maia-button overlay-button" href="/intl/en_nz/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Contact an Expert</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Talk to Other Educators</h5> 
+        <p>Want to talk to people similar to you who have gone Google? Tap into our community of educators.</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Find Other Educators</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li class="active"> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/" target="_self">Home</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">Products</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/products/devices/" target="_self">Devices <br><span class="dropdown-item-description">Chromebooks and Tablets</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/products/productivity-tools/" target="_self">Productivity Tools <br><span class="dropdown-item-description">Docs, Gmail and More</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/products/productivity-tools/classroom/" target="_self">Classroom <br><span class="dropdown-item-description">Mission control for teachers and students</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtual reality field trips</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/products/more-products/" target="_self">More Products <br><span class="dropdown-item-description">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">Training</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=en" target="_self">Educator Training <br><span class="dropdown-item-description">on Google for Education tools</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT Admin Training </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Directory of Partners <br><span class="dropdown-item-description">to help your school go Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/resources/communities/" target="_self">Communities <br><span class="dropdown-item-description">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">Resources</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Privacy &amp; Security" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/trust/" target="_self">Privacy &amp; Security </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/resources/programs/" target="_self">Programmes <br><span class="dropdown-item-description">for students and teachers</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/case-studies/" target="_self">Case Studies </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/resources/computerscience/" target="_self">Computer Science Education <br><span class="dropdown-item-description">Programs, Funding, and Research</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/resources/global-education/" target="_self">Global Education </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/en_nz/it/" target="_self">IT Guides</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/en_nz/higher-education/" target="_self">Higher Ed</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Products</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/products/devices/" target="_self">Devices <span class="nav-subtext">Chromebooks and Tablets</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/products/productivity-tools/" target="_self">Productivity Tools <span class="nav-subtext">Docs, Gmail and More</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/products/productivity-tools/classroom/" target="_self">Classroom <span class="nav-subtext">Mission control for teachers and students</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtual reality field trips</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/products/more-products/" target="_self">More Products <span class="nav-subtext">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Training</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=en" target="_self">Educator Training <span class="nav-subtext">on Google for Education tools</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT Admin Training </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Directory of Partners <span class="nav-subtext">to help your school go Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/resources/communities/" target="_self">Communities <span class="nav-subtext">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Resources</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Privacy &amp; Security" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/trust/" target="_self">Privacy &amp; Security </a> </li> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/resources/programs/" target="_self">Programmes <span class="nav-subtext">for students and teachers</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/case-studies/" target="_self">Case Studies </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/resources/computerscience/" target="_self">Computer Science Education <span class="nav-subtext">Programs, Funding, and Research</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/resources/global-education/" target="_self">Global Education </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">IT Guides</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/it/" target="_self">IT </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/trust/" target="_self">Privacy Pages </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Higher Ed</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/en_nz/higher-education/" target="_self">Higher Ed </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-help-desktop" class="gray-btn talk-to-an-expert-mobile get-help" data-g-event="Edu: Global Header" data-g-action="Talk to an Expert" data-g-label="Header" href="/intl/en_nz/contact/">Talk to an Expert</a> </h4>
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Get Google Products</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">How can we help you?</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>Get Productivity Tools</h5> 
+         <p>Get Google productivity tools, with Classroom, Google Docs, Drive, Hangouts, email and more included free of charge, with no ads.</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=en#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Sign up for G Suite</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Get Devices</h5> 
+         <p>Interested in getting Chromebooks or Android devices for your institution? Our team can help you find the right path.</p> 
+         <a class="maia-button overlay-button" href="/intl/en_nz/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Contact an Expert</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Talk to Other Educators</h5> 
+         <p>Want to talk to people similar to you who have gone Google? Tap into our community of educators.</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Find Other Educators</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div class="click-to-call is-open" id="dismissable-banner"> 
+   <div class="click-to-call-wrapper"> 
+    <div class="description"> 
+     <p>Call <a clas="phone-number" href="tel:0800366025">0800 366 025</a> to talk to an expert about going Google.</p> 
+    </div> 
+    <div class="cta"> 
+     <a href="/intl/en_nz/contact/"> Learn more </a> 
+    </div> 
+    <div class="close"></div> 
+   </div> 
+  </div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <section class="section--hero maia-cols"> 
+    <div class="hero-wrapper"> 
+     <h1>#ItTakesATeacher</h1> 
+     <input class="itat-input maia-col-8" type="text" value="to " autofocus> 
+     <div class="social-logos"> 
+      <img class="share twitter" src="/images/teacher/twitter-logo.png"> 
+      <img class="share g-plus" src="/images/teacher/g-plus-logo.png"> 
+      <img class="share facebook" src="/images/teacher/facebook-logo.png"> 
+     </div> 
+    </div> 
+    <div class="chromebook-logo"> 
+     <img src="/images/teacher/chromebook-logo.png"> 
+    </div> 
+    <div id="scroller" class="fab"> 
+     <img src="/images/teacher/down.png"> 
+    </div> 
+   </section> 
+   <section class="section--module social maia-cols"> 
+    <div class="carousel-wrap maia-col-12" set-ng-animate="false"> 
+     <div data-carousel data-ga="Edu: Canvas;Social" data-interval="5000" template-url="/templates/home/carousel.html"> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/Savvy_Educator" target="_blank">@Savvy_Educator</a> 
+         <span class="tweet-text">#ItTakesATeacher to discover students' passions to help them find their purpose. </span> 
+         <a class="explore" href="https://twitter.com/Savvy_Educator/status/838516808822976512" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/Eastern_14" target="_blank">@Eastern_14</a> 
+         <span class="tweet-text">#ItTakesATeacher to nurture each individual</span> 
+         <a class="explore" href="http://twitter.com/Eastern_14/status/825039053921906689" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/Rach_Ribeiro" target="_blank">@Rach_Ribeiro</a> 
+         <span class="tweet-text">#ItTakesATeacher to encourage students to envision that the knowledge they acquire is life changing</span> 
+         <a class="explore" href="https://twitter.com/Rach_Ribeiro/status/838281407206043649" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/dkw_teacher" target="_blank">@dkw_teacher</a> 
+         <span class="tweet-text">#ItTakesATeacher to prepare our future leaders </span> 
+         <a class="explore" href="https://twitter.com/dkw_teacher/status/854073199449001985" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/TeacherSChoi" target="_blank">@TeacherSChoi</a> 
+         <span class="tweet-text">#ItTakesATeacher to have students believe they can accomplish anything they put their mind to.</span> 
+         <a class="explore" href="https://twitter.com/TeacherSChoi/status/838391307085180928" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/mnjones410" target="_blank">@mnjones410</a> 
+         <span class="tweet-text">#ItTakesATeacher to recognize effort and hard work as achievement! </span> 
+         <a class="explore" href="https://twitter.com/mnjones410/status/842567783460343808" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/MsMagiera " target="_blank">@MsMagiera </a> 
+         <span class="tweet-text">#ItTakesATeacher to turn a classroom into a community, a lesson into an adventure and each student into the best version of themselves.</span> 
+         <a class="explore" href="https://twitter.com/MsMagiera/status/782617479239524352" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/CatFlippen" target="_blank">@CatFlippen</a> 
+         <span class="tweet-text">I believe #ItTakesATeacher to instigate systematic change across generations</span> 
+         <a class="explore" href="https://twitter.com/CatFlippen/status/783782314128117760" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/PrepToon" target="_blank">@PrepToon</a> 
+         <span class="tweet-text">#ItTakesATeacher to get students from "I can't" to "I will try" #growthmindset</span> 
+         <a class="explore" href="https://twitter.com/PrepToon/status/783786418271158273" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/johnnyvulkan" target="_blank">@johnnyvulkan</a> 
+         <span class="tweet-text">#ItTakesATeacher to open our minds. Thank you teachers!</span> 
+         <a class="explore" href="https://twitter.com/johnnyvulkan/status/783730639115788288" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/kylepace" target="_blank">@kylepace</a> 
+         <span class="tweet-text">#ItTakesATeacher to making learning go beyond the classroom; beyond any bubble sheet or grade. To foster good citizens, not just good Ss.</span> 
+         <a class="explore" href="https://twitter.com/kylepace/status/783729186498162688" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/Drea_Alphonso" target="_blank">@Drea_Alphonso</a> 
+         <span class="tweet-text">#ItTakesATeacher to keep their students inspired - thankful for my 6th grade teacher and college professor for doing just that</span> 
+         <a class="explore" href="https://twitter.com/Drea_Alphonso/status/783706158917967872" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/JennyT_Edu" target="_blank">@JennyT_Edu</a> 
+         <span class="tweet-text">#ItTakesATeacher to create sparks, build curiosity, ignite passions, and fuel the next generation of leaders.</span> 
+         <a class="explore" href="https://twitter.com/JennyT_Edu/status/782741989615816704" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/GranberryMP7" target="_blank">@GranberryMP7</a> 
+         <span class="tweet-text">#ItTakesATeacher to understand a child's heart!!! </span> 
+         <a class="explore" href="https://twitter.com/GranberryMP7/status/783746658970505220" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/JilliannHand" target="_blank">@JilliannHand</a> 
+         <span class="tweet-text">#ItTakesATeacher "to instill hope when there's nothing but fear"</span> 
+         <a class="explore" href="https://twitter.com/JilliannHand/status/783747389689585665" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/CatesbyPerrin" target="_blank">@CatesbyPerrin</a> 
+         <span class="tweet-text">#ittakesateacher to empower other teachers with technology! #googleEDU</span> 
+         <a class="explore" href="https://twitter.com/CatesbyPerrin/status/782969279805165569" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/areed_art " target="_blank">@areed_art </a> 
+         <span class="tweet-text">#ItTakesATeacher to see something new in what was, moments ago, ordinary.</span> 
+         <a class="explore" href="https://twitter.com/areed_art/status/782720575672156160" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/MrTollison1" target="_blank">@MrTollison1</a> 
+         <span class="tweet-text">#ItTakesATeacher to change the world</span> 
+         <a class="explore" href="https://twitter.com/MrTollison1/status/783748581203128320" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/MsFrance425" target="_blank">@MsFrance425</a> 
+         <span class="tweet-text">#ItTakesATeacher to turn the quadratic formula into a song they will NEVER EVER FORGET</span> 
+         <a class="explore" href="https://twitter.com/MsFrance425/status/783766530848940033" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/LHower22 " target="_blank">@LHower22 </a> 
+         <span class="tweet-text">#ItTakesATeacher to see a students' passion &amp; to challenge them to make things happen! #inspiration</span> 
+         <a class="explore" href="https://twitter.com/LHower22/status/783747075447992321" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/KathrynEmilie" target="_blank">@KathrynEmilie</a> 
+         <span class="tweet-text">#ItTakesATeacher to help us relentlessly pursue our purpose</span> 
+         <a class="explore" href="https://twitter.com/KathrynEmilie/status/783731225227763712" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/Katie_M_Ritter" target="_blank">@Katie_M_Ritter</a> 
+         <span class="tweet-text">#ItTakesATeacher to believe in a student so much they finally believe in her/himself!</span> 
+         <a class="explore" href="https://twitter.com/Katie_M_Ritter/status/782956063427555328" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/AsaelEdition" target="_blank">@AsaelEdition</a> 
+         <span class="tweet-text">#ItTakesATeacher to bring out the best in a student.</span> 
+         <a class="explore" href="https://twitter.com/AsaelEdition/status/783777719217709056" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/jfurlong9" target="_blank">@jfurlong9</a> 
+         <span class="tweet-text">#ItTakesATeacher to inspire the next generation to reach for the "impossible"</span> 
+         <a class="explore" href="https://twitter.com/jfurlong9/status/783779127308460032" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/R0ME083" target="_blank">@R0ME083</a> 
+         <span class="tweet-text">#ItTakesATeacher to inspire those who come from nothing to grow and become someone special.</span> 
+         <a class="explore" href="https://twitter.com/R0ME083/status/783779138108731392" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/krileymusic" target="_blank">@krileymusic</a> 
+         <span class="tweet-text">#ItTakesATeacher to change the world! </span> 
+         <a class="explore" href="https://twitter.com/krileymusic/status/783778149406388224" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/RachAPRN" target="_blank">@RachAPRN</a> 
+         <span class="tweet-text">#ItTakesATeacher to look beyond the disadvantaged and give every child a chance to learn.</span> 
+         <a class="explore" href="https://twitter.com/RachAPRN/status/783775149258600449" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/SimonTangTweets" target="_blank">@SimonTangTweets</a> 
+         <span class="tweet-text">#ItTakesATeacher to inspire students to become leaders.</span> 
+         <a class="explore" href="https://twitter.com/SimonTangTweets/status/783773831072739328" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/NatashaEarth" target="_blank">@NatashaEarth</a> 
+         <span class="tweet-text">#ItTakesATeacher to build the world</span> 
+         <a class="explore" href="https://twitter.com/NatashaEarth/status/783773674608349185" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/VirtualPoSH" target="_blank">@VirtualPoSH</a> 
+         <span class="tweet-text">#ItTakesATeacher to change a child's life...and subsequently a parents!</span> 
+         <a class="explore" href="https://twitter.com/VirtualPoSH/status/783773240908853249" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/slide.html"> 
+       <div class="social-slide"> 
+        <div class="maia-col-4 description"> 
+         <a class="handle" href="https://www.twitter.com/rasaddler" target="_blank">@rasaddler</a> 
+         <span class="tweet-text">#ItTakesATeacher to save the world</span> 
+         <a class="explore" href="https://twitter.com/rasaddler/status/783772600166068225" target="_blank">Explore on Twitter</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="maia-col-8 tweet-image" style="background-image: url('/images/teacher/tweet-1.jpg')"></div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section--module carousel maia-cols"> 
+    <div class="carousel-wrap maia-col-12" set-ng-animate="false"> 
+     <div data-carousel data-ga="Edu: Canvas;Videos" data-interval="6000" template-url="/templates/home/carousel.html"> 
+      <div data-video-slide youtube-id="Am30mlEh2cY" template-url="/templates/home/video-slide.html"> 
+       <div class="itat-slide maia-cols"> 
+        <div class="maia-col-6"> 
+         <div class="video-container"> 
+          <img class="poster-image" src="/images/teacher/matt-video-poster.jpg"> 
+          <p><a class="maia-media play-btn" data-g-event="Edu: Canvas" data-g-action="Video: Meet Matt" data-g-label="Canvas"></a></p> 
+         </div> 
+        </div> 
+        <div class="maia-col-3"> 
+         <h3>Meet Matt</h3> 
+         <p>Chemistry</p> 
+         <a class="see-more" href="https://youtu.be/B2FXk2kNEhQ" target="_blank">See More</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-video-slide youtube-id="eC4S2WxUoD8" template-url="/templates/home/video-slide.html"> 
+       <div class="itat-slide maia-cols"> 
+        <div class="maia-col-6"> 
+         <div class="video-container"> 
+          <img class="poster-image" src="/images/teacher/frank-video-poster.jpg"> 
+          <p><a class="maia-media play-btn" data-g-event="Edu: Canvas" data-g-action="Video: Meet Frank" data-g-label="Canvas"></a></p> 
+         </div> 
+        </div> 
+        <div class="maia-col-3"> 
+         <h3>Meet Frank</h3> 
+         <p>Engineering</p> 
+         <a class="see-more" href="https://youtu.be/Z4JSkdUUE7w" target="_blank">See More</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-video-slide youtube-id="_CJ_nG8cLB0" template-url="/templates/home/video-slide.html"> 
+       <div class="itat-slide maia-cols"> 
+        <div class="maia-col-6"> 
+         <div class="video-container"> 
+          <img class="poster-image" src="/images/teacher/abby-video-poster.jpg"> 
+          <p><a class="maia-media play-btn" data-g-event="Edu: Canvas" data-g-action="Video: Meet Abby" data-g-label="Canvas"></a></p> 
+         </div> 
+        </div> 
+        <div class="maia-col-3"> 
+         <h3>Meet Abby</h3> 
+         <p>Language Arts</p> 
+         <a class="see-more" href="https://youtu.be/NiariMZkxsg" target="_blank">See More</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-video-slide youtube-id="HVue3OOissc" template-url="/templates/home/video-slide.html"> 
+       <div class="itat-slide maia-cols"> 
+        <div class="maia-col-6"> 
+         <div class="video-container"> 
+          <img class="poster-image" src="/images/teacher/anna-video-poster.jpg"> 
+          <p><a class="maia-media play-btn" data-g-event="Edu: Canvas" data-g-action="Video: Meet Anna" data-g-label="Canvas"></a></p> 
+         </div> 
+        </div> 
+        <div class="maia-col-3"> 
+         <h3>Meet Anna</h3> 
+         <p>Art &amp; Photography</p> 
+         <a class="see-more" href="https://youtu.be/Q_wOFflwaU4" target="_blank">See More</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section--module feature"> 
+    <div class="maia-cols"> 
+     <div class="maia-col-8 feature-video video-container"> 
+      <div id="ytplayer-feature"></div> 
+      <div class="video-poster" data-video="jdRPMyCMtbA">
+       <a class="maia-media play-btn" data-g-event="Edu: Canvas" data-g-action="Video: Feature" data-g-label="Canvas"></a>
+      </div> 
+     </div> 
+     <div class="maia-col-4 feature-description"> 
+      <span class="text">Chromebooks. Designed for the creativity of teaching.<br> <a class="play-link" data-g-event="Edu: Canvas" data-g-action="Video: Feature" data-g-label="Canvas">Play video</a> </span> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section--module ctas maia-cols"> 
+    <div class="cols-container"> 
+     <div class="maia-col-2 cta-block"> 
+      <h3>Learn about Chromebooks</h3> 
+      <a href="https://edu.google.com/intl/en_nz/products/devices/" target="_blank">
+       <div class="maia-button learn">
+        Learn
+       </div></a> 
+     </div> 
+     <div class="maia-col-2 cta-block"> 
+      <h3>Connect with other educators</h3> 
+      <a href="https://edudirectory.withgoogle.com" target="_blank">
+       <div class="maia-button connect">
+        Connect
+       </div></a> 
+     </div> 
+     <div class="maia-col-2 cta-block"> 
+      <h3>Explore creative apps</h3> 
+      <a href="https://edu.google.com/intl/en_nz/products/class-content/" target="_blank">
+       <div class="maia-button explore">
+        Explore
+       </div></a> 
+     </div> 
+     <div class="maia-col-1 divider">
+       &nbsp; 
+     </div> 
+     <div class="maia-col-5 training-center"> 
+      <h2>Already have<br>Chromebooks?</h2> 
+      <span>Visit the<br><a href="https://edutrainingcenter.withgoogle.com" target="_blank">Training Center</a></span> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Products</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_nz/products/devices/">Devices</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_nz/products/productivity-tools/">Productivity Tools</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_nz/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_nz/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_nz/products/more-products/">More Products</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Training</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=en" target="_blank">Educator Training</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">IT Admin Training</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">Directory of Partners</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_nz/resources/communities/">Communities</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Resources</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_nz/resources/programs/">Programmes</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_nz/resources/computerscience/">Computer Science Education</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_nz/resources/global-education/">Global Education</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_nz/it/">IT</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">Developer Resources</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_nz/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_nz/access/">Access</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_nz/contact/">Sales</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">Support</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_nz/partners/">Partner Programme</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/en_nz/case-studies/">Case Studies</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">See Chromebooks Institutions</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">Blog</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="Search this site" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/en_au/teacher/"> English (Australia) </option><option selected value="/intl/en_nz/teacher/"> English (New Zealand) </option><option value="/intl/en_uk/teacher/"> English (United Kingdom) </option><option value="/teacher/"> English (United States) </option><option value="/intl/sv/teacher/"> svenska (Sverige) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/en/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/en/policies/privacy/">Privacy</a> </li> 
+      <li> <a href="https://www.google.com/intl/en/policies/terms/">Terms</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script> 
+  <script id="contact-script" src="/js/teacher.min.js"></script>  
+ </body>
+</html>

@@ -1,0 +1,955 @@
+<!doctype html>
+<html class="google mmfb" lang="ja" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/ja/resources/computerscience/research/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." name="description"> 
+  <title>
+    Google for Education: Computer Science Research
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/ja/resources/computerscience/research/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Computer Science Research" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/ja/resources/computerscience/research/" property="og:url"> 
+  <meta content="" property="og:image"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/ja/resources/computerscience/research/" name="twitter:url"> 
+  <meta content="Google for Education: Computer Science Research" name="twitter:title"> 
+  <meta content="" name="twitter:image"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Computer Science Research" itemprop="name"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." itemprop="description"> 
+  <meta content="" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Computer Science Research",
+    "description": "Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu.",
+    "url": "https://edu.google.com/intl/ja/resources/computerscience/research/",
+    "logo": "",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="computerscience-research"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/ja/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Google のサービスにアクセス</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">ご希望のサービスをお選びください。</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>生産性向上ツールを入手する</h5> 
+        <p>Classroom、Google ドキュメント、ドライブ、ハングアウト、メールなどの Google の生産性向上ツールを無料でご利用いただけます。広告は表示されません。</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=ja#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">G Suite のお申し込み</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>端末を入手する</h5> 
+        <p>学校に Chromebooks や Android の端末を導入しませんか？Google のチームが導入をお手伝いします。</p> 
+        <a class="maia-button overlay-button" href="/intl/ja/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">お問い合わせ</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>教育者同士で話し合う</h5> 
+        <p>Google に移行したユーザーと話をすることもできます。教育者のコミュニティにご参加ください。</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">他の教育者を探す</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/" target="_self">ホーム</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">サービス</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/devices/" target="_self">端末 <br><span class="dropdown-item-description">Chromebooks and Tablets</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/productivity-tools/" target="_self">生産性向上ツール <br><span class="dropdown-item-description">Docs, Gmail and More</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/productivity-tools/classroom/" target="_self">Classroom <br><span class="dropdown-item-description">Mission control for teachers and students</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtual reality field trips</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/more-products/" target="_self">その他のサービス <br><span class="dropdown-item-description">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">トレーニング</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=ja" target="_self">教育者トレーニング <br><span class="dropdown-item-description">Google for Education ツール</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT 管理者トレーニング <br><span class="dropdown-item-description">G Suite 管理者向け</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">パートナー ディレクトリ <br><span class="dropdown-item-description">to help your school go Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/communities/" target="_self">コミュニティ <br><span class="dropdown-item-description">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" active  global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">リソース</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/programs/" target="_self">プログラム <br><span class="dropdown-item-description">for students and teachers</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/case-studies/" target="_self">導入事例 </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/computerscience/" target="_self">コンピュータ サイエンス教育 <br><span class="dropdown-item-description">Programs, Funding, and Research</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/global-education/" target="_self">グローバル教育 </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/ja/it/" target="_self">IT ガイド</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/ja/higher-education/" target="_self">高等教育</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">サービス</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/devices/" target="_self">端末 <span class="nav-subtext">Chromebooks and Tablets</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/productivity-tools/" target="_self">生産性向上ツール <span class="nav-subtext">Docs, Gmail and More</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/productivity-tools/classroom/" target="_self">Classroom <span class="nav-subtext">Mission control for teachers and students</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtual reality field trips</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/more-products/" target="_self">その他のサービス <span class="nav-subtext">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">トレーニング</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=ja" target="_self">教育者トレーニング <span class="nav-subtext">Google for Education ツール</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT 管理者トレーニング <span class="nav-subtext">G Suite 管理者向け</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">パートナー ディレクトリ <span class="nav-subtext">to help your school go Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/communities/" target="_self">コミュニティ <span class="nav-subtext">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">リソース</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/programs/" target="_self">プログラム <span class="nav-subtext">for students and teachers</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/case-studies/" target="_self">導入事例 </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/computerscience/" target="_self">コンピュータ サイエンス教育 <span class="nav-subtext">Programs, Funding, and Research</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/global-education/" target="_self">グローバル教育 </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">IT ガイド</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/it/" target="_self">IT </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/trust/" target="_self">プライバシー ページ </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">高等教育</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/higher-education/" target="_self">高等教育 </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Google のサービスにアクセス</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">ご希望のサービスをお選びください。</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>生産性向上ツールを入手する</h5> 
+         <p>Classroom、Google ドキュメント、ドライブ、ハングアウト、メールなどの Google の生産性向上ツールを無料でご利用いただけます。広告は表示されません。</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=ja#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">G Suite のお申し込み</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>端末を入手する</h5> 
+         <p>学校に Chromebooks や Android の端末を導入しませんか？Google のチームが導入をお手伝いします。</p> 
+         <a class="maia-button overlay-button" href="/intl/ja/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">お問い合わせ</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>教育者同士で話し合う</h5> 
+         <p>Google に移行したユーザーと話をすることもできます。教育者のコミュニティにご参加ください。</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">他の教育者を探す</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <!-- Headline --> 
+   <section class="stage headline research"> 
+    <div class="cols-864"> 
+     <div class="col-12"> 
+      <h1>コンピュータ サイエンス教育のリサーチ</h1> 
+      <p class="body1"> コンピュータ サイエンスは私たちの未来にとって不可欠です。これは、コンピューティングに関連する仕事が年々増加しているからだけではなく、複雑な問題を解決するのに必要となる論理的な思考能力、新しいアイデアを生み出す創造力、テクノロジーなどの分野での革新を生み出すスキルを磨くのに役立つからでもあります。 </p> 
+     </div> 
+    </div> 
+    <menuitem> <a href="/intl/ja/resources/computerscience/"><img src="/images/resources/computerscience/header_nav_back.png">Google Computer Science</a> </menuitem> 
+   </section> 
+   <!-- Subheadline --> 
+   <section class="stage subheadline research"> 
+    <div class="cols-864"> 
+     <div class="col-12"> 
+      <h3>コンピュータ サイエンスに対する認識を高め、あらゆる学生たちの学ぶ機会を広げる方法を見つけるリサーチ</h3> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- Reports --> 
+   <section class="reports research"> 
+    <a class="anchor-link" id="community-college-pathways"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="reports-c-c-img" src="/images/resources/computerscience/research-hero-reports-community-college.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-12"> 
+         <p class="subheadlineSemiBold">Community College Pathways to Computer Science Bachelor's Degrees</p> 
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">We partnered with the Community College Research Center (CCRC) and ETR on two complementary research reports that explore ways to encourage community college students to pursue bachelor’s degrees in computer science and related fields.</p> 
+        </div> 
+       </div> 
+       <div class="row "> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Students who transferred and earned CS bachelor’s degrees were particularly focused and fortunate</strong> among the 1.8M students who entered U.S. community colleges in 2007 (CCRC).</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Community college students are confused about computer science transfer pathways</strong> from their community college to their target four-year institution, yet 60% of participants intended to transfer (ETR).</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>CS bachelor's degree earners in the dataset followed 1,213 distinct paths to graduation</strong> when accounting for lengths of enrollment, switches between schools, and numbers and durations of leaves (CCRC).</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Community college students have limited knowledge of CS careers</strong> and how to prepare for jobs in CS-related fields (ETR).</p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">Read the reports, <a href="https://goo.gl/Eiz33G" target="_blank">A Longitudinal Analysis of Community College Pathways to Computer Science Bachelor`s Degrees</a> with CCRC and <a href="https://goo.gl/Q0wJJv" target="_blank">Student Perspectives of Community College Pathways to Computer Science Bachelor`s Degrees</a> with ETR. Share the <a href="https://goo.gl/r7kEB5" target="_blank">infographic.</a></p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="anchor-link" id="diversity-gaps-in-cs"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="firstImg" src="/images/resources/computerscience/research-hero-diversity-gaps-in-cs.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-8"> 
+         <p class="subheadlineSemiBold">コンピュータ サイエンスにおける多様性の格差: 女子、黒人、ヒスパニック系が少数に留まる背景を探る</p> 
+        </div> 
+        <div class="col-4">
+         <a data-g-event="Edu: Canvas" data-g-action="Read Report" data-g-label="コンピュータ サイエンスにおける多様性の格差: 女子、黒人、ヒスパニック系が少数に留まる背景を探る" href="http://goo.gl/PG34aH" class="cta2 blue" target="_blank">レポートを読む</a>
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">This special report from Year 2 of our Google-Gallup study explores the structural and social barriers underrepresented groups face at home, in schools, and in society that could influence their likelihood to enter the computer science field. We found:</p> 
+        </div> 
+       </div> 
+       <div class="row "> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>女子と男子の比較</strong>: 女子は、学校外でのコンピュータ サイエンス教育についての認識、コンピュータ サイエンスの学習に対する教師や保護者からの支援、自身の興味・関心が男子よりも低い傾向にあります。</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>黒人およびヒスパニック系と白人との比較</strong>: 黒人とヒスパニック系の学生は、白人の学生に比べてコンピュータ サイエンスに対する関心が高く、その家庭も、白人家庭より強く子どもにコンピュータ サイエンスを学んでほしいと考える傾向があります。</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>黒人とヒスパニック系の学生が直面する格差</strong>: 黒人とヒスパニック系の学生では、コンピュータ サイエンスの授業を受ける機会が他に比べて少なく、家庭や学校でのコンピュータの使用率も低くなっています。</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>コンピュータ科学者のロールモデル</strong>: 女子、黒人、ヒスパニック系の学生が自分たちと同じ人種や性別のコンピュータ科学者をメディアで見かけることはめったにありません。女子やヒスパニック系では特にそうした傾向があります。</p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">Share the <a href="http://goo.gl/2Kbfmz" target="_blank">infographic</a> and read our focus briefs on <a href="https://goo.gl/dF7shN" target="_blank">girls</a>, <a href="https://goo.gl/FIhXKp" target="_blank">Black students</a>, and <a href="http://goo.gl/i662yI" target="_blank">Hispanic students</a></p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="anchor-link" id="trends-in-cs"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="firstImg" src="/images/resources/computerscience/research-hero-trends-in-cs.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-8"> 
+         <p class="subheadlineSemiBold">米国の幼稚園から高校の教育機関でのコンピュータ サイエンス教育における傾向</p> 
+        </div> 
+        <div class="col-4">
+         <a data-g-event="Edu: Canvas" data-g-action="Read Report" data-g-label="米国の幼稚園から高校の教育機関でのコンピュータ サイエンス教育における傾向" href="http://goo.gl/j291E0" class="cta2 blue" target="_blank">レポートを読む</a>
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">2 年目となる Google と Gallup の共同調査では、主な調査項目について 1 年目の結果と比較検討して新たな見識を得るべく、学生 1,600 人、保護者 1,600 人、教師 1,000 人、校長 9,800 人、学校管理者 2,300 人を対象に調査を行いました。その結果は次のとおりです。</p> 
+        </div> 
+       </div> 
+       <div class="row "> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>コンピュータ サイエンス授業の実施率</strong>: 40% の校長が、プログラミングやコーディングを扱うコンピュータ サイエンスの授業を実施していると報告しました。1 年目の 25% と比較して増加傾向にあります。</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>コンピュータ サイエンスの学習やキャリアに対する肯定的な認識</strong>: 対象グループのすべてが、コンピュータ サイエンスの学習やキャリアを引き続き高く評価しています。</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>コンピュータ サイエンス教育を支持する声の少なさ</strong>: コンピュータ サイエンス教育への高い評価にもかかわらず、教育機関の関係者に対してコンピュータ サイエンス教育を支持する考えを具体的に表した保護者や教師の数は少数に限られています。</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>豊富なチャンス</strong>: コンピュータ サイエンスを他の科目に組み込んだり、関心の高い教師を育成したりできるチャンスは数多くあります。</p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">Share the <a href="http://goo.gl/hp4KKV" target="_blank">infographic</a>.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="anchor-link" id="cs-edu-in-spain"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="cs-in-span-img" src="/images/resources/computerscience/research-hero-cs-in-spain-2015.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-8"> 
+         <p class="subheadlineSemiBold">スペインにおける 2015 年のコンピュータ サイエンス教育</p> 
+        </div> 
+        <div class="col-4">
+         <a data-g-event="Edu: Canvas" data-g-action="Read Report" data-g-label="スペインにおける 2015 年のコンピュータ サイエンス教育" href="http://goo.gl/aFP5yC" class="cta2 blue" target="_blank">レポートを読む</a>
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">In collaboration with Spanish Foundation for Science and Technology (FECYT) and everis, we conducted a landscape study to understand the current state of CS education in primary and secondary schools in Spain, examining the awareness of computer science by key stakeholders, and identifying existing barriers and opportunities to making CS education available to all Spanish students. Some findings include:</p> 
+        </div> 
+       </div> 
+       <div class="row "> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>理解と認識を深めることの重要性</strong>: コンピュータ サイエンス教育を促進するには、コンピュータ サイエンスとは何であるか、およびその実用性について、学生や保護者の理解と認識を深めることが特に重要であると考えられます。</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>保護者の懸念が障壁に</strong>: 保護者は、コンピュータ サイエンス自体の難しさ、デジタル機器の過度な使用、サイバー セキュリティの問題などに対して懸念を抱いているため、コンピュータ サイエンスの学習を子供たちに勧めにくいと考えています。</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>保護者の重要な役割</strong>: 保護者は、学生がコンピュータ サイエンスの学習を続けるうえで重要な役割を担っています。特に、コンピュータ サイエンスを学ぶことを保護者が積極的に応援してくれないと感じる女子が影響を受けます。</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>教師のための専門性向上支援の重要性</strong>: コンピュータ サイエンスをカリキュラムに幅広く取り入れていくには、専門性を養えるよう教師を支援する必要があります。</p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">Read the <a href="http://goo.gl/3nVGM1" target="_blank">report</a> in Spanish and share the <a href="http://goo.gl/yLyF9Z" target="_blank">infographic</a> in Spanish.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="anchor-link" id="state-reports"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="firstImg" src="/images/resources/computerscience/research_hero_04.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-12"> 
+         <p class="subheadlineSemiBold">K-12 Computer Science Education: U.S. State Reports</p> 
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">The following reports summarize the status of computer science education for 11 U.S. states from our 2014- 15 Google-Gallup survey of 9,693 K-12 school principals and offer recommendations for each state to broaden access to and participation in computer science learning.</p> 
+        </div> 
+       </div> 
+       <div class="row bullet-list"> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="California" href="http://goo.gl/khfJds">California</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Florida" href="http://goo.gl/JbNyWa">Florida</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Georgia" href="http://goo.gl/tIajv8">Georgia</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Illinois" href="http://goo.gl/MNihyr">Illinois</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Michigan" href="http://goo.gl/wXLpgt">Michigan</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="North Carolina" href="http://goo.gl/JlmXWf">North Carolina</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="New York" href="http://goo.gl/b5HfMH">New York</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Ohio" href="http://goo.gl/ByA6oV">Ohio</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Pennsylvania" href="http://goo.gl/PS2w7t">Pennsylvania</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Texas" href="http://goo.gl/ReNrSP">Texas</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Wisconsin" href="http://goo.gl/0V0alH">Wisconsin</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="All reports" href="http://goo.gl/zwd31q">All reports</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">See <a href="http://goo.gl/h89gwL" target="_blank">full methodology</a>.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="anchor-link" id="images-of-cs"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="firstImg" src="/images/resources/computerscience/research_hero_03.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-8"> 
+         <p class="subheadlineSemiBold">コンピュータ サイエンスのイメージ: 米国の学生、保護者、教育者の間での認識</p> 
+        </div> 
+        <div class="col-4">
+         <a data-g-event="Edu: Canvas" data-g-action="Read Report" data-g-label="コンピュータ サイエンスのイメージ: 米国の学生、保護者、教育者の間での認識" href="https://goo.gl/F3SSWH" class="cta2 blue" target="_blank">レポートを読む</a>
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">Gallup, Inc. と連携して行った調査の 2 つ目のレポートでは、約 16,000 件の回答から得たデータを取り上げています。関連する人口動態の違いだけでなく、コンピュータ サイエンスや関係の深いキャリアへの関与とその認識について調査しました。その結果は次のとおりです。</p> 
+        </div> 
+       </div> 
+       <div class="row "> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>コンピュータ サイエンスの活動と一般的なコンピュータ リテラシーの混同</strong>: 学生、保護者、教育者の間ではこの 2 つがよく混同されています。</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>コンピュータ サイエンス従事者に対する固定観念</strong>: 学生、保護者、教育者の個人的な認識のほか、メディアの描写にもこの固定観念が根強く残っています。</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>有望視されるコンピュータ サイエンス キャリア</strong>: 特に、低所得世帯の保護者や給食費免除 / 減額プログラムの対象生徒を多く持つ教師が、コンピュータ サイエンスを高く評価しています。</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>学習経験の差</strong>: ヒスパニック系の学生、女子学生、低所得層の学生は、他の学生に比べてコンピュータ サイエンスを学習したことのある割合が少なくなっています。</p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">Read our <a href="https://goo.gl/D5JEk5" target="_blank">recommendations</a> based on the research and share our <a href="https://goo.gl/CBTqUX" target="_blank">infographic</a>.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="anchor-link" id="searching-for-cs"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="" src="/images/resources/computerscience/research_hero_01.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-8"> 
+         <p class="subheadlineSemiBold">コンピュータ サイエンスの探索: 幼小中高生教育におけるアプローチと障壁</p> 
+        </div> 
+        <div class="col-4">
+         <a data-g-event="Edu: Canvas" data-g-action="Read Report" data-g-label="コンピュータ サイエンスの探索: 幼小中高生教育におけるアプローチと障壁" href="https://goo.gl/oX311J" class="cta2 blue" target="_blank">レポートを読む</a>
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">To understand perceptions of computer science and associated opportunities, participation, and barriers, we worked with Gallup, Inc. to survey over 1,600 students, 1,600 parents, 1,000 teachers, 9,600 principals, and 1,800 superintendents. We found:</p> 
+        </div> 
+       </div> 
+       <div class="row "> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>コンピュータ テクノロジーに触れることの重要性</strong>: 学生のコンピュータ サイエンスに対する学習意欲を高めるうえで、コンピュータ テクノロジーに触れる機会を与えることは不可欠です。</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>学校におけるコンピュータ サイエンスの学習機会の制限</strong>: ほとんどの学生にとって、コンピュータ サイエンスの学習機会は限られたものになっています。機会が与えられている場合も、包括的な教育課程は提供されていません。</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>学校におけるコンピュータ サイエンスの需要の高まり</strong>: 学生や保護者の間ではコンピュータ サイエンスの需要が高まっていますが、学校や学区の管理者たちは学生や保護者の関心はそれほど高くないと考えています。</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>コンピュータ サイエンスの提供における障壁</strong>: 学校でコンピュータ サイエンスを提供するうえで障壁となっているのは、他の教科でテストが必要であることや有能な教師が不足していること、また有能な教師を確保するための予算も限られていることなどです。</p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">Read our <a href="https://goo.gl/AzFfwn" target="_blank">recommendations</a> based on the research and share our <a href="https://goo.gl/eIQf6f" target="_blank">infographic</a>.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="anchor-link" id="women-who-choose"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="firstImg" src="/images/resources/computerscience/research_hero_02.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-8"> 
+         <p class="subheadlineSemiBold">コンピュータ サイエンスを選ぶ女性たち - 本当に重要なこと</p> 
+        </div> 
+        <div class="col-4">
+         <a data-g-event="Edu: Canvas" data-g-action="Read Report" data-g-label="コンピュータ サイエンスを選ぶ女性たち - 本当に重要なこと" href="https://goo.gl/rLX6ax" class="cta2 blue" target="_blank">レポートを読む</a>
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">コンピュータ サイエンスの学士号を取得した女性の割合は、1984 年には 37% でしたが、2014 年には 18% にまで減少しています。この傾向を逆転させる方法を把握するにあたり、若い女性たちがコンピュータ サイエンスに関わることになった主なきっかけを特定するために、1,700 人以上の学生を対象に調査を行いました。その結果は次のとおりです。</p> 
+        </div> 
+       </div> 
+       <div class="row "> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>周囲の人からのすすめ</strong>: 親や教育者、家族、友だち、メディアからの働きかけが、女の子たちがコンピュータ サイエンスの追求に関わることになるきっかけとして大きく影響しています。</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>キャリアへの意識</strong>: キャリアへの意識は多くの場合漠然としがちであるため、コンピュータ科学者の多様な実例と、あらゆる分野におけるコンピューティングの幅広い適用性を示すことが必要です。</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>学習を通じて触れたこと</strong>: 学習はコンピュータ サイエンスに興味を持ち、必要な能力を身に付けるきっかけとなっています。学校におけるコンピュータ サイエンスが重要な役割を果たしており、またコミュニティやウェブに数多くの機会が存在しているといえます。</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>自己認識</strong>: 自己認識は重要な役割を担っており、先入観が慎重に排除された環境を通じて強化する必要があります。</p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">Read the report in <a href="https://goo.gl/Sh63Oa" target="_blank">Spanish</a> or <a href="https://goo.gl/vaeAUk" target="_blank">Japanese</a>.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">サービス</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/products/devices/">端末</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/products/productivity-tools/">生産性向上ツール</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/products/more-products/">その他のサービス</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">トレーニング</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=ja" target="_blank">教育者トレーニング</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">IT 管理者トレーニング</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">パートナー ディレクトリ</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/resources/communities/">コミュニティ</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">リソース</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/resources/programs/">プログラム</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/resources/computerscience/">コンピュータ サイエンス教育</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/resources/global-education/">グローバル教育</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/it/">IT</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">デベロッパー向けリソース</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/access/">アクセス</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/contact/">営業担当</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">サポート</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/partners/">パートナー プログラム</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/case-studies/">導入事例</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">学校での Chromebooks 導入例</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">ブログ</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="このサイトを検索" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/resources/computerscience/research/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/resources/computerscience/research/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/da/resources/computerscience/research/"> dansk (Danmark) </option><option value="/intl/en_au/resources/computerscience/research/"> English (Australia) </option><option value="/intl/en_ca/resources/computerscience/research/"> English (Canada) </option><option value="/intl/en_in/resources/computerscience/research/"> English (India) </option><option value="/intl/en_nz/resources/computerscience/research/"> English (New Zealand) </option><option value="/intl/en_uk/resources/computerscience/research/"> English (United Kingdom) </option><option value="/resources/computerscience/research/"> English (United States) </option><option value="/intl/es-419_mx/resources/computerscience/research/"> español (México) </option><option value="/intl/es-419/resources/computerscience/research/"> español (Latinoamérica) </option><option value="/intl/fi/resources/computerscience/research/"> suomi (Suomi) </option><option value="/intl/fr_be/resources/computerscience/research/"> français (Belgique) </option><option value="/intl/id/resources/computerscience/research/"> Indonesia (Indonesia) </option><option selected value="/intl/ja/resources/computerscience/research/"> 日本語 (日本) </option><option value="/intl/ms/resources/computerscience/research/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/resources/computerscience/research/"> Nederlands (Nederland) </option><option value="/intl/no/resources/computerscience/research/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/resources/computerscience/research/"> português (Brasil) </option><option value="/intl/sv/resources/computerscience/research/"> svenska (Sverige) </option><option value="/intl/th/resources/computerscience/research/"> ไทย (ไทย) </option><option value="/intl/tr/resources/computerscience/research/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/ja/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/ja/policies/privacy/">プライバシー</a> </li> 
+      <li> <a href="https://www.google.com/intl/ja/policies/terms/">利用規約</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script>  
+ </body>
+</html>

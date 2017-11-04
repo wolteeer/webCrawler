@@ -1,0 +1,86 @@
+<!doctype html>
+<html class="google mmfb" lang="en">
+ <head> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <title>
+      Google Analytics
+    </title> 
+  <script src="//www.google.com/js/google.js">
+    </script> 
+  <script>
+    (function(){window.adsTracker=new gweb.analytics.AutoTrack({trackQueryParams:true,cookiePath:"/analytics/",profile:"UA-10005-1"})})();
+    </script> 
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Product+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/analytics/css/default-nelson.css" rel="stylesheet"> 
+  <link href="//www.google.com/analytics/images/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <script>
+    window.ga = window.ga || function() {(ga.q = ga.q || []).push(arguments)};
+        (function() {
+          var ga = document.createElement('script');
+          ga.type = 'text/javascript';
+          ga.async = true;
+          ga.src = '//www.google-analytics.com/analytics.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(ga, s);
+        })();
+        ga('create', 'UA-38676921-4');
+        ga('send', 'pageview');
+    </script> 
+  <meta content="nofollow" name="robots"> 
+ </head> 
+ <body> 
+  <div class="maia-header" id="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <h1> <img alt="Google" src="//www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" srcset="//www.google.com/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png 2x">&nbsp;Analytics </h1>
+    <a class="maia-teleport" href="#content">Skip to content</a> 
+   </div> 
+  </div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <h1> Exhibit A: Reseller PO </h1> 
+   <p> To activate your new Analytics 360 client, please download the purchase order below, and email or fax the completed document to your Google Analytics 360 Suite Partner Manager. This document could potentially change in the future, so we suggest downloading a fresh copy for each new client. </p> 
+   <h2> Please choose the correct document below, based on where the end client is located: </h2> 
+   <ul> 
+    <li> <a href="ga-premium-authorized-reseller-us-canada.pdf">U.S. and Canada</a> </li> 
+    <li> <a href="ga-premium-authorized-reseller-latin-america.pdf">Latin America (Google Inc.)</a> </li> 
+    <li> <a href="ga-premium-authorized-reseller-latin-america-brazil.pdf">Latin America (Google Brazil)</a> </li> 
+    <li> <a href="ga-premium-authorized-reseller-emea-excluded.pdf">EMEA (excluding Israel, UAE, Qatar, Russian Federation, South Africa, Saudi Arabia and Turkey)</a> </li> 
+    <li> <a href="ga-premium-authorized-reseller-emea.pdf">EMEA (Israel, UAE, Qatar, Russian Federation, South Africa, Saudi Arabia and Turkey)</a> </li> 
+    <li> <a href="ga-premium-authorized-reseller-japan.pdf">Japan</a> </li> 
+    <li> <a href="ga-premium-authorized-reseller-australia.pdf">Australia</a> </li> 
+    <li> <a href="ga-premium-authorized-reseller-new-zealand.pdf">New Zealand</a> </li> 
+    <li> <a href="ga-premium-authorized-reseller-apac-excluded.pdf">APAC (excluding Japan, Australia, and New Zealand)</a> </li> 
+    <li> <a href="ga-premium-authorized-reseller-argentina.pdf">Argentina</a> </li> 
+    <li> <a href="ga-premium-authorized-reseller-mexico.pdf">Mexico</a> </li> 
+   </ul> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <script src="/ads/js/base.js">
+      </script> 
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <ul> 
+      <li> <a href="/">Google</a> </li> 
+      <li> <a href="/intl/en/about/">About Google</a> </li> 
+      <li> <a href="/intl/en/policies/privacy/">Privacy</a> </li> 
+      <li> <a href="/intl/en/policies/terms/">Terms</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//www.google.com/js/maia.js">
+    </script> 
+  <script src="/analytics/js/view.min.js">
+    </script> 
+  <script src="//www.google.com/js/gweb/analytics/doubletrack.js">
+    </script> 
+  <script>
+    new analytics.GoTo;gweb.analytics.DoubleTrack.track("floodlight",{src:2507573,type:"analy454",cat:"googl450"});
+    </script>  
+ </body>
+</html>

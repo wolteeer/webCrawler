@@ -1,0 +1,346 @@
+<!doctype html>
+<html class="google mmfb" dir="ltr" lang="nl">
+ <head> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script> 
+  <meta charset="utf-8"> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <title>
+      Mobiele app-advertenties | App-advertentiecampagne van Google – Google
+    </title> 
+  <meta content="Use mobile app advertising to promote your app to the right users at the right time with Google App Ad Campaigns." name="description"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;lang=nl" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto+Slab:300,400,500&amp;lang=nl" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Product+Sans:400&amp;lang=nl" rel="stylesheet"> 
+  <link href="../../../home/how-it-works/app-ads/css/appads.min.css" rel="stylesheet"> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/v2_8_3/basic.js"></script> 
+  <link href="https://adwords.google.com/intl/nl_nl/home/how-it-works/app-ads/" rel="canonical"> 
+  <link href="/home/images/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "brand": {
+      "@type": "Thing",
+      "name": "AdWords"
+    },
+    "name": "Mobile App Advertising | Google App Ads Campaign",
+    "description": "Use mobile app advertising to promote your app to the right users at the right time with Google App Ad Campaigns.",
+    "url": "https://adwords.google.com/intl/nl_nl/home/how-it-works/app-ads/",
+    "logo": "https://lh3.googleusercontent.com/-uNZ_qMhKvZA/Vd5W1dmYTLI/AAAAAAAAQ5U/a5AyNN5FQiA6uL8XtMpVsCsEbA0Tiw_awCHM/s251/AdWords.png",
+    "sameAs": [
+      "https://twitter.com/adwords",
+      "https://plus.google.com/+GoogleAds",
+      "https://adwords.googleblog.com/",
+      "https://www.youtube.com/user/learnwithgoogle"
+    ],
+    "telephone": "0800-265 9292"
+  }
+    </script> 
+ </head> 
+ <body class="long-l10n" data-ng-app="rs.appads"> 
+  <header class="header" role="banner"> 
+   <h1 class="product-logo"> <a href="../../../home/"><img alt="Google" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" srcset="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png 2x"> <span class="site-name">AdWords</span></a> </h1> 
+   <nav class="main-navigation contains-sub-nav" data-ng-controller="rs.navigation.NavCtrl as navCtrl"> 
+    <h1> AdWords </h1> 
+    <ul class="outer-nav"> 
+     <li> <a href="../../../home/">Startpagina</a> </li> 
+     <li class="parent">Hoe het werkt 
+      <ul class="sub-nav"> 
+       <li> <a href="../../../home/how-it-works/">Overzicht</a> </li> 
+       <li> <a href="../../../home/how-it-works/search-ads/">Zoek-advertenties</a> </li> 
+       <li> <a href="../../../home/how-it-works/display-ads/">Display-advertenties</a> </li> 
+       <li> <a href="../../../home/how-it-works/video-ads/">Video-advertenties</a> </li> 
+       <li class="active">App-advertenties </li> 
+       <li> <a href="../../../home/how-it-works/new-adwords/"><span>Nieuwe AdWords<sup class="nav-sup">BÈTA</sup></span></a> </li> 
+      </ul> </li> 
+     <li> <a href="../../../home/pricing/">Prijzen</a> </li> 
+     <li> <a href="../../../home/tools/">Tools</a> </li> 
+     <li> <a href="../../../home/resources/learning/">Bronnen</a> </li> 
+    </ul> 
+    <div class="cta cta-wrapper"> 
+     <a class="cta-signin" href="/um/signin?hl=nl&amp;sourceid=awo&amp;subid=nl-ww-et-g-aw-a-hiw-awhp!o2" rel="nofollow">Inloggen</a> 
+     <a class="cta-call" href="tel:0800-2659292">
+      <svg class="icon-phone-green" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+       <path d="M6.4,13.9c2.6,5,6.7,9.1,11.7,11.7l3.9-3.9c0.5-0.5,1.2-0.6,1.8-0.4c2,0.7,4.1,1,6.4,1c1,0,1.8,0.8,1.8,1.8v6.2 c0,1-0.8,1.8-1.8,1.8C13.5,32,0,18.5,0,1.8C0,0.8,0.8,0,1.8,0H8c1,0,1.8,0.8,1.8,1.8c0,2.2,0.4,4.4,1,6.4c0.2,0.6,0.1,1.3-0.4,1.8 L6.4,13.9z"> 
+       </path>
+      </svg> <img alt="phone icon" class="icon-phone-green" height="16" src="//www.google.com/ads/images/icons/icon-ui-phone.png" width="16"> Bel ons</a> 
+    </div> 
+   </nav>
+   <button class="nav-toggle-button"><span class="icon-menu-els"><span class="menu-bar"></span> <span class="menu-bar"></span> <span class="menu-bar"></span></span></button> 
+  </header> 
+  <div class="main" role="main"> 
+   <section class="section section-hero section-hero-about" data-rs-active="heroAnimation" data-rs-animation-router="" data-rs-hero-animation="" id="hero-section"> 
+    <div class="site-width" data-rs-trigger="heroAnimation"> 
+     <div class="cols-row"> 
+      <div class="col-5 section-hero-copy"> 
+       <h4 class="section-sub-heading border-blue"> Over app-advertenties </h4> 
+       <h2 class="hero-text"> Laat uw app aan de juiste mensen zien. </h2> 
+       <p class="font-large"> Met app-advertenties kunt u uw app eenvoudig onder de aandacht brengen van iOS- of Android-gebruikers op Google. Ook zonder advertentie-ervaring. </p>
+       <a class="button" href="/um/Welcome/Home?hl=nl&amp;sf=ap&amp;sourceid=awo&amp;subid=nl-ww-et-g-aw-a-awhp_uac_1!o2&amp;pli=1#oa" target="_blank">NU STARTEN</a> 
+      </div> 
+      <div class="col-6 col-offset-1 static-image"> 
+       <picture>
+        <source media="(min-width: 768px)" srcset="../../../home/how-it-works/app-ads/images/hero/phone-complete_1x.png, ../../../home/how-it-works/app-ads/images/hero/phone-complete_2x.png 2x">
+        <img alt="" class="hero-static" srcset="../../../home/how-it-works/app-ads/images/hero/phone-complete_m_1x.png, ../../../home/how-it-works/app-ads/images/hero/phone-complete_m_2x.png 2x">
+       </picture> 
+       <div class="phone-wrp" data-class-name="phone-wrp" data-ng-cloak="" data-rs-trigger-class="phone"> 
+        <picture class="phone-empty-picture">
+         <source media="(min-width: 768px)" srcset="../../../home/how-it-works/app-ads/images/hero/phone-empty_1x.png, ../../../home/how-it-works/app-ads/images/hero/phone-empty_2x.png 2x">
+         <img alt="" class="empty-phone" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+        </picture> 
+        <div class="phone-screen-wrp"> 
+         <div class="phone-touch rs-touch-indicator" data-rs-touch-indicator="touch"> 
+         </div> 
+         <div class="search-typer-wrp" data-class-name="search-typer-wrp" data-rs-trigger-class="search-typer-wrp"> 
+          <div class="phone-type font-dark" data-rs-typer="typer">
+            avonturengame 
+          </div> 
+         </div>
+         <picture>
+          <source media="(min-width: 768px)" srcset="../../../home/how-it-works/app-ads/images/hero/search-box_1x.png, ../../../home/how-it-works/app-ads/images/hero/search-box_2x.png 2x">
+          <img alt="" class="search-box" data-class-name="search-box" data-rs-trigger-class="search-box" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+         </picture> 
+         <picture>
+          <source media="(min-width: 768px)" srcset="../../../home/how-it-works/app-ads/images/hero/search-cancel_1x.png, ../../../home/how-it-works/app-ads/images/hero/search-cancel_2x.png 2x"> 
+          <img alt="" class="auto-search-cancel" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+         </picture> 
+         <div class="auto-search-wrp"> 
+          <picture>
+           <source media="(min-width: 768px)" srcset="../../../home/how-it-works/app-ads/images/hero/auto-search_1x.png, ../../../home/how-it-works/app-ads/images/hero/auto-search_2x.png 2x">
+           <img alt="" class="auto-search-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+          </picture> 
+         </div>
+         <picture>
+          <source media="(min-width: 768px)" srcset="../../../home/how-it-works/app-ads/images/hero/search-box-results_1x.png, ../../../home/how-it-works/app-ads/images/hero/search-box-results_2x.png 2x">
+          <img alt="" class="search-box-results" data-class-name="search-box-results" data-rs-trigger-class="search-box-results" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+         </picture> 
+         <div class="search-header-wrp" data-class-name="search-header-wrp" data-rs-trigger-class="search-header-wrp"> 
+          <picture>
+           <source media="(min-width: 768px)" srcset="../../../home/how-it-works/app-ads/images/hero/search-header_1x.png, ../../../home/how-it-works/app-ads/images/hero/search-header_2x.png 2x">
+           <img alt="" class="search-header" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+          </picture> 
+         </div> 
+         <div class="search-results-wrp" data-class-name="search-results" data-rs-trigger-class="search-results"> 
+          <picture class="results-picture">
+           <source media="(min-width: 768px)" srcset="../../../home/how-it-works/app-ads/images/hero/results_1x.png, ../../../home/how-it-works/app-ads/images/hero/results_2x.png 2x">
+           <img alt="" class="search-results" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+          </picture> 
+         </div> 
+         <div class="search-tabs-wrp"> 
+          <picture>
+           <source media="(min-width: 768px)" srcset="../../../home/how-it-works/app-ads/images/hero/search-tabs_1x.png, ../../../home/how-it-works/app-ads/images/hero/search-tabs_2x.png 2x">
+           <img alt="" class="search-tabs" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+          </picture> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="section-hero-media section-hero-media-right google-blue text-align-center"> 
+      <picture>
+       <source media="(min-width: 768px)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+       <img alt="" class="complete-phone" srcset="../../../home/how-it-works/app-ads/images/hero/phone-complete_m_1x.png, ../../../home/how-it-works/app-ads/images/hero/phone-complete_m_2x.png 2x">
+      </picture> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-introduction light-gray"> 
+    <div class="site-width"> 
+     <h1> Een inleiding tot app-advertenties. </h1> 
+     <div class="cols-row padding-top"> 
+      <div class="col-4"> 
+       <div class="circle-container col-s-4"> 
+        <div class="google-blue circle section-dark"> 
+         <p class="ptag-header"> 1 </p> 
+        </div> 
+       </div> 
+       <div class="col-10 intro-text"> 
+        <h3> Maken en aanpassen. </h3> 
+        <p> Begin door de gewenste advertentietekst te typen en uw locatie op te geven. Google ontwerpt en maakt uw aangepaste app-advertenties en laat u verschillende designs weergeven op allerlei plaatsingen binnen het Google Netwerk. Natuurlijk kunt u later altijd nog wijzigingen aanbrengen. </p> 
+       </div> 
+      </div> 
+      <div class="col-4"> 
+       <div class="circle-container"> 
+        <div class="google-blue circle section-dark"> 
+         <p class="ptag-header"> 2 </p> 
+        </div> 
+       </div> 
+       <div class="col-10 intro-text"> 
+        <h3> Stel uw dagbudget in. </h3> 
+        <p> Bepaal zelf de kosten per installatie (het maximale bedrag dat u bereid bent te betalen voor een installatie van uw app). Onze engines voor het maken van advertenties en het instellen van biedingen, maximaliseren vervolgens de prestaties van uw campagne binnen uw gestelde budget. </p> 
+       </div> 
+      </div> 
+      <div class="col-4"> 
+       <div class="circle-container col-s-4"> 
+        <div class="google-blue circle section-dark"> 
+         <p class="ptag-header"> 3 </p> 
+        </div> 
+       </div> 
+       <div class="col-10 intro-text"> 
+        <h3> Vind gebruikers van hoge kwaliteit. </h3> 
+        <p> Geef aan welke in-app-acties u bij gebruikers wilt stimuleren. Wij laten uw advertentie dan zien aan mensen die deze acties waarschijnlijk zullen uitvoeren. </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section section-dark deep-teal section-benefits" data-rs-active="benefitAnimation" data-rs-animation-router="" data-rs-benefit-animation="" id="benefits"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-6"> 
+       <picture>
+        <source media="(min-width: 768px)" srcset="../../../home/how-it-works/app-ads/images/benefit-static_1x.png, ../../../home/how-it-works/app-ads/images/benefit-static_2x.png 2x">
+        <img alt="" class="benefit-static" srcset="../../../home/how-it-works/app-ads/images/benefit-static_m_1x.png, ../../../home/how-it-works/app-ads/images/benefit-static_m_2x.png 2x">
+       </picture> 
+      </div> 
+      <div class="col-6"> 
+       <p class="ptag-header"> Vergroot uw bereik op grote schaal. </p> 
+       <p> Nadat uw advertentie is ingesteld, kan deze worden weergegeven aan meer dan een miljard mensen in het hele Google Netwerk, waaronder Google Zoeken, Google Play, YouTube en duizenden andere mobiele sites en apps. </p> 
+      </div> 
+      <div data-glue-modal="ss-yt-" data-rs-modal="" id="ss-yt-"></div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section app-ads-more-value light-gray"> 
+    <div class="site-width"> 
+     <div class="cols-row"> 
+      <div class="col-5"> 
+       <p class="ptag-header"> Haal meer waarde uit elke advertentie. </p> 
+       <p> Google test elke advertentie in uw account en promoot automatisch de designs die het beste presteren. Daarnaast optimaliseren we uw campagne op basis van de typen gebruikers die u wilt bereiken. Als uw app bijvoorbeeld een game met meerdere levels is, houden we rekening met andere games die gebruikers hebben gespeeld en targeten we mensen die waarschijnlijk level vijf of hoger zullen halen. </p> 
+      </div> 
+      <div class="col-6 col-offset-1 overlay-text"> 
+       <picture class="benefit-static">
+        <source media="(min-width: 768px)" srcset="../../../home/how-it-works/app-ads/images/create-ad-results_1x.jpg, ../../../home/how-it-works/app-ads/images/create-ad-results_2x.jpg 2x">
+        <img alt="" srcset="../../../home/how-it-works/app-ads/images/create-ad-results_m_1x.jpg, ../../../home/how-it-works/app-ads/images/create-ad-results_m_2x.jpg 2x">
+       </picture> 
+       <div class="app-ads-more-value-desktop-image hidden-xs"> 
+        <p class="chart-legend"> <span>Conversies</span> <span>Klikken</span> </p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <footer class="footer" id="footer" role="contentinfo"> 
+   <div class="cookie-bar-container"></div> 
+   <div class="site-width"> 
+    <div class="footer-upper cols-row"> 
+     <div class="footer-social col-6"> 
+      <dl> 
+       <dt>
+         Volg ons op: 
+       </dt> 
+       <dd> 
+        <a href="https://www.facebook.com/adwords" rel="noopener" target="_blank" title="Facebook">
+         <svg class="icon-footer-facebook" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,0H3.2C1.4,0,0,1.4,0,3.2v25.6C0,30.6,1.4,32,3.2,32h25.6c1.8,0,3.2-1.4,3.2-3.2V3.2 C32,1.4,30.6,0,28.8,0z M27.2,8H24c-0.9,0-1.6,0.7-1.6,1.6v3.2h4.8v4.8h-4.8v11.2h-4.8V17.6h-3.2v-4.8h3.2v-4c0-3.1,2.5-5.6,5.6-5.6 h4V8z"> 
+          </path>
+         </svg> <img alt="Facebook" class="icon-footer-facebook" height="20" src="//www.google.com/ads/images/icons/icon-footer-facebook.png" width="20"></a> 
+       </dd> 
+      </dl> 
+     </div> 
+    </div> 
+    <nav class="footer-nav cols-row"> 
+     <dl class="col-3"> 
+      <dt>
+        Leren en ondersteuning 
+      </dt> 
+      <dd> 
+       <a href="https://support.google.com/adwords/answer/6146252?hl=nl&amp;utm_medium=et&amp;utm_campaign=nl&amp;utm_source=ww-ww-et-b2bfooter_adwords"> Een handig overzicht van AdWords</a> 
+      </dd> 
+      <dd> 
+       <a href="https://support.google.com/adwords/?hl=nl#topic=3119071&amp;utm_source=smb_marketing&amp;utm_medium=referral&amp;utm_campaign=us-en-et-awhp-footer&amp;utm_content=NL"> Helpcentrum van AdWords</a> 
+      </dd> 
+      <dd> 
+       <a href="https://plus.google.com/+GoogleAds/posts?hl=nl">AdWords op Google+</a> 
+      </dd> 
+      <dd> 
+       <a href="https://digitalewerkplaats.withgoogle.com">Digitale Werkplaats</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Ontwikkelaars 
+      </dt> 
+      <dd> 
+       <a href="https://developers.google.com/?hl=nl">Site van Google Developers</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/adwords/api/?hl=nl">AdWords API</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/adwords/scripts/?hl=nl">AdWords-scripts</a> 
+      </dd> 
+      <dd> 
+       <a href="https://support.google.com/adwords/answer/2476688?hl=nl">Remarketingtags voor AdWords</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Gerelateerde producten 
+      </dt> 
+      <dd> 
+       <a href="https://www.google.nl/intl/nl/retail/shopping-campaigns/">Shopping-campagnes</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.nl/intl/nl/business/">Google Mijn Bedrijf</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/intl/nl/chrome/">Chrome</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Meer oplossingen van Google 
+      </dt> 
+      <dd> 
+       <a href="https://www.google.nl/intl/nl/services/">Google Bedrijfsoplossingen</a> 
+      </dd> 
+      <dd> 
+       <a href="https://gsuite.google.nl/intl/nl/?utm_medium=et&amp;utm_source=gmb&amp;utm_campaign=footer"> G Suite</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.thinkwithgoogle.com/">Think with Google</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.nl/intl/nl/adsense/start/?utm_source=internal&amp;utm_medium=et&amp;utm_campaign=adwords-homepage"> AdSense</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/admob/?utm_source=Internal&amp;utm_medium=et&amp;utm_campaign=google-ads"> AdMob</a> 
+      </dd> 
+     </dl> 
+    </nav> 
+    <div class="footer-lower cols-row"> 
+     <div class="footer-meta-links col-9"> 
+      <ul> 
+       <li> <a href="https://support.google.com/adwords/?hl=nl#topic=3119071">
+         <svg class="icon-footer-help" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path clip-rule="evenodd" d="M16 0C7.2 0 0 7.2 0 16c0 3 .9 5.9 2.3 8.3L0 32l7.7-2.3C10.2 31.1 13 32 16 32c8.8 0 16-7.2 16-16S24.8 0 16 0zm1.3 24.6c-.3.3-.7.5-1.2.5s-1-.2-1.2-.5c-.3-.3-.4-.7-.4-1.1 0-.2 0-.4.1-.6.1-.2.2-.4.3-.5.1-.1.3-.3.5-.3.2-.1.4-.1.7-.1.3 0 .5 0 .7.1.2.1.4.2.5.3.1.1.3.3.3.5.1.2.1.4.1.6 0 .5-.1.8-.4 1.1zm3.8-11.4c-.2.5-.4.9-.6 1.3l-.9 1.2c-.3.4-.7.8-1 1.1-.4.4-.7.9-.9 1.4-.2.5-.2.8-.3 1.8h-2.8c0-1 0-1.2.1-1.6.1-.4.2-1 .3-1.3.2-.3.4-.7.6-1 .2-.3.6-.7.9-1 .2-.3.5-.5.7-.7.2-.2.4-.5.6-.7.2-.3.3-.5.4-.8.1-.3.1-.6.1-1 0-.8-.2-1.4-.6-1.8-.4-.4-1-.6-1.7-.6-.3 0-.6.1-.9.1-.3.1-.5.2-.8.4s-.4.6-.5.8c-.1.3-.2 1.2-.2 1.2h-3c0-2 .2-1.6.4-2.2.3-.6.7-1.2 1.1-1.6.5-.4 1-.7 1.7-.9.8-.3 1.5-.4 2.2-.4.8 0 1.6.1 2.2.3.7.2 1.2.5 1.7.9s.8.9 1 1.5c.2.6.4 1.3.4 2.1 0 .6-.1 1.1-.2 1.5z" fill-rule="evenodd"></path>
+         </svg> <img alt="Help" class="icon-footer-help" height="20" src="//www.google.com/ads/images/icons/icon-footer-help.png" width="20"> Help</a> </li> 
+       <li> <a href="//www.google.nl">Google</a> </li> 
+       <li> <a href="//www.google.nl/intl/nl/policies/privacy/">Privacy</a> </li> 
+       <li> <a href="//www.google.nl/intl/nl/policies/terms/">Voorwaarden</a> </li> 
+      </ul> 
+     </div> 
+     <div class="footer-locale-switcher col-3"> 
+      <label class="visually-hidden" for="footer-locales"><span>Taal of regio wijzigen:</span></label>
+      <select class="footer-locales" id="footer-locales" onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="/intl/en/home/how-it-works/app-ads/"> English </option> <option value="/intl/ar/home/how-it-works/app-ads/"> ‫العربية‬ </option> <option value="/intl/fr_dz/home/how-it-works/app-ads/"> Algérie – Français </option> <option value="/intl/es-419_ar/home/how-it-works/app-ads/"> Argentina – Español (Latinoamérica) </option> <option value="/intl/en_au/home/how-it-works/app-ads/"> Australia – English </option> <option value="/intl/en_bd/home/how-it-works/app-ads/"> Bangladesh – English </option> <option value="/intl/nl_be/home/how-it-works/app-ads/"> België – Nederlands </option> <option value="/intl/fr_be/home/how-it-works/app-ads/"> Belgique – Français </option> <option value="/intl/es-419_bo/home/how-it-works/app-ads/"> Bolivia – Español (Latinoamérica) </option> <option value="/intl/pt-BR_br/home/how-it-works/app-ads/"> Brasil – Português (Brasil) </option> <option value="/intl/en_ca/home/how-it-works/app-ads/"> Canada – English </option> <option value="/intl/fr_ca/home/how-it-works/app-ads/"> Canada – Français </option> <option value="/intl/cs_cz/home/how-it-works/app-ads/"> Česká republika – Čeština </option> <option value="/intl/es-419_cl/home/how-it-works/app-ads/"> Chile – Español (Latinoamérica) </option> <option value="/intl/es-419_co/home/how-it-works/app-ads/"> Colombia – Español (Latinoamérica) </option> <option value="/intl/es-419_cr/home/how-it-works/app-ads/"> Costa Rica – Español (Latinoamérica) </option> <option value="/intl/en_cy/home/how-it-works/app-ads/"> Cyprus – English </option> <option value="/intl/da_dk/home/how-it-works/app-ads/"> Danmark – Dansk </option> <option value="/intl/de_de/home/how-it-works/app-ads/"> Deutschland – Deutsch </option> <option value="/intl/es-419_ec/home/how-it-works/app-ads/"> Ecuador – Español (Latinoamérica) </option> <option value="/intl/et_ee/home/how-it-works/app-ads/"> Eesti – Eesti </option> <option value="/intl/en_eg/home/how-it-works/app-ads/"> Egypt – English </option> <option value="/intl/es-419_sv/home/how-it-works/app-ads/"> El Salvador – Español (Latinoamérica) </option> <option value="/intl/es_es/home/how-it-works/app-ads/"> España – Español </option> <option value="/intl/ca_es/home/how-it-works/app-ads/"> Espanya – Català </option> <option value="/intl/es-419_us/home/how-it-works/app-ads/"> Estados Unidos – Español (Latinoamérica) </option> <option value="/intl/fr_fr/home/how-it-works/app-ads/"> France – Français </option> <option value="/intl/es-419_gt/home/how-it-works/app-ads/"> Guatemala – Español (Latinoamérica) </option> <option value="/intl/es-419_hn/home/how-it-works/app-ads/"> Honduras – Español (Latinoamérica) </option> <option value="/intl/en_hk/home/how-it-works/app-ads/"> Hong Kong – English </option> <option value="/intl/hr_hr/home/how-it-works/app-ads/"> Hrvatska – Hrvatski </option> <option value="/intl/en_in/home/how-it-works/app-ads/"> India – English </option> <option value="/intl/id_id/home/how-it-works/app-ads/"> Indonesia – Bahasa Indonesia </option> <option value="/intl/en_ie/home/how-it-works/app-ads/"> Ireland – English </option> <option value="/intl/it_it/home/how-it-works/app-ads/"> Italia – Italiano </option> <option value="/intl/lv_lv/home/how-it-works/app-ads/"> Latvija – Latviešu </option> <option value="/intl/lt_lt/home/how-it-works/app-ads/"> Lietuva – Lietuvių </option> <option value="/intl/hu_hu/home/how-it-works/app-ads/"> Magyarország – Magyar </option> <option value="/intl/ms_my/home/how-it-works/app-ads/"> Malaysia – Bahasa Melayu </option> <option value="/intl/en_my/home/how-it-works/app-ads/"> Malaysia – English </option> <option value="/intl/es-419_mx/home/how-it-works/app-ads/"> México – Español (Latinoamérica) </option> <option selected value="/intl/nl_nl/home/how-it-works/app-ads/"> Nederland – Nederlands </option> <option value="/intl/en_np/home/how-it-works/app-ads/"> Nepal – English </option> <option value="/intl/en_nz/home/how-it-works/app-ads/"> New Zealand – English </option> <option value="/intl/es-419_ni/home/how-it-works/app-ads/"> Nicaragua – Español (Latinoamérica) </option> <option value="/intl/en_ng/home/how-it-works/app-ads/"> Nigeria – English </option> <option value="/intl/no_no/home/how-it-works/app-ads/"> Norge – Norsk </option> <option value="/intl/de_at/home/how-it-works/app-ads/"> Österreich – Deutsch </option> <option value="/intl/en_pk/home/how-it-works/app-ads/"> Pakistan – English </option> <option value="/intl/es-419_pa/home/how-it-works/app-ads/"> Panamá – Español (Latinoamérica) </option> <option value="/intl/es-419_py/home/how-it-works/app-ads/"> Paraguay – Español (Latinoamérica) </option> <option value="/intl/es-419_pe/home/how-it-works/app-ads/"> Perú – Español (Latinoamérica) </option> <option value="/intl/en_ph/home/how-it-works/app-ads/"> Philippines – English </option> <option value="/intl/fil_ph/home/how-it-works/app-ads/"> Pilipinas – Filipino </option> <option value="/intl/pl_pl/home/how-it-works/app-ads/"> Polska – Polski </option> <option value="/intl/pt-PT_pt/home/how-it-works/app-ads/"> Portugal – Português (Portugal) </option> <option value="/intl/es-419_pr/home/how-it-works/app-ads/"> Puerto Rico – Español (Latinoamérica) </option> <option value="/intl/es-419_do/home/how-it-works/app-ads/"> República Dominicana – Español (Latinoamérica) </option> <option value="/intl/ro_md/home/how-it-works/app-ads/"> Republica Moldova – Română </option> <option value="/intl/ro_ro/home/how-it-works/app-ads/"> România – Română </option> <option value="/intl/en_sa/home/how-it-works/app-ads/"> Saudi Arabia – English </option> <option value="/intl/de_ch/home/how-it-works/app-ads/"> Schweiz – Deutsch </option> <option value="/intl/en_sg/home/how-it-works/app-ads/"> Singapore – English </option> <option value="/intl/sl_si/home/how-it-works/app-ads/"> Slovenija – Slovenščina </option> <option value="/intl/sk_sk/home/how-it-works/app-ads/"> Slovensko – Slovenčina </option> <option value="/intl/en_za/home/how-it-works/app-ads/"> South Africa – English </option> <option value="/intl/en_lk/home/how-it-works/app-ads/"> Sri Lanka – English </option> <option value="/intl/fr_ch/home/how-it-works/app-ads/"> Suisse – Français </option> <option value="/intl/fi_fi/home/how-it-works/app-ads/"> Suomi – Suomi </option> <option value="/intl/sv_se/home/how-it-works/app-ads/"> Sverige – Svenska </option> <option value="/intl/fr_tn/home/how-it-works/app-ads/"> Tunisie – Français </option> <option value="/intl/tr_tr/home/how-it-works/app-ads/"> Türkiye – Türkçe </option> <option value="/intl/en_ae/home/how-it-works/app-ads/"> United Arab Emirates – English </option> <option value="/intl/en_uk/home/how-it-works/app-ads/"> United Kingdom – English </option> <option value="/intl/en_us/home/how-it-works/app-ads/"> United States – English </option> <option value="/intl/es-419_uy/home/how-it-works/app-ads/"> Uruguay – Español (Latinoamérica) </option> <option value="/intl/es-419_ve/home/how-it-works/app-ads/"> Venezuela – Español (Latinoamérica) </option> <option value="/intl/vi_vn/home/how-it-works/app-ads/"> Việt Nam – Tiếng Việt </option> <option value="/intl/el_gr/home/how-it-works/app-ads/"> Ελλάδα – Ελληνικά </option> <option value="/intl/ru_by/home/how-it-works/app-ads/"> Беларусь – Русский </option> <option value="/intl/bg_bg/home/how-it-works/app-ads/"> България – Български </option> <option value="/intl/ru_kz/home/how-it-works/app-ads/"> Казахстан – Русский </option> <option value="/intl/ru_ru/home/how-it-works/app-ads/"> Россия – Русский </option> <option value="/intl/sr_rs/home/how-it-works/app-ads/"> Србија – Српски </option> <option value="/intl/uk_ua/home/how-it-works/app-ads/"> Україна – Українська </option> <option value="/intl/iw_il/home/how-it-works/app-ads/"> ‫ישראל – עברית‬ </option> <option value="/intl/ar_ae/home/how-it-works/app-ads/"> ‫الإمارات العربية المتحدة – العربية‬ </option> <option value="/intl/ar_dz/home/how-it-works/app-ads/"> ‫الجزائر – العربية‬ </option> <option value="/intl/ar_sa/home/how-it-works/app-ads/"> ‫المملكة العربية السعودية – العربية‬ </option> <option value="/intl/ar_tn/home/how-it-works/app-ads/"> ‫تونس – العربية‬ </option> <option value="/intl/ar_eg/home/how-it-works/app-ads/"> ‫مصر – العربية‬ </option> <option value="/intl/hi_in/home/how-it-works/app-ads/"> भारत – हिन्दी </option> <option value="/intl/th_th/home/how-it-works/app-ads/"> ไทย – ไทย </option> <option value="/intl/ko_kr/home/how-it-works/app-ads/"> 대한민국 – 한국어 </option> <option value="/intl/zh-TW_tw/home/how-it-works/app-ads/"> 台灣 – 中文（繁體中文） </option> <option value="/intl/ja_jp/home/how-it-works/app-ads/"> 日本 – 日本語 </option> <option value="/intl/zh-TW_hk/home/how-it-works/app-ads/"> 香港 – 中文（繁體中文） </option> </select> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <script src="//www.gstatic.com/external_hosted/picturefill/picturefill.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-messages.min.js"></script> 
+  <script src="https://www.gstatic.com/brandstudio/kato/cookie_choice_component/cookie_consent_bar.js"></script> 
+  <script>
+    var cookieBarContainer = document.getElementsByClassName('cookie-bar-container')[0];
+    new google.CookieConsentBar(null, cookieBarContainer);
+    </script> 
+  <script async data-gtmid="GTM-DJXNX" src="//www.google.com/ads/js/peitho2/peitho2.min.js"></script> 
+  <script src="../../../home/how-it-works/app-ads/js/appads.min.js"></script>  
+ </body>
+</html>

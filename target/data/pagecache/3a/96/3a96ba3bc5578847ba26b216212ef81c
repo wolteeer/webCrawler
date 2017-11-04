@@ -1,0 +1,814 @@
+<!doctype html>
+<html class="google mmfb" lang="nl" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/nl/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="Het maakt niet uit hoe groot je school of je budget is. Google beschikt over gebruiksvriendelijke tools om leerlingen op elk moment, overal en op elk apparaat bij het onderwijs te betrekken." name="description"> 
+  <title>
+    Google for Education: Een oplossing voor docenten en leerlingen
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/nl/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Een oplossing voor docenten en leerlingen" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/nl/" property="og:url"> 
+  <meta content="https://www.google.com/images/video-geg_2x.png" property="og:image"> 
+  <meta content="Het maakt niet uit hoe groot je school of je budget is. Google beschikt over gebruiksvriendelijke tools om leerlingen op elk moment, overal en op elk apparaat bij het onderwijs te betrekken." property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/nl/" name="twitter:url"> 
+  <meta content="Google for Education: Een oplossing voor docenten en leerlingen" name="twitter:title"> 
+  <meta content="https://www.google.com/images/video-geg_2x.png" name="twitter:image"> 
+  <meta content="Het maakt niet uit hoe groot je school of je budget is. Google beschikt over gebruiksvriendelijke tools om leerlingen op elk moment, overal en op elk apparaat bij het onderwijs te betrekken." name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Een oplossing voor docenten en leerlingen" itemprop="name"> 
+  <meta content="Het maakt niet uit hoe groot je school of je budget is. Google beschikt over gebruiksvriendelijke tools om leerlingen op elk moment, overal en op elk apparaat bij het onderwijs te betrekken." itemprop="description"> 
+  <meta content="https://www.google.com/images/video-geg_2x.png" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Een oplossing voor docenten en leerlingen",
+    "description": "Het maakt niet uit hoe groot je school of je budget is. Google beschikt over gebruiksvriendelijke tools om leerlingen op elk moment, overal en op elk apparaat bij het onderwijs te betrekken.",
+    "url": "https://edu.google.com/intl/nl/",
+    "logo": "https://www.google.com/images/video-geg_2x.png",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="home-page" ng-cloak> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/nl/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-help-desktop" class="maia-button expert-desktop get-help-blue nl" data-g-event="Edu: Global Header" data-g-action="Talk to an Expert" data-g-label="Header" href="/intl/nl/contact/">Contact opnemen met een expert</a>
+      <a id="get-google-desktop" class="maia-button expert-desktop nl" data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Aan de slag met Google-producten</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">Hoe kunnen we je helpen?</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>Aan de slag met productiviteitstools</h5> 
+        <p>Gebruik productiviteitstools van Google, zoals Google Classroom, Google Documenten, Google Drive, Google Hangouts, e-mail en meer, gratis en zonder advertenties.</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=nl#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Aanmelden voor G Suite</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Aan de slag met apparaten</h5> 
+        <p>Wil je Chromebooks of Android-apparaten gaan gebruiken op school? Ons team kan je op weg helpen.</p> 
+        <a class="maia-button overlay-button" href="/intl/nl/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Contact opnemen met een expert</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Praten met andere docenten</h5> 
+        <p>Wil je praten met collega's die zijn overgestapt op Google? Ontdek onze community van docenten.</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Andere docenten vinden</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li class="active"> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/" target="_self">Startpagina</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">Producten</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/devices/" target="_self">Apparaten <br><span class="dropdown-item-description">Chromebooks and Tablets</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/productivity-tools/" target="_self">Productiviteitstools <br><span class="dropdown-item-description">Docs, Gmail and More</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/productivity-tools/classroom/" target="_self">Classroom <br><span class="dropdown-item-description">Mission control for teachers and students</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtual reality field trips</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/more-products/" target="_self">Meer producten <br><span class="dropdown-item-description">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">Training</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://sites.google.com/site/localizededulearningcenter/nl" target="_self">Docenttraining <br><span class="dropdown-item-description">in tools voor Google for Education</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT-beheerderstraining <br><span class="dropdown-item-description">voor G Suite beheerders</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Partneroverzicht <br><span class="dropdown-item-description">to help your school go Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/communities/" target="_self">Community's <br><span class="dropdown-item-description">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">Bronnen</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:News &amp;amp; Events" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/news-and-events/" target="_self">Nieuws en evenementen </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/programs/" target="_self">Programma's <br><span class="dropdown-item-description">for students and teachers</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/case-studies/" target="_self">Casestudy's </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/computerscience/" target="_self">Onderwijs in computerwetenschap <br><span class="dropdown-item-description">Programs, Funding, and Research</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/global-education/" target="_self">Onderwijs wereldwijd </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/nl/it/" target="_self">IT-gids</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/nl/higher-education/" target="_self">Hoger onderwijs</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Producten</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/devices/" target="_self">Apparaten <span class="nav-subtext">Chromebooks and Tablets</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/productivity-tools/" target="_self">Productiviteitstools <span class="nav-subtext">Docs, Gmail and More</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/productivity-tools/classroom/" target="_self">Classroom <span class="nav-subtext">Mission control for teachers and students</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtual reality field trips</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/products/more-products/" target="_self">Meer producten <span class="nav-subtext">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Training</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://sites.google.com/site/localizededulearningcenter/nl" target="_self">Docenttraining <span class="nav-subtext">in tools voor Google for Education</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT-beheerderstraining <span class="nav-subtext">voor G Suite beheerders</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Partneroverzicht <span class="nav-subtext">to help your school go Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/communities/" target="_self">Community's <span class="nav-subtext">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Bronnen</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="News &amp;amp; Events" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/news-and-events/" target="_self">Nieuws en evenementen </a> </li> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/programs/" target="_self">Programma's <span class="nav-subtext">for students and teachers</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/case-studies/" target="_self">Casestudy's </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/computerscience/" target="_self">Onderwijs in computerwetenschap <span class="nav-subtext">Programs, Funding, and Research</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/resources/global-education/" target="_self">Onderwijs wereldwijd </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">IT-gids</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/it/" target="_self">IT </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/trust/" target="_self">Privacypagina's </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Hoger onderwijs</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/nl/higher-education/" target="_self">Hoger onderwijs </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-help-desktop" class="gray-btn talk-to-an-expert-mobile get-help-blue nl" data-g-event="Edu: Global Header" data-g-action="Talk to an Expert" data-g-label="Header" href="/intl/nl/contact/">Contact opnemen met een expert</a> </h4>
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile nl" data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Aan de slag met Google-producten</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">Hoe kunnen we je helpen?</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>Aan de slag met productiviteitstools</h5> 
+         <p>Gebruik productiviteitstools van Google, zoals Google Classroom, Google Documenten, Google Drive, Google Hangouts, e-mail en meer, gratis en zonder advertenties.</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=nl#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Aanmelden voor G Suite</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Aan de slag met apparaten</h5> 
+         <p>Wil je Chromebooks of Android-apparaten gaan gebruiken op school? Ons team kan je op weg helpen.</p> 
+         <a class="maia-button overlay-button" href="/intl/nl/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Contact opnemen met een expert</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Praten met andere docenten</h5> 
+         <p>Wil je praten met collega's die zijn overgestapt op Google? Ontdek onze community van docenten.</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Andere docenten vinden</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="home-wrapper"> 
+    <div class="carousel-wrap home-carousel" set-ng-animate="false"> 
+     <div data-carousel data-ga="Edu: Hero;Hero" data-interval="7000" template-url="/templates/home/carousel.html"> 
+      <div data-slide template-url="/templates/home/video-slide.html"> 
+       <div class="section-wrapper green"> 
+        <div class="section hero-section"> 
+         <div class="text section-in extra"> 
+          <p class="headline slider-headline">70 miljoen gebruikers van G Suite for Education</p> 
+          <p class="subheadline"><a class="learn-more" data-g-event="Edu: Hero" data-g-action="Learn More: Productivity Tools" data-g-label="Hero" href="/intl/nl/products/productivity-tools/" target="_self">Meer informatie</a></p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-video-slide template-url="/templates/home/video-slide.html" youtube-id="-6kXa7m5iqU"> 
+       <div class="section-wrapper isle-of-portland-aldridge-community-academy"> 
+        <div class="section hero-section"> 
+         <div class="text section-in"> 
+          <p class="headline slider-headline">Isle of Portland Aldridge Community Academy (IPACA) verlegt de grenzen van onderwijs met G Suite en Chromebooks</p> 
+          <p class="subheadline"><a class="learn-more" data-g-event="Edu: Hero" data-g-action="Learn More: IPACA" data-g-label="Hero" href="/intl/nl/case-studies/isle-of-portland-aldridge-community-academy/" target="_self">Meer informatie</a></p> 
+          <p><a class="maia-media play-btn" data-g-action="Video: IPACA" data-g-event="Edu: Hero" data-g-label="Hero"><img alt="Video Thumbnail" height="62" src="/images/play-btn_2x.png" width="62"></a></p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-video-slide template-url="/templates/home/video-slide.html" youtube-id="m7f3SxVvlPY"> 
+       <div class="section-wrapper movie google-science-fair-winners"> 
+        <div class="section hero-section"> 
+         <div class="text section-in"> 
+          <p class="headline slider-headline">De winnaar van de Google Science Fair ontwikkelt een goedkope, draagbare ebolatest</p> 
+          <p><a class="maia-media play-btn" data-g-action="Video: Google Science Fair Winners" data-g-event="Edu: Hero" data-g-label="Hero"><img alt="Video Thumbnail" height="62" src="/images/play-btn_2x.png" width="62"></a></p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/video-slide.html"> 
+       <div class="section-wrapper green"> 
+        <div class="section hero-section"> 
+         <div class="text section-in extra"> 
+          <p class="headline slider-headline">20 miljoen leerlingen en docenten gebruiken Google Classroom</p> 
+          <p class="subheadline"><a class="learn-more" data-g-event="Edu: Hero" data-g-action="Learn More: Google Classroom" data-g-label="Hero" href="/intl/nl/products/productivity-tools/classroom/" target="_self">Meer informatie</a></p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/video-slide.html"> 
+       <div class="section-wrapper csg"> 
+        <div class="section hero-section"> 
+         <div class="text section-in"> 
+          <p class="headline slider-headline">Chromebooks helpen de leerlingen van Christelijke Scholengroep De Waard de vaardigheden van de 21ste eeuw te leren</p> 
+          <p class="subheadline"><a class="learn-more" data-g-event="Edu: Hero" data-g-action="Learn More: CSG De Waard" data-g-label="Hero" href="/intl/nl/case-studies/christelijke-scholengroep-de-waard/" target="_self">Meer informatie</a></p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/video-slide.html"> 
+       <div class="section-wrapper corlaer-college"> 
+        <div class="section hero-section"> 
+         <div class="text section-in"> 
+          <p class="headline slider-headline">Lesgeven via Chromebooks vanaf nu de standaard op het Corlaer College</p> 
+          <p class="subheadline"><a class="learn-more" data-g-event="Edu: Hero" data-g-action="Learn More: Corlaer College" data-g-label="Hero" href="/intl/nl/case-studies/corlaer-college/" target="_self">Meer informatie</a></p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div data-slide template-url="/templates/home/video-slide.html"> 
+       <div class="section-wrapper trust"> 
+        <div class="section hero-section"> 
+         <div class="text section-in"> 
+          <p class="headline slider-headline">Informatie over privacy en beveiliging</p> 
+          <p class="subheadline"><a class="learn-more" data-g-event="Edu: Hero" data-g-action="Learn More: Trust" data-g-label="Hero" href="/intl/nl/trust/" target="_self">Meer informatie</a></p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="section solution"> 
+     <h1 class="headline">Een oplossing voor docenten en leerlingen</h1> 
+     <h3 class="subheadline">Het maakt niet uit hoe groot je school of je budget is.<br>Google beschikt over gebruiksvriendelijke tools om leerlingen op elk moment, overal en op elk apparaat bij het onderwijs te betrekken.</h3> 
+     <h2><a class="maia-button get-google" href="/intl/nl/contact/" data-g-event="Edu: Canvas" data-g-action="Get Google Products" data-g-label="Solutions">Aan de slag met Google op jouw school</a></h2> 
+     <div class="maia-cols solutions-tile-container"> 
+      <div class="maia-col-4 solutions-tile productivity"> 
+       <a href="/intl/nl/products/productivity-tools/" data-g-event="Edu: Canvas" data-g-action="Free Productivity Tools" data-g-label="Solutions"> <img class="image productivity-image" src="/images/free-productivity-tools.jpg" data-retina="306x242"> <p>GRATIS PRODUCTIVITEITSTOOLS</p> <h5>Werk eenvoudiger en bespaar tijd met Classroom, Gmail, Google Documenten en meer.</h5> </a> 
+      </div> 
+      <div class="maia-col-4 solutions-tile class-content"> 
+       <a href="/intl/nl/products/productivity-tools/classroom/" data-g-event="Edu: Canvas" data-g-action="Classroom" data-g-label="Solutions"> <img class="image class-content-image" src="/images/productivity-tools.jpg" data-retina="306x242"> <p>Classroom</p> <h5>Maak digitale opdrachten en houd overzicht.</h5> </a> 
+      </div> 
+      <div class="maia-col-4 solutions-tile devices"> 
+       <a href="/intl/nl/products/devices/" data-g-event="Edu: Canvas" data-g-action="Devices" data-g-label="Solutions"> <img class="image devices-image" src="/images/devices.jpg" data-retina="306x242"> <p>Apparaten</p> <h5>Ga aan de slag met betaalbare en gebruiksvriendelijke laptops en tablets.</h5> </a> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="gray-section connect single-social"> 
+     <div class="social-wrapper desktop"> 
+      <a class="social googlepluslink" href="https://plus.google.com/+GoogleforEducation" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> 
+       <div class="social googlepluscontent">
+        Word lid van onze Google+ groep! 
+        <h5 class="social-stat">983.000</h5> 
+        <div class="social arrow">
+         ◀
+        </div> 
+       </div> 
+       <div class="social followers">
+        VOLGERS
+       </div> </a> 
+      <a class="social twitterlink" href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> 
+       <div class="social twittercontent">
+        Volg ons op Twitter! 
+        <h5 class="social-stat">59.000</h5> 
+        <div class="social arrow">
+         ◀
+        </div> 
+       </div> 
+       <div class="social followers">
+        VOLGERS
+       </div> </a> 
+      <a class="social badgelink" href="/intl/nl/resources/communities/" data-g-event="Edu: Canvas" data-g-action="Find Other Educators" data-g-label="Social"> 
+       <div class="social badgecontent">
+        Vind een Google Educator Group bij jou in de buurt. 
+        <h5 class="social-stat">280</h5> 
+        <div class="social arrow">
+         ◀
+        </div> 
+       </div> 
+       <div class="social followers">
+        LOCATIES
+       </div> </a> 
+     </div> 
+     <div class="social-wrapper mobile"> 
+      <a class="social googlepluslink" href="https://plus.google.com/+GoogleforEducation" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> 
+       <div class="social googlepluscontent"> 
+        <h5 class="social content">Word lid van onze Google+ groep!</h5> 
+        <h5 class="social-stat">983.000</h5> 
+        <div class="social arrow">
+         ◀
+        </div> 
+       </div> 
+       <div class="social followers">
+        VOLGERS
+       </div> </a> 
+      <a class="social twitterlink" href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> 
+       <div class="social twittercontent"> 
+        <h5 class="social content">Volg ons op Twitter!</h5> 
+        <h5 class="social-stat">59.000</h5> 
+        <div class="social arrow">
+         ◀
+        </div> 
+       </div> 
+       <div class="social followers">
+        VOLGERS
+       </div> </a> 
+      <a class="social badgelink" href="/intl/nl/resources/communities/" data-g-event="Edu: Canvas" data-g-action="Find Other Educators" data-g-label="Social"> 
+       <div class="social badgecontent"> 
+        <h5 class="social content">Vind een Google Educator Group bij jou in de buurt.</h5> 
+        <h5 class="social-stat">280</h5> 
+        <div class="social arrow">
+         ◀
+        </div> 
+       </div> 
+       <div class="social followers">
+        LOCATIES
+       </div> </a> 
+     </div> 
+    </div> 
+    <div class="section programs"> 
+     <h2 class="headline">Programma's voor docenten en leerlingen</h2> 
+     <h3 class="subheadline">Sluit je aan bij anderen die hun interesses volgen<br> en een verschil maken in de wereld.</h3> 
+     <div class="turntable-container edu-turntable"> 
+      <div class="left-fade" ng-click="turntable.move(-1)"> 
+       <div class="backward-gray"></div> 
+      </div> 
+      <div class="right-fade" ng-click="turntable.move(1)"> 
+       <div class="forward-gray"></div> 
+      </div> 
+      <div class="homepage-program-cards" ng-swipe-left="turntable.move(1)" ng-swipe-right="turntable.move(-1)"> 
+       <div class="homepage-program-card card-index-0 edu-turntable-item tile" data-link="https://edutrainingcenter.withgoogle.com/certification_innovator" ng-class="turntable.classesForIndex(cardIndex)" ng-click="turntable.setIndex(cardIndex);" ng-if="true" ng-init="cardIndex = 0"> 
+        <div class="tile-image certified-innovator-program" ng-style="turntable.stylesForImageIndex(cardIndex,'/images/resources/programs/gta.jpg')"></div> 
+        <div class="details"> 
+         <div class="name"> 
+          <div class="name-inactive">
+            Programma voor gecertificeerde innovators 
+          </div> 
+          <div class="name-active">
+            Programma voor gecertificeerde innovators 
+          </div> 
+         </div> 
+         <div class="description">
+           Een professioneel ontwikkelingsprogramma dat is bedoeld om docenten van over de hele wereld te helpen meer uit innovatieve Google-technologieën te halen. 
+         </div> 
+        </div> 
+       </div> 
+       <div class="homepage-program-card card-index-1 edu-turntable-item tile" data-link="/intl/nl/resources/programs/google-rise-awards/" ng-class="turntable.classesForIndex(cardIndex)" ng-click="turntable.setIndex(cardIndex);" ng-if="true" ng-init="cardIndex = 1"> 
+        <div class="tile-image rise-awards" ng-style="turntable.stylesForImageIndex(cardIndex,'/images/resources/programs/rise.jpg')"></div> 
+        <div class="details"> 
+         <div class="name"> 
+          <div class="name-inactive">
+            Google RISE Awards 
+          </div> 
+          <div class="name-active">
+            Google RISE Awards 
+          </div> 
+         </div> 
+         <div class="description">
+           Google RISE-awards zijn geldprijzen om buitenschools computeronderwijs voor leerlingen in het middelbaar en basisonderwijs wereldwijd te bevorderen en ondersteunen. 
+         </div> 
+        </div> 
+       </div> 
+       <div class="homepage-program-card card-index-2 edu-turntable-item tile" data-link="http://www.googlesciencefair.com" ng-class="turntable.classesForIndex(cardIndex)" ng-click="turntable.setIndex(cardIndex);" ng-if="true" ng-init="cardIndex = 2"> 
+        <div class="tile-image google-science-fair" ng-style="turntable.stylesForImageIndex(cardIndex,'/images/resources/programs/science-fair.jpg')"></div> 
+        <div class="details"> 
+         <div class="name"> 
+          <div class="name-inactive">
+            Google Science Fair 
+          </div> 
+          <div class="name-active">
+            Google Science Fair 
+          </div> 
+         </div> 
+         <div class="description">
+           De Google Science Fair is een internationale wedstrijd voor leerlingen van 13 tot 18 jaar. Ze kunnen online hun project indienen en maken kans op geweldige prijzen. 
+         </div> 
+        </div> 
+       </div> 
+       <div class="homepage-program-card card-index-3 edu-turntable-item tile" data-link="http://cs4hs.com/" ng-class="turntable.classesForIndex(cardIndex)" ng-click="turntable.setIndex(cardIndex);" ng-if="true" ng-init="cardIndex = 3"> 
+        <div class="tile-image computer-science-for-high-school-cs4hs" ng-style="turntable.stylesForImageIndex(cardIndex,'/images/resources/programs/computer-science-for-high-school.png')"></div> 
+        <div class="details"> 
+         <div class="name"> 
+          <div class="name-inactive">
+            Computer Science for High School (CS4HS) 
+          </div> 
+          <div class="name-active">
+            Computer Science for High School (CS4HS) 
+          </div> 
+         </div> 
+         <div class="description">
+           CS4HS is een jaarlijks terugkerend programma met geldprijzen om het computeronderwijs wereldwijd te bevorderen. Het doel is docenten de nodige vaardigheden en middelen te bieden om op een leuke en relevante manier computeronderwijs te geven en te laten zien hoe met computers problemen kunnen worden opgelost. 
+         </div> 
+        </div> 
+       </div> 
+       <div class="homepage-program-card card-index-4 edu-turntable-item tile" data-link="http://www.cs-first.com/" ng-class="turntable.classesForIndex(cardIndex)" ng-click="turntable.setIndex(cardIndex);" ng-if="true" ng-init="cardIndex = 4"> 
+        <div class="tile-image cs-first" ng-style="turntable.stylesForImageIndex(cardIndex,'/images/resources/programs/google-cs-first.jpg')"></div> 
+        <div class="details"> 
+         <div class="name"> 
+          <div class="name-inactive">
+            CS First 
+          </div> 
+          <div class="name-active">
+            CS First 
+          </div> 
+         </div> 
+         <div class="description">
+           Een Google-programma voor buitenschools onderwijs ter bevordering van computeronderwijs op basis- en middelbare scholen. 
+         </div> 
+        </div> 
+       </div> 
+       <div class="homepage-program-card card-index-5 edu-turntable-item tile" data-link="https://developers.google.com/open-source/gci/" ng-class="turntable.classesForIndex(cardIndex)" ng-click="turntable.setIndex(cardIndex);" ng-if="true" ng-init="cardIndex = 5"> 
+        <div class="tile-image google-code-in-gci" ng-style="turntable.stylesForImageIndex(cardIndex,'/images/resources/programs/google-code-in.jpg')"></div> 
+        <div class="details"> 
+         <div class="name"> 
+          <div class="name-inactive">
+            Google Code-in (GCI) 
+          </div> 
+          <div class="name-active">
+            Google Code-in (GCI) 
+          </div> 
+         </div> 
+         <div class="description">
+           Pre-university students ages 13 to 17 are invited to take part in Google Code-in, our global, online contest introducing teenagers to the world of open source. 
+         </div> 
+        </div> 
+       </div> 
+       <div class="homepage-program-card card-index-6 edu-turntable-item tile" data-link="https://code.google.com/codejam" ng-class="turntable.classesForIndex(cardIndex)" ng-click="turntable.setIndex(cardIndex);" ng-if="true" ng-init="cardIndex = 6"> 
+        <div class="tile-image code-jam" ng-style="turntable.stylesForImageIndex(cardIndex,'/images/resources/programs/code-jam.jpg')"></div> 
+        <div class="details"> 
+         <div class="name"> 
+          <div class="name-inactive">
+            Code Jam 
+          </div> 
+          <div class="name-active">
+            Code Jam 
+          </div> 
+         </div> 
+         <div class="description">
+           Internationale programmeerwedstrijd waarin professionele en studentprogrammeurs in verschillende ronden steeds complexere algoritmische problemen oplossen. 
+         </div> 
+        </div> 
+       </div> 
+       <div class="homepage-program-card card-index-7 edu-turntable-item tile" data-link="https://developers.google.com/open-source/gsoc/" ng-class="turntable.classesForIndex(cardIndex)" ng-click="turntable.setIndex(cardIndex);" ng-if="true" ng-init="cardIndex = 7"> 
+        <div class="tile-image google-summer-of-code-gsoc" ng-style="turntable.stylesForImageIndex(cardIndex,'/images/resources/programs/google-summer-of-code.jpg')"></div> 
+        <div class="details"> 
+         <div class="name"> 
+          <div class="name-inactive">
+            Google Summer of Code (GSoC) 
+          </div> 
+          <div class="name-active">
+            Google Summer of Code (GSoC) 
+          </div> 
+         </div> 
+         <div class="description">
+           Google Summer of Code is a global program that offers stipends to university students for developing open source software over their summer break. 
+         </div> 
+        </div> 
+       </div> 
+       <div class="homepage-program-card card-index-8 edu-turntable-item tile" data-link="/intl/nl/resources/programs/bold-immersion/" ng-class="turntable.classesForIndex(cardIndex)" ng-click="turntable.setIndex(cardIndex);" ng-if="true" ng-init="cardIndex = 8"> 
+        <div class="tile-image bold-immersion" ng-style="turntable.stylesForImageIndex(cardIndex,'/images/resources/programs/bold-immersion.jpg')"></div> 
+        <div class="details"> 
+         <div class="name"> 
+          <div class="name-inactive">
+            BOLD Immersion 
+          </div> 
+          <div class="name-active">
+            BOLD Immersion 
+          </div> 
+         </div> 
+         <div class="description">
+           Een buitengewone kans voor studenten om meer te weten te komen over de zakelijke kant van de technologische industrie, om informatie te krijgen over carrièremogelijkheden en waardevolle netwerken op te bouwen. 
+         </div> 
+        </div> 
+       </div> 
+       <div class="homepage-program-card card-index-9 edu-turntable-item tile" data-link="/intl/nl/scholarships/" ng-class="turntable.classesForIndex(cardIndex)" ng-click="turntable.setIndex(cardIndex);" ng-if="true" ng-init="cardIndex = 9"> 
+        <div class="tile-image student-scholarships" ng-style="turntable.stylesForImageIndex(cardIndex,'/images/resources/programs/student-scholarships.jpg')"></div> 
+        <div class="details"> 
+         <div class="name"> 
+          <div class="name-inactive">
+            Studentenbeurzen 
+          </div> 
+          <div class="name-active">
+            Studentenbeurzen 
+          </div> 
+         </div> 
+         <div class="description">
+           Google-beurzen zijn bedoeld om studenten te inspireren en te helpen toekomstige kopstukken op het gebied van informatica en technologie te worden door de barrières weg te nemen waardoor ze anders niet in deze vakgebieden zouden kunnen studeren. 
+         </div> 
+        </div> 
+       </div> 
+       <div class="homepage-program-card card-index-10 edu-turntable-item tile" data-link="https://careers.google.com/students/" ng-class="turntable.classesForIndex(cardIndex)" ng-click="turntable.setIndex(cardIndex);" ng-if="true" ng-init="cardIndex = 10"> 
+        <div class="tile-image google-jobs-and-internships-for-students" ng-style="turntable.stylesForImageIndex(cardIndex,'/images/resources/programs/jobs-internships-for-students.jpg')"></div> 
+        <div class="details"> 
+         <div class="name"> 
+          <div class="name-inactive">
+            Google-vacatures en -stages voor leerlingen en studenten 
+          </div> 
+          <div class="name-active">
+            Google-vacatures en -stages voor leerlingen en studenten 
+          </div> 
+         </div> 
+         <div class="description">
+           We veranderen de manier waarop miljarden gebruikers toegang hebben tot informatie, zaken doen en met elkaar in contact komen. Kom kijken hoe we dat doen en werk mee aan coole dingen die echt belangrijk zijn. 
+         </div> 
+        </div> 
+       </div> 
+       <div class="homepage-program-card card-index-11 edu-turntable-item tile" data-link="http://google.org/global-impact-awards/#tab=awardee-tab-education" ng-class="turntable.classesForIndex(cardIndex)" ng-click="turntable.setIndex(cardIndex);" ng-if="true" ng-init="cardIndex = 11"> 
+        <div class="tile-image googleorg" ng-style="turntable.stylesForImageIndex(cardIndex,'/images/resources/programs/google-org.jpg')"></div> 
+        <div class="details"> 
+         <div class="name"> 
+          <div class="name-inactive">
+            Google.org 
+          </div> 
+          <div class="name-active">
+            Google.org 
+          </div> 
+         </div> 
+         <div class="description">
+           Google.org investeert jaarlijks miljoenen dollars in organisaties die computerwetenschappen breder toegankelijk maken, zoals Girls Who Code, Code2040 en Code.org. 
+         </div> 
+        </div> 
+       </div> 
+       <div class="homepage-program-card card-index-12 edu-turntable-item tile" data-link="/intl/nl/resources/programs/exploring-computational-thinking/" ng-class="turntable.classesForIndex(cardIndex)" ng-click="turntable.setIndex(cardIndex);" ng-if="true" ng-init="cardIndex = 12"> 
+        <div class="tile-image computational-thinking" ng-style="turntable.stylesForImageIndex(cardIndex,'/images/resources/programs/computational-thinking.jpg')"></div> 
+        <div class="details"> 
+         <div class="name"> 
+          <div class="name-inactive">
+            Computational Thinking 
+          </div> 
+          <div class="name-active">
+            Computational Thinking 
+          </div> 
+         </div> 
+         <div class="description">
+           Computational thinking (CT) omvat een reeks vaardigheden en technieken op het gebied van probleemoplossing die software-engineers gebruiken om programma's te schrijven die de computerapplicaties ondersteunen die we tegenwoordig gebruiken, zoals zoeken, e-mail en kaarten. 
+         </div> 
+        </div> 
+       </div> 
+       <div class="homepage-program-card card-index-13 edu-turntable-item tile" data-link="https://hashcode.withgoogle.com" ng-class="turntable.classesForIndex(cardIndex)" ng-click="turntable.setIndex(cardIndex);" ng-if="true" ng-init="cardIndex = 13"> 
+        <div class="tile-image hash-code" ng-style="turntable.stylesForImageIndex(cardIndex,'/images/resources/programs/hashcode2016.png')"></div> 
+        <div class="details"> 
+         <div class="name"> 
+          <div class="name-inactive">
+            Hash Code 
+          </div> 
+          <div class="name-active">
+            Hash Code 
+          </div> 
+         </div> 
+         <div class="description">
+           Hash Code is een programmeerwedstrijd in teamverband die wordt georganiseerd door Google. Je kiest je team en programmeertaal en wij kiezen een echt technisch probleem om op te lossen. Ben je klaar voor de uitdaging? 
+         </div> 
+        </div> 
+       </div> 
+       <div class="homepage-program-card card-index-14 edu-turntable-item tile" data-link="/intl/nl/resources/programs/adcamp/" ng-class="turntable.classesForIndex(cardIndex)" ng-click="turntable.setIndex(cardIndex);" ng-if="true" ng-init="cardIndex = 14"> 
+        <div class="tile-image adcamp" ng-style="turntable.stylesForImageIndex(cardIndex,'/images/resources/programs/ad-camp.jpg')"></div> 
+        <div class="details"> 
+         <div class="name"> 
+          <div class="name-inactive">
+            AdCamp 
+          </div> 
+          <div class="name-active">
+            AdCamp 
+          </div> 
+         </div> 
+         <div class="description">
+           Een driedaags zomerprogramma voor universiteitsstudenten die geïnteresseerd zijn in een carrière in advertentiesales of marketing. 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <a href="/intl/nl/resources/programs/" data-g-event="Edu: Canvas" data-g-action="See All Programs" data-g-label="Programs"> <button class="maia-button small-btn programs">Alle programma's bekijken</button> </a> 
+    </div> 
+    <div class="gray-section goog-for-edu"> 
+     <div class="video"> 
+      <div class="geg-overlay"> 
+       <h2 class="headline">Google for Education 101<br><span class="geg">(in 101 seconden)</span></h2> 
+       <a class="maia-media" data-lightbox="lb-homepage" href="https://www.youtube.com/embed/uXFUl0KcIkA?autohide=1&amp;amp;cc_load_policy=0&amp;amp;hl=en&amp;amp;cc_lang_pref=en&amp;amp;autoplay=1" data-lightbox-width="700" data-lightbox-height="394" data-g-event="Edu: Canvas" data-g-action="Video: 101 Seconds" data-g-label="101"> <img src="/images/play-btn_2x.png" height="62" width="62"> </a> 
+      </div> 
+     </div> 
+     <div id="newsletter"></div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Producten</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/products/devices/">Apparaten</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/products/productivity-tools/">Productiviteitstools</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/products/more-products/">Meer producten</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Training</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://sites.google.com/site/localizededulearningcenter/nl" target="_blank">Docenttraining</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">IT-beheerderstraining</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">Partneroverzicht</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/resources/communities/">Community's</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Bronnen</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:News &amp;amp; Events" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/resources/news-and-events/">Nieuws en evenementen</a></li> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/resources/programs/">Programma's</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/resources/computerscience/">Onderwijs in computerwetenschap</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/resources/global-education/">Onderwijs wereldwijd</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/it/">IT</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">Bronnen voor ontwikkelaars</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/access/">Toegang</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/contact/">Verkoop</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">Ondersteuning</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/partners/">Partnerprogramma</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/nl/case-studies/">Casestudy's</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">Scholen met Chromebooks</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">Blog</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="Zoeken op deze site" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/da/"> dansk (Danmark) </option><option value="/intl/en_au/"> English (Australia) </option><option value="/intl/en_ca/"> English (Canada) </option><option value="/intl/en_in/"> English (India) </option><option value="/intl/en_nz/"> English (New Zealand) </option><option value="/intl/en_uk/"> English (United Kingdom) </option><option value="/"> English (United States) </option><option value="/intl/es-419_mx/"> español (México) </option><option value="/intl/es-419/"> español (Latinoamérica) </option><option value="/intl/fi/"> suomi (Suomi) </option><option value="/intl/fr_be/"> français (Belgique) </option><option value="/intl/id/"> Indonesia (Indonesia) </option><option value="/intl/ja/"> 日本語 (日本) </option><option value="/intl/ms/"> Bahasa Melayu (Malaysia) </option><option selected value="/intl/nl/"> Nederlands (Nederland) </option><option value="/intl/no/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/"> português (Brasil) </option><option value="/intl/sv/"> svenska (Sverige) </option><option value="/intl/th/"> ไทย (ไทย) </option><option value="/intl/tr/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/nl/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/nl/policies/privacy/">Privacy</a> </li> 
+      <li> <a href="https://www.google.com/intl/nl/policies/terms/">Voorwaarden</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script>  
+ </body>
+</html>

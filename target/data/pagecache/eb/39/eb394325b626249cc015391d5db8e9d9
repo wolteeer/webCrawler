@@ -1,0 +1,506 @@
+<!doctype html>
+<html class="google mmfb" lang="fi" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/fi/resources/more-educational-resources/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="Ilmaisia opetusresursseja, joita voit käyttää heti ilman tilin luomista." name="description"> 
+  <title>
+    Google for Education: More educational resources
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/fi/resources/more-educational-resources/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: More educational resources" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/fi/resources/more-educational-resources/" property="og:url"> 
+  <meta content="" property="og:image"> 
+  <meta content="Ilmaisia opetusresursseja, joita voit käyttää heti ilman tilin luomista." property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/fi/resources/more-educational-resources/" name="twitter:url"> 
+  <meta content="Google for Education: More educational resources" name="twitter:title"> 
+  <meta content="" name="twitter:image"> 
+  <meta content="Ilmaisia opetusresursseja, joita voit käyttää heti ilman tilin luomista." name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: More educational resources" itemprop="name"> 
+  <meta content="Ilmaisia opetusresursseja, joita voit käyttää heti ilman tilin luomista." itemprop="description"> 
+  <meta content="" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: More educational resources",
+    "description": "Ilmaisia opetusresursseja, joita voit käyttää heti ilman tilin luomista.",
+    "url": "https://edu.google.com/intl/fi/resources/more-educational-resources/",
+    "logo": "",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="more-edu-resource"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/fi/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Hanki Googlen tuotteita</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">Miten voimme auttaa?</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>Hanki tuottavuustyökaluja</h5> 
+        <p>Hanki Googlen tarjoamia tuottavuustyökaluja ovat Classroom, Google Docs, Drive, Hangouts, sähköposti ja monta muuta. Ilmaiseksi ja ilman mainoksia.</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=fi#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Rekisteröidy G&nbsp;Suiten käyttäjäksi</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Hanki laitteita</h5> 
+        <p>Haluaisitko hankkia Chromebookit tai Android-laitteet kouluusi? Tiimimme voi auttaa sinua.</p> 
+        <a class="maia-button overlay-button" href="/intl/fi/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Ota yhteyttä asiantuntijaan</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Keskustele muiden kouluttajien kanssa</h5> 
+        <p>Haluatko keskustella muiden Googlen valinneiden kanssa? Liity kouluttajayhteisöön.</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Löydä muita kouluttajia</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li class="active"> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/" target="_self">Etusivu</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">Tuotteet</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/products/devices/" target="_self">Laitteet <br><span class="dropdown-item-description">Chromebookit</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/products/productivity-tools/" target="_self">Tuottavuustyökalut <br><span class="dropdown-item-description">Docs, Gmail ja paljon muuta</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/products/productivity-tools/classroom/" target="_self">Classroom <br><span class="dropdown-item-description">Opettajien ja oppilaiden komentokeskus</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtuaaliset luokkaretket</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/products/more-products/" target="_self">Lisää tuotteita <br><span class="dropdown-item-description">Cloud, Chrome-selain ja monta muuta</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">Koulutus</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=fi" target="_self">Kouluttajan antama koulutus <br><span class="dropdown-item-description">Google for Education ‑työkaluihin</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT-järjestelmänvalvojan koulutus <br><span class="dropdown-item-description">G Suite järjestelmänvalvojille</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Kumppanihakemisto <br><span class="dropdown-item-description">to help your school go Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/resources/communities/" target="_self">Yhteisöt <br><span class="dropdown-item-description">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">Resurssit</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/resources/programs/" target="_self">Ohjelmat <br><span class="dropdown-item-description">for students and teachers</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/case-studies/" target="_self">Tapaustutkimukset </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/resources/computerscience/" target="_self">Tietojenkäsittelykoulutus <br><span class="dropdown-item-description">Programs, Funding, and Research</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/resources/global-education/" target="_self">Kansainvälinen Education </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/fi/it/" target="_self">IT-opas</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/fi/higher-education/" target="_self">Korkeakoulut</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Tuotteet</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/products/devices/" target="_self">Laitteet <span class="nav-subtext">Chromebookit</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/products/productivity-tools/" target="_self">Tuottavuustyökalut <span class="nav-subtext">Docs, Gmail ja paljon muuta</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/products/productivity-tools/classroom/" target="_self">Classroom <span class="nav-subtext">Opettajien ja oppilaiden komentokeskus</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtuaaliset luokkaretket</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/products/more-products/" target="_self">Lisää tuotteita <span class="nav-subtext">Cloud, Chrome-selain ja monta muuta</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Koulutus</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=fi" target="_self">Kouluttajan antama koulutus <span class="nav-subtext">Google for Education ‑työkaluihin</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT-järjestelmänvalvojan koulutus <span class="nav-subtext">G Suite järjestelmänvalvojille</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Kumppanihakemisto <span class="nav-subtext">to help your school go Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/resources/communities/" target="_self">Yhteisöt <span class="nav-subtext">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Resurssit</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/resources/programs/" target="_self">Ohjelmat <span class="nav-subtext">for students and teachers</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/case-studies/" target="_self">Tapaustutkimukset </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/resources/computerscience/" target="_self">Tietojenkäsittelykoulutus <span class="nav-subtext">Programs, Funding, and Research</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/resources/global-education/" target="_self">Kansainvälinen Education </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">IT-opas</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/it/" target="_self">IT </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/trust/" target="_self">Tietosuojasivut </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Korkeakoulut</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/fi/higher-education/" target="_self">Korkeakoulut </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Hanki Googlen tuotteita</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">Miten voimme auttaa?</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>Hanki tuottavuustyökaluja</h5> 
+         <p>Hanki Googlen tarjoamia tuottavuustyökaluja ovat Classroom, Google Docs, Drive, Hangouts, sähköposti ja monta muuta. Ilmaiseksi ja ilman mainoksia.</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=fi#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Rekisteröidy G&nbsp;Suiten käyttäjäksi</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Hanki laitteita</h5> 
+         <p>Haluaisitko hankkia Chromebookit tai Android-laitteet kouluusi? Tiimimme voi auttaa sinua.</p> 
+         <a class="maia-button overlay-button" href="/intl/fi/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Ota yhteyttä asiantuntijaan</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Keskustele muiden kouluttajien kanssa</h5> 
+         <p>Haluatko keskustella muiden Googlen valinneiden kanssa? Liity kouluttajayhteisöön.</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Löydä muita kouluttajia</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="section more-resources"> 
+    <h1 class="headline">Lisää Googlen opetusresursseja</h1> 
+    <h2 class="subheadline">Ilmaisia opetusresursseja, joita voit käyttää heti,<br>ilman tilin luomista.</h2> 
+    <div class="resource-item-wrap maia-cols"> 
+     <div class="resource-section maia-col-6"> 
+      <a class="resource-link-wrap" href="https://www.google.com/culturalinstitute" target="_blank" data-g-event="Edu: Resources: More Educational Resources" data-g-action="Google Cultural Institute" data-g-label=""> <img src="/images/products/more-products/google-cultural.png" data-retina="85x85"> 
+       <div class="res-text-wrap"> 
+        <h4 class="res-section-headline">Google Cultural Institute</h4> 
+        <p class="res-section-text">Google Cultural Institute kokoaa monien eri kumppanien miljoonia näyttelyesineitä ja kiehtovia tarinoita yhteen virtuaaliseen museoon.</p> 
+       </div> </a> 
+     </div> 
+     <div class="resource-section maia-col-6"> 
+      <a class="resource-link-wrap" href="https://cloud.google.com/" target="_blank" data-g-event="Edu: Resources: More Educational Resources" data-g-action="Google Cloud Platform" data-g-label=""> <img src="/images/products/more-products/cloud.png" data-retina="85x85"> 
+       <div class="res-text-wrap"> 
+        <h4 class="res-section-headline">Google Cloud Platform</h4> 
+        <p class="res-section-text">Google Cloud Platform tarjoaa mahdollisuuden suorittaa verkko- tai mobiilisovelluksia Googlen infrastruktuurissa, jolloin niitä on helppo kehittää, ylläpitää ja skaalata. Udacityn Google-verkkokurssien avulla opiskelijoiden on helppo oppia ohjelmoimaan Googlen työkaluilla.</p> 
+       </div> </a> 
+     </div> 
+     <div class="resource-section maia-col-6"> 
+      <a class="resource-link-wrap" href="http://www.google.com/edu/openonline/" target="_blank" data-g-event="Edu: Resources: More Educational Resources" data-g-action="Open Online Education" data-g-label=""> <img src="/images/products/more-products/open-online.png" data-retina="85x85"> 
+       <div class="res-text-wrap"> 
+        <h4 class="res-section-headline">Open Online Education</h4> 
+        <p class="res-section-text">Open Online Education tarjoaa avoimen lähdekoodin Course Builder -verkko-opetusalustan. Alustalla voit luoda ja toteuttaa verkkokursseja, jotka vaativat skaalautumista. Saat myös tarkat tiedot opiskelijoidesi suorituksista.</p> 
+       </div> </a> 
+     </div> 
+     <div class="resource-section maia-col-6"> 
+      <a class="resource-link-wrap" href="http://scholar.google.com/" target="_blank" data-g-event="Edu: Resources: More Educational Resources" data-g-action="Google Scholar" data-g-label=""> <img src="/images/products/more-products/scholar.png" data-retina="85x85"> 
+       <div class="res-text-wrap"> 
+        <h4 class="res-section-headline">Google Scholar</h4> 
+        <p class="res-section-text">Akateemisen kirjallisuuden laaja haku monilta eri aloilta – artikkeleita, kirjoja, väitöksiä, lyhennelmiä, oikeuden päätöksiä ja paljon muuta.</p> 
+       </div> </a> 
+     </div> 
+     <div class="resource-section maia-col-6"> 
+      <a class="resource-link-wrap" href="http://www.google.com/intl/en-us/insidesearch/searcheducation/" target="_blank" data-g-event="Edu: Resources: More Educational Resources" data-g-action="Google Search for Education" data-g-label=""> <img src="/images/products/more-products/search-edu.png" data-retina="85x85"> 
+       <div class="res-text-wrap"> 
+        <h4 class="res-section-headline">Google Search for Education</h4> 
+        <p class="res-section-text">Search on merkittävä työkalu maailman kaiken sisällön ja ihmisten yhdistämiseksi. Search Education -sivuston materiaalit auttavat opiskelijoita kaikilla tasoilla oppimaan tiedon etsimistä ja löytämistä.</p> 
+       </div> </a> 
+     </div> 
+     <div class="resource-section maia-col-6"> 
+      <a class="resource-link-wrap" href="http://maps.google.com/help/maps/education/" target="_blank" data-g-event="Edu: Resources: More Educational Resources" data-g-action="Google Maps for Education" data-g-label=""> <img src="/images/products/more-products/maps-edu.png" data-retina="85x85"> 
+       <div class="res-text-wrap"> 
+        <h4 class="res-section-headline">Google Maps for Education</h4> 
+        <p class="res-section-text">Google Maps for Education tarjoaa opettajille ja opiskelijoille mahdollisuuden käyttää koko maailman visuaalista materiaalia ja resursseja – löytämään, luomaan ja tekemään yhteistyötä karttasovelluksien avulla. Tutki Maan, Kuun tai Marsin pintaa tai sukella merten syvyyksiin.</p> 
+       </div> </a> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="gray-section more-cs-stem"> 
+    <div class="maia-aux"> 
+     <h2 class="headline">CS &amp; STEM</h2> 
+     <h3 class="subheadline">Inspire the next generation of technologists and computer scientists</h3> 
+     <div class="resource-item-wrap maia-cols"> 
+      <div class="resource-section maia-col-6"> 
+       <a class="resource-link-wrap" href="http://gym.pencilcode.net" target="_blank" data-g-event="Edu: Resources: More Educational Resources" data-g-action="Code Gym" data-g-label=""> <img src="/images/resources/more-edu-resoruces/code-gym.jpg" data-retina="85x85"> 
+        <div class="res-text-wrap"> 
+         <h4 class="res-section-headline">Code Gym</h4> 
+         <p class="res-section-text">Googlen tukema avoimen lähdekoodin ohjelmointilaboratorio, jossa käytetään piirroksia, musiikkia ja luovaa fiktiota ohjelmointikäsitteiden oppimisen tukena.</p> 
+        </div> </a> 
+      </div> 
+      <div class="resource-section maia-col-6"> 
+       <a class="resource-link-wrap" href="http://www.cs-first.com/" target="_blank" data-g-event="Edu: Resources: More Educational Resources" data-g-action="CS First" data-g-label=""> <img src="/images/resources/more-edu-resoruces/google-cs-first.jpg" data-retina="85x85"> 
+        <div class="res-text-wrap"> 
+         <h4 class="res-section-headline">CS First</h4> 
+         <p class="res-section-text">Google-ohjelma, joka pyrkii lisäämään toisen asteen opiskelijoiden mahdollisuuksia opiskella tietojenkäsittelyä iltapäiväkursseilla.</p> 
+        </div> </a> 
+      </div> 
+      <div class="resource-section maia-col-6"> 
+       <a class="resource-link-wrap" href="http://www.engage-csedu.org/" target="_blank" data-g-event="Edu: Resources: More Educational Resources" data-g-action="Engage CS Edu" data-g-label=""> <img src="/images/resources/more-edu-resoruces/engage-cs-edu.jpg" data-retina="85x85"> 
+        <div class="res-text-wrap"> 
+         <h4 class="res-section-headline">Engage CS Edu</h4> 
+         <p class="res-section-text">Kokoelma avoimia tietojenkäsittelyn alkeistason kurssimateriaaleja, joiden tavoitteena on lisätä teknologia-alan työntekijöiden monimuotoisuutta tukemalla naisten ja muiden tietojenkäsittelyn opiskelijoiden vähemmistönä olevien ryhmien opintojen jatkamista.</p> 
+        </div> </a> 
+      </div> 
+      <div class="resource-section maia-col-6"> 
+       <a class="resource-link-wrap" href="https://www.google.com/careers/students/devguide" target="_blank" data-g-event="Edu: Resources: More Educational Resources" data-g-action="Guide for Technical Development" data-g-label=""> <img src="/images/resources/more-edu-resoruces/gtd-tool.jpg" data-retina="85x85"> 
+        <div class="res-text-wrap"> 
+         <h4 class="res-section-headline">Teknisen kehittymisen opas</h4> 
+         <p class="res-section-text">Yliopisto-opiskelijoille tarkoitettu Teknisen kehittymisen opas (Guide for Technical Development) on yksi mahdollinen tapa oppia teknisiä taitoja joko yliopistossa tai itsekseen omaan tahtiin edeten.</p> 
+        </div> </a> 
+      </div> 
+      <div class="resource-section maia-col-6"> 
+       <a class="resource-link-wrap" href="https://www.google.com/cse/publicurl?cx=013530186987966809710:rej94padavg" target="_blank" data-g-event="Edu: Resources: More Educational Resources" data-g-action="Computer Science Search Engine" data-g-label=""> <img src="/images/resources/more-edu-resoruces/search-k12.jpg" data-retina="85x85"> 
+        <div class="res-text-wrap"> 
+         <h4 class="res-section-headline">Tietojenkäsittelyn hakukone</h4> 
+         <p class="res-section-text">Etsi lisämateriaalia, kuten oppitunteja, oppaita, tehtäviä ja videoita, toisen asteen tietojenkäsittelyn opetuksen tueksi.</p> 
+        </div> </a> 
+      </div> 
+      <div class="resource-section maia-col-6"> 
+       <a class="resource-link-wrap" href="http://appinventor.mit.edu/" target="_blank" data-g-event="Edu: Resources: More Educational Resources" data-g-action="MIT App Inventor" data-g-label=""> <img src="/images/resources/more-edu-resoruces/mit-app-inventor.jpg" data-retina="85x85"> 
+        <div class="res-text-wrap"> 
+         <h4 class="res-section-headline">MIT App Inventor</h4> 
+         <p class="res-section-text">Luo oma Android-sovelluksesi tällä helppokäyttöisellä työkalulla! Ohjelmoinnin opetus vedä ja pudota -käyttöliittymällä, joka sopii yläasteelle ja siitä ylöspäin.</p> 
+        </div> </a> 
+      </div> 
+      <div class="resource-section maia-col-6"> 
+       <a class="resource-link-wrap" href="/intl/fi/resources/programs/exploring-computational-thinking/" target="_blank" data-g-event="Edu: Resources: More Educational Resources" data-g-action="Exploring Computational Thinking" data-g-label=""> <img src="/images/resources/more-edu-resoruces/explore-c-thinking.jpg" data-retina="85x85"> 
+        <div class="res-text-wrap"> 
+         <h4 class="res-section-headline">Tietojenkäsittelyn päättely</h4> 
+         <p class="res-section-text">Sisältää luokkakäyttöön valmiita oppitunteja ja resursseja, joiden avulla opettajat voivat sisällyttää tietojenkäsittelyn päättelyn opetusta toisen asteen opinto-ohjelmaan.</p> 
+        </div> </a> 
+      </div> 
+      <div class="resource-section maia-col-6"> 
+       <a class="resource-link-wrap" href="/pdfs/women-who-choose-what-really.pdf" target="_blank" data-g-event="Edu: Resources: More Educational Resources" data-g-action="White Paper: Women Who Choose Computer Science" data-g-label=""> <img src="/images/resources/more-edu-resoruces/teen-tech.jpg" data-retina="85x85"> 
+        <div class="res-text-wrap"> 
+         <h4 class="res-section-headline">Raportti: naiset, jotka valitsevat tietojenkäsittelyn</h4> 
+         <p class="res-section-text">Lue Googlen vuoden 2014 tutkimus tekijöistä, jotka saavat lukioikäiset nuoret naiset valitsemaan pääaineekseen tietojenkäsittelyn.</p> 
+        </div> </a> 
+      </div> 
+      <div class="resource-section maia-col-6"> 
+       <a class="resource-link-wrap" href="https://blockly-games.appspot.com/" target="_blank" data-g-event="Edu: Resources: More Educational Resources" data-g-action="Blockly" data-g-label=""> <img src="/images/resources/more-edu-resoruces/blocky.jpg" data-retina="85x85"> 
+        <div class="res-text-wrap"> 
+         <h4 class="res-section-headline">Blockly</h4> 
+         <p class="res-section-text">Rakennuspalikkatyyppinen ohjelmointiympäristö, joka esittelee nuorille kehittäjille ohjelmoinnin peruskäsitteitä ja -haasteita.</p> 
+        </div> </a> 
+      </div> 
+      <div class="resource-section maia-col-6"> 
+       <a class="resource-link-wrap" href="http://www.madewithcode.com" target="_blank" data-g-event="Edu: Resources: More Educational Resources" data-g-action="Made with Code" data-g-label=""> <img src="/images/resources/more-edu-resoruces/t-s-made-with-code.jpg" data-retina="85x85"> 
+        <div class="res-text-wrap"> 
+         <h4 class="res-section-headline">Made with Code</h4> 
+         <p class="res-section-text">Ohjelmointitaito on uuden ajan lukutaitoa – sen avulla voi luoda, innovoida ja kirjaimellisesti muuttaa maailmaa. Tämä ohjelma on suunniteltu inspiroimaan miljoonia tyttöjä kokemaan ohjelmoinnin vaikutusmahdollisuudet.</p> 
+        </div> </a> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Tuotteet</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/fi/products/devices/">Laitteet</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/fi/products/productivity-tools/">Tuottavuustyökalut</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/fi/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/fi/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/fi/products/more-products/">Lisää tuotteita</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Koulutus</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=fi" target="_blank">Kouluttajan antama koulutus</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">IT-järjestelmänvalvojan koulutus</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">Kumppanihakemisto</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/fi/resources/communities/">Yhteisöt</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Resurssit</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/fi/resources/programs/">Ohjelmat</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/fi/resources/computerscience/">Tietojenkäsittelykoulutus</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/fi/resources/global-education/">Kansainvälinen Education</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/fi/it/">IT</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">Kehittäjien resurssit</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/fi/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/fi/access/">Käyttöoikeudet</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/fi/contact/">Myynti</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">Tuki</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/fi/partners/">Kumppanuusohjelma</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/fi/case-studies/">Tapaustutkimukset</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">Tutustu Chromebook-kouluihin</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">Blogi</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="Hae tältä sivustolta" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/resources/more-educational-resources/"> Afrikaans (Suid-Afrika) </option><option value="/intl/da/resources/more-educational-resources/"> dansk (Danmark) </option><option value="/intl/en_au/resources/more-educational-resources/"> English (Australia) </option><option value="/intl/en_ca/resources/more-educational-resources/"> English (Canada) </option><option value="/intl/en_in/resources/more-educational-resources/"> English (India) </option><option value="/intl/en_nz/resources/more-educational-resources/"> English (New Zealand) </option><option value="/intl/en_uk/resources/more-educational-resources/"> English (United Kingdom) </option><option value="/resources/more-educational-resources/"> English (United States) </option><option value="/intl/es-419_mx/resources/more-educational-resources/"> español (México) </option><option value="/intl/es-419/resources/more-educational-resources/"> español (Latinoamérica) </option><option selected value="/intl/fi/resources/more-educational-resources/"> suomi (Suomi) </option><option value="/intl/fr_be/resources/more-educational-resources/"> français (Belgique) </option><option value="/intl/id/resources/more-educational-resources/"> Indonesia (Indonesia) </option><option value="/intl/ja/resources/more-educational-resources/"> 日本語 (日本) </option><option value="/intl/ms/resources/more-educational-resources/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/resources/more-educational-resources/"> Nederlands (Nederland) </option><option value="/intl/no/resources/more-educational-resources/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/resources/more-educational-resources/"> português (Brasil) </option><option value="/intl/sv/resources/more-educational-resources/"> svenska (Sverige) </option><option value="/intl/th/resources/more-educational-resources/"> ไทย (ไทย) </option><option value="/intl/tr/resources/more-educational-resources/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/fi/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/fi/policies/privacy/">Tietosuoja</a> </li> 
+      <li> <a href="https://www.google.com/intl/fi/policies/terms/">Ehdot</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script>  
+ </body>
+</html>

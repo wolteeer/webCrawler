@@ -1,0 +1,287 @@
+<!doctype html>
+<html class="google mmfb" dir="ltr" lang="en">
+ <head> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script> 
+  <meta charset="utf-8"> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <title>
+      Google AdSense for Shopping Signup &amp; Qualification Information – Google
+    </title> 
+  <meta content="Get started with Google AdSense for Shopping today. Must be at least 18 years old, have a valid postal address and your own website or content." name="description"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;lang=en" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto+Slab:300,400,500&amp;lang=en" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Product+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/retail/css/asfsh.min.css" rel="stylesheet"> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/v2_8_3/basic.js">
+    </script> 
+  <link href="/retail/images/asfsh/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <style>
+    svg.c1 {enable-background:new 0 0 23 15;}
+    </style> 
+ </head> 
+ <body data-ng-app="rs.retail.adsense"> 
+  <header class="header" role="banner"> 
+   <h1 class="product-logo"> <a href="/retail/adsense-for-shopping/"><img alt="Google" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" srcset="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png 2x"> <span class="site-name">AdSense for Shopping</span></a> </h1> 
+   <nav class="main-navigation" data-ng-controller="rs.navigation.NavCtrl as navCtrl"> 
+    <h1> AdSense for Shopping </h1> 
+    <ul> 
+     <li> <a href="../../../retail/adsense-for-shopping/">Home</a> </li> 
+     <li> <a href="../../../retail/adsense-for-shopping/resources/">Resources</a> </li> 
+    </ul> 
+   </nav>
+   <button class="nav-toggle-button"><span class="icon-menu-els"><span class="menu-bar"></span> <span class="menu-bar"></span> <span class="menu-bar"></span></span></button> 
+  </header> 
+  <div class="main" role="main"> 
+   <div data-ng-controller="rsFbxCtrl as formCtrl" data-rs-form-handler=""> 
+    <section class="form-page" data-ng-show="!formCtrl.success"> 
+     <section class="section section-dark deep-teal"> 
+      <div class="site-width"> 
+       <div class="col-8-fixed"> 
+        <h1> Interested in AdSense for Shopping? </h1> 
+        <p class="font-large"> AdSense for Shopping is currently available to a limited set of retail and commerce publishers, but we plan to open it up to interested publishers in the near future. Please fill out the form below to express your interest and we will reach out to you when it’s available. </p> 
+       </div> 
+      </div> 
+     </section> 
+     <section class="section"> 
+      <div class="site-width"> 
+       <form action="https://services.google.com/fb/submissions/cd06154a3b4811e593c243c845d8e81c/" data-ng-cloak="" data-ng-submit="formCtrl.submit($event)" data-rs-form-handler="" id="fbxForm" method="post" name="fbxForm" novalidate> 
+        <div class="cols-row"> 
+         <div class="col-5"> 
+          <div class="input-wrp"> 
+           <label class="form-required label-floating" data-ng-class="{'hidden': !formCtrl.formData.companyName, 'focus': formCtrl.companyNameFocus}" for="companyName">Company name</label> 
+           <input autocomplete="companyName" class="form-text form-required" data-ng-blur="formCtrl.companyNameFocus = false" data-ng-focus="formCtrl.companyNameFocus = true" data-ng-model="formCtrl.formData.companyName" data-rs-fbx-server-error="" id="companyName" name="companyName" placeholder="Company name *" required type="text"> 
+           <div class="form-errors-container" data-ng-class="{'ng-hide': !fbxForm.companyName.$touched || formCtrl.formData.companyName}" data-ng-messages="fbxForm.companyName.$error"> 
+            <span class="form-error" data-ng-message="required">This field is required.</span> 
+            <span class="form-error" data-ng-message="server">{[ formCtrl.serverErrors.companyName ]}</span> 
+           </div> 
+          </div> 
+          <div class="input-wrp"> 
+           <label class="form-required label-floating" data-ng-class="{'hidden': !formCtrl.formData.companyUrl, 'focus': formCtrl.companyUrlFocus}" for="companyUrl">Company website URL</label> 
+           <input autocomplete="companyUrl" class="form-text form-required" data-ng-blur="formCtrl.companyUrlFocus = false" data-ng-focus="formCtrl.companyUrlFocus = true" data-ng-model="formCtrl.formData.companyUrl" data-rs-fbx-server-error="" data-rs-fbx-url="" id="companyUrl" name="companyUrl" placeholder="Company website URL *" required type="url"> 
+           <div class="input-note">
+             e.g., http://www.google.com 
+           </div> 
+           <div class="form-errors-container" data-ng-class="{'ng-hide': !fbxForm.companyUrl.$touched || formCtrl.formData.companyUrl}" data-ng-messages="fbxForm.companyUrl.$error"> 
+            <span class="form-error" data-ng-message="required">This field is required.</span> 
+            <span class="form-error" data-ng-message="url">Please enter a valid website URL (including http://).</span> 
+            <span class="form-error" data-ng-message="server">{[ formCtrl.serverErrors.companyUrl ]}</span> 
+           </div> 
+          </div> 
+          <div class="input-wrp"> 
+           <label class="form-required label-floating" data-ng-class="{'hidden': !formCtrl.formData.contactTitle, 'focus': formCtrl.contactTitleFocus}" for="contactTitle">Contact title</label> 
+           <input autocomplete="contactTitle" class="form-text form-required" data-ng-blur="formCtrl.contactTitleFocus = false" data-ng-focus="formCtrl.contactTitleFocus = true" data-ng-model="formCtrl.formData.contactTitle" data-rs-fbx-server-error="" id="contactTitle" name="contactTitle" placeholder="Contact title *" required type="text"> 
+           <div class="form-errors-container" data-ng-class="{'ng-hide': !fbxForm.contactTitle.$touched || formCtrl.formData.contactTitle}" data-ng-messages="fbxForm.contactTitle.$error"> 
+            <span class="form-error" data-ng-message="required">This field is required.</span> 
+            <span class="form-error" data-ng-message="server">{[ formCtrl.serverErrors.contactTitle ]}</span> 
+           </div> 
+          </div> 
+          <div class="input-wrp"> 
+           <label class="form-required label-heading" for="isAdSensePublisher">Are you currently an AdSense publisher?</label> 
+           <div class="form-list"> 
+            <ul class="cols-row"> 
+             <li class="col-4"> <input class="form-radio" data-ng-model="formCtrl.formData.isAdSensePublisher" id="isAdSensePublisher_yes" name="isAdSensePublisher" required type="radio" value="Yes"> <label class="radio" for="isAdSensePublisher_yes">Yes</label> </li> 
+             <li class="col-4"> <input class="form-radio" data-ng-model="formCtrl.formData.isAdSensePublisher" id="isAdSensePublisher_no" name="isAdSensePublisher" required type="radio" value="No"> <label class="radio" for="isAdSensePublisher_no">No</label> </li> 
+            </ul> 
+           </div> 
+           <div class="form-errors-container" data-ng-class="{'ng-hide': !fbxForm.isAdSensePublisher.$touched || formCtrl.formData.isAdSensePublisher}" data-ng-messages="fbxForm.isAdSensePublisher.$error"> 
+            <span class="form-error" data-ng-message="required">This field is required.</span> 
+            <span class="form-error" data-ng-message="server">{[ formCtrl.serverErrors.isAdSensePublisher ]}</span> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="col-5 col-offset-1"> 
+          <div class="input-wrp"> 
+           <label class="form-required label-floating" data-ng-class="{'hidden': !formCtrl.formData.country, 'focus': formCtrl.countryFocus}" for="country">Country</label> 
+           <input autocomplete="country" class="form-text form-required" data-ng-blur="formCtrl.countryFocus = false" data-ng-focus="formCtrl.countryFocus = true" data-ng-model="formCtrl.formData.country" data-rs-fbx-server-error="" id="country" name="country" placeholder="Country *" required type="text"> 
+           <div class="form-errors-container" data-ng-class="{'ng-hide': !fbxForm.country.$touched || formCtrl.formData.country}" data-ng-messages="fbxForm.country.$error"> 
+            <span class="form-error" data-ng-message="required">This field is required.</span> 
+            <span class="form-error" data-ng-message="server">{[ formCtrl.serverErrors.country ]}</span> 
+           </div> 
+          </div> 
+          <div class="input-wrp"> 
+           <label class="form-required label-floating" data-ng-class="{'hidden': !formCtrl.formData.contactName, 'focus': formCtrl.contactNameFocus}" for="contactName">Contact name</label> 
+           <input autocomplete="contactName" class="form-text form-required" data-ng-blur="formCtrl.contactNameFocus = false" data-ng-focus="formCtrl.contactNameFocus = true" data-ng-model="formCtrl.formData.contactName" data-rs-fbx-server-error="" id="contactName" name="contactName" placeholder="Contact name *" required type="text"> 
+           <div class="form-errors-container" data-ng-class="{'ng-hide': !fbxForm.contactName.$touched || formCtrl.formData.contactName}" data-ng-messages="fbxForm.contactName.$error"> 
+            <span class="form-error" data-ng-message="required">This field is required.</span> 
+            <span class="form-error" data-ng-message="server">{[ formCtrl.serverErrors.contactName ]}</span> 
+           </div> 
+          </div> 
+          <div class="input-wrp"> 
+           <label class="form-required label-floating" data-ng-class="{'hidden': fbxForm.contactEmail.$pristine || fbxForm.contactEmail.$error.required, 'focus': formCtrl.contactEmailFocus }" for="contactEmail">Contact email address</label> 
+           <input autocomplete="contactEmail" class="form-text form-required" data-ng-blur="formCtrl.contactEmailFocus = false" data-ng-focus="formCtrl.contactEmailFocus = true" data-ng-model="formCtrl.formData.contactEmail" data-rs-fbx-email="" data-rs-fbx-server-error="" id="contactEmail" name="contactEmail" placeholder="Contact email address *" required type="email"> 
+           <div class="form-errors-container" data-ng-class="{'ng-hide': !fbxForm.contactEmail.$touched || formCtrl.formData.contactEmail || formCtrl.contactEmailFocus }" data-ng-messages="fbxForm.contactEmail.$error"> 
+            <span class="form-error" data-ng-message="email">Please enter a valid email address.</span> 
+            <span class="form-error" data-ng-message="required">This field is required.</span> 
+            <span class="form-error" data-ng-message="server">{[ formCtrl.serverErrors.contactEmail ]}</span> 
+           </div> 
+          </div> 
+          <div class="input-wrp"> 
+           <label class="label-floating" data-ng-class="{'hidden': !formCtrl.formData.estimatedMonthlyTrafficToWebsite, 'focus': formCtrl.estimatedMonthlyTrafficToWebsiteFocus}" for="estimatedMonthlyTrafficToWebsite">Estimated monthly traffic to website</label> 
+           <input autocomplete="estimatedMonthlyTrafficToWebsite" class="form-text" data-ng-blur="formCtrl.estimatedMonthlyTrafficToWebsiteFocus = false" data-ng-focus="formCtrl.estimatedMonthlyTrafficToWebsiteFocus = true" data-ng-model="formCtrl.formData.estimatedMonthlyTrafficToWebsite" data-rs-fbx-server-error="" id="estimatedMonthlyTrafficToWebsite" name="estimatedMonthlyTrafficToWebsite" placeholder="Estimated monthly traffic to website" type="text"> 
+           <div class="form-errors-container" data-ng-class="{'ng-hide': !fbxForm.estimatedMonthlyTrafficToWebsite.$touched || formCtrl.formData.estimatedMonthlyTrafficToWebsite}" data-ng-messages="fbxForm.estimatedMonthlyTrafficToWebsite.$error"> 
+            <span class="form-error" data-ng-message="server">{[ formCtrl.serverErrors.estimatedMonthlyTrafficToWebsite ]}</span> 
+           </div> 
+          </div> 
+         </div> 
+         <div> 
+          <p class="form-error vertical-offset" data-ng-hide="fbxForm.$valid"> Please fill out all required fields before continuing. </p>
+          <button class="button button-secondary" data-ng-disabled="!fbxForm.$valid" type="submit" value="Submit">Submit</button> 
+          <p class="font-small"> * Required </p> 
+          <div class="input-note">
+            The information you provide will be treated in accordance with the 
+           <a class="text-nowrap" href="https://www.google.com/policies/privacy/">Google Privacy Policy</a>. 
+          </div> 
+         </div> 
+        </div> 
+       </form> 
+      </div> 
+     </section> 
+    </section> 
+    <section class="section success-page" data-ng-cloak="" data-ng-show="formCtrl.success"> 
+     <div class="site-width"> 
+      <p> 
+       <svg class="icon-thanks" enable-background="new 0 0 32 32" height="48px" version="1.1" viewbox="0 0 32 32" width="48px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+        <path d="M16,32C7.2,32,0,24.8,0,16S7.2,0,16,0s16,7.2,16,16S24.8,32,16,32z M16,3.3C9,3.3,3.3,9,3.3,16C3.3,23,9,28.7,16,28.7 c7,0,12.7-5.7,12.7-12.7C28.7,9,23,3.3,16,3.3z"> 
+        </path> 
+        <path d="M7.8,17.3c0,4.5,3.7,8.2,8.2,8.2s8.2-3.7,8.2-8.2H7.8z"></path> 
+        <circle cx="11.2" cy="11" r="2.4"></circle> 
+        <circle cx="20.8" cy="11" r="2.4"></circle>
+       </svg> <img alt="" class="icon-thanks" height="48" src="//www.google.com/ads/images/icons/icon-thanks.png" width="48"> </p> 
+      <h1> We’ll be in touch. </h1> 
+      <p class="font-large col-6-fixed"> Thanks for your interest in AdSense for Shopping. We’ll review your information and reach out when we start accepting new retailer publishers. </p> 
+      <p> Want to know more about AdSense for Shopping? Check out our <a href="../resources">Resources page</a>. </p> 
+     </div> 
+    </section> 
+   </div> 
+  </div> 
+  <footer class="footer" id="footer" role="contentinfo"> 
+   <div class="site-width"> 
+    <div class="footer-upper cols-row"> 
+     <div class="footer-social col-6"> 
+      <dl> 
+       <dt>
+         Follow us on: 
+       </dt> 
+       <dd> 
+        <a href="https://plus.google.com/+GoogleAds/" target="_blank">
+         <svg class="icon-footer-gplus c1" height="20px" version="1.1" viewbox="0 0 23 15" width="30px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <polygon points="23,6 21,6 21,4 19,4 19,6 17,6 17,8 19,8 19,10 21,10 21,8 23,8"> 
+          </polygon> 
+          <path d="M11.8,8.9c-0.1,1.3-1.3,3.4-4.3,3.4c-2.6,0-4.6-2.1-4.6-4.7S5,2.9,7.5,2.9c1.5,0,2.4,0.6,3,1.1 l0,0l2-2c-1.3-1.2-3-2-5-2C3.4,0.1,0,3.5,0,7.6s3.4,7.5,7.5,7.5c4.3,0,7.2-3,7.2-7.3c0-0.6-0.1-1.1-0.2-1.5h-7V9L11.8,8.9L11.8,8.9 z"> 
+          </path>
+         </svg> <img alt="Google+" class="icon-footer-gplus" height="20" src="//www.google.com/ads/images/icons/icon-footer-gplus.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a href="https://adsense.blogspot.com/" target="_blank">
+         <svg class="icon-footer-blogger" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,0H3.2C1.4,0,0,1.4,0,3.2l0,25.6C0,30.6,1.4,32,3.2,32h25.6c1.8,0,3.2-1.4,3.2-3.2V3.2 C32,1.4,30.6,0,28.8,0 M22.4,11.2v1.6c0,0.9,0.7,1.6,1.6,1.6c0.9,0,1.6,0.7,1.6,1.6v4.8c0,2.7-2.1,4.8-4.8,4.8h-9.6 c-2.7,0-4.8-2.1-4.8-4.8V9.6c0-2.6,2.1-4.8,4.8-4.8h6.4c2.7,0,4.8,2.2,4.8,4.8V11.2z M12.7,12.8h4.2c0.9,0,1.6-0.7,1.6-1.6 s-0.7-1.6-1.6-1.6h-4.2c-0.9,0-1.6,0.7-1.6,1.6S11.8,12.8,12.7,12.8 M19.2,17.6h-6.5c-0.9,0-1.6,0.7-1.6,1.6c0,0.9,0.7,1.6,1.6,1.6 h6.5c0.9,0,1.6-0.7,1.6-1.6C20.8,18.3,20.1,17.6,19.2,17.6"> 
+          </path>
+         </svg> <img alt="Blogger" class="icon-footer-blogger" height="20" src="//www.google.com/ads/images/icons/icon-footer-blogger.png" width="20"></a> 
+       </dd> 
+      </dl> 
+     </div> 
+    </div> 
+    <nav class="footer-nav cols-row"> 
+     <dl class="col-3"> 
+      <dt>
+        Learning &amp; Support 
+      </dt> 
+      <dd> 
+       <a href="https://support.google.com/adsense/answer/6078274/?hl=en">AdSense for Shopping Help</a> 
+      </dd> 
+      <dd> 
+       <a href="https://support.google.com/merchants/?hl=en#topic=3404821">Merchant Center Help</a> 
+      </dd> 
+      <dd> 
+       <a href="https://support.google.com/manufacturers/#topic=6124028/?hl=en">Manufacturer Center Help</a> 
+      </dd> 
+      <dd> 
+       <a href="https://support.google.com/adsense/?hl=en#topic=1250102">AdSense Help</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.en.advertisercommunity.com/t5/Google-Small-Business/ct-p/Google_Small_Business"> Google Small Business Community</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Developers 
+      </dt> 
+      <dd> 
+       <a href="https://developers.google.com/?hl=en">Google Developers Site</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/adsense-for-shopping/?hl=en">AdSense for Shopping Developers</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/shopping-content/?hl=en">Content API for Shopping</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Related Products 
+      </dt> 
+      <dd> 
+       <a href="https://www.google.com/retail/manufacturer-center/">Manufacturer Center</a> 
+      </dd> 
+      <dd> 
+       <a href="https://adwords.google.com/home/">AdWords</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/adsense/start/?utm_source=Internal&amp;utm_medium=et&amp;utm_campaign=adsense-retail"> AdSense</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/admob/?utm_source=Internal&amp;utm_medium=et&amp;utm_campaign=adsense-retail"> AdMob</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        More Solutions from Google 
+      </dt> 
+      <dd> 
+       <a href="https://www.google.com/services/">Business Solutions</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/retail/">Google for Retail</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/intx/en/work/apps/business/">Google Apps for Work</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/analytics/">Google Analytics</a> 
+      </dd> 
+     </dl> 
+    </nav> 
+    <div class="footer-lower cols-row"> 
+     <div class="footer-meta-links col-8"> 
+      <ul> 
+       <li> <a href="https://support.google.com/adsense/answer/6078274?hl=en">
+         <svg class="icon-footer-help" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path clip-rule="evenodd" d="M16,0C7.2,0,0,7.2,0,16c0,3,0.9,5.9,2.3,8.3L0,32l7.7-2.3 C10.2,31.1,13,32,16,32c8.8,0,16-7.2,16-16C32,7.2,24.8,0,16,0z M17.3,24.6c-0.3,0.3-0.7,0.5-1.2,0.5s-1-0.2-1.2-0.5 c-0.3-0.3-0.4-0.7-0.4-1.1c0-0.2,0-0.4,0.1-0.6c0.1-0.2,0.2-0.4,0.3-0.5c0.1-0.1,0.3-0.3,0.5-0.3c0.2-0.1,0.4-0.1,0.7-0.1 c0.3,0,0.5,0,0.7,0.1c0.2,0.1,0.4,0.2,0.5,0.3c0.1,0.1,0.3,0.3,0.3,0.5c0.1,0.2,0.1,0.4,0.1,0.6C17.7,24,17.6,24.3,17.3,24.6z M21.1,13.2c-0.2,0.5-0.4,0.9-0.6,1.3c-0.3,0.4-0.6,0.8-0.9,1.2c-0.3,0.4-0.7,0.8-1,1.1c-0.4,0.4-0.7,0.9-0.9,1.4 c-0.2,0.5-0.2,0.8-0.3,1.8h-2.8c0-1,0-1.2,0.1-1.6c0.1-0.4,0.2-1,0.3-1.3c0.2-0.3,0.4-0.7,0.6-1c0.2-0.3,0.6-0.7,0.9-1 c0.2-0.3,0.5-0.5,0.7-0.7c0.2-0.2,0.4-0.5,0.6-0.7c0.2-0.3,0.3-0.5,0.4-0.8c0.1-0.3,0.1-0.6,0.1-1c0-0.8-0.2-1.4-0.6-1.8 c-0.4-0.4-1-0.6-1.7-0.6c-0.3,0-0.6,0.1-0.9,0.1c-0.3,0.1-0.5,0.2-0.8,0.4s-0.4,0.6-0.5,0.8c-0.1,0.3-0.2,1.2-0.2,1.2h-3 c0-2,0.2-1.6,0.4-2.2c0.3-0.6,0.7-1.2,1.1-1.6c0.5-0.4,1-0.7,1.7-0.9C14.6,7,15.3,6.9,16,6.9c0.8,0,1.6,0.1,2.2,0.3 c0.7,0.2,1.2,0.5,1.7,0.9c0.5,0.4,0.8,0.9,1,1.5c0.2,0.6,0.4,1.3,0.4,2.1C21.3,12.3,21.2,12.8,21.1,13.2z" fill-rule="evenodd"></path>
+         </svg> <img alt="Help" class="icon-footer-help" height="20" src="//www.google.com/ads/images/icons/icon-footer-help.png" width="20"> Help</a> </li> 
+       <li> <a href="//www.google.com">Google</a> </li> 
+       <li> <a href="//www.google.com/intl/en/policies/privacy/">Privacy</a> </li> 
+       <li> <a href="//www.google.com/intl/en/policies/terms/">Terms</a> </li> 
+      </ul> 
+     </div> 
+     <div class="footer-locale-switcher col-4"> 
+      <select class="footer-locales" id="footer-locales" onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option selected value="//www.google.com/intl/en/retail/adsense-for-shopping/get-started/"> English </option> </select> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <script src="//www.gstatic.com/external_hosted/picturefill/picturefill.min.js">
+    </script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js">
+    </script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.min.js">
+    </script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-messages.min.js">
+    </script> 
+  <script async data-gtmid="GTM-KCMJ66" src="//www.google.com/ads/js/peitho2/peitho2.min.js">
+    </script> 
+  <script src="/retail/js/asfsh.min.js">
+    </script>  
+ </body>
+</html>

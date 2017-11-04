@@ -1,0 +1,122 @@
+<!doctype html>
+<html class="google en_GB" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <meta charset="utf-8"> 
+  <title>Expeditions Pioneer Program - Google</title> 
+  <meta name="description" content="Bringing immersive and educational virtual reality journeys to schools, teachers, and students around the world."> 
+  <meta property="og:title" content="Expeditions Pioneer Program - Google"> 
+  <meta property="og:image" content="https://edu.google.com/images/pioneer-program/pioneer-program-metadata--uk.png"> 
+  <meta property="og:description" content="Bringing immersive and educational virtual reality journeys to schools, teachers, and students around the world."> 
+  <meta property="og:url" content="https://www.google.co.uk/edu/pioneer-program/"> 
+  <meta property="og:type" content="website"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:url" content="http://twitter.com/googleforedu"> 
+  <meta name="twitter:title" content="Expeditions Pioneer Program - Google"> 
+  <meta name="twitter:description" content="Bringing immersive and educational virtual reality journeys to schools, teachers, and students around the world."> 
+  <meta name="twitter:image" content="https://edu.google.com/images/pioneer-program/pioneer-program-metadata--uk.png"> 
+  <meta name="twitter:creator" content="@googleforedu"> 
+  <meta itemprop="name" content="Expeditions Pioneer Program - Google"> 
+  <meta itemprop="description" content="Bringing immersive and educational virtual reality journeys to schools, teachers, and students around the world."> 
+  <meta itemprop="image" content="https://edu.google.com/images/pioneer-program/pioneer-program-metadata--uk.png"> 
+  <meta charset="utf-8"> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <link rel="stylesheet" href="/css/pioneer.min.css"> 
+  <link rel="icon" href="/videos/pioneer-program/favicon.ico" type="image/x-icon"> 
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:700|Roboto:300,500" rel="stylesheet" type="text/css"> 
+  <script src="/js/pioneer-blocking.min.js"></script> 
+ </head> 
+ <body> 
+  <!-- Google Tag Manager --> 
+  <script>
+  var cookiepathValue = function (){
+    var pna = location.pathname.split('/');
+    var cp = '/';
+      if(pna.length > 2) {
+        cp='/' + pna[1] + '/';
+      }
+        return cp;
+  };
+    var country = 'uk';
+    var region = 'emea';
+    var language = 'en';
+  dataLayer = [{
+    'country': country,
+    'region': region,
+    'propertyIndex': '36',
+    'language': language,
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+  </script> 
+  <noscript>
+   <iframe src="//www.googletagmanager.com/ns.html?id=GTM-Q4J6" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-Q4J6');</script> 
+  <!-- End Google Tag Manager --> 
+  <section class="section section--faq"> 
+   <div class="section__content"> 
+    <div class="site-width"> 
+     <img class="section__logo" srcset="/images/pioneer-program/logo-color--uk.png,
+       /images/pioneer-program/logo-color--uk_2x.png 2x" alt="Pioneer expeditions logo" width="162px"> 
+     <h1 class="section__title">Frequently asked questions</h1> 
+     <div class="section__questions"> 
+      <div class="question"> 
+       <p class="question__question">What kind of schools and programs will you visit?</p> 
+       <p class="question__answer">We’re looking for all types. We’d like to take as many students as possible on a journey, so we’ll prioritize sites based on the number of teachers willing to run an Expedition in their class.</p> 
+      </div> 
+      <div class="question"> 
+       <p class="question__question">What if I can’t find enough interested teachers?</p> 
+       <p class="question__answer">We’ll also be hosting demos at community centers, after-school programs, and local events. Check our tour page to see if there’s one near you.</p> 
+      </div> 
+      <div class="question"> 
+       <p class="question__question">What happens if my school or program is selected?</p> 
+       <p class="question__answer">Soon after your school is selected we’ll send you onboarding materials to help make you an Expeditions expert and announcement materials to share with your school community. Then we’ll work closely with you to finalize the schedule and which Expeditions you want to run in your class.</p> 
+      </div> 
+      <div class="question"> 
+       <p class="question__question">What happens the day the Expeditions Pioneer Program comes to my school?</p> 
+       <p class="question__answer">One or more Expeditions Leaders will arrive before school starts and do a demo with all participating teachers. During the day, teachers will lead their students through Expeditions lessons while the Expeditions Leaders float between classrooms to help answer any questions.</p> 
+      </div> 
+      <div class="question"> 
+       <p class="question__question">Can I give feedback after the visit?</p> 
+       <p class="question__answer">We’d love to hear your feedback. We’ll provide a short feedback form for all participating teachers following the visit.</p> 
+      </div> 
+      <div class="question"> 
+       <p class="question__question">Can I make my own Expedition?</p> 
+       <p class="question__answer">The Expeditions Pioneer Program has more than 100 Expeditions ranging from museums to outer space. While you can’t create custom Expeditions right now, we’re happy to work with teachers to help find the best Expedition for their class. We’d also love to hear the type of Expeditions you want and the places or times you wish to take your students to.</p> 
+      </div> 
+     </div> 
+     <p class="section__description">The Expeditions Pioneer Program is just one of the ways Google is helping teachers engage students.</p> 
+     <a class="link" href="https://www.google.com/edu">Learn more about Google for Education</a> 
+    </div> 
+   </div> 
+  </section> 
+  <footer id="footer" tabindex="-1"> 
+   <div class="footer-bar"> 
+    <div class="footer-bar__logo"> 
+     <img class="google-logo" srcset="https://www.google.com/images/branding/googlelogo/1x/googlelogo_dark_color_92x30dp.png, https://www.google.com/images/branding/googlelogo/2x/googlelogo_dark_color_92x30dp.png 2x" alt="Google logo" width="92px"> 
+    </div> 
+    <div class="footer-bar__nav"> 
+     <ul class="footer-nav"> 
+      <li class="footer-nav__item"> <a class="link link--gray link--back-to-top scroll-to" title="Back to top" href="#header"> Back to the top </a> </li> 
+      <li class="footer-nav__item"> <a class="link link--gray" target="_blank" title="FAQ" href="/intl/en_uk/pioneer-program/faq/"> Frequently asked questions </a> </li> 
+      <li class="footer-nav__item"> <a class="link link--gray" target="_blank" title="About" href="https://www.google.com/about/"> about google </a> </li> 
+      <li class="footer-nav__item"> <a class="link link--gray" target="_blank" title="Privacy" href="https://www.google.com/intl/en/policies/"> privacy </a> </li> 
+      <li class="footer-nav__item"> <a class="link link--gray" target="_blank" title="Terms" href="https://www.google.com/intl/en/policies/terms/"> terms </a> </li> 
+      <li class="footer-nav__item"> <select onchange="window.location.href = this.value" class="language"> <option selected value="/intl/en_uk/pioneer-program/faq/"> English (United Kingdom) </option></select> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </footer> 
+  <script src="//www.gstatic.com/external_hosted/picturefill/picturefill.min.js"></script> 
+  <script src="/js/pioneer.min.js" async></script>  
+ </body>
+</html>

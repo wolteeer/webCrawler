@@ -1,0 +1,9 @@
+#!/bin/sh
+
+case "$1" in
+    purge)
+        rm -rf "/var/log/scrape"
+    ;;
+esac
+
+exit 0

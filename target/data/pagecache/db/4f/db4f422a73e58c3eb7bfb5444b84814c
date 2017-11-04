@@ -1,0 +1,464 @@
+<!doctype html>
+<html class="google mmfb" dir="rtl" lang="ar" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/ar/case-studies/rochester-city-school/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="The ability to collaborate, receive immediate feedback and conduct research for a long paper are skills you need in business and college. We’re teaching students not only how to get through their class, but how to use technology to work in a more efficient and collaborative way." name="description"> 
+  <title>
+    Google for Education: Case Studies: Rochester City School
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/ar/case-studies/rochester-city-school/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Case Studies: Rochester City School" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/ar/case-studies/rochester-city-school/" property="og:url"> 
+  <meta content="/images/video-get_2x.png" property="og:image"> 
+  <meta content="The ability to collaborate, receive immediate feedback and conduct research for a long paper are skills you need in business and college. We’re teaching students not only how to get through their class, but how to use technology to work in a more efficient and collaborative way." property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/ar/case-studies/rochester-city-school/" name="twitter:url"> 
+  <meta content="Google for Education: Case Studies: Rochester City School" name="twitter:title"> 
+  <meta content="/images/video-get_2x.png" name="twitter:image"> 
+  <meta content="The ability to collaborate, receive immediate feedback and conduct research for a long paper are skills you need in business and college. We’re teaching students not only how to get through their class, but how to use technology to work in a more efficient and collaborative way." name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Case Studies: Rochester City School" itemprop="name"> 
+  <meta content="The ability to collaborate, receive immediate feedback and conduct research for a long paper are skills you need in business and college. We’re teaching students not only how to get through their class, but how to use technology to work in a more efficient and collaborative way." itemprop="description"> 
+  <meta content="/images/video-get_2x.png" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Case Studies: Rochester City School",
+    "description": "The ability to collaborate, receive immediate feedback and conduct research for a long paper are skills you need in business and college. We’re teaching students not only how to get through their class, but how to use technology to work in a more efficient and collaborative way.",
+    "url": "https://edu.google.com/intl/ar/case-studies/rochester-city-school/",
+    "logo": "/images/video-get_2x.png",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+  <style>
+    .hero.top.rochester-city-school {
+        background-image: url("/images/case-studies/hero/rochester-city-school.jpg");
+      }
+  </style> 
+ </head> 
+ <body class="case-study-detail ng-scope"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/ar/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">الحصول على منتجات Google</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">كيف يمكننا مساعدتك؟</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>الحصول على أدوات الإنتاجية</h5> 
+        <p>الحصول على أدوات الإنتاجية من Google، مع Classroom ومستندات Google وDrive وHangouts والبريد الإلكتروني والمزيد. كل ذلك مجانًا وبدون إعلانات.</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=ar#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">الاشتراك في G Suite</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>الحصول على الأجهزة</h5> 
+        <p>هل أنت مهتم بالحصول على أجهزة Chromebook أو أجهزة Android لمدرستك؟ يمكن أن يقدم فريقنا يد العون لك للوصول إلى المسار الصحيح.</p> 
+        <a class="maia-button overlay-button" href="/intl/ar/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">اتصل بخبير</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>تحدث إلى معلمين آخرين</h5> 
+        <p>هل تريد التحدث إلى أشخاص مثلك جربوا استخدام Google؟ كن جزءًا من مجتمع المعلمين لدينا.</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">البحث عن معلمين آخرين</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li class="active"> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/" target="_self">الصفحة الرئيسية</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">المنتجات</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/devices/" target="_self">الأجهزة <br><span class="dropdown-item-description">أجهزة Chromebook‏</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/productivity-tools/" target="_self">أدوات الإنتاجية <br><span class="dropdown-item-description">‎المستندات وGmail والمزيد</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/productivity-tools/classroom/" target="_self">Classroom <br><span class="dropdown-item-description">تطبيق التحكم في المهام للمعلمين والطلاب</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">الرحلات الميدانية للواقعالافتراضي</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/more-products/" target="_self">المزيد من المنتجات <br><span class="dropdown-item-description">‏السحاب ومتصفح Chrome والمزيد‏</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">التدريب</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=ar" target="_self">تدريب المعلمين <br><span class="dropdown-item-description">على أدوات Google for Education‏</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">تدريب مشرفي تكنولوجيا المعلومات <br><span class="dropdown-item-description">لمشرفي G Suite</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">دليل الشركاء <br><span class="dropdown-item-description">لمساعدة مدرستك على اعتماد حلول Google‏</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/communities/" target="_self">المنتديات <br><span class="dropdown-item-description">للمعلمين الذين يستخدمون Google‏</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">الموارد</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/programs/" target="_self">البرامج <br><span class="dropdown-item-description">للطلاب والمعلمين</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/case-studies/" target="_self">دراسات الحالة </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/computerscience/" target="_self">تعليم علوم الكمبيوتر <br><span class="dropdown-item-description">البرامج والتمويل والأبحاث</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/global-education/" target="_self">التعليم العالمي </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/ar/it/" target="_self">دليل تكنولوجيا المعلومات</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/ar/higher-education/" target="_self">التعليم العالي</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">المنتجات</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/devices/" target="_self">الأجهزة <span class="nav-subtext">أجهزة Chromebook‏</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/productivity-tools/" target="_self">أدوات الإنتاجية <span class="nav-subtext">‎المستندات وGmail والمزيد</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/productivity-tools/classroom/" target="_self">Classroom <span class="nav-subtext">تطبيق التحكم في المهام للمعلمين والطلاب</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/expeditions/" target="_self">Expeditions <span class="nav-subtext">الرحلات الميدانية للواقعالافتراضي</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/products/more-products/" target="_self">المزيد من المنتجات <span class="nav-subtext">‏السحاب ومتصفح Chrome والمزيد‏</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">التدريب</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=ar" target="_self">تدريب المعلمين <span class="nav-subtext">على أدوات Google for Education‏</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">تدريب مشرفي تكنولوجيا المعلومات <span class="nav-subtext">لمشرفي G Suite</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">دليل الشركاء <span class="nav-subtext">لمساعدة مدرستك على اعتماد حلول Google‏</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/communities/" target="_self">المنتديات <span class="nav-subtext">للمعلمين الذين يستخدمون Google‏</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">الموارد</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/programs/" target="_self">البرامج <span class="nav-subtext">للطلاب والمعلمين</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/case-studies/" target="_self">دراسات الحالة </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/computerscience/" target="_self">تعليم علوم الكمبيوتر <span class="nav-subtext">البرامج والتمويل والأبحاث</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/resources/global-education/" target="_self">التعليم العالمي </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">دليل تكنولوجيا المعلومات</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/it/" target="_self"> تكنولوجيا المعلومات </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/trust/" target="_self">صفحات الخصوصية </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">التعليم العالي</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ar/higher-education/" target="_self">التعليم العالي </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">الحصول على منتجات Google</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">كيف يمكننا مساعدتك؟</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>الحصول على أدوات الإنتاجية</h5> 
+         <p>الحصول على أدوات الإنتاجية من Google، مع Classroom ومستندات Google وDrive وHangouts والبريد الإلكتروني والمزيد. كل ذلك مجانًا وبدون إعلانات.</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=ar#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">الاشتراك في G Suite</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>الحصول على الأجهزة</h5> 
+         <p>هل أنت مهتم بالحصول على أجهزة Chromebook أو أجهزة Android لمدرستك؟ يمكن أن يقدم فريقنا يد العون لك للوصول إلى المسار الصحيح.</p> 
+         <a class="maia-button overlay-button" href="/intl/ar/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">اتصل بخبير</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>تحدث إلى معلمين آخرين</h5> 
+         <p>هل تريد التحدث إلى أشخاص مثلك جربوا استخدام Google؟ كن جزءًا من مجتمع المعلمين لدينا.</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">البحث عن معلمين آخرين</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="hero top rochester-city-school"> 
+    <div class="content"> 
+     <h2 class="title-header">تُعلّم مدرسة روشيستر سيتي سكول ديستركت الطلاب مهارات التكنولوجيا مدى الحياة باستخدام أدوات Google for Education</h2> 
+    </div> 
+   </div> 
+   <div class="maia-aux content-wrap rochester-city-school"> 
+    <div class="maia-cols page-container"> 
+     <div class="maia-col-7 main-wrap"> 
+      <div class="main"> 
+       <div class="quote-wrap"> 
+        <h4 class="quote">The ability to collaborate, receive immediate feedback and conduct research for a long paper are skills you need in business and college. We’re teaching students not only how to get through their class, but how to use technology to work in a more efficient and collaborative way.</h4> 
+        <p class="quote-author">Randy Schenk, instructional technology teacher at Rochester City School District</p> 
+       </div> 
+       <div class="main-content-wrap"> 
+        <div class="content challenge"> 
+         <h4 class="headline">التحدي</h4> 
+         <p class="content-content">Rochester City School District wanted to move away from Microsoft Office and use technology that better fit their needs. The schools mainly used laptop carts to access web-based content and wanted devices built for creating and consuming content on the web. The district needed a solution that would encourage collaboration among students and teachers, regardless of their location.</p> 
+        </div> 
+        <div class="content solution"> 
+         <h4 class="headline">الحل</h4> 
+         <p class="content-content">Rochester City School District introduced Google Apps for Education and 7,000 Chromebooks in 2014 as part of an effort to refresh its technology solutions. The district chose Chromebooks for their collaboration features, quick startup time and long battery life. The schools also rolled out Google Classroom during the same school year. A majority of schools in the district use Chromebooks in a cart model, but three high schools and two elementary schools provide students with 1:1 Chromebook use any time they’re at school. Within the next couple of years, every classroom will be outfitted with Chromebook carts.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-col-4 sidebar-wrap"> 
+      <div class="detail-wrap"> 
+       <h6 class="sidebar-title">ملف المدرسة الشخصي</h6> 
+       <div class="detail"> 
+        <p class="content-content">Located south of Lake Ontario in New York state, Rochester City School District educates students of all ages and demographics. More than 32,000 children and 10,000 adults attend the 39 elementary schools, 19 secondary schools, one adult / family learning center and several alternative education programs. The district’s vision is that every child is a work of art and can create a masterpiece.</p> 
+       </div> 
+       <h6 class="sidebar-title">المنتجات المستخدمة</h6> 
+       <div class="detail"> 
+        <p class="content-content"> <a href="/intl/ar/products/productivity-tools/" target=""> G Suite for Education</a> - مجموعة مجانية من أدوات التواصل والتعاون – تتضمن Gmail وClassroom والمستندات وDrive -- للتعلم في أي وقت وفي أي مكان على أي جهاز. </p> 
+        <p class="content-content"> <a href="/intl/ar/products/devices/" target=""> أجهزة Chromebook</a> - مجموعة من الأجهزة السريعة بأسعار معقولة يجري تحديثها تلقائيًا ويسهل إعداداها وإدارتها في المدارس. </p> 
+        <p class="content-content"> <a href="/intl/ar/products/productivity-tools/classroom/" target=""> Classroom</a> - <a>Classroom</a> - عبارة عن أداة ضمن مجموعة G Suite for Education التي تسمح للمعلمين بإنشاء ومراجعة وتنظيم المهام الدراسية بسهولة بالإضافة إلى التواصل المباشر مع الطلاب. </p> 
+       </div> 
+       <h6 class="link-out detail"><a href="/pdfs/case-studies/rochester-city-school-case-study.pdf" target="_blank" data-g-event="Edu: Case Study: Rochester City School" data-g-action="Read The Full Case Study" data-g-label="rochester-city-school"><img class="link-icon" src="/images/case-studies/adobe-icon.jpg">قراءة دراسة حالة كاملة</a></h6> 
+      </div> 
+     </div> 
+    </div>
+    <!-- END .page-container --> 
+   </div>
+   <!-- END .content --> 
+  </div>
+  <!-- END .content-wrap --> 
+  <div class="case-studies-bottom-container"> 
+   <div class="maia-aux case-studies-wrap"> 
+    <div class="maia-col-9 more-case-studies-wrapper"> 
+     <h2 class="case-study-mobile-header headline">المزيد من دراسات الحالة</h2> 
+     <h5 class="case-study-mobile-header">تعرّف على كيفية تحول مدارس مثل مدرستك إلى استخدام Google.</h5> 
+    </div> 
+    <div class="case-study-mobile-header">
+     <a class="maia-button small-btn" href="/intl/ar/case-studies/" data-g-event="Edu: Case Study: rochester-city-school" data-g-action="See All Case Studies" data-g-label="">الاطلاع على جميع دراسات الحالة</a>
+    </div> 
+    <div class="case-study-tiles"> 
+     <div class="maia-col-4 tile"> 
+      <a href="/intl/ar/case-studies/arizona-state-university/" data-g-event="Edu: Case Study: Arizona State University" data-g-action="Case Study" data-g-label="/case-studies/arizona-state-university/"></a> 
+      <div class="tile-image arizona-state-university" style="background-image:url('/images/case-studies/thumbnail/arizona-state-university.jpg')"></div> 
+      <div class="tile-title">
+       Arizona State deploys G Suite in less than two weeks
+      </div> 
+     </div> 
+     <div class="maia-col-4 tile"> 
+      <a href="/intl/ar/case-studies/bloomington-public-schools/" data-g-event="Edu: Case Study: Bloomington Public Schools" data-g-action="Case Study" data-g-label="/case-studies/bloomington-public-schools/"></a> 
+      <div class="tile-image bloomington-public-schools" style="background-image:url('/images/case-studies/thumbnail/bloomington-public-schools.jpg')"></div> 
+      <div class="tile-title">
+       تستخدم مدارس بلومينغتون العامة G Suite وأجهزة Chromebook لتغيير طريقة تلقي العلم
+      </div> 
+     </div> 
+     <div class="maia-col-4 tile"> 
+      <a href="/intl/ar/case-studies/boise-state-university/" data-g-event="Edu: Case Study: Boise State University" data-g-action="Case Study" data-g-label="/case-studies/boise-state-university/"></a> 
+      <div class="tile-image boise-state-university" style="background-image:url('/images/case-studies/thumbnail/boise-state-university.jpg')"></div> 
+      <div class="tile-title">
+       توفر جامعة ولاية بويز 90000 دولار سنويًا من خلال G Suite for Education 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div>  
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">المنتجات</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/products/devices/">الأجهزة</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/products/productivity-tools/">أدوات الإنتاجية</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/products/more-products/">المزيد من المنتجات</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">التدريب</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=ar" target="_blank">تدريب المعلمين</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">تدريب مشرفي تكنولوجيا المعلومات</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">دليل الشركاء</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/resources/communities/">المنتديات</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">الموارد</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/resources/programs/">البرامج</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/resources/computerscience/">تعليم علوم الكمبيوتر</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/resources/global-education/">التعليم العالمي</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/it/"> تكنولوجيا المعلومات</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">موارد مطوّري البرامج</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/access/">الدخول</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/contact/">المبيعات</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">الدعم</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/partners/">برنامج الشركاء</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ar/case-studies/">دراسات الحالة</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">الاطلاع على المدارس التي تستخدم أجهزة Chromebook</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">المدونة</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="البحث في هذا الموقع" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option selected value="/intl/ar/case-studies/rochester-city-school/"> العربية (الإمارات العربية المتحدة) </option><option value="/case-studies/rochester-city-school/"> English (United States) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/ar/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/ar/policies/privacy/">الخصوصية</a> </li> 
+      <li> <a href="https://www.google.com/intl/ar/policies/terms/">البنود</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script>  
+ </body>
+</html>

@@ -1,0 +1,904 @@
+<!doctype html>
+<html class="google mmfb" lang="sv" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/sv/products/productivity-tools/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="G Suite for Education: A suite of free productivity tools for classroom collaboration" name="description"> 
+  <title>
+    Google for Education   : Spara tid och förbli uppkopplad
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/sv/products/productivity-tools/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education   : Spara tid och förbli uppkopplad" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/sv/products/productivity-tools/" property="og:url"> 
+  <meta content="/images/video-geg_2x.png" property="og:image"> 
+  <meta content="G Suite for Education: A suite of free productivity tools for classroom collaboration" property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/sv/products/productivity-tools/" name="twitter:url"> 
+  <meta content="Google for Education   : Spara tid och förbli uppkopplad" name="twitter:title"> 
+  <meta content="/images/video-geg_2x.png" name="twitter:image"> 
+  <meta content="G Suite for Education: A suite of free productivity tools for classroom collaboration" name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Spara tid och förbli uppkopplad" itemprop="name"> 
+  <meta content="G Suite for Education: A suite of free productivity tools for classroom collaboration" itemprop="description"> 
+  <meta content="/images/video-geg_2x.png" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Spara tid och förbli uppkopplad",
+    "description": "G Suite for Education: A suite of free productivity tools for classroom collaboration",
+    "url": "https://edu.google.com/intl/sv/products/productivity-tools/",
+    "logo": "/images/video-geg_2x.png",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="productivity-tools"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/sv/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-help-desktop" class="maia-button expert-desktop get-help-blue" data-g-event="Edu: Global Header" data-g-action="Talk to an Expert" data-g-label="Header" href="/intl/sv/contact/">Kontakta en expert</a>
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Skaffa Google-produkter</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">Hur kan vi hjälpa dig?</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>Skaffa produktivitetsverktyg</h5> 
+        <p>Skaffa Googles produktivitetsverktyg med Classroom, Google Dokument, Drive, Hangouts, e-post och mycket mer kostnadsfritt, utan annonser.</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=sv#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Registrera dig för G Suite</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Skaffa enheter</h5> 
+        <p>Vill du skaffa Chromebooks eller Android-enheter till din skola? Vårt team kan hjälpa dig att hitta rätt.</p> 
+        <a class="maia-button overlay-button" href="/intl/sv/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Kontakta en expert</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Prata med andra pedagoger</h5> 
+        <p>Vill du prata med personer som har gått över till Google precis som du? Dra nytta av kunskapen i vår lärargrupp.</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Hitta andra pedagoger</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li class="active"> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/" target="_self">Startsida</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">Produkter</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/products/devices/" target="_self">Enheter <br><span class="dropdown-item-description">Chromebooks and Tablets</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/products/productivity-tools/" target="_self">Produktivitetsverktyg <br><span class="dropdown-item-description">Docs, Gmail and More</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/products/productivity-tools/classroom/" target="_self">Classroom <br><span class="dropdown-item-description">Mission control for teachers and students</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtual reality field trips</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/products/more-products/" target="_self">Fler produkter <br><span class="dropdown-item-description">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">Utbildning</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=sv" target="_self">Utbildning för pedagoger <br><span class="dropdown-item-description">om Google for Education-verktyg</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">Utbildning för IT-admin <br><span class="dropdown-item-description">för G Suite administratörer</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Partnerregister <br><span class="dropdown-item-description">to help your school go Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/resources/communities/" target="_self">Grupper <br><span class="dropdown-item-description">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">Resurser</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:News &amp;amp; Events" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/resources/news-and-events/" target="_self">Nyheter och event </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/resources/programs/" target="_self">Program <br><span class="dropdown-item-description">for students and teachers</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/case-studies/" target="_self">Fallstudier </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/resources/computerscience/" target="_self">Utbildning inom datavetenskap <br><span class="dropdown-item-description">Programs, Funding, and Research</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/resources/global-education/" target="_self">Global utbildning </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/sv/it/" target="_self">IT-guide</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/sv/higher-education/" target="_self">Vidareutbildning</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Produkter</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/products/devices/" target="_self">Enheter <span class="nav-subtext">Chromebooks and Tablets</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/products/productivity-tools/" target="_self">Produktivitetsverktyg <span class="nav-subtext">Docs, Gmail and More</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/products/productivity-tools/classroom/" target="_self">Classroom <span class="nav-subtext">Mission control for teachers and students</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtual reality field trips</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/products/more-products/" target="_self">Fler produkter <span class="nav-subtext">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Utbildning</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=sv" target="_self">Utbildning för pedagoger <span class="nav-subtext">om Google for Education-verktyg</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">Utbildning för IT-admin <span class="nav-subtext">för G Suite administratörer</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Partnerregister <span class="nav-subtext">to help your school go Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/resources/communities/" target="_self">Grupper <span class="nav-subtext">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Resurser</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="News &amp;amp; Events" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/resources/news-and-events/" target="_self">Nyheter och event </a> </li> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/resources/programs/" target="_self">Program <span class="nav-subtext">for students and teachers</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/case-studies/" target="_self">Fallstudier </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/resources/computerscience/" target="_self">Utbildning inom datavetenskap <span class="nav-subtext">Programs, Funding, and Research</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/resources/global-education/" target="_self">Global utbildning </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">IT-guide</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/it/" target="_self">IT </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/trust/" target="_self">Sekretessidor </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Vidareutbildning</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/higher-education/" target="_self">Vidareutbildning </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-help-desktop" class="gray-btn talk-to-an-expert-mobile get-help-blue" data-g-event="Edu: Global Header" data-g-action="Talk to an Expert" data-g-label="Header" href="/intl/sv/contact/">Kontakta en expert</a> </h4>
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Skaffa Google-produkter</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">Hur kan vi hjälpa dig?</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>Skaffa produktivitetsverktyg</h5> 
+         <p>Skaffa Googles produktivitetsverktyg med Classroom, Google Dokument, Drive, Hangouts, e-post och mycket mer kostnadsfritt, utan annonser.</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=sv#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Registrera dig för G Suite</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Skaffa enheter</h5> 
+         <p>Vill du skaffa Chromebooks eller Android-enheter till din skola? Vårt team kan hjälpa dig att hitta rätt.</p> 
+         <a class="maia-button overlay-button" href="/intl/sv/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Kontakta en expert</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Prata med andra pedagoger</h5> 
+         <p>Vill du prata med personer som har gått över till Google precis som du? Dra nytta av kunskapen i vår lärargrupp.</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Hitta andra pedagoger</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="section solution products-hero"> 
+    <h1 class="headline">Spara tid och förbli uppkopplad</h1> 
+    <h2 class="subheadline">G Suite for Education:<br>en svit av kostnadsfria produktivitetsverktyg för samarbete i klassrummet</h2> 
+    <!-- "directive" --> 
+    <div data-ng-controller="OverlayController as ctrl" ng-cloak> 
+     <button class="maia-button how-to" ng-click="ctrl.howToGetApps();" ng-cloak data-g-event="Edu: Products: Productivity Tools" data-g-action="How To Get Google Apps For Education" data-g-label="Hero">Skaffa G Suite for Education</button> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay how-to-get-overlay" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.howToGetShow" ng-cloak> 
+      <div class="how-to-get return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Products: Productivity Tools: How To" data-g-action="Exit" data-g-label="Products: Productivity Tools"></div> 
+      <h2 class="headline">Så här skaffar du G Suite for Education</h2> 
+      <div class="content-section"> 
+       <p class="subheader">Vad behöver du?</p> 
+       <p class="subheader text">G Suite for Education är gratis för skolor och kan användas på alla datorer, surfplattor och smartphones. Tänk på att när du registrerar dig för G Suite for Education så avser registreringen hela skolan, inte bara dig eller din klass.</p> 
+       <p> <a href="/intl/sv/it/" data-g-event="Edu: Products: Productivity Tools: How To" data-g-action="IT Guide" data-g-label="Products: Productivity Tools">IT Admins: Want more technical info?</a></p> 
+      </div> 
+      <div class="content-section"> 
+       <p class="subheader">Vem kan registrera sig?</p> 
+       <p class="subheader text">Vanligtvis är det administratörer som registrerar sig för G Suite eftersom processen kräver åtkomst till skolans webbdomän. Om din skola inte har någon IT-support kan Google hjälpa dig. Känner du att du inte är rätt person att göra registreringen kan du vidarebefordra den här informationen till din skola.</p> 
+      </div> 
+      <div class="button-section"> 
+       <a href="/pdfs/get-started-apps.pdf" target="_blank" data-g-event="Edu: Products: Productivity Tools: How To" data-g-action="Share" data-g-label="Products: Productivity Tools"><button class="maia-button mobile-button gray-button">Dela denna info</button></a> 
+       <a href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=sv#0" target="_blank" data-g-event="Edu: Products: Productivity Tools: How To" data-g-action="Apps CTA" data-g-label="Products: Productivity Tools"><button class="maia-button mobile-button">Skaffa G Suite for Education</button></a> 
+      </div> 
+     </div> 
+    </div> 
+    <!-- END directive --> 
+    <!-- Flags Animation Start --> 
+    <div class="flags-anim flags-laptop-anim"> 
+     <ul class="anim-data" style="display:none"> 
+      <li data-id="def:user" data-user="user-1" data-color="#9518ab">Javier</li> 
+      <li data-id="def:user" data-user="user-2" data-color="#10a25a">Christine</li> 
+      <li data-id="def:user" data-user="user-3" data-color="#ff5634">Mr. Chan</li> 
+      <li data-id="def:user" data-user="user-4" data-color="#00a3bd">Shreya</li> 
+      <li data-id="def:user" data-user="user-5" data-color="#ee8901">Eric</li> 
+      <li data-id="def:time" data-time="time-1">11.27 i dag</li> 
+      <li data-id="def:time" data-time="time-2">11.28 i dag</li> 
+      <li data-id="def:title">Grupparbete i NO</li> 
+      <li data-id="def:document"></li> 
+      <li data-id="edit:adduser" data-user="user-1" data-pos="0">&nbsp;</li> 
+      <li data-id="edit:type" data-user="user-1" data-dur="0.5" data-delay="0.5">We propose to&nbsp;</li> 
+      <li data-id="edit:modifyuser" data-user="user-1" data-delay="0.5" data-mode="inactive-blink">&nbsp;</li> 
+      <li data-id="edit:adduser" data-user="user-2" data-pos="-1" data-delay=".5">&nbsp;</li> 
+      <li data-id="edit:type" data-user="user-2" data-dur="1" data-delay=".75"> create a food source&nbsp;</li> 
+      <li data-id="edit:type" data-user="user-2" data-dur=".5" data-delay=".25"> that grows without soil&nbsp;</li> 
+      <li data-id="edit:modifyuser" data-user="user-2" data-delay="1.5" data-mode="inactive-blink">&nbsp;</li> 
+      <li data-id="edit:adduser" data-user="user-3" data-pos="-2" data-delay="1">&nbsp;</li> 
+      <li data-id="edit:removeuser" data-user="user-2">&nbsp;</li> 
+      <li data-id="edit:select" data-user="user-3" data-dur=".5" data-delay=".5"> grows without soil</li> 
+      <li data-id="edit:addcomment" data-user="user-3" data-time="time-1" data-delay=".5" data-comment="comment-1">Hur?</li> 
+      <li data-id="edit:modifyuser" data-user="user-1" data-delay="1.5" data-mode="active">&nbsp;</li> 
+      <li data-id="edit:moveuser" data-user="user-1" data-pos="-1">&nbsp;</li> 
+      <li data-id="edit:erase" data-user="user-1" data-dur=".25" data-delay=".25">&nbsp;</li> 
+      <li data-id="edit:type" data-user="user-1" data-dur=".6"> , through hydro</li> 
+      <li data-id="edit:type" data-user="user-1" data-dur=".75" data-delay=".5">...&nbsp;</li> 
+      <li data-id="edit:adduser" data-user="user-4" data-pos="-1" data-delay=".5">&nbsp;</li> 
+      <li data-id="edit:removeuser" data-user="user-1">&nbsp;</li> 
+      <li data-id="edit:erase" data-user="user-4" data-dur=".3" data-delay=".25">hydro...&nbsp;</li> 
+      <li data-id="edit:type" data-user="user-4" data-dur=".4" data-delay=".5">Aquaponics.&nbsp;</li> 
+      <li data-id="edit:removeuser" data-user="user-3" data-delay=".5">&nbsp;</li> 
+      <li data-id="edit:removeuser" data-user="user-4">&nbsp;</li> 
+      <li data-id="edit:adduser" data-user="user-5" data-pos="-1" data-delay=".75">&nbsp;</li> 
+      <li data-id="edit:type" data-user="user-5" data-dur="1.5" data-delay=".5">We will start by combining different plants&nbsp;</li> 
+      <li data-id="edit:type" data-user="user-5" data-dur=".5" data-delay=".25"> with&nbsp;</li> 
+      <li data-id="edit:modifyuser" data-user="user-5" data-delay=".5" data-mode="inactive-blink">&nbsp;</li> 
+      <li data-id="edit:adduser" data-user="user-4" data-pos="-1" data-delay=".5">&nbsp;</li> 
+      <li data-id="edit:type" data-user="user-4" data-dur="1.5" data-delay=".5">various fish to fertilize the water.&nbsp;</li> 
+      <li data-id="edit:modifyuser" data-user="user-4" data-delay=".5" data-mode="inactive-blink">&nbsp;</li> 
+      <li data-id="edit:removeuser" data-user="user-4" data-pos="-3" data-delay=".5">&nbsp;</li> 
+      <li data-id="edit:adduser" data-user="user-3" data-pos="-3" data-delay=".25">&nbsp;</li> 
+      <li data-id="edit:select" data-user="user-3" data-dur=".5" data-delay=".5">fiskar för att näringsberika vattnet</li> 
+      <li data-id="edit:addcomment" data-user="user-3" data-time="time-2" data-delay=".5" data-comment="comment-2" data-style="inline">Fantastisk idé!</li> 
+      <li data-id="edit:addreply" data-user="user-1" data-time="time-2" data-delay="1.5" data-comment="comment-2" data-class="reply-1">Jag har ett akvarium!</li> 
+      <li data-id="edit:adduser" data-user="user-1" data-pos="-1" data-delay=".75">&nbsp;</li> 
+      <li data-id="edit:adddiv" data-user="user-1" data-delay="1">
+       <div class="fish-image">
+        <div class="image"></div>
+       </div></li> 
+      <li data-id="edit:addreply" data-user="user-2" data-time="time-2" data-delay="1.5" data-comment="comment-2">Bra, vi sätter igång.</li> 
+     </ul> 
+    </div> 
+    <!-- Flags Animation End --> 
+    <div class="maia-cols product-tool-info-container"> 
+     <div class="maia-col-4 product-tool-info"> 
+      <h2>Helt gratis</h2> 
+      <h3> G Suite for Education is free for schools with <a href="https://support.google.com/a/?hl=en#topic=29157&amp;contact=1" target="_blank" data-g-event="Edu: Products: Productivity Tools" data-g-action="Get Customer Support" data-g-label="Products: Productivity Tools">24/7 support</a> at no cost. <a href="/intl/sv/trust/" data-g-event="Edu: Products: Productivity Tools" data-g-action="IT Guide: Privacy" data-g-label="Products: Productivity Tools">Never any ads, and your data is yours</a></h3> 
+     </div> 
+     <div class="maia-col-4 product-tool-info"> 
+      <h2>Enkelt att samarbeta</h2> 
+      <h3>Skapa, dela och redigera filer i realtid. Alla är på samma sida och sidan lagras automatiskt i molnet.</h3> 
+     </div> 
+     <div class="maia-col-4 product-tool-info"> 
+      <h2>Använd på alla enheter</h2> 
+      <h3>Få en sammanhängande upplevelse från vilken dator, surfplatta eller mobil som helst. Jobba var som helst och när du vill.</h3> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="gray-section suite"> 
+    <h2 class="headline">Bastjänster i G Suite for Education</h2> 
+    <p class="products-subheadline">Verktyg som hela skolan kan använda tillsammans</p> 
+    <div class="apps-icons-container maia-cols"> 
+     <div class="icon classroom"> 
+      <img class="app-icon" src="/images/products/classroom_md.png" data-retina="55x55"> 
+      <p class="icon-text">Classroom</p> 
+     </div> 
+     <div class="icon gmail"> 
+      <img class="app-icon" src="/images/products/gmail_md.png" data-retina="55x55"> 
+      <p class="icon-text">Gmail</p> 
+     </div> 
+     <div class="icon drive"> 
+      <img class="app-icon" src="/images/products/drive_md.png" data-retina="55x55"> 
+      <p class="icon-text">Drive</p> 
+     </div> 
+     <div class="icon calendar"> 
+      <img class="app-icon" src="/images/products/calendar_md.png" data-retina="55x55"> 
+      <p class="icon-text">Calendar</p> 
+     </div> 
+     <div class="icon vault"> 
+      <img class="app-icon" src="/images/products/vault_md.png" data-retina="55x55"> 
+      <p class="icon-text">Vault</p> 
+     </div> 
+     <div class="icon docs"> 
+      <img class="app-icon" src="/images/products/docs_md.png" data-retina="55x55"> 
+      <p class="icon-text">Docs</p> 
+     </div> 
+     <div class="icon sheets"> 
+      <img class="app-icon" src="/images/products/sheets_md.png" data-retina="55x55"> 
+      <p class="icon-text">Sheets</p> 
+     </div> 
+     <div class="icon forms"> 
+      <img class="app-icon" src="/images/products/forms_md.png" data-retina="55x55"> 
+      <p class="icon-text">Forms</p> 
+     </div> 
+     <div class="icon slides"> 
+      <img class="app-icon" src="/images/products/slides_md.png" data-retina="55x55"> 
+      <p class="icon-text">Slides</p> 
+     </div> 
+     <div class="icon sites"> 
+      <img class="app-icon" src="/images/products/sites_md.png" data-retina="55x55"> 
+      <p class="icon-text">Sites</p> 
+     </div> 
+    </div> 
+    <div data-ng-controller="OverlayController as ctrl" ng-cloak> 
+     <button class="green-btn how-is-this-different" ng-click="ctrl.howIsThisDifferent();" data-g-click="true" data-g-event="Edu: Canvas" data-g-action="How Is This Different" data-g-label="Core Services">HUR SKILJER SIG DETTA FRÅN DITT PRIVATA KONTO?</button> 
+     <!-- "directive" --> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloack></div> 
+     <div class="overlay how-to-get-overlay different-overlay" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.howDifferentOverlay" ng-cloak> 
+      <div class="how-to-get return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Products: Productivity Tools: How Is This Different" data-g-action="Exit" data-g-label=""></div> 
+      <h2 class="headline"></h2> 
+      <div class="content-section"> 
+       <p class="subheader">Already using Gmail and G Suite on your own? Here's what's different...</p> 
+       <p class="subheader text">When your school gets G Suite for Education, you get a professional-grade Google account for your entire school to share, including:</p> 
+       <ul> 
+        <li class="content-list-item"> <a href="/intl/sv/products/productivity-tools/classroom/" data-g-event="Edu: Products: Productivity Tools: How Is This Different" data-g-action="Classroom" data-g-label="">Classroom</a>, en app som endast erbjuds som en del av G Suite for Education</li> 
+        <li class="content-list-item">Professionell e-post på skolans domän (t.ex. @dinskola.edu istället för @gmail.com)</li> 
+        <li class="content-list-item">Gemensam åtkomst till Drive, Kalendrar, Dokument och mer</li> 
+        <li class="content-list-item">Utökat lagringsutrymme på Gmail och Drive</li> 
+        <li class="content-list-item">Inga annonser</li> 
+        <li class="content-list-item">Support via e-post och telefon, dygnet runt</li> 
+        <li class="content-list-item">99.9% guaranteed uptime</li> 
+        <li class="content-list-item">Förbättrade säkerhetsfunktioner</li> 
+        <li class="content-list-item">Full administration av alla användarkonton</li> 
+        <li class="content-list-item"> <a class="learn-more" href="/intl/sv/it/" data-g-event="Edu: Products: Productivity Tools: How Is This Different" data-g-action="IT Guide" data-g-label="Products: Productivity Tools">IT Admins: Want more technical info?</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="hero intro-classroom"> 
+    <div class="classroom"> 
+     <img class="classroom-head-image" src="/images/products/classroom-logo-hero_2x.png"> 
+     <h2 class="classroom-headline">Nu lanserar vi Classroom</h2> 
+     <div class="classroom-subheadline"> 
+      <h3>Skapa, dela och betygsätt uppgifter enkelt. Classroom har utformats för att hjälpa dig spara tid och hålla ordning på lektionerna. <br> <a class="learn-more" href="/intl/sv/products/productivity-tools/classroom/" data-g-event="Edu: Canvas" data-g-action="Learn More" data-g-label="Introducing Classroom">Läs mer</a> </h3> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="maia-aux section product-detail-container"> 
+    <div class="maia-cols product-detail-section"> 
+     <div class="maia-col-6 product-detail-mobile gmail"> 
+      <img class="app-icon" src="/images/products/gmail_md.png" data-retina="55x55"> 
+      <h2>Ta med Gmail till skolan.</h2> 
+      <h3> Gmails skräppostskydd, kraftfulla sökfunktion och integrerade kalendrar hjälper dig att få mer gjort. I Google for Education finns det garanterat inga annonser. <br> <p class="link"> <a class="learn-more" id="demo-gmail" data-g-event="Edu: Canvas" data-g-action="Gmail: Demo" data-g-label="Demo" href="#0"> TITTA PÅ EN DEMO </a> </p> </h3> 
+     </div> 
+     <div class="maia-col-6 product-detail-mobile class"> 
+      <img class="app-icon" src="/images/products/classroom_md.png" data-retina="55x55"> 
+      <h2>Effektivisera klassen.</h2> 
+      <h3> Skapa, dela och betygsätt uppgifter enkelt. Classroom hjälper dig att hålla ordning på lektionerna och förbättra kommunikationen med eleverna. <br> <p class="link"> <a class="learn-more" data-g-event="Edu: Canvas" data-g-action="Classroom: Learn More" data-g-label="Demo" href="/intl/sv/products/productivity-tools/classroom/"> LÄS MER </a> </p> </h3> 
+     </div> 
+    </div> 
+    <div class="maia-cols product-detail-section"> 
+     <div class="maia-col-6 product-detail-mobile docs"> 
+      <img class="app-icon" src="/images/products/docs_md.png" data-retina="55x55"> 
+      <img class="app-icon" src="/images/products/sheets_md.png" data-retina="55x55"> 
+      <img class="app-icon" src="/images/products/slides_md.png" data-retina="55x55"> 
+      <h2>Samarbeta i dokument.</h2> 
+      <h3> Skapa och redigera dokument, kalkylark och presentationer direkt i webbläsaren. Flera personer kan arbeta samtidigt och alla ändringar sparas automatiskt. <br> <p class="link"> <a class="learn-more" id="demo-docs" data-g-event="Edu: Canvas" data-g-action="Docs: Demo" data-g-label="Demo" href="#0"> TITTA PÅ EN DEMO </a> </p> </h3> 
+     </div> 
+     <div class="maia-col-6 product-detail-mobile drive"> 
+      <img class="app-icon" src="/images/products/drive_md.png" data-retina="55x55"> 
+      <h2>Dela i molnet.</h2> 
+      <h3> Spara arbetsfiler på Drive, öppna dem på vilken enhet som helst och dela dem direkt. Nu slipper du skicka bilagor eller slå samman olika versioner. <br> <p class="link"> <a class="learn-more" id="demo-drive" data-g-event="Edu: Canvas" data-g-action="Drive: Demo" data-g-label="Demo" href="#0"> TITTA PÅ EN DEMO </a> </p> </h3> 
+     </div> 
+    </div> 
+    <div class="maia-cols product-detail-section"> 
+     <div class="maia-col-6 product-detail-mobile calendar"> 
+      <img class="app-icon" src="/images/products/calendar_md.png" data-retina="55x55"> 
+      <h2>Dela kalendrar.</h2> 
+      <h3> Ägna mindre tid åt planering och mer tid åt att få saker gjorda med hjälp av gemensamma kalendrar som integreras sömlöst med Gmail, Drive, Kontakter, Sites och Hangouts. <br> <p class="link"> <a class="learn-more" id="demo-calendar" data-g-event="Edu: Canvas" data-g-action="Calendar: Demo" data-g-label="Demo" href="#0"> TITTA PÅ EN DEMO </a> </p> </h3> 
+     </div> 
+     <div class="maia-col-6 product-detail-mobile sites"> 
+      <img class="app-icon" src="/images/products/sites_md.png" data-retina="55x55"> 
+      <h2>Skapa webbplatser.</h2> 
+      <h3> Skapa en webbplats till klassen, teamet eller inför nästa projekt med vår enkla webbplatsbyggare. Och du behöver inte skriva en enda rad kod. <br> <p class="link"> <a class="learn-more" data-g-event="Edu: Canvas" data-g-action="Websites: Learn More" data-g-label="Demo" href="https://gsuite.google.com/products/sites/"> FÅ MER INFORMATION </a> </p> </h3> 
+     </div> 
+    </div> 
+    <div class="maia-cols product-detail-section"> 
+     <div class="maia-col-6 product-detail-mobile hangouts"> 
+      <img class="app-icon" src="/images/products/hangouts_md.png" data-retina="55x55"> 
+      <h2>Träffas öga mot öga.</h2> 
+      <h3> Connect any time via video, voice, or text. Use text chat for quick questions and Hangouts for group video calls, virtual office hours, and field trips. <br> <p class="link"> <a class="learn-more" id="demo-hangouts" data-g-event="Edu: Canvas" data-g-action="Hangouts: Demo" data-g-label="Demo" href="#0"> TITTA PÅ EN DEMO </a> </p> </h3> 
+     </div> 
+     <div class="maia-col-6 product-detail-mobile vault"> 
+      <img class="app-icon" src="/images/products/vault_md.png" data-retina="55x55"> 
+      <h2>Arkivera dina e-postmeddelanden och chattar</h2> 
+      <h3> Nu gratis för G Suite-konton: Hantera, behåll och sök efter organisationens mejl och offentliga chattar. Exportera filer till Google Drive och spara din data. <br> <p class="link"> <a class="learn-more" data-g-event="Edu: Canvas" data-g-action="Vault: Learn More" data-g-label="Demo" href="https://gsuite.google.com/products/vault/"> FÅ MER INFORMATION </a> </p> </h3> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="gray-section gray-gradient"> 
+    <!-- start: flippable tiles --> 
+    <div class="flip desktop"> 
+     <div class="card ng-scope" data-fliptile="" ng-class="tile.classesForTile();" ng-click="tile.flipCard();"> 
+      <div class="face front"> 
+       <div class="statistic large">
+         52 
+       </div> 
+       <div class="statistic small">
+         insparade lärartimmar per år 
+       </div> 
+       <div class="arrow-icon"></div> 
+      </div> 
+      <div class="face back"> 
+       <div class="card-details">
+         Sparad tid per person som använder G Suite för kommunikation och samarbete i klassrummet 
+       </div> 
+      </div> 
+     </div> 
+     <div class="card ng-scope" data-fliptile="" ng-class="tile.classesForTile();" ng-click="tile.flipCard();"> 
+      <div class="face front"> 
+       <div class="statistic large">
+         90% 
+       </div> 
+       <div class="statistic small">
+         mindre arbetsinsats för support 
+       </div> 
+       <div class="arrow-icon"></div> 
+      </div> 
+      <div class="face back"> 
+       <div class="card-details">
+         Hantering av fortlöpande serverunderhåll, systemstöd och patchning 
+       </div> 
+      </div> 
+     </div> 
+     <div class="card ng-scope" data-fliptile="" ng-class="tile.classesForTile();" ng-click="tile.flipCard();"> 
+      <div class="face front"> 
+       <div class="statistic large">
+         99.9% 
+       </div> 
+       <div class="statistic small">
+         drifttid 
+       </div> 
+       <div class="arrow-icon"></div> 
+      </div> 
+      <div class="face back"> 
+       <div class="card-details">
+         Detta är servicenivågarantin för G Suite och G Suite for Education. 
+       </div> 
+      </div> 
+     </div> 
+     <div class="card ng-scope" data-fliptile="" ng-class="tile.classesForTile();" ng-click="tile.flipCard();"> 
+      <div class="face front"> 
+       <div class="statistic large">
+         329% 
+       </div> 
+       <div class="statistic small">
+         Return On Investment 
+       </div> 
+       <div class="arrow-icon"></div> 
+      </div> 
+      <div class="face back"> 
+       <div class="card-details">
+         Inom tre år från inköpstillfället för en organisation som byter till G Suite från en traditionell lokal infrastruktur ... 
+       </div> 
+      </div> 
+     </div> 
+     <div class="card ng-scope" data-fliptile="" ng-class="tile.classesForTile();" ng-click="tile.flipCard();"> 
+      <div class="face front"> 
+       <div class="statistic large">
+         $0 
+       </div> 
+       <div class="statistic small">
+         kostnad per användare 
+       </div> 
+       <div class="arrow-icon"></div> 
+      </div> 
+      <div class="face back"> 
+       <div class="card-details">
+         G Suite är gratis för icke-vinstdrivande utbildningsinstitutioner. Vi visar inte annonser i utbildningskonton och gör inga avläsningar i annonsrelaterade ändamål. 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="flip mobile-flip"> 
+     <div class="ent-tile-links maia-cols"> 
+      <div class="ent-tile-unit group-one first ng-scope" data-mobilefliptile="" ng-class="tile.classesForTile()" ng-click="tile.flipCard();"> 
+       <div class="ent-tile-unit-break-wrapper"> 
+        <div class="section-header"> 
+         <div class="statistic large">
+           52 
+         </div> 
+         <div class="statistic small">
+           insparade lärartimmar per år 
+         </div> 
+         <div class="arrow-icon"></div> 
+        </div> 
+        <ul> 
+         <li> 
+          <div class="card-details">
+            Sparad tid per person som använder G Suite för kommunikation och samarbete i klassrummet 
+          </div> </li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-tile-unit group-one first ng-scope" data-mobilefliptile="" ng-class="tile.classesForTile()" ng-click="tile.flipCard();"> 
+       <div class="ent-tile-unit-break-wrapper"> 
+        <div class="section-header"> 
+         <div class="statistic large">
+           90% 
+         </div> 
+         <div class="statistic small">
+           mindre arbetsinsats för support 
+         </div> 
+         <div class="arrow-icon"></div> 
+        </div> 
+        <ul> 
+         <li> 
+          <div class="card-details">
+            Hantering av fortlöpande serverunderhåll, systemstöd och patchning 
+          </div> </li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-tile-unit group-one first ng-scope" data-mobilefliptile="" ng-class="tile.classesForTile()" ng-click="tile.flipCard();"> 
+       <div class="ent-tile-unit-break-wrapper"> 
+        <div class="section-header"> 
+         <div class="statistic large">
+           99.9% 
+         </div> 
+         <div class="statistic small">
+           drifttid 
+         </div> 
+         <div class="arrow-icon"></div> 
+        </div> 
+        <ul> 
+         <li> 
+          <div class="card-details">
+            Detta är servicenivågarantin för G Suite och G Suite for Education. 
+          </div> </li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-tile-unit group-one first ng-scope" data-mobilefliptile="" ng-class="tile.classesForTile()" ng-click="tile.flipCard();"> 
+       <div class="ent-tile-unit-break-wrapper"> 
+        <div class="section-header"> 
+         <div class="statistic large">
+           329% 
+         </div> 
+         <div class="statistic small">
+           Return On Investment 
+         </div> 
+         <div class="arrow-icon"></div> 
+        </div> 
+        <ul> 
+         <li> 
+          <div class="card-details">
+            Inom tre år från inköpstillfället för en organisation som byter till G Suite från en traditionell lokal infrastruktur ... 
+          </div> </li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-tile-unit group-one first ng-scope" data-mobilefliptile="" ng-class="tile.classesForTile()" ng-click="tile.flipCard();"> 
+       <div class="ent-tile-unit-break-wrapper"> 
+        <div class="section-header"> 
+         <div class="statistic large">
+           $0 
+         </div> 
+         <div class="statistic small">
+           kostnad per användare 
+         </div> 
+         <div class="arrow-icon"></div> 
+        </div> 
+        <ul> 
+         <li> 
+          <div class="card-details">
+            G Suite är gratis för icke-vinstdrivande utbildningsinstitutioner. Vi visar inte annonser i utbildningskonton och gör inga avläsningar i annonsrelaterade ändamål. 
+          </div> </li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <!-- end: flippable tiles --> 
+    <div class="it-rollout"> 
+     <a name="how-to"></a> 
+     <img class="it-rollout-icon" src="/images/rollout-icon.png"> 
+     <div class="it-rollout-text"> 
+      <p><a href="/it/" data-g-event="Edu: Canvas" data-g-action="IT Guide" data-g-label="Products: Productivity Tools">Planerar du en distribution för din skola?<br>Se vår IT-guide.</a></p>
+      <p> </p>
+     </div> 
+    </div> 
+   </div> 
+   <div class="carousel-nav-container"> 
+    <div class="carousel-overlay"></div> 
+    <ul> 
+     <li class="parent" edu-nav-item> <a class="nav see-apps">See Products in Action<img src="/images/carousel-toggle-icon.png"></a> 
+      <div class="dropdown"> 
+       <ul class="child-nav"> 
+        <li class="child dropdown-item fountainhead-global-school"><a class="list-item" href="/intl/sv/case-studies/fountainhead-global-school/">Fountainhead Global School</a></li> 
+       </ul> 
+      </div> </li> 
+    </ul> 
+   </div> 
+   <div class="carousel-wrap" set-ng-animate="false"> 
+    <div data-carousel data-interval="6000" template-url="/templates/devices/carousel.html" data-ga="Edu: Canvas;Devices in Action Slider"> 
+     <div data-slide template-url="/templates/home/slide.html"> 
+      <div class="section-wrapper fountainhead-global-school"> 
+       <div class="section hero-section"> 
+        <div class="text section-four"> 
+         <h1 class="headline slider-headline">G Suite ökar föräldrarnas engagemang vid Fountainhead Global School</h1> 
+         <p class="subheadline"> <a href="/intl/sv/case-studies/fountainhead-global-school/" data-g-event="Edu: Canvas" data-g-action="Learn More: Fountainhead Global School" data-g-label="Devices in Action Slider"> Läs mer </a> </p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <script src="/compiled/apps-experience.min.js"></script> 
+   <script>
+    new AppsExperience().init({
+      'direction': 'left',
+      'experience': 'calendar',
+      'outboundURL': 'https://www.google.com/a/signup?hl=sv&ga_region=noram&ga_country=us&ga_lang=sv',
+      'ctaTitle': 'Stay Organized and Connected',
+      'ctaSubTitle': 'with Google Calendar',
+      'ctaTagLine': '',
+      'ctaLinkText': 'Get started',
+      'ctaImage': '/images/calendar_icon_fallback.jpg',
+      'target': 'demo-calendar',
+      'type': 'raw',
+      'youtubeVideo': 'Mu6n0KsWu1U',
+      'youtubeForce': false
+    });
+    new AppsExperience().init({
+      'direction': 'left',
+      'experience': 'docs',
+      'outboundURL': 'https://www.google.com/a/signup?hl=sv&ga_region=noram&ga_country=us&ga_lang=sv',
+      'ctaTitle': 'Connect',
+      'ctaSubTitle': 'with Docs',
+      'ctaTagLine': 'Connect from any device, anywhere',
+      'ctaLinkText': 'Get started',
+      'ctaImage': '/images/docs_icon_fallback.jpg',
+      'target': 'demo-docs',
+      'type': 'raw',
+      'youtubeVideo': 'X_mE-e7hEE0',
+      'youtubeForce': false
+    });
+    new AppsExperience().init({
+      'direction': 'left',
+      'experience': 'drive',
+      'outboundURL': 'https://www.google.com/a/signup?hl=sv&ga_region=noram&ga_country=us&ga_lang=sv',
+      'ctaTitle': 'Store, Preview, Search, Share',
+      'ctaSubTitle': 'with Drive',
+      'ctaTagLine': '',
+      'ctaLinkText': 'Get started',
+      'ctaImage': '/images/drive_icon_fallback.jpg',
+      'target': 'demo-drive',
+      'type': 'raw',
+      'youtubeVideo': 'Koxk7i5jluU',
+      'youtubeForce': false
+    });
+    new AppsExperience().init({
+      'direction': 'left',
+      'experience': 'hangout',
+      'outboundURL': 'https://www.google.com/a/signup?hl=sv&ga_region=noram&ga_country=us&ga_lang=sv',
+      'ctaTitle': 'Connect face to face from anywhere',
+      'ctaSubTitle': 'with Google Hangouts',
+      'ctaTagLine': '',
+      'ctaLinkText': 'Get started',
+      'ctaImage': '/images/hangout_icon_fallback.jpg',
+      'target': 'demo-hangouts',
+      'type': 'raw',
+      'youtubeVideo': '-_rL1qJUcqM',
+      'youtubeForce': false
+    });
+    new AppsExperience().init({
+      'direction': 'left',
+      'experience': 'gmail',
+      'outboundURL': 'https://www.google.com/a/signup?hl=sv&ga_region=noram&ga_country=us&ga_lang=sv',
+      'ctaTitle': 'Organize',
+      'ctaSubTitle': 'with Gmail',
+      'ctaTagLine': 'Create Labels | Priority Inbox | Easy Archiving',
+      'ctaLinkText': 'Get started',
+      'ctaImage': '/images/gmail_icon_fallback.jpg',
+      'target': 'demo-gmail',
+      'type': 'raw',
+      'youtubeVideo': 'rMnQT1QqJIw',
+      'youtubeForce': false
+    });
+  </script> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Produkter</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/products/devices/">Enheter</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/products/productivity-tools/">Produktivitetsverktyg</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/products/more-products/">Fler produkter</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Utbildning</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=sv" target="_blank">Utbildning för pedagoger</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">Utbildning för IT-admin</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">Partnerregister</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/resources/communities/">Grupper</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Resurser</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:News &amp;amp; Events" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/resources/news-and-events/">Nyheter och event</a></li> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/resources/programs/">Program</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/resources/computerscience/">Utbildning inom datavetenskap</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/resources/global-education/">Global utbildning</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/it/">IT</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">Resurser för utvecklare</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/access/">Åtkomst</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/contact/">Försäljning</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">Support</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/partners/">Partnerprogram</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/case-studies/">Fallstudier</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">Visa skolor som använder Chromebooks</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">Blogg</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="Sök på den här webbplatsen" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/products/productivity-tools/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/products/productivity-tools/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/da/products/productivity-tools/"> dansk (Danmark) </option><option value="/intl/en_au/products/productivity-tools/"> English (Australia) </option><option value="/intl/en_ca/products/productivity-tools/"> English (Canada) </option><option value="/intl/en_in/products/productivity-tools/"> English (India) </option><option value="/intl/en_nz/products/productivity-tools/"> English (New Zealand) </option><option value="/intl/en_uk/products/productivity-tools/"> English (United Kingdom) </option><option value="/products/productivity-tools/"> English (United States) </option><option value="/intl/es-419_mx/products/productivity-tools/"> español (México) </option><option value="/intl/es-419/products/productivity-tools/"> español (Latinoamérica) </option><option value="/intl/fi/products/productivity-tools/"> suomi (Suomi) </option><option value="/intl/fr_be/products/productivity-tools/"> français (Belgique) </option><option value="/intl/id/products/productivity-tools/"> Indonesia (Indonesia) </option><option value="/intl/ja/products/productivity-tools/"> 日本語 (日本) </option><option value="/intl/ms/products/productivity-tools/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/products/productivity-tools/"> Nederlands (Nederland) </option><option value="/intl/no/products/productivity-tools/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/products/productivity-tools/"> português (Brasil) </option><option selected value="/intl/sv/products/productivity-tools/"> svenska (Sverige) </option><option value="/intl/th/products/productivity-tools/"> ไทย (ไทย) </option><option value="/intl/tr/products/productivity-tools/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/sv/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/sv/policies/privacy/">Sekretess</a> </li> 
+      <li> <a href="https://www.google.com/intl/sv/policies/terms/">Villkor</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script>  
+ </body>
+</html>

@@ -1,0 +1,14 @@
+#!/bin/sh -e
+
+case "$1" in
+    install|upgrade)
+        if ! getent passwd "dropwizard" >/dev/null; then
+            adduser --system --group "dropwizard" > /dev/null
+        fi
+
+        mkdir -p "/var/log/scrape" && chown -R "dropwizard:dropwizard" "/var/log/scrape"
+    ;;
+
+esac
+
+exit 0

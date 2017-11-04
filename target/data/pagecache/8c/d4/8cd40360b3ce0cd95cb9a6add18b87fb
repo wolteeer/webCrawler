@@ -1,0 +1,460 @@
+<!doctype html>
+<html class="google mmfb" lang="tr" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/tr/case-studies/st-columba-anglican-school/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="Hep mesafelerin sorun olmayacağı günlerin özlemi içindeydik. Şimdi, ortak çalışmaya imkan veren teknoloji sayesinde tüm dünyayla iletişim halindeyiz." name="description"> 
+  <title>
+    Google for Education: Case Studies: St Columba Anglican School
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/tr/case-studies/st-columba-anglican-school/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Case Studies: St Columba Anglican School" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/tr/case-studies/st-columba-anglican-school/" property="og:url"> 
+  <meta content="/images/video-get_2x.png" property="og:image"> 
+  <meta content="Hep mesafelerin sorun olmayacağı günlerin özlemi içindeydik. Şimdi, ortak çalışmaya imkan veren teknoloji sayesinde tüm dünyayla iletişim halindeyiz." property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/tr/case-studies/st-columba-anglican-school/" name="twitter:url"> 
+  <meta content="Google for Education: Case Studies: St Columba Anglican School" name="twitter:title"> 
+  <meta content="/images/video-get_2x.png" name="twitter:image"> 
+  <meta content="Hep mesafelerin sorun olmayacağı günlerin özlemi içindeydik. Şimdi, ortak çalışmaya imkan veren teknoloji sayesinde tüm dünyayla iletişim halindeyiz." name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Case Studies: St Columba Anglican School" itemprop="name"> 
+  <meta content="Hep mesafelerin sorun olmayacağı günlerin özlemi içindeydik. Şimdi, ortak çalışmaya imkan veren teknoloji sayesinde tüm dünyayla iletişim halindeyiz." itemprop="description"> 
+  <meta content="/images/video-get_2x.png" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Case Studies: St Columba Anglican School",
+    "description": "Hep mesafelerin sorun olmayacağı günlerin özlemi içindeydik. Şimdi, ortak çalışmaya imkan veren teknoloji sayesinde tüm dünyayla iletişim halindeyiz.",
+    "url": "https://edu.google.com/intl/tr/case-studies/st-columba-anglican-school/",
+    "logo": "/images/video-get_2x.png",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+  <style>
+    .hero.top.st-columba-anglican-school {
+        background-image: url("/images/case-studies/hero/st-columba.jpg");
+      }
+  </style> 
+ </head> 
+ <body class="case-study-detail ng-scope"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/tr/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Google Ürünleri Edinin</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">Size Nasıl Yardımcı Olabiliriz?</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>Üretkenlik Araçlarını Edinin</h5> 
+        <p>Classroom, Google Dokümanlar, Drive, Hangouts, e-posta ve diğer uygulamalarla ücretsiz olarak verilen ve reklam içermeyen Google üretkenlik araçlarını edinin.</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=tr#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">G Suite'a Kaydolun</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Cihazları Edinin</h5> 
+        <p>Okulunuza toplu Chromebook veya Android cihaz alımı yapmayı mı düşünüyorsunuz? Ekibimiz doğru seçimi yapmanıza yardımcı olabilir.</p> 
+        <a class="maia-button overlay-button" href="/intl/tr/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Bir Uzmanla Görüşün</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Diğer Eğitimcilerle Konuşun</h5> 
+        <p>Google araçlarına geçiş yapmış kişilerle konuşmak ister misiniz? Eğitimciler topluluğumuzdan yardım alın.</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Diğer Eğitimcileri Bulun</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li class="active"> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/" target="_self">Ana Sayfa</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">Ürünler</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/products/productivity-tools/" target="_self">Üretkenlik Araçları <br><span class="dropdown-item-description">Docs, Gmail and More</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/products/productivity-tools/classroom/" target="_self">Classroom <br><span class="dropdown-item-description">Mission control for teachers and students</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtual reality field trips</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/products/more-products/" target="_self">Diğer Ürünler <br><span class="dropdown-item-description">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">Eğitim</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=tr" target="_self">Eğitimci Eğitimi <br><span class="dropdown-item-description">Google for Education araçları için</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">BT Yöneticisi Eğitimi <br><span class="dropdown-item-description">G Suite Yöneticileri için</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">İş Ortakları Dizini <br><span class="dropdown-item-description">to help your school go Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/resources/communities/" target="_self">Topluluklar <br><span class="dropdown-item-description">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">Kaynaklar</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/resources/programs/" target="_self">Programlar <br><span class="dropdown-item-description">for students and teachers</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/case-studies/" target="_self">Örnek Olaylar </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/resources/computerscience/" target="_self">Bilgisayar Bilimi Eğitimi <br><span class="dropdown-item-description">Programs, Funding, and Research</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/resources/global-education/" target="_self">Global Eğitim </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/tr/it/" target="_self">IT Guides</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/tr/higher-education/" target="_self">Yüksek Öğrenim</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Ürünler</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/products/productivity-tools/" target="_self">Üretkenlik Araçları <span class="nav-subtext">Docs, Gmail and More</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/products/productivity-tools/classroom/" target="_self">Classroom <span class="nav-subtext">Mission control for teachers and students</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtual reality field trips</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/products/more-products/" target="_self">Diğer Ürünler <span class="nav-subtext">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Eğitim</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=tr" target="_self">Eğitimci Eğitimi <span class="nav-subtext">Google for Education araçları için</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">BT Yöneticisi Eğitimi <span class="nav-subtext">G Suite Yöneticileri için</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">İş Ortakları Dizini <span class="nav-subtext">to help your school go Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/resources/communities/" target="_self">Topluluklar <span class="nav-subtext">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Kaynaklar</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/resources/programs/" target="_self">Programlar <span class="nav-subtext">for students and teachers</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/case-studies/" target="_self">Örnek Olaylar </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/resources/computerscience/" target="_self">Bilgisayar Bilimi Eğitimi <span class="nav-subtext">Programs, Funding, and Research</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/resources/global-education/" target="_self">Global Eğitim </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">IT Guides</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/it/" target="_self">BT </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/trust/" target="_self">Gizlilik Sayfaları </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Yüksek Öğrenim</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/tr/higher-education/" target="_self">Yüksek Öğrenim </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Google Ürünleri Edinin</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">Size Nasıl Yardımcı Olabiliriz?</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>Üretkenlik Araçlarını Edinin</h5> 
+         <p>Classroom, Google Dokümanlar, Drive, Hangouts, e-posta ve diğer uygulamalarla ücretsiz olarak verilen ve reklam içermeyen Google üretkenlik araçlarını edinin.</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=tr#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">G Suite'a Kaydolun</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Cihazları Edinin</h5> 
+         <p>Okulunuza toplu Chromebook veya Android cihaz alımı yapmayı mı düşünüyorsunuz? Ekibimiz doğru seçimi yapmanıza yardımcı olabilir.</p> 
+         <a class="maia-button overlay-button" href="/intl/tr/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Bir Uzmanla Görüşün</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Diğer Eğitimcilerle Konuşun</h5> 
+         <p>Google araçlarına geçiş yapmış kişilerle konuşmak ister misiniz? Eğitimciler topluluğumuzdan yardım alın.</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Diğer Eğitimcileri Bulun</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="hero top st-columba-anglican-school"> 
+    <div class="content"> 
+     <h2 class="title-header">St. Columba Anglican School, öğrencilerin kendi aralarında yardımlaşmasını sağlamak için Google Apps for Education ve Google Classroom kullanıyor</h2> 
+    </div> 
+   </div> 
+   <div class="maia-aux content-wrap st-columba-anglican-school"> 
+    <div class="maia-cols page-container"> 
+     <div class="maia-col-7 main-wrap"> 
+      <div class="main"> 
+       <div class="quote-wrap"> 
+        <h4 class="quote">Hep mesafelerin sorun olmayacağı günlerin özlemi içindeydik. Şimdi, ortak çalışmaya imkan veren teknoloji sayesinde tüm dünyayla iletişim halindeyiz.</h4> 
+        <p class="quote-author">Matt Richards, e-öğrenim ve eğitim teknolojisi direktörü</p> 
+       </div> 
+       <div class="main-content-wrap"> 
+        <div class="content challenge"> 
+         <h4 class="headline">Zorluklar</h4> 
+         <p class="content-content">St. Columba Anglican Okulu, coğrafi olarak ücra bir konumda olmanın öğrencilerinin lider olması için bir engel oluşturmadığını ortaya koyuyor. Okulun "Kendi Cihazını Getir" programını uygulamaya koymasının ardından BT ekibi tüm öğrencilerinin bağlantıda olmasını sağlamak için kolay ve düzenli bir yönteme ihtiyaç duyuyordu.</p> 
+        </div> 
+        <div class="content solution"> 
+         <h4 class="headline">Çözüm</h4> 
+         <p class="content-content">Google Apps Eğitim Sürümü tüm öğrenci ve öğretmenlerin, kullandıkları cihaz ne olursa olsun, aynı içeriğe bağlanabilmesini sağladı. Google Classroom sayesinde, Dokümanlar gibi Google Apps uygulamalarını kullanarak, öğretmenler hem daha kolay şekilde ödev hazırlama imkanına kavuştular hem de zamandan tasarruf ettiler.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-col-4 sidebar-wrap"> 
+      <div class="detail-wrap"> 
+       <h6 class="sidebar-title">Okul Profili</h6> 
+       <div class="detail"> 
+        <p class="content-content">St Columba Anglican Okulu bağımsız bir özel okuldur ve Port Macquarie, New South Wales, Avustralya'da hizmet vermektedir. Okulun, okul öncesi dönemden 12. sınıfa kadar 1100 öğrencisi ve 153 öğretmeni bulunmaktadır.</p> 
+       </div> 
+       <h6 class="sidebar-title">Kullanılan Ürünler</h6> 
+       <div class="detail"> 
+        <p class="content-content"> <a href="/intl/tr/products/productivity-tools/classroom/" target=""> Classroom</a> - G Suite for Education paketinde yer alan ve eğitimcilerin kolayca ödev oluşturmasına, incelemesine ve organize etmesine olanak veren, öğrencilerle doğrudan iletişim kurmalarını sağlayan bir araçtır. </p> 
+        <p class="content-content"> <a href="/intl/tr/products/productivity-tools/" target=""> G Suite</a> - Her yerden, her zaman, tüm cihazlardan eğitim için, Gmail, Classroom, Dokümanlar ve Drive da dahil, ücretsiz bir iletişim ve ortak çalışma araçları paketi. </p> 
+       </div> 
+       <h6 class="link-out detail"><a href="/pdfs/case-studies/st-columba-anglican-school-case-study.pdf" target="_blank" data-g-event="Edu: Case Study: St Columba Anglican School" data-g-action="Read The Full Case Study" data-g-label="st-columba-anglican-school"><img class="link-icon" src="/images/case-studies/adobe-icon.jpg">Örnek Olayın Tamamını Okuyun</a></h6> 
+      </div> 
+     </div> 
+    </div>
+    <!-- END .page-container --> 
+   </div>
+   <!-- END .content --> 
+  </div>
+  <!-- END .content-wrap --> 
+  <div class="case-studies-bottom-container"> 
+   <div class="maia-aux case-studies-wrap"> 
+    <div class="maia-col-9 more-case-studies-wrapper"> 
+     <h2 class="case-study-mobile-header headline">Diğer Örnek Olaylar</h2> 
+     <h5 class="case-study-mobile-header">Diğer okulların Google'a nasıl geçiş yaptığına göz atın.</h5> 
+    </div> 
+    <div class="case-study-mobile-header">
+     <a class="maia-button small-btn" href="/intl/tr/case-studies/" data-g-event="Edu: Case Study: st-columba-anglican-school" data-g-action="See All Case Studies" data-g-label="">Tüm Örnek Olayları İnceleyin</a>
+    </div> 
+    <div class="case-study-tiles"> 
+     <div class="maia-col-4 tile"> 
+      <a href="/intl/tr/case-studies/arizona-state-university/" data-g-event="Edu: Case Study: Arizona State University" data-g-action="Case Study" data-g-label="/case-studies/arizona-state-university/"></a> 
+      <div class="tile-image arizona-state-university" style="background-image:url('/images/case-studies/thumbnail/arizona-state-university.jpg')"></div> 
+      <div class="tile-title">
+       Arizona Eyaleti, G Suite'ı iki haftadan kısa sürede uygulamaya aldı
+      </div> 
+     </div> 
+     <div class="maia-col-4 tile"> 
+      <a href="/intl/tr/case-studies/bloomington-public-schools/" data-g-event="Edu: Case Study: Bloomington Public Schools" data-g-action="Case Study" data-g-label="/case-studies/bloomington-public-schools/"></a> 
+      <div class="tile-image bloomington-public-schools" style="background-image:url('/images/case-studies/thumbnail/bloomington-public-schools.jpg')"></div> 
+      <div class="tile-title">
+       Bloomington Devlet Okulları, eğitimde dönüşümü hayata geçirmek için G Suite ve Chromebook'ları kullanıyor
+      </div> 
+     </div> 
+     <div class="maia-col-4 tile"> 
+      <a href="/intl/tr/case-studies/boise-state-university/" data-g-event="Edu: Case Study: Boise State University" data-g-action="Case Study" data-g-label="/case-studies/boise-state-university/"></a> 
+      <div class="tile-image boise-state-university" style="background-image:url('/images/case-studies/thumbnail/boise-state-university.jpg')"></div> 
+      <div class="tile-title">
+       Boise Devlet Üniversitesi, G Suite for Education sayesinde yılda 90.000 ABD doları tasarruf ediyor
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div>  
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Ürünler</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/products/productivity-tools/">Üretkenlik Araçları</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/products/more-products/">Diğer Ürünler</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Eğitim</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=tr" target="_blank">Eğitimci Eğitimi</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">BT Yöneticisi Eğitimi</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">İş Ortakları Dizini</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/resources/communities/">Topluluklar</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Kaynaklar</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/resources/programs/">Programlar</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/resources/computerscience/">Bilgisayar Bilimi Eğitimi</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/resources/global-education/">Global Eğitim</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/it/">BT</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">Geliştirici Kaynakları</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/access/">Erişim</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/contact/">Satış</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">Destek</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/partners/">İş Ortağı Programı</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/tr/case-studies/">Örnek Olaylar</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">Chromebook Kullanan Okulları Görün</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">Blog</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="Bu sitede arayın" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/case-studies/st-columba-anglican-school/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/case-studies/st-columba-anglican-school/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/da/case-studies/st-columba-anglican-school/"> dansk (Danmark) </option><option value="/intl/en_au/case-studies/st-columba-anglican-school/"> English (Australia) </option><option value="/intl/en_ca/case-studies/st-columba-anglican-school/"> English (Canada) </option><option value="/intl/en_in/case-studies/st-columba-anglican-school/"> English (India) </option><option value="/intl/en_nz/case-studies/st-columba-anglican-school/"> English (New Zealand) </option><option value="/intl/en_uk/case-studies/st-columba-anglican-school/"> English (United Kingdom) </option><option value="/case-studies/st-columba-anglican-school/"> English (United States) </option><option value="/intl/es-419_mx/case-studies/st-columba-anglican-school/"> español (México) </option><option value="/intl/es-419/case-studies/st-columba-anglican-school/"> español (Latinoamérica) </option><option value="/intl/fi/case-studies/st-columba-anglican-school/"> suomi (Suomi) </option><option value="/intl/fr_be/case-studies/st-columba-anglican-school/"> français (Belgique) </option><option value="/intl/id/case-studies/st-columba-anglican-school/"> Indonesia (Indonesia) </option><option value="/intl/ja/case-studies/st-columba-anglican-school/"> 日本語 (日本) </option><option value="/intl/ms/case-studies/st-columba-anglican-school/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/case-studies/st-columba-anglican-school/"> Nederlands (Nederland) </option><option value="/intl/no/case-studies/st-columba-anglican-school/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/case-studies/st-columba-anglican-school/"> português (Brasil) </option><option value="/intl/sv/case-studies/st-columba-anglican-school/"> svenska (Sverige) </option><option value="/intl/th/case-studies/st-columba-anglican-school/"> ไทย (ไทย) </option><option selected value="/intl/tr/case-studies/st-columba-anglican-school/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/tr/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/tr/policies/privacy/">Gizlilik</a> </li> 
+      <li> <a href="https://www.google.com/intl/tr/policies/terms/">Şartlar</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script>  
+ </body>
+</html>

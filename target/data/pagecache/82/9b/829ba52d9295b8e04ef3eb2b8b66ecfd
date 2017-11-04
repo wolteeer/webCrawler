@@ -1,0 +1,997 @@
+<!doctype html>
+<html class="google mmfb" lang="pt" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/pt-BR/resources/computerscience/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." name="description"> 
+  <title>
+    Google for Education: Computer Science
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/pt-BR/resources/computerscience/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Computer Science" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/pt-BR/resources/computerscience/" property="og:url"> 
+  <meta content="" property="og:image"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/pt-BR/resources/computerscience/" name="twitter:url"> 
+  <meta content="Google for Education: Computer Science" name="twitter:title"> 
+  <meta content="" name="twitter:image"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Computer Science" itemprop="name"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." itemprop="description"> 
+  <meta content="" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Computer Science",
+    "description": "Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu.",
+    "url": "https://edu.google.com/intl/pt-BR/resources/computerscience/",
+    "logo": "",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="computerscience"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/pt-BR/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-help-desktop" class="maia-button expert-desktop nl" data-g-event="Edu: Global Header" data-g-action="Talk to an Expert" data-g-label="Header" href="/intl/pt-BR/contact/">Entre em contato com um especialista</a>
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Usar os produtos do Google</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">Como podemos ajudar você?</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>Ferramentas de produtividade</h5> 
+        <p>Tenha acesso às ferramentas de produtividade do Google: Google Sala de aula, Documentos Google, Google Drive, Hangouts, e-mail e muito mais incluídos gratuitamente e sem anúncios.</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=pt#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Inscrever-se no G Suite</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Adquira dispositivos</h5> 
+        <p>Está interessado em adquirir Chromebooks ou dispositivos Android para sua escola? Nossa equipe pode ajudar você a encontrar o caminho mais adequado.</p> 
+        <a class="maia-button overlay-button" href="/intl/pt-BR/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Entre em contato com um especialista</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Converse com outros professores</h5> 
+        <p>Quer conversar com pessoas como você que mudaram para o Google? Tenha acesso a nossa comunidade de professores.</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Encontre outros professores</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/" target="_self">Início</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">Produtos</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/devices/" target="_self">Dispositivos <br><span class="dropdown-item-description">Chromebooks and Tablets</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/productivity-tools/" target="_self">Ferramentas de produtividade <br><span class="dropdown-item-description">Docs, Gmail and More</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/productivity-tools/classroom/" target="_self">Google Sala de aula <br><span class="dropdown-item-description">Mission control for teachers and students</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtual reality field trips</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/more-products/" target="_self">Mais produtos <br><span class="dropdown-item-description">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">Treinamento</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=pt_BR" target="_self">Treinamento para professores <br><span class="dropdown-item-description">sobre as ferramentas do Google for Education</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">Treinamento para administradores de TI <br><span class="dropdown-item-description">para administradores do G Suite</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Diretório de parceiros <br><span class="dropdown-item-description">to help your school go Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/communities/" target="_self">Comunidades <br><span class="dropdown-item-description">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" active  global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">Recursos</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/programs/" target="_self">Programas <br><span class="dropdown-item-description">for students and teachers</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/case-studies/" target="_self">Estudos de caso </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/computerscience/" target="_self">Ciência da computação <br><span class="dropdown-item-description">Programs, Funding, and Research</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/global-education/" target="_self">Educação global </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/pt-BR/it/" target="_self">Guia de TI</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/pt-BR/higher-education/" target="_self">Ensino superior</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Produtos</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/devices/" target="_self">Dispositivos <span class="nav-subtext">Chromebooks and Tablets</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/productivity-tools/" target="_self">Ferramentas de produtividade <span class="nav-subtext">Docs, Gmail and More</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/productivity-tools/classroom/" target="_self">Google Sala de aula <span class="nav-subtext">Mission control for teachers and students</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtual reality field trips</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/products/more-products/" target="_self">Mais produtos <span class="nav-subtext">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Treinamento</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=pt_BR" target="_self">Treinamento para professores <span class="nav-subtext">sobre as ferramentas do Google for Education</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">Treinamento para administradores de TI <span class="nav-subtext">para administradores do G Suite</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Diretório de parceiros <span class="nav-subtext">to help your school go Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/communities/" target="_self">Comunidades <span class="nav-subtext">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Recursos</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/programs/" target="_self">Programas <span class="nav-subtext">for students and teachers</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/case-studies/" target="_self">Estudos de caso </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/computerscience/" target="_self">Ciência da computação <span class="nav-subtext">Programs, Funding, and Research</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/resources/global-education/" target="_self">Educação global </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Guia de TI</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/it/" target="_self">TI </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/trust/" target="_self">Páginas de privacidade </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Ensino superior</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/pt-BR/higher-education/" target="_self">Ensino superior </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-help-desktop" class="gray-btn talk-to-an-expert-mobile nl" data-g-event="Edu: Global Header" data-g-action="Talk to an Expert" data-g-label="Header" href="/intl/pt-BR/contact/">Entre em contato com um especialista</a> </h4>
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Usar os produtos do Google</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">Como podemos ajudar você?</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>Ferramentas de produtividade</h5> 
+         <p>Tenha acesso às ferramentas de produtividade do Google: Google Sala de aula, Documentos Google, Google Drive, Hangouts, e-mail e muito mais incluídos gratuitamente e sem anúncios.</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=pt#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Inscrever-se no G Suite</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Adquira dispositivos</h5> 
+         <p>Está interessado em adquirir Chromebooks ou dispositivos Android para sua escola? Nossa equipe pode ajudar você a encontrar o caminho mais adequado.</p> 
+         <a class="maia-button overlay-button" href="/intl/pt-BR/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Entre em contato com um especialista</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Converse com outros professores</h5> 
+         <p>Quer conversar com pessoas como você que mudaram para o Google? Tenha acesso a nossa comunidade de professores.</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Encontre outros professores</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <!-- Mobile hero image --> 
+   <section class="stage mobileShow" id="mobileHero"> 
+    <div class="cols-940"> 
+     <div class="col-12"> 
+      <div class="textWrapper"> 
+       <h2>Uma ajuda para o envolvimento dos alunos, pais e professores de todo o mundo com a Ciência da Computação</h2> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- Carousel --> 
+   <section class="stage" id="storyCarousel"> 
+    <div class="cols-940"> 
+     <div id="slideWrapper" class="mobileHide"> 
+      <!-- Carousel images --> 
+      <div class="slide help-engage" id="slide-help-engage"> 
+       <div class="textWrapper"> 
+        <h2>Uma ajuda para o envolvimento dos alunos, pais e professores de todo o mundo com a Ciência da Computação</h2> 
+       </div> 
+      </div> 
+      <div class="slide cs-first" id="slide-cs-first"> 
+       <div class="textWrapper"> 
+        <p class="body1Bold">GOOGLE COMPUTER SCIENCE EDUCATION</p>
+        <h2>“O CS First nos ajudou a fazer nossos alunos se interessarem pelos elementos básicos da programação de computadores.”</h2> 
+        <div class="cta2 blue heroCta" story-name="cs-first" data-g-click="true" data-g-event="Edu: Hero" data-g-action="Read More:CS First" data-g-label="Hero">
+         LER MAIS
+        </div> 
+        <div> 
+         <p class="body1Bold"> Srta. Betsy Hare </p> 
+         <p class="body1"> Participante do CS First, Especialista em tecnologia de ensino da Oakbrook Middle School em Ladson, Carolina do Sul. </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide made-with-code" id="slide-made-with-code"> 
+       <div class="textWrapper"> 
+        <p class="body1Bold">GOOGLE COMPUTER SCIENCE EDUCATION</p>
+        <h2>“Depois da minha primeira festa Made with Code, eu me senti poderosa e no comando. Fui embora realmente inspirada.”</h2> 
+        <div class="cta2 blue heroCta" story-name="made-with-code" data-g-click="true" data-g-event="Edu: Hero" data-g-action="Read More:Made with Code" data-g-label="Hero">
+         LER MAIS
+        </div> 
+        <div> 
+         <p class="body1Bold"> Amaya, 13 anos </p> 
+         <p class="body1"> Participante do Made with Code na Girls Inc. do Noroeste do Pacífico (Portland, Oregon) </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide rise-award" id="slide-rise-award"> 
+       <div class="textWrapper"> 
+        <p class="body1Bold">GOOGLE COMPUTER SCIENCE EDUCATION</p>
+        <h2>“O prêmio RISE em 2012 certamente ajudou a catalisar nosso incrível crescimento nos dois últimos anos…”</h2> 
+        <div class="cta2 blue heroCta" story-name="rise-award" data-g-click="true" data-g-event="Edu: Hero" data-g-action="Read More:RISE Awards" data-g-label="Hero">
+         LER MAIS
+        </div> 
+        <div> 
+         <p class="body1Bold"> Chelsey Roebuck </p> 
+         <p class="body1"> Sócia do RISE e diretora executiva e cofundadora da ELiTE, cidade de Nova York </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide cs4hs" id="slide-cs4hs"> 
+       <div class="textWrapper"> 
+        <p class="body1Bold">GOOGLE COMPUTER SCIENCE EDUCATION</p>
+        <h2>“Durante nossa oficina CS4HS, aprendemos imediatamente a usar o Scratch e, com ele, apresentamos a programação aos alunos…”</h2> 
+        <div class="cta2 blue heroCta" story-name="cs4hs" data-g-click="true" data-g-event="Edu: Hero" data-g-action="Read More:CS4HS" data-g-label="Hero">
+         LER MAIS
+        </div> 
+        <div> 
+         <p class="body1Bold"> Shannon Houtrouw </p> 
+         <p class="body1"> Participante da CS4HS e professora de Ciência da Computação do Kalamazoo Area Math and Science Center. </p> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="slide pencil-code" id="slide-pencil-code"> 
+       <div class="textWrapper"> 
+        <p class="body1Bold">GOOGLE COMPUTER SCIENCE EDUCATION</p>
+        <h2>"Para mim, programar tem sido um desafio, mas o Pencil Code permitiu que eu testasse minhas habilidades na área.”</h2> 
+        <div class="cta2 blue heroCta" story-name="pencil-code" data-g-click="true" data-g-event="Edu: Hero" data-g-action="Read More:Pencil Code" data-g-label="Hero">
+         LER MAIS
+        </div> 
+        <div> 
+         <p class="body1Bold"> Allie Maltzman </p> 
+         <p class="body1"> Participante do Pencil Code, turma de 2018. </p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <!-- Stories Modal --> 
+     <div id="storyWrapper"> 
+      <!-- stories --> 
+      <section class="story" id="story-cs-first"> 
+       <div class="col-12"> 
+        <div class="closeModal"> 
+         <span>×</span> 
+        </div> 
+       </div> 
+       <!-- Left column --> 
+       <div class="col-6"> 
+        <!-- Challenges --> 
+        <p class="subheadline"> Desafios </p> 
+        <p class="body1">A Srta. Hare reparou que as alunas estavam desistindo dos cursos voltados à tecnologia. Depois de conversar com algumas delas, a professora percebeu que talvez não pudesse mudar os cursos escolhidos pelas alunas, mas poderia oferecer a elas um ambiente depois das aulas no qual se sentissem à vontade para colaborar, se comunicar e se conectar com as colegas por meio da Ciência da Computação.</p> 
+        <a class="cta2 blue" target="_blank" href="http://www.cs-first.com/" data-g-event="Edu: Slide" data-g-action="Read More:CS First:Visit" data-g-label="Slide">Visitar o CS First</a> 
+        <!-- Social media links --> 
+        <menu> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/google-plus.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/facebook.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/twitter.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/instagram.png"></a></menuitem> 
+        </menu> 
+        <!-- Photo Gallery --> 
+        <div class="gallery mobileHide"> 
+         <!-- main image --> 
+         <img class="photoLarge photoLarge1" src="/images/resources/computerscience/csfirst1.png"> 
+         <img class="photoLarge photoLarge2" src="/images/resources/computerscience/csfirst2.png"> 
+         <img class="photoLarge photoLarge3" src="/images/resources/computerscience/csfirst3.png"> 
+         <img class="photoLarge photoLarge4" src="/images/resources/computerscience/csfirst4.png"> 
+         <!-- thumbnail images --> 
+         <div class="photoSmall photoSmall1">
+          <div class="overlay visible"></div>
+         </div> 
+         <div class="photoSmall photoSmall2">
+          <div class="overlay"></div>
+         </div> 
+         <div class="photoSmall photoSmall3">
+          <div class="overlay"></div>
+         </div> 
+         <div class="photoSmall photoSmall4">
+          <div class="overlay"></div>
+         </div> 
+        </div> 
+       </div> 
+       <!-- Right column --> 
+       <div class="col-6"> 
+        <!-- Solutions --> 
+        <p class="subheadline"> Soluções </p> 
+        <p class="body1">Ao perceber que a Ciência da Computação é mais do que simplesmente ficar sentado diante de uma tela, a Srta. Hare criou o Girls in Tech, um curso extracurricular de duas horas para meninas do Ensino fundamental interessadas em formar equipes, estabelecer uma conexão com a comunidade e usar o Google CS First para aprender os fundamentos da programação de computadores. Mulheres da comunidade local de tecnologia são convidadas a comentar sobre a carreira e ajudar na orientação, enquanto as alunas trabalham em projetos do CS First. A maioria das meninas começa sem nenhum contato com a Ciência da Computação e termina o curso ansiando por mais projetos, animadas para mostrar as habilidades de programação aos colegas, amigos, parentes e membros da comunidade.</p> 
+        <!-- Resources --> 
+        <p class="subheadline">Recursos</p> 
+        <div class="resourceLink"> 
+         <img alt="" class="icon" src="/images/resources/computerscience/icon_external_link.png"> 
+         <div> 
+          <a class="body2SemiBold" target="_blank" href="http://www.cs-first.com/start-club" data-g-event="Edu: Slide" data-g-action="Read More:CS First:Resource:Start a club" data-g-label="Slide">Monte um clube</a> 
+         </div> 
+        </div> 
+        <div class="resourceLink"> 
+         <img alt="" class="icon" src="/images/resources/computerscience/icon_external_link.png"> 
+         <div> 
+          <a class="body2SemiBold" target="_blank" href="http://www.cs-first.com/materials" data-g-event="Edu: Slide" data-g-action="Read More:CS First:Resource:Learning materials" data-g-label="Slide">Visualize materiais de ensino</a> 
+         </div> 
+        </div> 
+        <aside> 
+         <p class="subheadline"> "The tech field can be an intimidating and difficult field for many women and minorities to break into. We are striving to tear down these artificial barriers and get more of our girls excited and engaged with technology through partnerships between schools, the local tech community, and Google CS First.” </p> 
+         <div> 
+          <p class="body1Bold"> Srta. Betsy Hare </p> 
+          <p class="body1"> Participante do CS First, Especialista em tecnologia de ensino da Oakbrook Middle School em Ladson, Carolina do Sul. </p> 
+         </div> 
+        </aside> 
+       </div> 
+      </section> 
+      <section class="story" id="story-made-with-code"> 
+       <div class="col-12"> 
+        <div class="closeModal"> 
+         <span>×</span> 
+        </div> 
+       </div> 
+       <!-- Left column --> 
+       <div class="col-6"> 
+        <!-- Challenges --> 
+        <p class="subheadline"> Desafios </p> 
+        <p class="body1">Antes do Made with Code, Amaya tinha pouquíssima experiência com a programação e não compreendia quando e como empregá-la. Amaya diz ser grata à Girls Inc. e pela experiência com o Made with Code e acredita que há um grande número de meninas que não receberam a oportunidade de aprender programação nem foram incentivadas a desenvolver uma carreira na área da Ciência da Computação.</p> 
+        <a class="cta2 blue" target="_blank" href="http://madewithcode.com" data-g-event="Edu: Slide" data-g-action="Read More:Made with Code:Visit" data-g-label="Slide">Acessar o Made with Code</a> 
+        <!-- Social media links --> 
+        <menu> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/google-plus.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/facebook.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/twitter.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/instagram.png"></a></menuitem> 
+        </menu> 
+        <!-- Photo Gallery --> 
+        <div class="gallery mobileHide"> 
+         <!-- main image --> 
+         <img class="photoLarge photoLarge1" src="/images/resources/computerscience/mwc1.png"> 
+         <img class="photoLarge photoLarge2" src="/images/resources/computerscience/mwc2.png"> 
+         <img class="photoLarge photoLarge3" src="/images/resources/computerscience/mwc3.png"> 
+         <img class="photoLarge photoLarge4" src="/images/resources/computerscience/mwc4.png"> 
+         <!-- thumbnail images --> 
+         <div class="photoSmall photoSmall1">
+          <div class="overlay visible"></div>
+         </div> 
+         <div class="photoSmall photoSmall2">
+          <div class="overlay"></div>
+         </div> 
+         <div class="photoSmall photoSmall3">
+          <div class="overlay"></div>
+         </div> 
+         <div class="photoSmall photoSmall4">
+          <div class="overlay"></div>
+         </div> 
+        </div> 
+       </div> 
+       <!-- Right column --> 
+       <div class="col-6"> 
+        <!-- Solutions --> 
+        <p class="subheadline"> Soluções </p> 
+        <p class="body1">Com o Made with Code, Amaya viu que garotas podem trabalhar em importantes cargos da Ciência da Computação e alcançar a igualdade em relação aos homens dentro da programação. Ela também se inspirou a ensinar outras meninas a programar na Girls Inc. Por meio dessa experiência, Amaya ganhou confiança, aprendeu a respeito de seus pontos fortes e descobriu seu potencial de liderança.</p> 
+        <!-- Resources --> 
+        <p class="subheadline">Recursos</p> 
+        <div class="resourceLink"> 
+         <img alt="" class="icon" src="/images/resources/computerscience/icon_external_link.png"> 
+         <div> 
+          <a class="body2SemiBold" target="_blank" href="https://www.madewithcode.com/projects" data-g-event="Edu: Slide" data-g-action="Read More:Made with Code:Resource:Try" data-g-label="Slide">Teste um projeto de programação</a> 
+         </div> 
+        </div> 
+        <div class="resourceLink"> 
+         <img alt="" class="icon" src="/images/resources/computerscience/icon_external_link.png"> 
+         <div> 
+          <a class="body2SemiBold" target="_blank" href="https://www.madewithcode.com/mentors" data-g-event="Edu: Slide" data-g-action="Read More:Made with Code:Resource:Learn" data-g-label="Slide">Aprenda com orientadores do RISE</a> 
+         </div> 
+        </div> 
+        <aside> 
+         <p class="subheadline"> "Made with Code exposed me to a different kind of environment. An environment where girls were using code to create and design games or movies, and even to help and heal others” </p> 
+         <div> 
+          <p class="body1Bold"> Amaya, 13 anos </p> 
+          <p class="body1"> Participante do Made with Code na Girls Inc. do Noroeste do Pacífico (Portland, Oregon) </p> 
+         </div> 
+        </aside> 
+       </div> 
+      </section> 
+      <section class="story" id="story-rise-award"> 
+       <div class="col-12"> 
+        <div class="closeModal"> 
+         <span>×</span> 
+        </div> 
+       </div> 
+       <!-- Left column --> 
+       <div class="col-6"> 
+        <!-- Challenges --> 
+        <p class="subheadline"> Desafios </p> 
+        <p class="body1"><a href="http://elite-education.org/">ELiTE</a> was specifically interested in learning how to better serve girls as emerging leaders in technology. They sought to learn from WAAW Foundation (Working to Advance African Women) and model best practices to engage more girls, specifically in Africa.</p> 
+        <a class="cta2 blue" target="_blank" href="/intl/pt-BR/resources/programs/google-rise-awards/" data-g-event="Edu: Slide" data-g-action="Read More:RISE Awards:Visit" data-g-label="Slide">Acessar o RISE</a> 
+        <!-- Social media links --> 
+        <menu> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/google-plus.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/facebook.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/twitter.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/instagram.png"></a></menuitem> 
+        </menu> 
+        <!-- Photo Gallery --> 
+        <div class="gallery mobileHide"> 
+         <!-- main image --> 
+         <img class="photoLarge photoLarge1" src="/images/resources/computerscience/rise1.png"> 
+         <img class="photoLarge photoLarge2" src="/images/resources/computerscience/rise2.png"> 
+         <img class="photoLarge photoLarge3" src="/images/resources/computerscience/rise3.png"> 
+         <img class="photoLarge photoLarge4" src="/images/resources/computerscience/rise4.png"> 
+         <!-- thumbnail images --> 
+         <div class="photoSmall photoSmall1">
+          <div class="overlay visible"></div>
+         </div> 
+         <div class="photoSmall photoSmall2">
+          <div class="overlay"></div>
+         </div> 
+         <div class="photoSmall photoSmall3">
+          <div class="overlay"></div>
+         </div> 
+         <div class="photoSmall photoSmall4">
+          <div class="overlay"></div>
+         </div> 
+        </div> 
+       </div> 
+       <!-- Right column --> 
+       <div class="col-6"> 
+        <!-- Solutions --> 
+        <p class="subheadline"> Soluções </p> 
+        <p class="body1">A ELiTE aplica seus ensinamentos de países como Quênia, Gana e Nigéria aos EUA, onde agora administra programas extracurriculares mais inclusivos nas escolas. Embora seu foco fosse a criação de um ambiente de trabalho melhor para as meninas, as mudanças trouxeram melhorias na qualidade do trabalho de todos os alunos.</p> 
+        <!-- Resources --> 
+        <p class="subheadline">Recursos</p> 
+        <div class="resourceLink"> 
+         <img alt="" class="icon" src="/images/resources/computerscience/icon_external_link.png"> 
+         <div> 
+          <a class="body2SemiBold" target="_blank" href="/intl/pt-BR/resources/programs/google-rise-awards/#!guidelines" data-g-event="Edu: Slide" data-g-action="Read More:RISE Awards:Resource:Program eligibility" data-g-label="Slide">Qualificação para o programa</a> 
+         </div> 
+        </div> 
+        <div class="resourceLink"> 
+         <img alt="" class="icon" src="/images/resources/computerscience/icon_external_link.png"> 
+         <div> 
+          <a class="body2SemiBold" target="_blank" href="/intl/pt-BR/resources/programs/google-rise-awards/#!award-recipients" data-g-event="Edu: Slide" data-g-action="Read More:RISE Awards:Resource:Recipients" data-g-label="Slide">Veja todos os ganhadores do prêmio RISE</a> 
+         </div> 
+        </div> 
+        <aside> 
+         <p class="subheadline"> "The past two years have been an incredible journey and we are grateful for [RISE’s] support and partnership. We've grown as an organization and learned so much—especially this past year through our partnership with Unoma and The WAAW Foundation.” </p> 
+         <div> 
+          <p class="body1Bold"> Chelsey Roebuck </p> 
+          <p class="body1"> Sócia do RISE e diretora executiva e cofundadora da ELiTE, cidade de Nova York </p> 
+         </div> 
+        </aside> 
+       </div> 
+      </section> 
+      <section class="story" id="story-cs4hs"> 
+       <div class="col-12"> 
+        <div class="closeModal"> 
+         <span>×</span> 
+        </div> 
+       </div> 
+       <!-- Left column --> 
+       <div class="col-6"> 
+        <!-- Challenges --> 
+        <p class="subheadline"> Desafios </p> 
+        <p class="body1">De acordo com um estudo realizado pelo departamento de educação dos EUA em 2015, pelo menos 17 estados informaram a carência de professores suficientes de Ciência da Computação, alguns deles apresentando o problema já em 1990. O apoio ao crescimento do ensino da Ciência da Computação significa desenvolver e reter professores de alta qualidade, capazes de compreender as práticas mais recentes e a pedagogia do ensino da Ciência da Computação.</p> 
+        <a class="cta2 blue" target="_blank" href="http://www.cs4hs.com" data-g-event="Edu: Slide" data-g-action="Read More:CS4HS:Visit" data-g-label="Slide">Acessar a CS4HS</a> 
+        <!-- Social media links --> 
+        <menu> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/google-plus.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/facebook.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/twitter.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/instagram.png"></a></menuitem> 
+        </menu> 
+        <!-- Photo Gallery --> 
+        <div class="gallery mobileHide"> 
+         <!-- main image --> 
+         <img class="photoLarge photoLarge1" src="/images/resources/computerscience/cs4hs1.png"> 
+         <img class="photoLarge photoLarge2" src="/images/resources/computerscience/cs4hs2.png"> 
+         <img class="photoLarge photoLarge3" src="/images/resources/computerscience/cs4hs3.png"> 
+         <img class="photoLarge photoLarge4" src="/images/resources/computerscience/cs4hs4.png"> 
+         <!-- thumbnail images --> 
+         <div class="photoSmall photoSmall1">
+          <div class="overlay visible"></div>
+         </div> 
+         <div class="photoSmall photoSmall2">
+          <div class="overlay"></div>
+         </div> 
+         <div class="photoSmall photoSmall3">
+          <div class="overlay"></div>
+         </div> 
+         <div class="photoSmall photoSmall4">
+          <div class="overlay"></div>
+         </div> 
+        </div> 
+       </div> 
+       <!-- Right column --> 
+       <div class="col-6"> 
+        <!-- Solutions --> 
+        <p class="subheadline"> Soluções </p> 
+        <p class="body1">A CS4HS oferece financiamento para especialistas locais no ensino da Ciência da Computação para o planejamento e o desenvolvimento profissional do professor de Ciência da Computação. Os programas da CS4HS variam de acordo com a região baseados nas necessidades dos professores locais. No entanto, o resultado é o mesmo: os professores ganham confiança no ensino da Ciência da Computação e estabelecem relações valiosas com outros professores da área.</p> 
+        <!-- Resources --> 
+        <p class="subheadline">Recursos</p> 
+        <div class="resourceLink"> 
+         <img alt="" class="icon" src="/images/resources/computerscience/icon_external_link.png"> 
+         <div> 
+          <a class="body2SemiBold" target="_blank" href="http://www.cs4hs.com/application/" data-g-event="Edu: Slide" data-g-action="Read More:CS4HS:Resource:Apply for a grant" data-g-label="Slide">Candidate-se a uma bolsa da CS4HS</a> 
+         </div> 
+        </div> 
+        <div class="resourceLink"> 
+         <img alt="" class="icon" src="/images/resources/computerscience/icon_external_link.png"> 
+         <div> 
+          <a class="body2SemiBold" target="_blank" href="http://www.cs4hs.com/current-programs/" data-g-event="Edu: Slide" data-g-action="Read More:CS4HS:Resource:Training programs" data-g-label="Slide">Professores: encontrem programas de treinamento</a> 
+         </div> 
+        </div> 
+        <aside> 
+         <p class="subheadline"> "In addition to needing professional development hours each year, I also need to network with my colleagues on latest practices, things going on in AP Computer Science, Robotics opportunities, computer math topics, algorithm development, and computer science competitions for high schoolers. CS4HS provided that for me.” </p> 
+         <div> 
+          <p class="body1Bold"> Shannon Houtrouw </p> 
+          <p class="body1"> Participante da CS4HS e professora de Ciência da Computação do Kalamazoo Area Math and Science Center. </p> 
+         </div> 
+        </aside> 
+       </div> 
+      </section> 
+      <section class="story" id="story-pencil-code"> 
+       <div class="col-12"> 
+        <div class="closeModal"> 
+         <span>×</span> 
+        </div> 
+       </div> 
+       <!-- Left column --> 
+       <div class="col-6"> 
+        <!-- Challenges --> 
+        <p class="subheadline"> Desafios </p> 
+        <p class="body1">Beaver Country Day School, a small private school in Massachusetts, recognized the growing importance that computer science plays in the world. However, like many schools in the US, they didn’t offer any programming classes, so their students weren’t getting exposure to CS</p> 
+        <a class="cta2 blue" target="_blank" href="http://gym.pencilcode.net/" data-g-event="Edu: Slide" data-g-action="Read More:Pencil Code:Visit" data-g-label="Slide">Acessar o Pencil Code</a> 
+        <!-- Social media links --> 
+        <menu> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/google-plus.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/facebook.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/twitter.png"></a></menuitem> 
+         <menuitem><a href="#"><img alt="" src="/images/resources/computerscience/instagram.png"></a></menuitem> 
+        </menu> 
+        <!-- Photo Gallery --> 
+        <div class="gallery mobileHide"> 
+         <!-- main image --> 
+         <img class="photoLarge photoLarge1" src="/images/resources/computerscience/pencilcode1.png"> 
+         <img class="photoLarge photoLarge2" src="/images/resources/computerscience/pencilcode2.png"> 
+         <img class="photoLarge photoLarge3" src="/images/resources/computerscience/pencilcode3.png"> 
+         <img class="photoLarge photoLarge4" src="/images/resources/computerscience/pencilcode4.png"> 
+         <!-- thumbnail images --> 
+         <div class="photoSmall photoSmall1">
+          <div class="overlay visible"></div>
+         </div> 
+         <div class="photoSmall photoSmall2">
+          <div class="overlay"></div>
+         </div> 
+         <div class="photoSmall photoSmall3">
+          <div class="overlay"></div>
+         </div> 
+         <div class="photoSmall photoSmall4">
+          <div class="overlay"></div>
+         </div> 
+        </div> 
+       </div> 
+       <!-- Right column --> 
+       <div class="col-6"> 
+        <!-- Solutions --> 
+        <p class="subheadline"> Soluções </p> 
+        <p class="body1">Para mudar isso, em 2013, a Beaver Country Day School se tornou a primeira escola do país a integrar a Ciência da Computação a cada aula. Do inglês às aulas de artes e matemática, essa escola usou a ferramenta Pencil Code para incorporar a programação ao currículo. Agora os estudantes se envolvem em uma série de atividades com o Pencil Code, que vão do projeto de robôs de bate-papo até a criação de representações visuais de Macbeth, passando pela solução de equações matemáticas e o desenvolvimento de um aplicativo que diz ao usuário quantas horas de estudo são necessárias todas as noites.</p> 
+        <!-- Resources --> 
+        <p class="subheadline">Recursos</p> 
+        <div class="resourceLink"> 
+         <img alt="" class="icon" src="/images/resources/computerscience/icon_external_link.png"> 
+         <div> 
+          <a class="body2SemiBold" target="_blank" href="http://gym.pencilcode.net/draw/#/draw/tree.html" data-g-event="Edu: Slide" data-g-action="Read More:Pencil Code:Resource:Code your own art" data-g-label="Slide">Programe sua própria arte</a> 
+         </div> 
+        </div> 
+        <div class="resourceLink"> 
+         <img alt="" class="icon" src="/images/resources/computerscience/icon_external_link.png"> 
+         <div> 
+          <a class="body2SemiBold" target="_blank" href="http://gym.pencilcode.net/jam/#/jam/firstnote.html" data-g-event="Edu: Slide" data-g-action="Read More:Pencil Code:Resource:Code your own music" data-g-label="Slide">Programe sua própria música</a> 
+         </div> 
+        </div> 
+        <aside> 
+         <p class="subheadline"> "After completing this code I knew more and understood more of the play. It allowed me to interpret Macbeth in a new way that I had never thought of before. I really enjoyed using Pencil Code because it made coding simpler for me and helped me try something new.” </p> 
+         <div> 
+          <p class="body1Bold"> Allie Maltzman </p> 
+          <p class="body1"> Participante do Pencil Code, turma de 2018. </p> 
+         </div> 
+        </aside> 
+       </div> 
+      </section> 
+      <!-- Modal navigation --> 
+      <nav class="cols-940 mobileHide" id="modalNav"> 
+       <div class="col-12"> 
+        <p class="subheadline"> Histórias da Ciência da Computação </p> 
+       </div> 
+       <div class="col-12"> 
+        <div id="modalNavLeft"></div> 
+        <div id="modalNavWrapper"> 
+         <div id="modalNavHolder"> 
+          <div class="modalNavItem" story-name="cs-first"> 
+           <img alt="" src="/images/resources/computerscience/slide_thumbnail_01.jpg"> 
+           <p class="body1Bold"> CS First </p> 
+           <p class="body2">“O CS First nos ajudou a fazer nossos alunos se interessarem pelos elementos básicos da programação de computadores.”</p> 
+          </div> 
+          <div class="modalNavItem" story-name="made-with-code"> 
+           <img alt="" src="/images/resources/computerscience/slide_thumbnail_02.jpg"> 
+           <p class="body1Bold"> Made with Code </p> 
+           <p class="body2">“Depois da minha primeira festa Made with Code, eu me senti poderosa e no comando. Fui embora realmente inspirada.”</p> 
+          </div> 
+          <div class="modalNavItem" story-name="rise-award"> 
+           <img alt="" src="/images/resources/computerscience/slide_thumbnail_03.jpg"> 
+           <p class="body1Bold"> RISE </p> 
+           <p class="body2">“O prêmio RISE em 2012 certamente ajudou a catalisar nosso incrível crescimento nos dois últimos anos…”</p> 
+          </div> 
+          <div class="modalNavItem" story-name="cs4hs"> 
+           <img alt="" src="/images/resources/computerscience/slide_thumbnail_04.jpg"> 
+           <p class="body1Bold"> CS4HS </p> 
+           <p class="body2">“Durante nossa oficina CS4HS, aprendemos imediatamente a usar o Scratch e, com ele, apresentamos a programação aos alunos…”</p> 
+          </div> 
+          <div class="modalNavItem" story-name="pencil-code"> 
+           <img alt="" src="/images/resources/computerscience/slide_thumbnail_05.jpg"> 
+           <p class="body1Bold"> Pencil Code </p> 
+           <p class="body2">"Para mim, programar tem sido um desafio, mas o Pencil Code permitiu que eu testasse minhas habilidades na área.”</p> 
+          </div> 
+         </div> 
+        </div> 
+        <div id="modalNavRight"></div> 
+       </div> 
+      </nav> 
+     </div> 
+     <!-- Carousel navigation --> 
+     <nav class="cols-940 mobileHide" id="carouselNav"> 
+      <div id="navBack" class="inactive"></div> 
+      <div id="carouselNavWrapper"> 
+       <div id="carouselNavHolder"> 
+        <div class="carouselNavItem  active "> 
+         <img alt="" src="/images/resources/computerscience/slide_icon_default.jpg"> 
+         <div> 
+          <p class="body2"> O que é a Ciência da Computação e por que ela é importante </p> 
+          <p class="body1"> Uma ajuda para o envolvimento dos alunos, pais e professores de todo o mundo com a Ciência da Computação </p> 
+         </div> 
+        </div> 
+        <div class="carouselNavItem "> 
+         <img alt="" src="/images/resources/computerscience/slide_icon_01.jpg"> 
+         <div> 
+          <p class="body2"> CS First </p> 
+          <p class="body1"> “O CS First nos ajudou a fazer nossos alunos se interessarem pelos elementos básicos da programação de computadores.” </p> 
+         </div> 
+        </div> 
+        <div class="carouselNavItem "> 
+         <img alt="" src="/images/resources/computerscience/slide_icon_02.jpg"> 
+         <div> 
+          <p class="body2"> Made with Code </p> 
+          <p class="body1"> “Depois da minha primeira festa Made with Code, eu me senti poderosa e no comando. Fui embora realmente inspirada.” </p> 
+         </div> 
+        </div> 
+        <div class="carouselNavItem "> 
+         <img alt="" src="/images/resources/computerscience/slide_icon_03.jpg"> 
+         <div> 
+          <p class="body2"> RISE </p> 
+          <p class="body1"> “O prêmio RISE em 2012 certamente ajudou a catalisar nosso incrível crescimento nos dois últimos anos…” </p> 
+         </div> 
+        </div> 
+        <div class="carouselNavItem "> 
+         <img alt="" src="/images/resources/computerscience/slide_icon_04.jpg"> 
+         <div> 
+          <p class="body2"> CS4HS </p> 
+          <p class="body1"> “Durante nossa oficina CS4HS, aprendemos imediatamente a usar o Scratch e, com ele, apresentamos a programação aos alunos…” </p> 
+         </div> 
+        </div> 
+        <div class="carouselNavItem "> 
+         <img alt="" src="/images/resources/computerscience/slide_icon_05.jpg"> 
+         <div> 
+          <p class="body2"> Pencil Code </p> 
+          <p class="body1"> "Para mim, programar tem sido um desafio, mas o Pencil Code permitiu que eu testasse minhas habilidades na área.” </p> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="navForward"></div> 
+     </nav> 
+    </div> 
+   </section> 
+   <!-- Mobile nav --> 
+   <section class="stage mobileShow" id="mobileNav"> 
+    <div class="mobileNavItem" story-name="cs-first"> 
+     <img alt="" src="/images/resources/computerscience/slide_icon_01.jpg"> 
+     <div> 
+      <p class="body2"> CS First </p> 
+      <p class="body1"> “O CS First nos ajudou a fazer nossos alunos se interessarem pelos elementos básicos da programação de computadores.” </p> 
+     </div> 
+    </div> 
+    <div class="mobileNavItem" story-name="made-with-code"> 
+     <img alt="" src="/images/resources/computerscience/slide_icon_02.jpg"> 
+     <div> 
+      <p class="body2"> Made with Code </p> 
+      <p class="body1"> “Depois da minha primeira festa Made with Code, eu me senti poderosa e no comando. Fui embora realmente inspirada.” </p> 
+     </div> 
+    </div> 
+    <div class="mobileNavItem" story-name="rise-award"> 
+     <img alt="" src="/images/resources/computerscience/slide_icon_03.jpg"> 
+     <div> 
+      <p class="body2"> RISE </p> 
+      <p class="body1"> “O prêmio RISE em 2012 certamente ajudou a catalisar nosso incrível crescimento nos dois últimos anos…” </p> 
+     </div> 
+    </div> 
+    <div class="mobileNavItem" story-name="cs4hs"> 
+     <img alt="" src="/images/resources/computerscience/slide_icon_04.jpg"> 
+     <div> 
+      <p class="body2"> CS4HS </p> 
+      <p class="body1"> “Durante nossa oficina CS4HS, aprendemos imediatamente a usar o Scratch e, com ele, apresentamos a programação aos alunos…” </p> 
+     </div> 
+    </div> 
+    <div class="mobileNavItem" story-name="pencil-code"> 
+     <img alt="" src="/images/resources/computerscience/slide_icon_05.jpg"> 
+     <div> 
+      <p class="body2"> Pencil Code </p> 
+      <p class="body1"> "Para mim, programar tem sido um desafio, mas o Pencil Code permitiu que eu testasse minhas habilidades na área.” </p> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- Learning section --> 
+   <section class="stage" id="learning"> 
+    <div class="cols-940"> 
+     <div class="col-12"> 
+      <h2> Envolva-se </h2> 
+     </div> 
+     <a href="/intl/pt-BR/resources/computerscience/learning/" data-g-event="Edu: Canvas" data-g-action="Learn More" data-g-label="Get Involved"> 
+      <div class="articleWrapper"> 
+       <article> 
+        <p class="subheadline"> Recursos </p>
+        <img alt="" src="/images/resources/computerscience/resources_01.jpg"> 
+        <p class="body2"> Ambientes de programação, materiais de aprimoramento e inspiração impulsionados pelo usuário para conferir mais poder a diferentes grupos de estudantes </p> 
+       </article> 
+       <article> 
+        <p class="subheadline"> Programas </p>
+        <img alt="" src="/images/resources/computerscience/resources_02.jpg"> 
+        <p class="body2"> Competições anuais entre os alunos, recursos para a carreira e programas de envolvimento dos estudantes com a tecnologia </p> 
+       </article> 
+       <article> 
+        <p class="subheadline"> Financiamento </p>
+        <img alt="" src="/images/resources/computerscience/resources_03.jpg"> 
+        <p class="body2"> Bolsas de estudos para alunos e programas anuais de financiamento para apoiar o ensino da Ciência da Computação em cada estágio </p> 
+       </article> 
+       <div class="cta-copy">
+        Saber mais
+       </div> 
+      </div></a> 
+    </div> 
+   </section> 
+   <!-- Research section --> 
+   <section class="stage" id="research"> 
+    <div class="cols-940"> 
+     <div class="col-6"> 
+      <h3> Fundamentado em pesquisas </h3> 
+      <p class="body1"> Solicitamos estudos para compreender mais a fundo como aumentar a conscientização entre os alunos e ampliar o acesso deles à Ciência da Computação. Trabalhamos para revelar os fatores que motivam os estudantes e as barreiras que os impedem de buscar a Ciência da Computação. </p> 
+      <a class="cta3" href="/intl/pt-BR/resources/computerscience/research/" data-g-event="Edu: Canvas" data-g-action="View Research" data-g-label="Grounded Research"> VISUALIZAR ESTUDOS E PESQUISAS </a> 
+     </div> 
+     <div class="col-3"> 
+      <img alt="" src="/images/resources/computerscience/research_01.jpg"> 
+      <p class="body1Bold"> A busca pela Ciência da Computação: acesso e obstáculos no Ensino fundamental e no médio dos EUA </p> 
+      <p class="body2"> Levantamento de superintendentes, diretores, professores, pais e alunos. </p> 
+     </div> 
+     <div class="col-3"> 
+      <img alt="" src="/images/resources/computerscience/research_02.jpg"> 
+      <p class="body1Bold"> Mulheres que escolheram a Ciência da Computação: o que realmente importa </p> 
+      <p class="body2"> Fatores-chave que incentivam as jovens a desenvolver carreira na Ciência da Computação. </p> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Produtos</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/products/devices/">Dispositivos</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/products/productivity-tools/">Ferramentas de produtividade</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/products/productivity-tools/classroom/">Google Sala de aula</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/products/more-products/">Mais produtos</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Treinamento</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=pt_BR" target="_blank">Treinamento para professores</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">Treinamento para administradores de TI</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">Diretório de parceiros</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/resources/communities/">Comunidades</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Recursos</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/resources/programs/">Programas</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/resources/computerscience/">Ciência da computação</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/resources/global-education/">Educação global</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/it/">TI</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">Recursos para desenvolvedores</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/access/">Acessar</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/contact/">Vendas</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">Suporte</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/partners/">Programa para parceiros</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/pt-BR/case-studies/">Estudos de caso</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">Ver escolas que utilizam Chromebooks</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">Blog</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="Pesquisar neste site" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/resources/computerscience/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/resources/computerscience/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/da/resources/computerscience/"> dansk (Danmark) </option><option value="/intl/en_au/resources/computerscience/"> English (Australia) </option><option value="/intl/en_ca/resources/computerscience/"> English (Canada) </option><option value="/intl/en_in/resources/computerscience/"> English (India) </option><option value="/intl/en_nz/resources/computerscience/"> English (New Zealand) </option><option value="/intl/en_uk/resources/computerscience/"> English (United Kingdom) </option><option value="/resources/computerscience/"> English (United States) </option><option value="/intl/es-419_mx/resources/computerscience/"> español (México) </option><option value="/intl/es-419/resources/computerscience/"> español (Latinoamérica) </option><option value="/intl/fi/resources/computerscience/"> suomi (Suomi) </option><option value="/intl/fr_be/resources/computerscience/"> français (Belgique) </option><option value="/intl/id/resources/computerscience/"> Indonesia (Indonesia) </option><option value="/intl/ja/resources/computerscience/"> 日本語 (日本) </option><option value="/intl/ms/resources/computerscience/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/resources/computerscience/"> Nederlands (Nederland) </option><option value="/intl/no/resources/computerscience/"> norsk bokmål (Norge) </option><option selected value="/intl/pt-BR/resources/computerscience/"> português (Brasil) </option><option value="/intl/sv/resources/computerscience/"> svenska (Sverige) </option><option value="/intl/th/resources/computerscience/"> ไทย (ไทย) </option><option value="/intl/tr/resources/computerscience/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/pt/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/pt/policies/privacy/">Privacidade</a> </li> 
+      <li> <a href="https://www.google.com/intl/pt/policies/terms/">Termos</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script>  
+ </body>
+</html>

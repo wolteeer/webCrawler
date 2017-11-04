@@ -1,0 +1,961 @@
+<!doctype html>
+<html class="google mmfb" lang="id" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/id/access/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="Dalam beberapa tahun terakhir, ada banyak sekolah inovatif yang mulai menggunakan teknologi pendidikan. Walaupun institusi Anda juga mungkin siap untuk melakukan langkah yang sama, biasanya kita tidak tahu harus memulai dari mana. Tanpa visi yang jelas dan pertimbangan yang bijaksana, langkah tersebut dapat memakan waktu dan biaya yang tidak sedikit." name="description"> 
+  <title>
+    Google for Education: Menerapkan Pembelajaran Online
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/id/access/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Menerapkan Pembelajaran Online" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/id/access/" property="og:url"> 
+  <meta content="" property="og:image"> 
+  <meta content="Dalam beberapa tahun terakhir, ada banyak sekolah inovatif yang mulai menggunakan teknologi pendidikan. Walaupun institusi Anda juga mungkin siap untuk melakukan langkah yang sama, biasanya kita tidak tahu harus memulai dari mana. Tanpa visi yang jelas dan pertimbangan yang bijaksana, langkah tersebut dapat memakan waktu dan biaya yang tidak sedikit." property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/id/access/" name="twitter:url"> 
+  <meta content="Google for Education: Menerapkan Pembelajaran Online" name="twitter:title"> 
+  <meta content="" name="twitter:image"> 
+  <meta content="Dalam beberapa tahun terakhir, ada banyak sekolah inovatif yang mulai menggunakan teknologi pendidikan. Walaupun institusi Anda juga mungkin siap untuk melakukan langkah yang sama, biasanya kita tidak tahu harus memulai dari mana. Tanpa visi yang jelas dan pertimbangan yang bijaksana, langkah tersebut dapat memakan waktu dan biaya yang tidak sedikit." name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Menerapkan Pembelajaran Online" itemprop="name"> 
+  <meta content="Dalam beberapa tahun terakhir, ada banyak sekolah inovatif yang mulai menggunakan teknologi pendidikan. Walaupun institusi Anda juga mungkin siap untuk melakukan langkah yang sama, biasanya kita tidak tahu harus memulai dari mana. Tanpa visi yang jelas dan pertimbangan yang bijaksana, langkah tersebut dapat memakan waktu dan biaya yang tidak sedikit." itemprop="description"> 
+  <meta content="" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Menerapkan Pembelajaran Online",
+    "description": "Dalam beberapa tahun terakhir, ada banyak sekolah inovatif yang mulai menggunakan teknologi pendidikan. Walaupun institusi Anda juga mungkin siap untuk melakukan langkah yang sama, biasanya kita tidak tahu harus memulai dari mana. Tanpa visi yang jelas dan pertimbangan yang bijaksana, langkah tersebut dapat memakan waktu dan biaya yang tidak sedikit.",
+    "url": "https://edu.google.com/intl/id/access/",
+    "logo": "",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+  <link href="/css/access.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="access"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/id/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Dapatkan Produk Google</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">Ada yang Bisa Kami Bantu?</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>Dapatkan Alat Produktivitas</h5> 
+        <p>Dapatkan alat produktivitas Google, termasuk Kelas, Google Dokumen, Drive, Hangouts, email, dan lainnya, gratis tanpa iklan.</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=id#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Daftar G Suite</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Dapatkan Perangkat</h5> 
+        <p>Ingin mendapatkan perangkat Android atau Chromebook untuk sekolah Anda? Tim kami bisa membantu Anda mendapatkannya.</p> 
+        <a class="maia-button overlay-button" href="/intl/id/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Hubungi Pakar</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Berbincang dengan Pengajar Lainnya</h5> 
+        <p>Ingin berbincang dengan orang-orang seperti Anda yang telah beralih ke Google? Manfaatkan komunitas pengajar kami.</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Temukan Pengajar Lainnya</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li class="active"> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/" target="_self">Beranda</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">Produk</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/products/devices/" target="_self">Perangkat <br><span class="dropdown-item-description">Chromebook</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/products/productivity-tools/" target="_self">Alat Produktivitas <br><span class="dropdown-item-description">Dokumen, Gmail, dan Lainnya</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/products/productivity-tools/classroom/" target="_self">Kelas <br><span class="dropdown-item-description">Pusat kendali bagi para guru dan siswa</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Karyawisata realitas maya</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/products/more-products/" target="_self">Produk Lainnya <br><span class="dropdown-item-description">Cloud, Browser Chrome, dan Lainnya</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">Pelatihan</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=id" target="_self">Pelatihan Pengajar <br><span class="dropdown-item-description">tentang alat Google for Education</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">Pelatihan Admin TI <br><span class="dropdown-item-description">untuk Administrator G Suite</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Direktori Mitra <br><span class="dropdown-item-description">untuk membantu sekolah Anda beralih ke Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/resources/communities/" target="_self">Komunitas <br><span class="dropdown-item-description">bagi pengajar yang menggunakan Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">Referensi</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/resources/programs/" target="_self">Program <br><span class="dropdown-item-description">untuk siswa dan guru</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/case-studies/" target="_self">Studi Kasus </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/resources/computerscience/" target="_self">Pendidikan Ilmu Komputer <br><span class="dropdown-item-description">Pendidikan Ilmu Komputer, Pendanaan, dan Penelitian</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/resources/global-education/" target="_self">Pendidikan Global </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/id/it/" target="_self">Panduan TI</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/id/higher-education/" target="_self">Pendidikan Tinggi</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Produk</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/products/devices/" target="_self">Perangkat <span class="nav-subtext">Chromebook</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/products/productivity-tools/" target="_self">Alat Produktivitas <span class="nav-subtext">Dokumen, Gmail, dan Lainnya</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/products/productivity-tools/classroom/" target="_self">Kelas <span class="nav-subtext">Pusat kendali bagi para guru dan siswa</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/expeditions/" target="_self">Expeditions <span class="nav-subtext">Karyawisata realitas maya</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/products/more-products/" target="_self">Produk Lainnya <span class="nav-subtext">Cloud, Browser Chrome, dan Lainnya</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Pelatihan</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=id" target="_self">Pelatihan Pengajar <span class="nav-subtext">tentang alat Google for Education</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">Pelatihan Admin TI <span class="nav-subtext">untuk Administrator G Suite</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Direktori Mitra <span class="nav-subtext">untuk membantu sekolah Anda beralih ke Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/resources/communities/" target="_self">Komunitas <span class="nav-subtext">bagi pengajar yang menggunakan Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Referensi</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/resources/programs/" target="_self">Program <span class="nav-subtext">untuk siswa dan guru</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/case-studies/" target="_self">Studi Kasus </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/resources/computerscience/" target="_self">Pendidikan Ilmu Komputer <span class="nav-subtext">Pendidikan Ilmu Komputer, Pendanaan, dan Penelitian</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/resources/global-education/" target="_self">Pendidikan Global </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Panduan TI</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/it/" target="_self">TI </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/trust/" target="_self">Laman Privasi </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Pendidikan Tinggi</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/id/higher-education/" target="_self">Pendidikan Tinggi </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Dapatkan Produk Google</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">Ada yang Bisa Kami Bantu?</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>Dapatkan Alat Produktivitas</h5> 
+         <p>Dapatkan alat produktivitas Google, termasuk Kelas, Google Dokumen, Drive, Hangouts, email, dan lainnya, gratis tanpa iklan.</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=id#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Daftar G Suite</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Dapatkan Perangkat</h5> 
+         <p>Ingin mendapatkan perangkat Android atau Chromebook untuk sekolah Anda? Tim kami bisa membantu Anda mendapatkannya.</p> 
+         <a class="maia-button overlay-button" href="/intl/id/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Hubungi Pakar</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Berbincang dengan Pengajar Lainnya</h5> 
+         <p>Ingin berbincang dengan orang-orang seperti Anda yang telah beralih ke Google? Manfaatkan komunitas pengajar kami.</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Temukan Pengajar Lainnya</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div id="guide-main" class="guide-essentials guide-overview"> 
+    <div class="guide-banner-contain" role="banner"> 
+     <div class="guide-contain guide-banner"> 
+      <h1>Menerapkan Pembelajaran Online</h1> 
+      <p>Panduan untuk mengaktifkan teknologi di sekolah</p> 
+     </div> 
+    </div> 
+    <div class="guide-contain wrapper"> 
+     <div class="guide-body guide-contain"> 
+      <div class="desktop"> 
+       <div class="gweb-tabset gweb-tabset-y" id="my-tabset-id"> 
+        <div class="gweb-tabset-nav guide-sidebar"> 
+         <ul> 
+          <li><a href="#overview" data-g-event="Edu: Guide" data-g-action="Overview" data-g-label="Left Nav">Rangkuman</a></li> 
+          <li><a href="#tab=define-your-goals" data-g-event="Edu: Guide" data-g-action="Define your goals" data-g-label="Left Nav">Define your goals</a></li> 
+          <li><a href="#tab=invest-in-access" data-g-event="Edu: Guide" data-g-action="Invest in access" data-g-label="Left Nav">Invest in access</a></li> 
+          <li><a href="#tab=build-your-team" data-g-event="Edu: Guide" data-g-action="Build your team" data-g-label="Left Nav">Build your team</a></li> 
+          <li><a href="#tab=offer-web-tools" data-g-event="Edu: Guide" data-g-action="Offer web tools" data-g-label="Left Nav">Offer web tools</a></li> 
+          <li><a href="#tab=manage-change" data-g-event="Edu: Guide" data-g-action="Manage change" data-g-label="Left Nav">Manage change</a></li> 
+         </ul> 
+        </div> 
+        <div class="gweb-tabset-contents"> 
+         <div class="gweb-tabset-content" id="overview"> 
+          <p>In recent years many innovative schools have begun a shift toward the use of educational technology. Even though your institution may be ready to make a similar transition, it’s not always clear where to start. Without a clear vision and wise counsel, such a shift can be time-consuming as well as costly.</p> 
+          <p>In this guide you’ll find a simple, 5-step approach to deploying a digital education solution – from defining your preliminary goals to fully implementing your online education platform.</p> 
+          <div class="sub-contain"> 
+           <div class="sub-wrapper"> 
+            <div class="guide-overview-left"> 
+             <h2>Define your goals</h2> 
+             <p>Discover what web-enabled education means for you.</p> 
+             <a href="#tab=define-your-goals" data-g-event="Edu: Guide" data-g-action="Define your goals" data-g-label="Read More">Baca selengkapnya</a> 
+            </div> 
+            <div class="define-your-goals-bg guide-overview-right"></div> 
+           </div> 
+           <div class="sub-wrapper"> 
+            <div class="guide-overview-left"> 
+             <h2>Invest in access</h2> 
+             <p>Get proper internet connectivity, and learn how to scale and optimize it.</p> 
+             <a href="#tab=invest-in-access" data-g-event="Edu: Guide" data-g-action="Invest in access" data-g-label="Read More">Baca selengkapnya</a> 
+            </div> 
+            <div class="invest-in-access-bg guide-overview-right"></div> 
+           </div> 
+           <div class="sub-wrapper"> 
+            <div class="guide-overview-left"> 
+             <h2>Build your team</h2> 
+             <p>Find the right people to make it happen.</p> 
+             <a href="#tab=build-your-team" data-g-event="Edu: Guide" data-g-action="Build your team" data-g-label="Read More">Baca selengkapnya</a> 
+            </div> 
+            <div class="build-your-team-bg guide-overview-right"></div> 
+           </div> 
+           <div class="sub-wrapper"> 
+            <div class="guide-overview-left"> 
+             <h2>Offer web tools</h2> 
+             <p>Customize and deploy education tools for students, staff, and teachers.</p> 
+             <a href="#tab=offer-web-tools" data-g-event="Edu: Guide" data-g-action="Offer web tools" data-g-label="Read More">Baca selengkapnya</a> 
+            </div> 
+            <div class="offer-web-tools-bg guide-overview-right"></div> 
+           </div> 
+           <div class="sub-wrapper"> 
+            <div class="guide-overview-left"> 
+             <h2>Manage change</h2> 
+             <p>Develop skills, spread the word, and monitor progress for continued improvements.</p> 
+             <a href="#tab=manage-change" data-g-event="Edu: Guide" data-g-action="Manage change" data-g-label="Read More">Baca selengkapnya</a> 
+            </div> 
+            <div class="manage-change-bg guide-overview-right"></div> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="gweb-tabset-content" id="define-your-goals"> 
+          <h1>Define your goals</h1> 
+          <div class="sub-content-wrapper"> 
+           <h2>Pahami harapan yang ingin dicapai sekolah dengan menerapkan pendidikan online</h2> 
+           <p>Pengajar yang berhasil melakukan perubahan melalui teknologi, meyakini prinsip: “mulailah dengan belajar." Setelah menetapkan tujuan yang jelas, sekolah dapat memilih solusi teknologi untuk meningkatkan peluang keberhasilannya. Misalnya, Anda harus memahami apakah solusi yang diinginkan itu hanya untuk meningkatkan standar nilai dan mutu ujian? Atau apakah Anda ingin meningkatkan keterlibatan siswa, baik di dalam dan di luar sekolah? Untuk itu, berkunjunglah ke institusi lain yang Anda jadikan sebagai model panutan. Luangkanlah waktu bersama mereka, agar Anda bisa memahami tujuan dan cara yang mereka lakukan untuk mencapai keberhasilan.</p> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Petakan kebutuhan TI dan pertimbangkan penggunaan teknologi terbuka</h2> 
+           <p>Setelah memahami tujuan pendidikan, Anda harus memetakan proses dan teknologi yang diperlukan untuk meraihnya. Saat memetakan kebutuhan TI, pertimbangkan penggunaan teknologi terbuka untuk memenuhi tujuan. Akses yang konstan dan tepercaya ke web, dapat membuat proses belajar-mengajar jadi lebih mudah diakses dan lebih kolaboratif. Platform pembelajaran berbasis web yang terbuka, berbeda dari platform tradisional yang tertutup karena:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Open </strong><br> Educational resources can easily be published, curated and shared by educators worldwide. This means access to the best content for everyone, on multiple devices. </li> 
+             <li><strong> Cost-effective </strong><br> High-quality resources are available globally and at the lowest costs. </li> 
+             <li><strong> Collaborative </strong><br> Your students, teachers, parents – and even “digital pen pals” – will be engaged by and enjoy new opportunities to learn from each other. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Sepakatilah persyaratan teknis dan penawaran potensi solusi dengan pemangku kepentingan</h2> 
+           <p>Sangatlah penting bagi Anda untuk mengetahui siapa saja yang dapat memengaruhi, baik secara formal dan informal, proses pengambilan keputusan untuk meningkatkan pendidikan bagi institusi Anda melalui teknologi. Anda dapat menemui pimpinan institusi, serta pimpinan TI dan pimpinan eksekutif lainnya, untuk mendiskusikan visi dan penawaran yang tersedia. Bila perlu, jadwalkanlah pertemuan lanjutan untuk memastikan bahwa Anda dan mereka saling berkomitmen. Selama pertemuan, berikanlah referensi berikut ini kepada mereka. Referensi ini didesain para pemangku kepentingan dapat dengan mudah memahami solusi berbasis awan yang ditawarkan oleh Google for Education:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> <a data-g-event="Edu: Guide: Define" data-g-action="Text Link" data-g-label="Briefing" href="/pdfs/id/guide/briefing.pdf" target="_blank">Briefing sheet</a> </strong><br> The sheet offers a printable overview of getting education online.</li>  
+             <li><strong> <a data-g-event="Edu: Guide: Define" data-g-action="Text Link" data-g-label="Case Studies" href="/intl/id/case-studies/" target="_blank">Case studies</a> </strong><br> Highlight the impact Google for Education has made for schools in your region. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Tentukan kemampuan dan sistem sekolah Anda saat ini</h2> 
+           <p>Bagaimana kemampuan sekolah Anda saat ini, apakah berpotensi untuk menerapkan sistem pembelajaran online? Sebelum melanjutkan, Anda juga harus punya gambaran yang jelas tentang:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Technical readiness </strong><br> <a data-g-event="Edu: Guide: Define" data-g-action="Text Link" data-g-label="School Engagement Due Dilligence" href="/pdfs/id/guide/school-engagement-due-diligence-form.pdf" target="_blank">The school engagement due diligence form</a> is a questionnaire that will help you assess the current status of your school’s Internet access. This document captures the decision-making process, information about all of your users, the status of your existing infrastructure, and your future plans for infrastructure augmentation. </li> 
+             <li><strong> Staff readiness </strong><br> Are your teachers excited about improving learning with technology and access? <a data-g-event="Edu: Guide: Define" data-g-action="Text Link" data-g-label="Hopes And Fears" href="/pdfs/id/guide/hopes-and-fears-protocol.pdf" target="_blank">This Hopes and Fears activity</a> from Richland Two School District is a good model for a survey you could send to your staff to gauge how they are feeling, and whether they foresee any challenges with the deployment of a technology solution. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Pahami pekerjaan yang diperlukan</h2> 
+           <p>Anda bisa saja dengan mudah mengatakan siap bermigrasi ke solusi pendidikan online; buktikanlah dengan benar-benar melakukannya. Anda akan menemukan banyak sumber daya yang bermanfaat dan cara cepat untuk meraih sukses melalui:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> <a data-g-event="Edu: Guide: Define" data-g-action="Text Link" data-g-label="Project Plan Samples" href="/pdfs/id/guide/project-plan-samples.pdf" target="_blank">Project plan samples</a> </strong><br> These templates will help you define, plan, and manage your digital transformation, from start to finish. </li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="gweb-tabset-content" id="invest-in-access"> 
+          <h1>Invest in access</h1> 
+          <div class="sub-content-wrapper"> 
+           <p> The most exciting, leading-edge technologies will falter if your school lacks sufficient power under the hood. Is your institution ready to support a 21st-century teaching and learning environment?<br><br><br>This section provides guidance on building a campus-wide Internet infrastructure that will support cloud-based services and other applications. For more details, refer to the <a data-g-action="Text Link" data-g-event="Edu: Guide: Invest" data-g-label="Edu Access Infrastructure Guide" href="/pdfs/id/guide/edu-access-infrastructure-guide.pdf" target="_blank">Google for Education – access infrastructure guide</a>; here you can learn about the elements of access that need to be considered, the standards required to create a functional network, and simple steps to follow when deploying your new infrastructure.</p> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Pahami kebutuhan infrastruktur</h2> 
+           <p> To assess your needs, it’s helpful to first complete the <a data-g-action="Text Link" data-g-event="Edu: Guide: Invest" data-g-label="School Engagement Due Dilligence" href="/pdfs/id/guide/school-engagement-due-diligence-form.pdf" target="_blank">school engagement due diligence form</a> As you’re doing so, carefully consider:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li> Lihat <a data-g-action="Text Link" data-g-event="Edu: Guide: Invest" data-g-label="NRENS" href="http://en.wikipedia.org/wiki/National_research_and_education_network" target="_blank">NREN yang ada di negara Anda</a> untuk meminta bantuan. </li> 
+             <li> Berkonsultasilah dengan mitra saat memilih teknologi dan peralatan terbaik yang sesuai dengan kebutuhan Anda. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Tingkatkan sambungan Internet untuk pengalaman web yang lebih baik</h2> 
+           <p>Peningkatan pengelolaan jaringan di seluruh bangunan sekolah/kampus, dapat memberikan pengalaman yang lebih baik kepada semua pengguna. Mitra Akses akan membantu mengoptimalkan infrastruktur Anda melalui:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Bandwidth management </strong><br> Depending on your needs and network capacity, you can set caps and rules to allocate the best levels for students and teachers (e.g., to allow for email capability, video streaming, or live classroom collaboration).<br><br>To determine the minimum bandwidth needed, refer to the <a href="/pdfs/id/guide/edu-access-infrastructure-guide.pdf" target="_blank">Education – access infrastructure guide</a> </li> 
+             <li><strong> Network access and control </strong><br> As much as possible, endeavor to balance a strong method of authentication setting that protects the network with a convenient, user-friendly interface to get online.<br><br>Review (and remove) any potential restrictions to the physical access of your computer labs, thereby ensuring that your school can offer an optimal experience to students and teachers alike. </li> 
+             <li><strong> Network monitoring </strong><br> Freeware tools, such as Cacti and SmokePing MRTG, can be used for network visibility, and to notify your IT admins if problems arise with any networking equipment. This will ensure a quality experience for all users. Implement LAN and WiFi solutions to promote online learning anytime, anywhere </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Terapkan solusi LAN dan WiFi untuk mempromosikan pembelajaran online kapan saja, di mana saja</h2> 
+           <p> Gunakan <a href="/pdfs/id/guide/edu-access-infrastructure-guide.pdf" target="_blank">Google for Education – panduan infrastruktur akses</a>, untuk menentukan apakah solusi sambungan LAN atau WiFi berkabel tepat bagi sekolah, dan untuk menilai kebutuhan bandwidth Internet sekolah. Kemudian, kelola investasi bandwidth dengan perangkat lunak dan infrastruktur pengelolaan jaringan yang tepat, seperti proxy dan server cache.</p> 
+          </div> 
+         </div> 
+         <div class="gweb-tabset-content" id="build-your-team"> 
+          <h1>Build your team</h1> 
+          <div class="sub-content-wrapper"> 
+           <p>Sekolah Anda memerlukan tim yang berdedikasi untuk menerapkan pendidikan online. Siapakah kandidat terbaik yang akan memberikan semangat serta ahli dalam menjalankan tugasnya? Berikut ini cara cepat untuk mengenali "tim impian" untuk sekolah Anda.</p> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Create an internal support team</h2> 
+           <p>Setelah Anda menerapkan solusi, grup ini akan memberikan panduan dan mendorong keberhasilan yang berkelanjutan –</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> The decision maker </strong><br> The decision maker provides high-level support, guidance, and sign-off on key decisions and major purchases for your school. This is typically your IT director, your school’s president, or the leader of a sponsoring institution. </li> 
+             <li><strong> The budget holder </strong><br> The budget holder is an internal or external financial sponsor of the project. </li> 
+             <li><strong> Administrator </strong><br> Administrators are typically members of your school’s ICT department, and are responsible for managing your solution once it’s been deployed. </li> 
+             <li><strong> Advocates </strong><br> Advocates will mostly be your teachers and staff, but may include some students. They will own the process of helping new users adopt the solution, and integrate it into their daily activities. Advocates also will be responsible for conducting user training. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Susun tim penerapan:</h2> 
+           <p>The deployment team provides technical expertise, and will drive the implementation of your solution. Many schools have successfully recruited a mix of internal staff and external partners to assist with everything from conducting the initial evaluation to setting up and managing the transition.<br><br>At a number of schools, the following deployment team structure has proved successful:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Project Manager </strong><br> Project Manager manages the stakeholders and oversees the project from start to finish. </li> 
+             <li><strong> Change Manager </strong><br> Change Manager drives adoption within the organization. </li> 
+             <li><strong> Access Partners </strong><br> Access Partners install or upgrade infrastructure to provide Internet access for schools, and help manage their bandwidth and WiFi efficiently. They also provide LAN and WiFi expertise to help clients get the most from their wireless networks. Access partners may include ISPs when schools need a “last-mile” bandwidth setup. </li> 
+             <li><strong> Tools Partners </strong><br> Tools Partners help schools with the deployment of web tools. Apps deployment specialists – typically experienced IT service companies – assist with the initial diagnostic evaluation, manage the setup of Apps and the transition process, and then provide ongoing support. </li> 
+             <li><strong> Skills Partners </strong><br> Skills Partners provide training in online skills and Google for Education tools. Additionally, they develop a customized professional development plan to meet your school’s needs. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <p>Mengidentifikasi mitra eksternal yang tepat sama pentingnya (dan seringkali lebih menantang). Untuk memastikan bahwa Anda berkolaborasi dengan orang-orang yang memiliki keahlian yang tepat, dan membuat keputusan berdasarkan kepentingan sekolah, Anda harus:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Understand the skills and qualifications you need for your deployment team </strong><br> <a data-g-action="Text Link" data-g-event="Edu: Guide: Build" data-g-label="Guide To Onboarding Partners" href="/pdfs/id/guide/guide-to-recruiting-partners.pdf" target="_blank">Guide to onboarding partners</a> – Here you’ll find helpful tips on how to bring Google for Education partners onboard. </li> 
+             <li><strong> Carefully assess the capabilities of potential candidates </strong><br> <a data-g-action="Text Link" data-g-event="Ede: Guide: Build" data-g-label="Partner Criteria" href="/pdfs/id/guide/partner-criteria-assessment-form.pdf" target="_blank">Partner criteria assessment form template</a> – You can use this sample form to determine if your prospective partner has the capabilities needed to provide your solution. </li> 
+             <li><strong> Sign off on the specific services the partner will provide </strong><br> <a data-g-action="Text Link" data-g-event="Edu: Guide: Build" data-g-label="Sample SOW" href="/pdfs/id/guide/sample-deployment-service.pdf" target="_blank">Sample SOW for G Suite deployment services</a> – This sample Statement of Work clearly defines the scope of work, and what your expectations are for your partners. </li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="gweb-tabset-content" id="offer-web-tools"> 
+          <h1>Offer web tools</h1> 
+          <div class="sub-content-wrapper"> 
+           <p>Today’s students are increasingly showing a preference for an always-on, always connected environment for work and play. Ideally, your delivery of educational content should reflect that growing preference, with an engaging, digital curriculum.<br><br>Your new web tools should be directly relevant to each user’s needs, and practical (as well as hassle-free) for them to employ. The tools should also align with the school’s core processes and existing systems. By working with teachers and staff, including the ICT director, you can address some of your school’s challenges – including the need to perform time-consuming administrative tasks, and grade tests and papers by hand – and show how they can be overcome with automated, efficient web tools.<br><br>In many countries, a wide range of local content and resources are already available to universities and schools. By leveraging these web-enabled instructional tools, you can reduce IT costs, help overcome physical barriers to education, and better engage all of your students.</p> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Membuka potensi pembelajaran berbasis web</h2> 
+           <p>Pertimbangkanlah beberapa hal berikut ini selama masa penerapan:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Deploy web tools in phases </strong><br> You don’t have to dive into the deep end immediately; it’s easiest (and wisest) to plan your digital deployment in smaller, more manageable steps. For more information, refer to the <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Technical Transition Guide" href="/pdfs/id/guide/gapps-transition-guide.pdf" target="_blank">technical transition guide</a> </li> 
+             <li><strong> Set up a portal for distributing accounts/password </strong><br> The distribution of accounts/passwords should be automated and seamless. Many schools create a portal where users can quickly and easily sign up for an Apps account and receive a temporary password. </li> 
+             <li><strong> Develop an automated password reset policy </strong><br> Users – especially overworked, stressed-out students – can (and do) forget their passwords. The simplest solution is to have all users provide a password recovery email and phone number during the initial activation of their account, so that password reset requests need not be directed to a helpdesk. You can further reduce your helpdesk’s workload by routing the password retrieval process through the portal set up to distribute accounts and passwords (described above). </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <p>More and more schools are enabling web-based learning through G Suite. Here are a few case studies highlighting the challenges several schools have faced recently, as well as some of the benefits they have enjoyed:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li> In Bangkok, Thailand, Mattayomwatnairong Schools adopted G Suite for Education to enable web-based learning for their K-12 students. As a result, students were able to continue their education with fewer disruptions, even when schools were closed during such crisis situations as floods or protests. <a class="lb" data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Watch Video" data-lightbox-height="340" data-lightbox-width="550" href="https://www.youtube.com/watch?v=dsuZNUMkdkw&amp;autoplay=1" target="_blank" data-lightbox-index="0">Watch video</a> </li> 
+             <li> The Municipality of Vicente López (MVL) is a school district in Buenos Aires, Argentina that provides educational instruction to more than 3,600 students. Prior to adopting a web-based solution, access to content was restricted to on-site computer labs. But now with G Suite, students and teachers can access content anywhere, on any device, enabling them to become active content consumers (and producers). The improved quality of instructional content – combined with more channels for collaboration – engages students, facilitates self-directed study, and makes students more receptive to feedback from their teachers and classmates. <a class="lb" data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Watch Video" data-lightbox-height="340" data-lightbox-width="550" href="https://www.youtube.com/watch?v=2seSSimGr6U&amp;autoplay=1" target="_blank" data-lightbox-index="1">Watch video</a> </li> 
+             <li> At India’s Birla Institute of Technology and Science (BITS) in Pilani, administrators observed several immediate benefits following the university-wide deployment of G Suite. Their old server had limited storage capacity, which frequently caused emails to bounce back and made communication difficult. But post-deployment of Apps, the university’s enhanced storage capabilities enabled increased academic collaboration while delivering savings in both capital and operational expenditures. University users – especially off-campus students – have benefited from using Apps to facilitate collaboration, particularly the tools that allow them to share video files, record lectures, and present slides. <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Read Case Study" href="/pdfs/guide/bits-pilani.pdf" target="_blank">Read case study (PDF)</a> </li> 
+             <li> Petra Christian University in Indonesia reduced time and money spent on valuable IT resources with a stable communication platform: G Suite. Their legacy server-based systems had been costly, insecure, and unstable. With every power outage, the on-premise mail servers crashed and required excessive maintenance. Now these resources are deployed by developing internal apps that will continue to improve education at Petra. <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Read Case Study" href="/pdfs/id/guide/petra-christian-university.pdf" target="_blank">Read case study (PDF)</a> </li> 
+            </ul> 
+            <p> For more information on deploying G Suite for Education, refer to the <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Deployment Guide" href="/pdfs/guide/google-apps-for-education-deployment-guide.pdf" target="_blank">G Suite for Education deployment guide</a> – a step-by-step outline for completing the technical aspects of your deployment. This guide also includes relevant help-center articles and videos.</p> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Integrasikan solusi</h2> 
+           <p> It’s not enough to simply deploy web-based tools. You must make sure they are relevant by integrating them with your school’s day-to-day activities, as well as your third-party software and existing legacy systems. Use Section B of the <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="School Engagement Due Dilligence" href="/pdfs/id/guide/school-engagement-due-diligence-form.pdf" target="_blank">school engagement due diligence form</a> to help identify core processes to integrate. We recommend connecting G Suite to a Single Sign-On server, so that users can access all internal tools with a single username and password. Many schools also integrate G Suite with learning platforms such as Moodle and Blackbird. For more details, refer to <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="G Suite Integration" href="/pdfs/id/guide/google-apps-integration-with-third-party-systems.pdf" target="_blank">G Suite integration with third-party systems</a>.<br><br>These universities have successfully integrated G Suite for Education into their existing educational systems and processes:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li> Université Cadi Ayyad, Morocco, deployed G Suite accounts as their main authentication platform. Students and staff use their Google accounts to access the Internet over the university WiFi. They also use their accounts to access the university intranet, which was built using Google sites and G Suite scripts. Now students can easily access course material, request transcripts, receive their grades, and log onto the university’s eLearning platform. </li> 
+             <li> Jomo Kenyatta University of Agriculture and Technology (JKUAT), Kenya, mengubah layanan universitasnya dengan menggunakan Mail, Kalender, dan Drive untuk mengeposkan jadwal perkuliahan, materi kuliah, tutorial, dan penelitian. Mereka juga mengelola permintaan dan otorisasi pengguna dengan Google Formulir. <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Read Case Study" href="/pdfs/guide/jkuat.pdf" target="_blank">Baca studi kasus (PDF)</a> </li> 
+             <li> Ladoke Akintola University of Technology, Nigeria, menyederhanakan semua tugas administratif, termasuk daftar gaji, pendaftaran kuliah, dan pengiriman hasil ujian dengan Apps. Selain itu, universitas juga melakukan transisi ke model “administrasi tanpa kertas”, dengan semua operasi, aktivitas, dan hasilnya kini sepenuhnya digital. Pembelajaran online kini juga mungkin dilakukan melalui integrasi Apps. <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Read Case Study" href="/pdfs/guide/lautech.pdf" target="_blank">Baca studi kasus (PDF)</a> </li> 
+            </ul> 
+            <p> Our <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Process Integration" href="/pdfs/id/guide/process-integration-with-google-apps-for-education.pdf" target="_blank">process integration with G Suite for Education</a> document outlines other ways in which Apps have been used successfully. For custom integration of your solution with our APIs, please visit the <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Developers Apps Platform" href="https://developers.google.com/google-apps/" target="_blank">G Suite API website.</a></p> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="gweb-tabset-content" id="manage-change"> 
+          <h1>Manage change</h1> 
+          <div class="sub-content-wrapper"> 
+           <h2>Kembangkan keahlian</h2> 
+           <p>Kini memindahkan konten ke web bukan satu-satunya lingkup kerja tim TI Anda. Semua pemangku kepentingan di sekolah harus nyaman dan mahir menggunakan alat digital yang memungkinkan perpindahan tersebut.</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Administrator </strong><br> Administrators should be actively involved in the initial setup of the web tools, so they’ll have the ability to troubleshoot any problems that may arise. Once the solution has been deployed, this group should receive training on provisioning and managing accounts. Visit the <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="G Suite Help Center" href="https://support.google.com/a/#topic=29157" target="_blank">G Suite Support Site</a> for more details. </li> 
+             <li><strong> Users/trainers </strong><br> Users/Trainers will build excitement by demonstrating how the products can be used (and the advantages of doing so). As dedicated trainers, they will drive the adoption of the new solution. Check out the <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="G Suite Help Center" href="/training/" target="_self">Google for Education Learning Center</a> for training resources. </li> 
+             <li><strong> All other constituents </strong><br> All Other Constituents can be ready to offer training on basic web skills as needed with <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Google Web Academy" href="http://www.webacademy.com/splash/" target="_blank">Google Web Academy</a>, a program that provides educational resources and certifications to students and professionals. </li> 
+            </ul> 
+            <p> Untuk menemukan pelatih yang tesertifikasi bagi pelatihan pribadi, kunjungi <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Education Trainer Directory" href="http://edudirectory.withgoogle.com/" target="_blank">Direktori Pelatih Pendidikan</a>. Untuk mempelajari cara menjadi Pengajar Google dan/atau Pelatih Pendidikan, kunjungi <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Learning Center" href="/training/" target="_self">Pusat Pembelajaran</a>.</p> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Sebarkan beritanya</h2> 
+           <p>Success breeds success – and your school’s will continue to inspire your faculty and staff, as well as other teams at other schools. Don’t be shy about sharing what worked (and what didn’t).<br><br>Here’s how innovative schools have promoted their move to a cloud-based education:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Hosting a rollout event </strong><br> Many schools that launched G Suite for Education have hosted a “Go Google” event. Designed to encourage student sign-ups and continued use, the itinerary consists of discussions highlighting why the school decided to go Google, and the benefits the school expects to see post-transition.<br><br>To get you started, here’s a <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Sample Schedule" href="/pdfs/id/guide/google-day-program.pdf" target="_blank">sample schedule of an event</a>. </li> 
+             <li> Mempromosikan perubahan melalui berbagai saluran komunikasi sekolah, seperti siaran pers dan email. </li> 
+            </ul> 
+            <p> Kunjungi <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Change Management Guide" href="/pdfs/guide/change-management-guide-public.pdf" target="_blank">panduan pengelolaan perubahan</a> untuk mendapatkan template logo dan sarana penyampaian, untuk membantu mempromosikan Google di kampus Anda, dan di semua komunitas yang Anda ikuti.</p> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Kelola solusi</h2> 
+           <p>Selamat! Anda berhasil untuk mulai berpindah ke lingkungan pendidikan online. Sekali lagi selamat! Namun harap diingat bahwa tantangan besar masih menunggu di depan mata. Jadi pastikan bahwa jalur yang telah Anda petakan jelas dan dapat diakses oleh semua orang. Anda dapat memastikan bahwa kegiatan belajar mengajar berlangsung secara dinamis dengan:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Mengidentifikasi cara baru untuk mengintegrasikan alat berbasis web ke dalam sistem sekolah Anda, untuk mempertahankan momentum dan memaksimalkan manfaat: </strong><br> 
+              <ul> 
+               <li>Menyesuaikan KPI dengan tujuan dan kebutuhan khusus sekolah Anda</li> 
+               <li>Terus memantau penggunaannya</li> 
+               <li>Lakukan pelatihan yang berkelanjutan untuk tim TI, staf, pengajar, dan siswa</li> 
+               <li>Pastikan bahwa pengguna dapat menemukan dan melacak konten lokal secara online</li> 
+              </ul> </li> 
+             <li><strong> Buatlah komunitas dan forum pengguna untuk saling bertukar ilmu dan keahlian: </strong><br> 
+              <ul> 
+               <li>Selenggarakanlah acara komunitas offline dengan melibatkan sekolah, orang tua, dan orang lain yang ada di lingkungan Anda, agar mereka bisa memahami manfaat pendidikan berbasis web, dan memperoleh beberapa keahlian dasar</li> 
+               <li>Buatlah forum online untuk saling berbagi dan berdiskusi</li> 
+               <li> Identifikasi saluran dan sumber daya komunitas untuk meningkatkan penggunaan alat web, dan mengembangkan komunitas Google for Education. Pelajari lebih lanjut tentang Google untuk program komunitas Pendidikan di: <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Community Programs" href="/intl/id/resources/programs/" target="_blank"> edu.google.com/resources/programs/</a></li> 
+              </ul> </li> 
+             <li><strong> Pantau kinerja untuk memastikan keberhasilan jangka panjang: </strong><br> 
+              <ul> 
+               <li>Untuk meningkatkan frekuensi penggunaan, tentukan persentase pengguna aktif.</li> 
+               <li> For G Suite, look at the total number of Apps licenses vs. the number of 30-day active Apps licenses. An analysis is available on the “user behavior reports” of the <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Apps Usage Activity" href="https://support.google.com/a/answer/1645537" target="_blank">admin console dashboard</a>.</li> 
+               <li>Nilailah dengan cermat dampak yang ditimbulkan alat online pada hasil ujian dan keberhasilan akademis secara keseluruhan. Dan satu lagi – pastikan untuk membagikan kabar baik!</li> 
+              </ul> </li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="mobile"> 
+       <div id="overview" class="stui-zippy"> 
+        <h2 class="stui-toggle-control">Rangkuman</h2> 
+        <div class="stui-drawer"> 
+         <div class="stui-drawer-content"> 
+          <p>In recent years many innovative schools have begun a shift toward the use of educational technology. Even though your institution may be ready to make a similar transition, it’s not always clear where to start. Without a clear vision and wise counsel, such a shift can be time-consuming as well as costly.</p> 
+          <p>In this guide you’ll find a simple, 5-step approach to deploying a digital education solution – from defining your preliminary goals to fully implementing your online education platform.</p> 
+          <div class="sub-contain"> 
+           <div class="sub-wrapper"> 
+            <div class="guide-overview-left"> 
+             <h2>Define your goals</h2> 
+             <p>Discover what web-enabled education means for you.</p> 
+             <a href="#tab=define-your-goals" data-g-event="Edu: Guide" data-g-action="Define your goals" data-g-label="Read More">Baca selengkapnya</a> 
+            </div> 
+            <div class="define-your-goals-bg guide-overview-right"></div> 
+           </div> 
+           <div class="sub-wrapper"> 
+            <div class="guide-overview-left"> 
+             <h2>Invest in access</h2> 
+             <p>Get proper internet connectivity, and learn how to scale and optimize it.</p> 
+             <a href="#tab=invest-in-access" data-g-event="Edu: Guide" data-g-action="Invest in access" data-g-label="Read More">Baca selengkapnya</a> 
+            </div> 
+            <div class="invest-in-access-bg guide-overview-right"></div> 
+           </div> 
+           <div class="sub-wrapper"> 
+            <div class="guide-overview-left"> 
+             <h2>Build your team</h2> 
+             <p>Find the right people to make it happen.</p> 
+             <a href="#tab=build-your-team" data-g-event="Edu: Guide" data-g-action="Build your team" data-g-label="Read More">Baca selengkapnya</a> 
+            </div> 
+            <div class="build-your-team-bg guide-overview-right"></div> 
+           </div> 
+           <div class="sub-wrapper"> 
+            <div class="guide-overview-left"> 
+             <h2>Offer web tools</h2> 
+             <p>Customize and deploy education tools for students, staff, and teachers.</p> 
+             <a href="#tab=offer-web-tools" data-g-event="Edu: Guide" data-g-action="Offer web tools" data-g-label="Read More">Baca selengkapnya</a> 
+            </div> 
+            <div class="offer-web-tools-bg guide-overview-right"></div> 
+           </div> 
+           <div class="sub-wrapper"> 
+            <div class="guide-overview-left"> 
+             <h2>Manage change</h2> 
+             <p>Develop skills, spread the word, and monitor progress for continued improvements.</p> 
+             <a href="#tab=manage-change" data-g-event="Edu: Guide" data-g-action="Manage change" data-g-label="Read More">Baca selengkapnya</a> 
+            </div> 
+            <div class="manage-change-bg guide-overview-right"></div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div id="define-your-goals" class="stui-zippy"> 
+        <h2 class="stui-toggle-control">Define your goals</h2> 
+        <div class="stui-drawer"> 
+         <div class="stui-drawer-content"> 
+          <h1>Define your goals</h1> 
+          <div class="sub-content-wrapper"> 
+           <h2>Pahami harapan yang ingin dicapai sekolah dengan menerapkan pendidikan online</h2> 
+           <p>Pengajar yang berhasil melakukan perubahan melalui teknologi, meyakini prinsip: “mulailah dengan belajar." Setelah menetapkan tujuan yang jelas, sekolah dapat memilih solusi teknologi untuk meningkatkan peluang keberhasilannya. Misalnya, Anda harus memahami apakah solusi yang diinginkan itu hanya untuk meningkatkan standar nilai dan mutu ujian? Atau apakah Anda ingin meningkatkan keterlibatan siswa, baik di dalam dan di luar sekolah? Untuk itu, berkunjunglah ke institusi lain yang Anda jadikan sebagai model panutan. Luangkanlah waktu bersama mereka, agar Anda bisa memahami tujuan dan cara yang mereka lakukan untuk mencapai keberhasilan.</p> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Petakan kebutuhan TI dan pertimbangkan penggunaan teknologi terbuka</h2> 
+           <p>Setelah memahami tujuan pendidikan, Anda harus memetakan proses dan teknologi yang diperlukan untuk meraihnya. Saat memetakan kebutuhan TI, pertimbangkan penggunaan teknologi terbuka untuk memenuhi tujuan. Akses yang konstan dan tepercaya ke web, dapat membuat proses belajar-mengajar jadi lebih mudah diakses dan lebih kolaboratif. Platform pembelajaran berbasis web yang terbuka, berbeda dari platform tradisional yang tertutup karena:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Open </strong><br> Educational resources can easily be published, curated and shared by educators worldwide. This means access to the best content for everyone, on multiple devices. </li> 
+             <li><strong> Cost-effective </strong><br> High-quality resources are available globally and at the lowest costs. </li> 
+             <li><strong> Collaborative </strong><br> Your students, teachers, parents – and even “digital pen pals” – will be engaged by and enjoy new opportunities to learn from each other. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Sepakatilah persyaratan teknis dan penawaran potensi solusi dengan pemangku kepentingan</h2> 
+           <p>Sangatlah penting bagi Anda untuk mengetahui siapa saja yang dapat memengaruhi, baik secara formal dan informal, proses pengambilan keputusan untuk meningkatkan pendidikan bagi institusi Anda melalui teknologi. Anda dapat menemui pimpinan institusi, serta pimpinan TI dan pimpinan eksekutif lainnya, untuk mendiskusikan visi dan penawaran yang tersedia. Bila perlu, jadwalkanlah pertemuan lanjutan untuk memastikan bahwa Anda dan mereka saling berkomitmen. Selama pertemuan, berikanlah referensi berikut ini kepada mereka. Referensi ini didesain para pemangku kepentingan dapat dengan mudah memahami solusi berbasis awan yang ditawarkan oleh Google for Education:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> <a data-g-event="Edu: Guide: Define" data-g-action="Text Link" data-g-label="Briefing" href="/pdfs/id/guide/briefing.pdf" target="_blank">Briefing sheet</a> </strong><br> The sheet offers a printable overview of getting education online.</li>  
+             <li><strong> <a data-g-event="Edu: Guide: Define" data-g-action="Text Link" data-g-label="Case Studies" href="/intl/id/case-studies/" target="_blank">Case studies</a> </strong><br> Highlight the impact Google for Education has made for schools in your region. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Tentukan kemampuan dan sistem sekolah Anda saat ini</h2> 
+           <p>Bagaimana kemampuan sekolah Anda saat ini, apakah berpotensi untuk menerapkan sistem pembelajaran online? Sebelum melanjutkan, Anda juga harus punya gambaran yang jelas tentang:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Technical readiness </strong><br> <a data-g-event="Edu: Guide: Define" data-g-action="Text Link" data-g-label="School Engagement Due Dilligence" href="/pdfs/id/guide/school-engagement-due-diligence-form.pdf" target="_blank">The school engagement due diligence form</a> is a questionnaire that will help you assess the current status of your school’s Internet access. This document captures the decision-making process, information about all of your users, the status of your existing infrastructure, and your future plans for infrastructure augmentation. </li> 
+             <li><strong> Staff readiness </strong><br> Are your teachers excited about improving learning with technology and access? <a data-g-event="Edu: Guide: Define" data-g-action="Text Link" data-g-label="Hopes And Fears" href="/pdfs/id/guide/hopes-and-fears-protocol.pdf" target="_blank">This Hopes and Fears activity</a> from Richland Two School District is a good model for a survey you could send to your staff to gauge how they are feeling, and whether they foresee any challenges with the deployment of a technology solution. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Pahami pekerjaan yang diperlukan</h2> 
+           <p>Anda bisa saja dengan mudah mengatakan siap bermigrasi ke solusi pendidikan online; buktikanlah dengan benar-benar melakukannya. Anda akan menemukan banyak sumber daya yang bermanfaat dan cara cepat untuk meraih sukses melalui:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> <a data-g-event="Edu: Guide: Define" data-g-action="Text Link" data-g-label="Project Plan Samples" href="/pdfs/id/guide/project-plan-samples.pdf" target="_blank">Project plan samples</a> </strong><br> These templates will help you define, plan, and manage your digital transformation, from start to finish. </li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div id="invest-in-access" class="stui-zippy"> 
+        <h2 class="stui-toggle-control">Invest in access</h2> 
+        <div class="stui-drawer"> 
+         <div class="stui-drawer-content"> 
+          <h1>Invest in access</h1> 
+          <div class="sub-content-wrapper"> 
+           <p> The most exciting, leading-edge technologies will falter if your school lacks sufficient power under the hood. Is your institution ready to support a 21st-century teaching and learning environment?<br><br><br>This section provides guidance on building a campus-wide Internet infrastructure that will support cloud-based services and other applications. For more details, refer to the <a data-g-action="Text Link" data-g-event="Edu: Guide: Invest" data-g-label="Edu Access Infrastructure Guide" href="/pdfs/id/guide/edu-access-infrastructure-guide.pdf" target="_blank">Google for Education – access infrastructure guide</a>; here you can learn about the elements of access that need to be considered, the standards required to create a functional network, and simple steps to follow when deploying your new infrastructure.</p> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Pahami kebutuhan infrastruktur</h2> 
+           <p> To assess your needs, it’s helpful to first complete the <a data-g-action="Text Link" data-g-event="Edu: Guide: Invest" data-g-label="School Engagement Due Dilligence" href="/pdfs/id/guide/school-engagement-due-diligence-form.pdf" target="_blank">school engagement due diligence form</a> As you’re doing so, carefully consider:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li> Lihat <a data-g-action="Text Link" data-g-event="Edu: Guide: Invest" data-g-label="NRENS" href="http://en.wikipedia.org/wiki/National_research_and_education_network" target="_blank">NREN yang ada di negara Anda</a> untuk meminta bantuan. </li> 
+             <li> Berkonsultasilah dengan mitra saat memilih teknologi dan peralatan terbaik yang sesuai dengan kebutuhan Anda. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Tingkatkan sambungan Internet untuk pengalaman web yang lebih baik</h2> 
+           <p>Peningkatan pengelolaan jaringan di seluruh bangunan sekolah/kampus, dapat memberikan pengalaman yang lebih baik kepada semua pengguna. Mitra Akses akan membantu mengoptimalkan infrastruktur Anda melalui:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Bandwidth management </strong><br> Depending on your needs and network capacity, you can set caps and rules to allocate the best levels for students and teachers (e.g., to allow for email capability, video streaming, or live classroom collaboration).<br><br>To determine the minimum bandwidth needed, refer to the <a href="/pdfs/id/guide/edu-access-infrastructure-guide.pdf" target="_blank">Education – access infrastructure guide</a> </li> 
+             <li><strong> Network access and control </strong><br> As much as possible, endeavor to balance a strong method of authentication setting that protects the network with a convenient, user-friendly interface to get online.<br><br>Review (and remove) any potential restrictions to the physical access of your computer labs, thereby ensuring that your school can offer an optimal experience to students and teachers alike. </li> 
+             <li><strong> Network monitoring </strong><br> Freeware tools, such as Cacti and SmokePing MRTG, can be used for network visibility, and to notify your IT admins if problems arise with any networking equipment. This will ensure a quality experience for all users. Implement LAN and WiFi solutions to promote online learning anytime, anywhere </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Terapkan solusi LAN dan WiFi untuk mempromosikan pembelajaran online kapan saja, di mana saja</h2> 
+           <p> Gunakan <a href="/pdfs/id/guide/edu-access-infrastructure-guide.pdf" target="_blank">Google for Education – panduan infrastruktur akses</a>, untuk menentukan apakah solusi sambungan LAN atau WiFi berkabel tepat bagi sekolah, dan untuk menilai kebutuhan bandwidth Internet sekolah. Kemudian, kelola investasi bandwidth dengan perangkat lunak dan infrastruktur pengelolaan jaringan yang tepat, seperti proxy dan server cache.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div id="build-your-team" class="stui-zippy"> 
+        <h2 class="stui-toggle-control">Build your team</h2> 
+        <div class="stui-drawer"> 
+         <div class="stui-drawer-content"> 
+          <h1>Build your team</h1> 
+          <div class="sub-content-wrapper"> 
+           <p>Sekolah Anda memerlukan tim yang berdedikasi untuk menerapkan pendidikan online. Siapakah kandidat terbaik yang akan memberikan semangat serta ahli dalam menjalankan tugasnya? Berikut ini cara cepat untuk mengenali "tim impian" untuk sekolah Anda.</p> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Create an internal support team</h2> 
+           <p>Setelah Anda menerapkan solusi, grup ini akan memberikan panduan dan mendorong keberhasilan yang berkelanjutan –</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> The decision maker </strong><br> The decision maker provides high-level support, guidance, and sign-off on key decisions and major purchases for your school. This is typically your IT director, your school’s president, or the leader of a sponsoring institution. </li> 
+             <li><strong> The budget holder </strong><br> The budget holder is an internal or external financial sponsor of the project. </li> 
+             <li><strong> Administrator </strong><br> Administrators are typically members of your school’s ICT department, and are responsible for managing your solution once it’s been deployed. </li> 
+             <li><strong> Advocates </strong><br> Advocates will mostly be your teachers and staff, but may include some students. They will own the process of helping new users adopt the solution, and integrate it into their daily activities. Advocates also will be responsible for conducting user training. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Susun tim penerapan:</h2> 
+           <p>The deployment team provides technical expertise, and will drive the implementation of your solution. Many schools have successfully recruited a mix of internal staff and external partners to assist with everything from conducting the initial evaluation to setting up and managing the transition.<br><br>At a number of schools, the following deployment team structure has proved successful:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Project Manager </strong><br> Project Manager manages the stakeholders and oversees the project from start to finish. </li> 
+             <li><strong> Change Manager </strong><br> Change Manager drives adoption within the organization. </li> 
+             <li><strong> Access Partners </strong><br> Access Partners install or upgrade infrastructure to provide Internet access for schools, and help manage their bandwidth and WiFi efficiently. They also provide LAN and WiFi expertise to help clients get the most from their wireless networks. Access partners may include ISPs when schools need a “last-mile” bandwidth setup. </li> 
+             <li><strong> Tools Partners </strong><br> Tools Partners help schools with the deployment of web tools. Apps deployment specialists – typically experienced IT service companies – assist with the initial diagnostic evaluation, manage the setup of Apps and the transition process, and then provide ongoing support. </li> 
+             <li><strong> Skills Partners </strong><br> Skills Partners provide training in online skills and Google for Education tools. Additionally, they develop a customized professional development plan to meet your school’s needs. </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <p>Mengidentifikasi mitra eksternal yang tepat sama pentingnya (dan seringkali lebih menantang). Untuk memastikan bahwa Anda berkolaborasi dengan orang-orang yang memiliki keahlian yang tepat, dan membuat keputusan berdasarkan kepentingan sekolah, Anda harus:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Understand the skills and qualifications you need for your deployment team </strong><br> <a data-g-action="Text Link" data-g-event="Edu: Guide: Build" data-g-label="Guide To Onboarding Partners" href="/pdfs/id/guide/guide-to-recruiting-partners.pdf" target="_blank">Guide to onboarding partners</a> – Here you’ll find helpful tips on how to bring Google for Education partners onboard. </li> 
+             <li><strong> Carefully assess the capabilities of potential candidates </strong><br> <a data-g-action="Text Link" data-g-event="Ede: Guide: Build" data-g-label="Partner Criteria" href="/pdfs/id/guide/partner-criteria-assessment-form.pdf" target="_blank">Partner criteria assessment form template</a> – You can use this sample form to determine if your prospective partner has the capabilities needed to provide your solution. </li> 
+             <li><strong> Sign off on the specific services the partner will provide </strong><br> <a data-g-action="Text Link" data-g-event="Edu: Guide: Build" data-g-label="Sample SOW" href="/pdfs/id/guide/sample-deployment-service.pdf" target="_blank">Sample SOW for G Suite deployment services</a> – This sample Statement of Work clearly defines the scope of work, and what your expectations are for your partners. </li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div id="offer-web-tools" class="stui-zippy"> 
+        <h2 class="stui-toggle-control">Offer web tools</h2> 
+        <div class="stui-drawer"> 
+         <div class="stui-drawer-content"> 
+          <h1>Offer web tools</h1> 
+          <div class="sub-content-wrapper"> 
+           <p>Today’s students are increasingly showing a preference for an always-on, always connected environment for work and play. Ideally, your delivery of educational content should reflect that growing preference, with an engaging, digital curriculum.<br><br>Your new web tools should be directly relevant to each user’s needs, and practical (as well as hassle-free) for them to employ. The tools should also align with the school’s core processes and existing systems. By working with teachers and staff, including the ICT director, you can address some of your school’s challenges – including the need to perform time-consuming administrative tasks, and grade tests and papers by hand – and show how they can be overcome with automated, efficient web tools.<br><br>In many countries, a wide range of local content and resources are already available to universities and schools. By leveraging these web-enabled instructional tools, you can reduce IT costs, help overcome physical barriers to education, and better engage all of your students.</p> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Membuka potensi pembelajaran berbasis web</h2> 
+           <p>Pertimbangkanlah beberapa hal berikut ini selama masa penerapan:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Deploy web tools in phases </strong><br> You don’t have to dive into the deep end immediately; it’s easiest (and wisest) to plan your digital deployment in smaller, more manageable steps. For more information, refer to the <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Technical Transition Guide" href="/pdfs/id/guide/gapps-transition-guide.pdf" target="_blank">technical transition guide</a> </li> 
+             <li><strong> Set up a portal for distributing accounts/password </strong><br> The distribution of accounts/passwords should be automated and seamless. Many schools create a portal where users can quickly and easily sign up for an Apps account and receive a temporary password. </li> 
+             <li><strong> Develop an automated password reset policy </strong><br> Users – especially overworked, stressed-out students – can (and do) forget their passwords. The simplest solution is to have all users provide a password recovery email and phone number during the initial activation of their account, so that password reset requests need not be directed to a helpdesk. You can further reduce your helpdesk’s workload by routing the password retrieval process through the portal set up to distribute accounts and passwords (described above). </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <p>More and more schools are enabling web-based learning through G Suite. Here are a few case studies highlighting the challenges several schools have faced recently, as well as some of the benefits they have enjoyed:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li> In Bangkok, Thailand, Mattayomwatnairong Schools adopted G Suite for Education to enable web-based learning for their K-12 students. As a result, students were able to continue their education with fewer disruptions, even when schools were closed during such crisis situations as floods or protests. <a class="lb" data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Watch Video" data-lightbox-height="340" data-lightbox-width="550" href="https://www.youtube.com/watch?v=dsuZNUMkdkw&amp;autoplay=1" target="_blank" data-lightbox-index="0">Watch video</a> </li> 
+             <li> The Municipality of Vicente López (MVL) is a school district in Buenos Aires, Argentina that provides educational instruction to more than 3,600 students. Prior to adopting a web-based solution, access to content was restricted to on-site computer labs. But now with G Suite, students and teachers can access content anywhere, on any device, enabling them to become active content consumers (and producers). The improved quality of instructional content – combined with more channels for collaboration – engages students, facilitates self-directed study, and makes students more receptive to feedback from their teachers and classmates. <a class="lb" data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Watch Video" data-lightbox-height="340" data-lightbox-width="550" href="https://www.youtube.com/watch?v=2seSSimGr6U&amp;autoplay=1" target="_blank" data-lightbox-index="1">Watch video</a> </li> 
+             <li> At India’s Birla Institute of Technology and Science (BITS) in Pilani, administrators observed several immediate benefits following the university-wide deployment of G Suite. Their old server had limited storage capacity, which frequently caused emails to bounce back and made communication difficult. But post-deployment of Apps, the university’s enhanced storage capabilities enabled increased academic collaboration while delivering savings in both capital and operational expenditures. University users – especially off-campus students – have benefited from using Apps to facilitate collaboration, particularly the tools that allow them to share video files, record lectures, and present slides. <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Read Case Study" href="/pdfs/guide/bits-pilani.pdf" target="_blank">Read case study (PDF)</a> </li> 
+             <li> Petra Christian University in Indonesia reduced time and money spent on valuable IT resources with a stable communication platform: G Suite. Their legacy server-based systems had been costly, insecure, and unstable. With every power outage, the on-premise mail servers crashed and required excessive maintenance. Now these resources are deployed by developing internal apps that will continue to improve education at Petra. <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Read Case Study" href="/pdfs/id/guide/petra-christian-university.pdf" target="_blank">Read case study (PDF)</a> </li> 
+            </ul> 
+            <p> For more information on deploying G Suite for Education, refer to the <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Deployment Guide" href="/pdfs/guide/google-apps-for-education-deployment-guide.pdf" target="_blank">G Suite for Education deployment guide</a> – a step-by-step outline for completing the technical aspects of your deployment. This guide also includes relevant help-center articles and videos.</p> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Integrasikan solusi</h2> 
+           <p> It’s not enough to simply deploy web-based tools. You must make sure they are relevant by integrating them with your school’s day-to-day activities, as well as your third-party software and existing legacy systems. Use Section B of the <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="School Engagement Due Dilligence" href="/pdfs/id/guide/school-engagement-due-diligence-form.pdf" target="_blank">school engagement due diligence form</a> to help identify core processes to integrate. We recommend connecting G Suite to a Single Sign-On server, so that users can access all internal tools with a single username and password. Many schools also integrate G Suite with learning platforms such as Moodle and Blackbird. For more details, refer to <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="G Suite Integration" href="/pdfs/id/guide/google-apps-integration-with-third-party-systems.pdf" target="_blank">G Suite integration with third-party systems</a>.<br><br>These universities have successfully integrated G Suite for Education into their existing educational systems and processes:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li> Université Cadi Ayyad, Morocco, deployed G Suite accounts as their main authentication platform. Students and staff use their Google accounts to access the Internet over the university WiFi. They also use their accounts to access the university intranet, which was built using Google sites and G Suite scripts. Now students can easily access course material, request transcripts, receive their grades, and log onto the university’s eLearning platform. </li> 
+             <li> Jomo Kenyatta University of Agriculture and Technology (JKUAT), Kenya, mengubah layanan universitasnya dengan menggunakan Mail, Kalender, dan Drive untuk mengeposkan jadwal perkuliahan, materi kuliah, tutorial, dan penelitian. Mereka juga mengelola permintaan dan otorisasi pengguna dengan Google Formulir. <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Read Case Study" href="/pdfs/guide/jkuat.pdf" target="_blank">Baca studi kasus (PDF)</a> </li> 
+             <li> Ladoke Akintola University of Technology, Nigeria, menyederhanakan semua tugas administratif, termasuk daftar gaji, pendaftaran kuliah, dan pengiriman hasil ujian dengan Apps. Selain itu, universitas juga melakukan transisi ke model “administrasi tanpa kertas”, dengan semua operasi, aktivitas, dan hasilnya kini sepenuhnya digital. Pembelajaran online kini juga mungkin dilakukan melalui integrasi Apps. <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Read Case Study" href="/pdfs/guide/lautech.pdf" target="_blank">Baca studi kasus (PDF)</a> </li> 
+            </ul> 
+            <p> Our <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Process Integration" href="/pdfs/id/guide/process-integration-with-google-apps-for-education.pdf" target="_blank">process integration with G Suite for Education</a> document outlines other ways in which Apps have been used successfully. For custom integration of your solution with our APIs, please visit the <a data-g-action="Text Link" data-g-event="Edu: Guide: Offer" data-g-label="Developers Apps Platform" href="https://developers.google.com/google-apps/" target="_blank">G Suite API website.</a></p> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div id="manage-change" class="stui-zippy"> 
+        <h2 class="stui-toggle-control">Manage change</h2> 
+        <div class="stui-drawer"> 
+         <div class="stui-drawer-content"> 
+          <h1>Manage change</h1> 
+          <div class="sub-content-wrapper"> 
+           <h2>Kembangkan keahlian</h2> 
+           <p>Kini memindahkan konten ke web bukan satu-satunya lingkup kerja tim TI Anda. Semua pemangku kepentingan di sekolah harus nyaman dan mahir menggunakan alat digital yang memungkinkan perpindahan tersebut.</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Administrator </strong><br> Administrators should be actively involved in the initial setup of the web tools, so they’ll have the ability to troubleshoot any problems that may arise. Once the solution has been deployed, this group should receive training on provisioning and managing accounts. Visit the <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="G Suite Help Center" href="https://support.google.com/a/#topic=29157" target="_blank">G Suite Support Site</a> for more details. </li> 
+             <li><strong> Users/trainers </strong><br> Users/Trainers will build excitement by demonstrating how the products can be used (and the advantages of doing so). As dedicated trainers, they will drive the adoption of the new solution. Check out the <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="G Suite Help Center" href="/training/" target="_self">Google for Education Learning Center</a> for training resources. </li> 
+             <li><strong> All other constituents </strong><br> All Other Constituents can be ready to offer training on basic web skills as needed with <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Google Web Academy" href="http://www.webacademy.com/splash/" target="_blank">Google Web Academy</a>, a program that provides educational resources and certifications to students and professionals. </li> 
+            </ul> 
+            <p> Untuk menemukan pelatih yang tesertifikasi bagi pelatihan pribadi, kunjungi <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Education Trainer Directory" href="http://edudirectory.withgoogle.com/" target="_blank">Direktori Pelatih Pendidikan</a>. Untuk mempelajari cara menjadi Pengajar Google dan/atau Pelatih Pendidikan, kunjungi <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Learning Center" href="/training/" target="_self">Pusat Pembelajaran</a>.</p> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Sebarkan beritanya</h2> 
+           <p>Success breeds success – and your school’s will continue to inspire your faculty and staff, as well as other teams at other schools. Don’t be shy about sharing what worked (and what didn’t).<br><br>Here’s how innovative schools have promoted their move to a cloud-based education:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Hosting a rollout event </strong><br> Many schools that launched G Suite for Education have hosted a “Go Google” event. Designed to encourage student sign-ups and continued use, the itinerary consists of discussions highlighting why the school decided to go Google, and the benefits the school expects to see post-transition.<br><br>To get you started, here’s a <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Sample Schedule" href="/pdfs/id/guide/google-day-program.pdf" target="_blank">sample schedule of an event</a>. </li> 
+             <li> Mempromosikan perubahan melalui berbagai saluran komunikasi sekolah, seperti siaran pers dan email. </li> 
+            </ul> 
+            <p> Kunjungi <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Change Management Guide" href="/pdfs/guide/change-management-guide-public.pdf" target="_blank">panduan pengelolaan perubahan</a> untuk mendapatkan template logo dan sarana penyampaian, untuk membantu mempromosikan Google di kampus Anda, dan di semua komunitas yang Anda ikuti.</p> 
+           </div> 
+          </div> 
+          <div class="sub-content-wrapper"> 
+           <h2>Kelola solusi</h2> 
+           <p>Selamat! Anda berhasil untuk mulai berpindah ke lingkungan pendidikan online. Sekali lagi selamat! Namun harap diingat bahwa tantangan besar masih menunggu di depan mata. Jadi pastikan bahwa jalur yang telah Anda petakan jelas dan dapat diakses oleh semua orang. Anda dapat memastikan bahwa kegiatan belajar mengajar berlangsung secara dinamis dengan:</p> 
+           <div class="guide-more-details"> 
+            <ul> 
+             <li><strong> Mengidentifikasi cara baru untuk mengintegrasikan alat berbasis web ke dalam sistem sekolah Anda, untuk mempertahankan momentum dan memaksimalkan manfaat: </strong><br> 
+              <ul> 
+               <li>Menyesuaikan KPI dengan tujuan dan kebutuhan khusus sekolah Anda</li> 
+               <li>Terus memantau penggunaannya</li> 
+               <li>Lakukan pelatihan yang berkelanjutan untuk tim TI, staf, pengajar, dan siswa</li> 
+               <li>Pastikan bahwa pengguna dapat menemukan dan melacak konten lokal secara online</li> 
+              </ul> </li> 
+             <li><strong> Buatlah komunitas dan forum pengguna untuk saling bertukar ilmu dan keahlian: </strong><br> 
+              <ul> 
+               <li>Selenggarakanlah acara komunitas offline dengan melibatkan sekolah, orang tua, dan orang lain yang ada di lingkungan Anda, agar mereka bisa memahami manfaat pendidikan berbasis web, dan memperoleh beberapa keahlian dasar</li> 
+               <li>Buatlah forum online untuk saling berbagi dan berdiskusi</li> 
+               <li> Identifikasi saluran dan sumber daya komunitas untuk meningkatkan penggunaan alat web, dan mengembangkan komunitas Google for Education. Pelajari lebih lanjut tentang Google untuk program komunitas Pendidikan di: <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Community Programs" href="/intl/id/resources/programs/" target="_blank"> edu.google.com/resources/programs/</a></li> 
+              </ul> </li> 
+             <li><strong> Pantau kinerja untuk memastikan keberhasilan jangka panjang: </strong><br> 
+              <ul> 
+               <li>Untuk meningkatkan frekuensi penggunaan, tentukan persentase pengguna aktif.</li> 
+               <li> For G Suite, look at the total number of Apps licenses vs. the number of 30-day active Apps licenses. An analysis is available on the “user behavior reports” of the <a data-g-action="Text Link" data-g-event="Edu: Guide: Manage" data-g-label="Apps Usage Activity" href="https://support.google.com/a/answer/1645537" target="_blank">admin console dashboard</a>.</li> 
+               <li>Nilailah dengan cermat dampak yang ditimbulkan alat online pada hasil ujian dan keberhasilan akademis secara keseluruhan. Dan satu lagi – pastikan untuk membagikan kabar baik!</li> 
+              </ul> </li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Produk</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/id/products/devices/">Perangkat</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/id/products/productivity-tools/">Alat Produktivitas</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/id/products/productivity-tools/classroom/">Kelas</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/id/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/id/products/more-products/">Produk Lainnya</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Pelatihan</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=id" target="_blank">Pelatihan Pengajar</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">Pelatihan Admin TI</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">Direktori Mitra</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/id/resources/communities/">Komunitas</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Referensi</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/id/resources/programs/">Program</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/id/resources/computerscience/">Pendidikan Ilmu Komputer</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/id/resources/global-education/">Pendidikan Global</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/id/it/">TI</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">Referensi Pengembang</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/id/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/id/access/">Akses</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/id/contact/">Penjualan</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">Dukungan</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/id/partners/">Program Mitra</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/id/case-studies/">Studi Kasus</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">Lihat Sekolah Chromebook</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">Blog</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="Telusuri situs ini" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/access/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/access/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/en_in/access/"> English (India) </option><option value="/intl/en_uk/access/"> English (United Kingdom) </option><option value="/access/"> English (United States) </option><option value="/intl/es-419_mx/access/"> español (México) </option><option value="/intl/es-419/access/"> español (Latinoamérica) </option><option value="/intl/fr_be/access/"> français (Belgique) </option><option selected value="/intl/id/access/"> Indonesia (Indonesia) </option><option value="/intl/ms/access/"> Bahasa Melayu (Malaysia) </option><option value="/intl/pt-BR/access/"> português (Brasil) </option><option value="/intl/th/access/"> ไทย (ไทย) </option><option value="/intl/tr/access/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/id/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/id/policies/privacy/">Privasi</a> </li> 
+      <li> <a href="https://www.google.com/intl/id/policies/terms/">Persyaratan</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script> 
+  <script src="/compiled/guide-mobile.min.js"></script> 
+  <script id="contact-script" src="/js/access.min.js"></script>  
+ </body>
+</html>

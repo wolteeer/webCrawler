@@ -1,0 +1,418 @@
+<!doctype html>
+<html lang="en_US" dir="ltr">
+ <head>
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> 
+  <meta content="Gmail is available across all your devices Android, iOS, and desktop devices. Sort, collaborate or call a friend without leaving your inbox." name="description"> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:url" content="http://www.google.com/gmail/about/"> 
+  <meta property="og:title" content="Gmail - Free Storage and Email from Google"> 
+  <meta property="og:image" content="//www.google.com/gmail/about/static/images/social.jpg"> 
+  <meta property="og:site_name" content="Gmail - Free Storage and Email from Google"> 
+  <link href="https://www.google.com/gmail/about/for-work/" rel="canonical">  
+  <link href="/gmail/about/images/favicon.ico" rel="icon" type="image/ico"> 
+  <title>Gmail - Free Storage and Email from Google</title> 
+  <link rel="stylesheet" href="/gmail/about/static/css/main.min.css"> 
+  <style>
+
+.feature-highlight-content__desktop {
+  background-image: url(/gmail/about/images/bettercompose.jpg)
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-resolution: 2dppx) {
+  .feature-highlight-content__desktop {
+    background-image: url(/gmail/about/images/bettercompose_2x.jpg)
+  }
+}
+
+.hero_home__image {
+  background-image: url(/gmail/about/images/home-hero_2x.jpg)
+}
+
+.hero_for-work__image {
+  background-image: url(/gmail/about/images/for-work-hero_2x.jpg)
+}
+
+@media only screen and (max-width: 777px) {
+  .hero_home__image {
+    background-image: url(/gmail/about/images/hero-mobile.jpg)
+  }
+}
+
+@media only screen and (max-width: 777px) and (-webkit-min-device-pixel-ratio: 2), only screen and (max-width: 777px) and (min-resolution: 2dppx) {
+  .hero_home__image {
+    background-image: url(/gmail/about/images/hero-mobile_2x.jpg)
+  }
+}
+
+.inbox-action__image {
+  background-image: url(/gmail/about/images/action-4_2x.png)
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-resolution: 2dppx) {
+  .inbox-action__image {
+    background-image: url(/gmail/about/images/action-4_2x.png)
+  }
+}
+
+@media only screen and (max-width: 777px) {
+  .inbox-action__image {
+    background-image: url(/gmail/about/images/take-action-mobile_2x.jpg)
+  }
+}
+
+.themes-for-gmail .theme1 {
+  background-image: url(/gmail/about/images/themes1.jpg)
+}
+
+.themes-for-gmail .theme2 {
+  background-image: url(/gmail/about/images/themes2.jpg)
+}
+
+.themes-for-gmail .theme3 {
+  background-image: url(/gmail/about/images/themes3.jpg)
+}
+
+.themes-for-gmail .theme4 {
+  background-image: url(/gmail/about/images/themes4.jpg)
+}
+
+@media (max-width: 777px) {
+  .attachments-for-gmail__screen-feature-attachments {
+    background-image: url(/gmail/about/images/attachments-tablet.png)
+  }
+}
+
+.attachments-for-gmail__screen-feature-attachments {
+  background-image: url(/gmail/about/images/attachments-tablet_2x.png)
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-resolution: 2dppx) {
+  .attachments-for-gmail__screen-feature-attachments {
+    background-image: url(/gmail/about/images/attachments-tablet_2x.png)
+  }
+}
+
+.inbox-tabs-for-gmail__image {
+  background-image: url(/gmail/about/images/inboxtabs.gif)
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-resolution: 2dppx) {
+  .inbox-tabs-for-gmail__image {
+    background-image: url(/gmail/about/images/inboxtabs_2x.jpg)
+  }
+}
+
+.for-work-feature-highlights__block__card:nth-of-type(1) .for-work-feature-highlights__block__card-tinyhero {
+  background-image: url(/gmail/about/images/branded.png)
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-resolution: 2dppx) {
+  .for-work-feature-highlights__block__card:nth-of-type(1) .for-work-feature-highlights__block__card-tinyhero {
+    background-image: url(/gmail/about/images/branded_2x.png)
+  }
+}
+
+.for-work-feature-highlights__block__card:nth-of-type(2) .for-work-feature-highlights__block__card-tinyhero {
+  background-image: url(/gmail/about/images/workfromnewhere.png)
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-resolution: 2dppx) {
+  .for-work-feature-highlights__block__card:nth-of-type(2) .for-work-feature-highlights__block__card-tinyhero {
+    background-image: url(/gmail/about/images/workfromnewhere_2x.png)
+  }
+}
+
+.for-work-feature-highlights__block__card:nth-of-type(3) .for-work-feature-highlights__block__card-tinyhero {
+  background-image: url(/gmail/about/images/techsupport.png)
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-resolution: 2dppx) {
+  .for-work-feature-highlights__block__card:nth-of-type(3) .for-work-feature-highlights__block__card-tinyhero {
+    background-image: url(/gmail/about/images/techsupport_2x.png)
+  }
+}
+
+.for-work-feature-highlights__block__card:nth-of-type(4) .for-work-feature-highlights__block__card-tinyhero {
+  background-image: url(/gmail/about/images/hangout.png)
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-resolution: 2dppx) {
+  .for-work-feature-highlights__block__card:nth-of-type(4) .for-work-feature-highlights__block__card-tinyhero {
+    background-image: url(/gmail/about/images/hangout_2x.png)
+  }
+}
+
+.hero_for-work__image {
+  background-image: url(/gmail/about/images/for-work-hero.jpg)
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-resolution: 2dppx) {
+  .hero_for-work__image {
+    background-image: url(/gmail/about/images/for-work-hero_2x.jpg)
+  }
+}
+
+.gmail-devices__images-desktop {
+  background-image: url(/gmail/about/images/any-device.jpg)
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-resolution: 2dppx) {
+  .gmail-devices__images-desktop {
+    background-image: url(/gmail/about/images/any-device_2x.jpg)
+  }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-resolution: 2dppx) {
+  .gmail-devices__copy-play {
+    background-image: url(/gmail/about/images/playstore.png)
+  }
+  .gmail-devices__copy-app {
+    background-image: url(/gmail/about/images/appstore.svg)
+  }
+}
+
+@media screen and (max-width: 777px) {
+  .gmail-devices__images-mobile {
+    background-image: url(/gmail/about/images/any-device-mobile.jpg)
+  }
+}
+
+@media only screen and (max-width: 777px) and (-webkit-min-device-pixel-ratio: 2), only screen and (max-width: 777px) and (min-resolution: 2dppx) {
+  .gmail-devices__images-mobile {
+    background-image: url(/gmail/about/images/any-device-mobile_2x.jpg)
+  }
+}
+
+</style> 
+  <script src="//www.google-analytics.com/cx/api.js?experiment=NsRgTn8iQf-MYLOX8BH_qA"></script> 
+  <script>
+    var requestedVariant = decodeURIComponent((new RegExp('[?|&]' + 'variant' + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search) || [null, ''])[1].replace(/\+/g, '%20')) || null;
+    if (requestedVariant) {
+      var variantNumber = Number(requestedVariant);
+      if (!isNaN(variantNumber)) {
+        cxApi.setChosenVariation(variantNumber);
+      }
+    }
+
+    var isiOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+    var isAndroid = navigator.userAgent.toLowerCase().indexOf("android") > -1;
+    if (isiOS || isAndroid) {
+      cxApi.setChosenVariation(cxApi.NOT_PARTICIPATING);
+    }
+
+    window.chosenVariant = cxApi.chooseVariation();
+  </script> 
+  <script src="//www.google.com/js/google.js"></script> 
+  <script>
+    new gweb.analytics.AutoTrack({profile:"UA-992684-1"});
+  </script> 
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Product",
+      "brand": "Google Inc.",
+      "name": "Gmail",
+      "description": "Gmail is available across all your devices Android, iOS, and desktop devices. Sort, collaborate or call a friend without leaving your inbox.",
+      "url": "https://www.google.com/gmail/",
+      "logo": "https://www.google.com/images/icons/product/googlemail-128.png",
+      "sameAs": [
+        "https://twitter.com/gmail",
+        "https://plus.google.com/+Gmail",
+        "https://gmail.googleblog.com/",
+        "https://www.youtube.com/channel/UCbnagt1TEDo9U0yihgKNJ0g"
+      ]
+    }
+  </script> 
+ </head> 
+ <body class="for-work ltr"> 
+  <nav class="gmail-nav standard scrolled loaded" data-ng-controller="NavController as navCtrl"> 
+   <a class="gmail-nav__home-link" href="/gmail/about/">
+    <div class="gmail-nav__logo gmail-logo" ng-click="navCtrl.trackNavClick('Navigation', 'home')">
+     Gmail
+    </div></a> 
+   <div class="gmail-nav__nav-links-wrap"> 
+    <a class="gmail-nav__nav-link gmail-nav__nav-link__for-work" ng-click="navCtrl.trackNavClick('Navigation', 'for work')" data-g-label="For work" href="/gmail/about/for-work/" tabindex="3">For Work</a> 
+    <a class="gmail-nav__nav-link gmail-nav__nav-link__sign-in" ng-click="navCtrl.trackNavClick('Navigation', 'sign in')" data-g-label="Sign in" href="https://accounts.google.com/AccountChooser?service=mail&amp;continue=https://mail.google.com/mail/" rel="nofollow" tabindex="1">Sign In</a> 
+    <a class="gmail-nav__nav-link gmail-nav__nav-link__create-account" ng-click="navCtrl.trackNavClick('Create For Work Account', 'desktop')" data-g-label="Get Started" gm-utm="&amp;utm_medium=et&amp;utm_source=aboutgmailforworkrefresh-tab" href="https://www.google.com/a/signup/u/0/?source=aboutgmail-forwork-en-row-refresh-variation-nav" target="_blank" tabindex="2">Get Started</a> 
+    <a class="gmail-nav__nav-link gmail-nav__nav-link__create-account" ng-click="navCtrl.trackNavClick('Create For Work Account', 'mobile')" data-g-label="Get Started" gm-utm="&amp;utm_medium=et&amp;utm_source=aboutgmailforworkrefresh-tab" href="https://www.google.com/a/signup/u/0/?source=aboutgmail-forwork-en-row-refresh-variation-nav" target="_blank" tabindex="2">Get Started</a> 
+   </div> 
+  </nav> 
+  <main> 
+   <section data-ng-controller="ForWorkController as forWorkCtrl" ng-class="{heroLoaded: forWorkCtrl.heroAssetsLoaded, loaded: forWorkCtrl.assetsLoaded, initialized: forWorkCtrl.initialized}" ng-init="forWorkCtrl.initialized = true"> 
+    <div data-step-scroller></div> 
+    <div class="hero_home__wrap" data-full-screen data-element-offset=".hero_for-work__redbar" data-adjust-element=".for-work-feature-highlights"> 
+     <div class="hero__image hero_for-work__image scroll-target"></div> 
+     <div class="hero_for-work__redbar"> 
+      <a class="hero_for-work__create desktop" data-g-label="For Work Signup" ng-click="forWorkCtrl.trackCreateForWorkAccount('desktop')" href="https://www.google.com/a/signup/u/0/?source=aboutgmail-forwork-en-row-refresh-variation-hero" gm-utm="&amp;utm_medium=et&amp;utm_source=aboutgmailforworkrefresh-tab" target="_blank">GET STARTED</a> 
+      <span class="hero_for-work__title"> <span class="mobile"><pre>Get custom email &amp; more with Gmail for work</pre></span> <span class="desktop"><pre>Get custom email &amp; more with Gmail for work</pre></span> </span> 
+      <a class="hero_for-work__create mobile" data-g-label="For Work Signup" ng-click="forWorkCtrl.trackCreateForWorkAccount('mobile')" href="https://www.google.com/a/signup/u/0/?source=aboutgmail-forwork-en-row-refresh-variation-hero" gm-utm="&amp;utm_medium=et&amp;utm_source=aboutgmailforworkrefresh-tab" target="_blank">GET STARTED</a> 
+      <div class="clear"></div> 
+     </div> 
+    </div> 
+    <section ng-class="{loaded: assetsLoaded, initialized: initialized}" ng-init="initialized = true"> 
+     <div class="for-work-feature-highlights"> 
+      <div class="for-work-feature-highlights__title scroll-target"> 
+       <div class="mobile">
+        <pre>Use the Gmail you love - for business</pre>
+       </div> 
+       <div class="desktop">
+        <pre>Use the Gmail you love - for business</pre>
+       </div> 
+      </div> 
+      <div class="for-work-feature-highlights__body"> 
+       <div class="mobile">
+        <pre>Get custom email <b>@yourcompany.com</b> including calendar, docs, video meetings, and more with access from your phone or tablet.</pre>
+       </div> 
+       <div class="desktop">
+        <pre>Get custom email <b>@yourcompany.com</b> including calendar, docs, video meetings, and more with access from your phone or tablet.</pre>
+       </div> 
+      </div> 
+      <div class="for-work-feature-highlights__block"> 
+       <div class="for-work-feature-highlights__block__card scroll-target-tablet scroll-target-mobile" data-scroll-offset="130"> 
+        <div class="for-work-feature-highlights__block__card-tinyhero"></div> 
+        <div class="for-work-feature-highlights__block__card-title">
+         Get branded email
+        </div> 
+        <div class="for-work-feature-highlights__block__card-body">
+         Personalize your email by getting email addresses at your domain. Create addresses for your team like 
+         <b>joe@yourcompany.com</b>
+        </div> 
+       </div> 
+       <div class="for-work-feature-highlights__block__card scroll-target-mobile" data-scroll-offset="130"> 
+        <div class="for-work-feature-highlights__block__card-tinyhero"></div> 
+        <div class="for-work-feature-highlights__block__card-title">
+         Work from anywhere
+        </div> 
+        <div class="for-work-feature-highlights__block__card-body">
+         Sync and access your email from your mobile phone or tablet. Gmail works across Android, iPhone, Blackberry, and more.
+        </div> 
+       </div> 
+       <div class="for-work-feature-highlights__block__card scroll-target-tablet scroll-target-mobile" data-scroll-offset="130"> 
+        <div class="for-work-feature-highlights__block__card-tinyhero"></div> 
+        <div class="for-work-feature-highlights__block__card-title">
+         Get 24/7 Support
+        </div> 
+        <div class="for-work-feature-highlights__block__card-body">
+         With G Suite, you get 24/7 phone and email support.
+        </div> 
+       </div> 
+       <div class="for-work-feature-highlights__block__card scroll-target-mobile" data-scroll-offset="130"> 
+        <div class="for-work-feature-highlights__block__card-tinyhero"></div> 
+        <div class="for-work-feature-highlights__block__card-title">
+         More than just email
+        </div> 
+        <div class="for-work-feature-highlights__block__card-body">
+         Host a video meeting with up to 15 people straight from your inbox.
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </section> 
+   </section> 
+   <script type="text/ng-template" id="step-scroller.html">
+<div class="step-scroller">
+  <div class="dot" ng-click="scrollClick()" ng-class="{boost: (nextCount() === 0 && allLoaded()), loaded: allLoaded()}">
+    <i id="scroll-caret" class="caret" ng-class="{open: nextCount() === scrollTargetCount() - 1, closed: nextCount() !== scrollTargetCount() - 1}">&nbsp;</i>
+  </div>
+</div></script> 
+  </main> 
+  <footer> 
+   <div class="standard-footer"> 
+    <div class="standard-footer__bar"> 
+    </div> 
+    <div class="standard-footer__signature"></div> 
+    <div class="standard-footer__bar__social-icons"> 
+     <a href="https://gmail.googleblog.com/" class="link-blogger" target="_blank"></a> 
+     <a href="https://www.facebook.com/Gmail" class="link-face" target="_blank"></a> 
+     <a href="https://plus.google.com/+Gmail" class="link-gplus" target="_blank"></a> 
+     <a href="https://twitter.com/gmail" class="link-twitter" target="_blank"></a> 
+    </div> 
+    <div class="standard-footer__links"> 
+     <a href="/gmail/about/policy/" data-g-action="Our policy" data-g-event="Site Nav" data-g-label="about.html">Our policy</a> 
+     <a href="https://support.google.com/mail/" data-g-action="Help" data-g-event="Site Nav" data-g-label="about.html">Help</a> 
+     <a href="/gmail/about/for-work/" data-g-action="For Business" data-g-event="Site Nav" data-g-label="about.html" onclick="_gaq.push(['_trackEvent', 'Navigation', 'footer click', 'for work']);">For work</a> 
+     <div class="gplus">
+      <div class="g-plusone"></div>
+     </div> 
+     <script async defer src="https://apis.google.com/js/plusone.js">
+      </script> 
+    </div> 
+    <div class="standard-footer__bottom"> 
+     <div class="standard-footer__bottom__links"> 
+      <a href="//www.google.com?hl=en">Google</a> 
+      <a href="//www.google.com/about/?hl=en">About Google</a> 
+      <a href="//www.google.com/policies/privacy/?hl=en">Privacy</a> 
+      <a href="//www.google.com/policies/terms/?hl=en">Terms</a> 
+     </div> 
+     <div class="standard-footer__language"> 
+      <select onchange="window.location.href = this.value" class="language"> <option value="/intl/am/gmail/about/for-work/"> አማርኛ </option> <option value="/intl/ar/gmail/about/for-work/"> العربية </option> <option value="/intl/az/gmail/about/for-work/"> azərbaycan dili </option> <option value="/intl/bg/gmail/about/for-work/"> български </option> <option value="/intl/bn/gmail/about/for-work/"> বাংলা </option> <option value="/intl/ca/gmail/about/for-work/"> català </option> <option value="/intl/cs/gmail/about/for-work/"> čeština </option> <option value="/intl/da/gmail/about/for-work/"> dansk </option> <option value="/intl/de/gmail/about/for-work/"> Deutsch </option> <option value="/intl/el/gmail/about/for-work/"> Ελληνικά </option> <option value="/intl/en_uk/gmail/about/for-work/"> English (United Kingdom) </option> <option value="/intl/en_in/gmail/about/for-work/"> English (India) </option> <option value="/gmail/about/for-work/" selected> English (United States) </option> <option value="/intl/es/gmail/about/for-work/"> español </option> <option value="/intl/es-419/gmail/about/for-work/"> español (Latinoamérica) </option> <option value="/intl/et/gmail/about/for-work/"> eesti </option> <option value="/intl/eu/gmail/about/for-work/"> euskara </option> <option value="/intl/fa/gmail/about/for-work/"> فارسی </option> <option value="/intl/fi/gmail/about/for-work/"> suomi </option> <option value="/intl/fil/gmail/about/for-work/"> Filipino </option> <option value="/intl/fr/gmail/about/for-work/"> français </option> <option value="/intl/gl/gmail/about/for-work/"> galego </option> <option value="/intl/gu/gmail/about/for-work/"> ગુજરાતી </option> <option value="/intl/iw/gmail/about/for-work/"> עברית (ישראל) </option> <option value="/intl/hi/gmail/about/for-work/"> हिन्दी </option> <option value="/intl/hr/gmail/about/for-work/"> hrvatski </option> <option value="/intl/hu/gmail/about/for-work/"> magyar </option> <option value="/intl/id/gmail/about/for-work/"> Indonesia </option> <option value="/intl/is/gmail/about/for-work/"> íslenska </option> <option value="/intl/it/gmail/about/for-work/"> italiano </option> <option value="/intl/ja/gmail/about/for-work/"> 日本語 </option> <option value="/intl/km/gmail/about/for-work/"> ខ្មែរ </option> <option value="/intl/kn/gmail/about/for-work/"> ಕನ್ನಡ </option> <option value="/intl/ko/gmail/about/for-work/"> 한국어 </option> <option value="/intl/lt/gmail/about/for-work/"> lietuvių </option> <option value="/intl/lv/gmail/about/for-work/"> latviešu </option> <option value="/intl/ml/gmail/about/for-work/"> മലയാളം </option> <option value="/intl/mr/gmail/about/for-work/"> मराठी </option> <option value="/intl/ms/gmail/about/for-work/"> Bahasa Melayu </option> <option value="/intl/my/gmail/about/for-work/"> ဗမာ </option> <option value="/intl/no/gmail/about/for-work/"> norsk bokmål </option> <option value="/intl/nl/gmail/about/for-work/"> Nederlands </option> <option value="/intl/pl/gmail/about/for-work/"> polski </option> <option value="/intl/pt_br/gmail/about/for-work/"> português (Brasil) </option> <option value="/intl/pt_pt/gmail/about/for-work/"> português (Portugal) </option> <option value="/intl/ro/gmail/about/for-work/"> română </option> <option value="/intl/ru/gmail/about/for-work/"> русский </option> <option value="/intl/sk/gmail/about/for-work/"> slovenčina </option> <option value="/intl/sl/gmail/about/for-work/"> slovenščina </option> <option value="/intl/sr/gmail/about/for-work/"> српски </option> <option value="/intl/sv/gmail/about/for-work/"> svenska </option> <option value="/intl/sw/gmail/about/for-work/"> Kiswahili </option> <option value="/intl/ta/gmail/about/for-work/"> தமிழ் </option> <option value="/intl/te/gmail/about/for-work/"> తెలుగు </option> <option value="/intl/th/gmail/about/for-work/"> ไทย </option> <option value="/intl/tr/gmail/about/for-work/"> Türkçe </option> <option value="/intl/uk/gmail/about/for-work/"> українська </option> <option value="/intl/ur/gmail/about/for-work/"> اردو </option> <option value="/intl/vi/gmail/about/for-work/"> Tiếng Việt </option> <option value="/intl/zh-CN_cn/gmail/about/for-work/"> 中文 (简体, 中国) </option> <option value="/intl/zh-HK_hk/gmail/about/for-work/"> 中文 (繁體字, 中華人民共和國香港特別行政區) </option> <option value="/intl/zh-TW_tw/gmail/about/for-work/"> 中文 (繁體, 台灣) </option> </select> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <script>
+    (function(){
+      var link = null;
+      var isiOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+      var isAndroid = navigator.userAgent.toLowerCase().indexOf("android") > -1;
+      var appstoreBtn = document.getElementById('gmail-devices-appstore-button');
+      var playBtn = document.getElementById('gmail-devices-play-button');
+      var desktopBtn = document.getElementById('gmail-devices-send-button');
+      if (isiOS) {
+        link = "https://itunes.apple.com/app/apple-store/id422689480?pt=9008&ct=web_about-bar&mt=8";
+        updateBadges();
+      } else if (isAndroid) {
+        link = "https://play.google.com/store/apps/details?id=com.google.android.gm&referrer=utm_source%3Dweb_about";
+        updateBadges();
+      } else {
+        // We are in desktop
+        if (window.chosenVariant == 1) {
+          hideButton(playBtn);
+          hideButton(appstoreBtn);
+        } else {
+          hideButton(desktopBtn);
+        }
+      }
+
+      if (link !== null) {
+        processLinks(['hero_home__link__mobile', 'gmail-nav__nav-link__get-gmail']);
+      }
+      function processLinks(classes) {
+        classes.forEach(function(selector) {
+          var nodeList = document.getElementsByClassName(selector);
+          for (var i = 0; i < nodeList.length; i++) {
+            var elem = nodeList[i];
+            if (isiOS && elem.dataset.pageLocation) {
+              elem.href = 'https://itunes.apple.com/app/apple-store/id422689480?pt=9008&mt=8&ct=' + elem.dataset.pageLocation;
+              elem.removeAttribute("target");
+            } else {
+              elem.href = link;
+            }
+          }
+        });
+      }
+      function updateBadges() {
+        hideButton(desktopBtn);
+        if (isiOS) {
+          if (appstoreBtn != null) { appstoreBtn.removeAttribute("target"); }
+          hideButton(playBtn);
+        } else {
+          hideButton(appstoreBtn);
+        }
+      }
+      function hideButton(btn) {
+        if (btn != null) { btn.style.display = 'none'; }
+      }
+    })();
+  </script> 
+  <script src="//www.google.com/js/gweb/analytics/autotrack.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/webfont/1.5.10/webfont.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.min.js"></script> 
+  <script src="/gmail/about/static/js/main.min.js"></script> 
+  <script>
+    gmail.main();
+  </script>  
+ </body>
+</html>

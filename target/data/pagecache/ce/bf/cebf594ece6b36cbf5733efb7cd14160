@@ -1,0 +1,247 @@
+<!doctype html>
+<html class="google mmfb" dir="ltr" lang="en">
+ <head> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script> 
+  <meta charset="utf-8"> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <title>
+      Keep Your Online Storefront in Tip Top Shape - Google for Retail
+    </title> 
+  <meta content="The information in your online storefront is key to attracting customers and driving them to purchase. Learn how to improve your product data in this guide." name="description"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;lang=en" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Roboto+Slab:300,400,500&amp;lang=en" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Product+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="../../../../retail/2017/css/retail.min.css" rel="stylesheet"> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/v2_8_3/basic.js"></script> 
+  <link href="/retail/2017/images/shared/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <meta content="Ex8sscIHvFcjBZQCW25NgQI8-yl_6qBd266f6ucTLks" name="google-site-verification"> 
+  <link href="https://www.google.com/retail/resources/provide-high-quality-data.html" rel="canonical"> 
+  <link href="https://www.google.at/intl/de/retail/resources/provide-high-quality-data.html" hreflang="de" rel="alternate"> 
+  <link href="https://www.google.com.au/intl/en/retail/resources/provide-high-quality-data.html" hreflang="en" rel="alternate"> 
+  <link href="https://www.google.be/intl/nl/retail/resources/provide-high-quality-data.html" hreflang="nl" rel="alternate"> 
+  <link href="https://www.google.ca/intl/en/retail/resources/provide-high-quality-data.html" hreflang="en" rel="alternate"> 
+  <link href="https://www.google.ch/intl/de/retail/resources/provide-high-quality-data.html" hreflang="de" rel="alternate"> 
+  <link href="https://www.google.cz/intl/cs/retail/resources/provide-high-quality-data.html" hreflang="cs" rel="alternate"> 
+  <link href="https://www.google.de/intl/de/retail/resources/provide-high-quality-data.html" hreflang="de" rel="alternate"> 
+  <link href="https://www.google.dk/intl/da/retail/resources/provide-high-quality-data.html" hreflang="da" rel="alternate"> 
+  <link href="https://www.google.es/intl/es/retail/resources/provide-high-quality-data.html" hreflang="es" rel="alternate"> 
+  <link href="https://www.google.fr/intl/fr/retail/resources/provide-high-quality-data.html" hreflang="fr" rel="alternate"> 
+  <link href="https://www.google.com.hk/intl/zh-TW/retail/resources/provide-high-quality-data.html" hreflang="zh-TW" rel="alternate"> 
+  <link href="https://www.google.ie/intl/en/retail/resources/provide-high-quality-data.html" hreflang="en" rel="alternate"> 
+  <link href="https://www.google.co.in/intl/en/retail/resources/provide-high-quality-data.html" hreflang="en" rel="alternate"> 
+  <link href="https://www.google.it/intl/it/retail/resources/provide-high-quality-data.html" hreflang="it" rel="alternate"> 
+  <link href="https://www.google.co.jp/intl/ja/retail/resources/provide-high-quality-data.html" hreflang="ja" rel="alternate"> 
+  <link href="https://www.google.com.my/intl/en/retail/resources/provide-high-quality-data.html" hreflang="en" rel="alternate"> 
+  <link href="https://www.google.nl/intl/nl/retail/resources/provide-high-quality-data.html" hreflang="nl" rel="alternate"> 
+  <link href="https://www.google.no/intl/no/retail/resources/provide-high-quality-data.html" hreflang="no" rel="alternate"> 
+  <link href="https://www.google.co.nz/intl/en/retail/resources/provide-high-quality-data.html" hreflang="en" rel="alternate"> 
+  <link href="https://www.google.pl/intl/pl/retail/resources/provide-high-quality-data.html" hreflang="pl" rel="alternate"> 
+  <link href="https://www.google.pt/intl/pt-PT/retail/resources/provide-high-quality-data.html" hreflang="pt-PT" rel="alternate"> 
+  <link href="https://www.google.ru/intl/ru/retail/resources/provide-high-quality-data.html" hreflang="ru" rel="alternate"> 
+  <link href="https://www.google.se/intl/sv/retail/resources/provide-high-quality-data.html" hreflang="sv" rel="alternate"> 
+  <link href="https://www.google.com.sg/intl/en/retail/resources/provide-high-quality-data.html" hreflang="en" rel="alternate"> 
+  <link href="https://www.google.com.tr/intl/tr/retail/resources/provide-high-quality-data.html" hreflang="tr" rel="alternate"> 
+  <link href="https://www.google.com.tw/intl/zh-TW/retail/resources/provide-high-quality-data.html" hreflang="zh-TW" rel="alternate"> 
+  <link href="https://www.google.co.uk/intl/en/retail/resources/provide-high-quality-data.html" hreflang="en" rel="alternate"> 
+  <link href="https://www.google.co.za/intl/en/retail/resources/provide-high-quality-data.html" hreflang="en" rel="alternate"> 
+  <link href="https://www.google.be/intl/de/retail/resources/provide-high-quality-data.html" hreflang="de" rel="alternate"> 
+  <link href="https://www.google.ae/intl/en/retail/resources/provide-high-quality-data.html" hreflang="en" rel="alternate"> 
+  <link href="https://www.google.co.id/intl/en/retail/resources/provide-high-quality-data.html" hreflang="en" rel="alternate"> 
+  <link href="https://www.google.com.ph/intl/en/retail/resources/provide-high-quality-data.html" hreflang="en" rel="alternate"> 
+  <link href="https://www.google.ca/intl/fr-CA/retail/resources/provide-high-quality-data.html" hreflang="fr-CA" rel="alternate"> 
+  <link href="https://www.google.be/intl/fr/retail/resources/provide-high-quality-data.html" hreflang="fr" rel="alternate"> 
+  <link href="https://www.google.ch/intl/fr/retail/resources/provide-high-quality-data.html" hreflang="fr" rel="alternate"> 
+  <link href="https://www.google.ch/intl/it/retail/resources/provide-high-quality-data.html" hreflang="it" rel="alternate"> 
+  <link href="https://www.google.com/intl/en/retail/resources/provide-high-quality-data.html" hreflang="en" rel="alternate"> 
+  <link href="https://www.google.com/retail/resources/provide-high-quality-data.html" hreflang="x-default" rel="alternate"> 
+  <meta content="online storefront" name="keywords"> 
+  <style type="text/css">
+    svg.c1 {enable-background:new 0 0 23 15;}
+    </style> 
+ </head> 
+ <body ng-app="rs.retail"> 
+  <header class="header" role="banner"> 
+   <h1 class="product-logo"> <a href="../../../../retail/"><img alt="Google" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" srcset="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png 2x"> <span class="site-name">for Retail</span></a> </h1> 
+   <nav class="main-navigation" data-ng-controller="rs.navigation.NavCtrl as navCtrl"> 
+    <h1> Google for Retail </h1> 
+    <ul> 
+     <li> <a href="../../retail/">Overview</a> </li> 
+     <li> <a href="../../retail/solutions/">Solutions</a> </li> 
+     <li> <a href="../../retail/success-stories/">Success Stories</a> </li> 
+     <li> <a href="../../retail/get-help/">Support</a> </li> 
+    </ul> 
+    <div class="cta cta-wrapper"> 
+     <a class="cta-signup" href="../../retail/get-started/">Get Started</a> 
+    </div> 
+   </nav>
+   <button class="nav-toggle-button"><span class="icon-menu-els"><span class="menu-bar"></span> <span class="menu-bar"></span> <span class="menu-bar"></span></span></button> 
+  </header> 
+  <div class="main" role="main"> 
+   <section class="section-retail-resources"> 
+    <section class="section site-width"> 
+     <div class="cols-row site-width"> 
+      <div class="col-12"> 
+       <h1> Provide High-Quality Data </h1> 
+      </div> 
+     </div> 
+     <section class="cols-row site-width"> 
+      <div class="col-7"> 
+       <article class="col-12"> 
+        <p> When customers search for your products, your product data will be the deciding factor for whether they click on your Shopping ad and buy from you. To attract customers and drive them to the final purchase, it's essential to provide high-quality product data for your online storefront. </p> 
+        <p> Read this guide to understand how to submit product data that is fresh, accurate and comprehensive. Make the right first impression to your customers by building a high-quality online storefront with all the information your customers are looking for. </p> 
+        <p> In this guide, you'll learn to: </p> 
+        <ul> 
+         <li>Provide fresh data </li> 
+         <li>Provide accurate and comprehensive data </li> 
+        </ul> 
+       </article> 
+      </div> 
+      <div class="download-container col-4 col-offset-1"> 
+       <div class="download-image"> 
+        <img alt="Learn More" src="https://lh3.googleusercontent.com/B8KxMqG7KgeYk6GgtDyUjI-2R_uqnOcO6Ss4vqm47qVwrb0oa2KnV0MVVmAQgzJbVzpL_C6aNfNDGrtBfAhGed6mhoT_IxHn00Ym"> 
+       </div> 
+       <div class="download-box light-gray"> 
+        <span class="doctype-icon doctype-ebook">
+         <svg enable-background="new 0 0 32 32" height="24px" version="1.1" viewbox="0 0 32 32" width="24px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <rect height="2.2" width="16.6" x="7.7" y="9.8"></rect> 
+          <rect height="2.2" width="16.6" x="7.7" y="14.2"></rect> 
+          <rect height="2.2" width="16.6" x="7.7" y="18.7"></rect> 
+          <rect height="2.2" width="8.9" x="7.7" y="23.1"></rect> 
+          <path d="M26.6,0H5.4C4.2,0,3.2,0.9,3.2,2.2v27.6c0,1.2,1,2.2,2.2,2.2h21.1c1.2,0,2.2-1,2.2-2.2V2.2C28.8,1,27.8,0,26.6,0z M16,30.5 c-0.5,0-0.9-0.4-0.9-0.9c0-0.5,0.4-0.9,0.9-0.9c0.5,0,0.9,0.4,0.9,0.9C16.9,30.1,16.5,30.5,16,30.5z M26.6,27.6H5.4V2.2h2.2v4.2 l2.2-2.2l2.2,2.2V2.2h14.4V27.6z"> 
+          </path>
+         </svg> <img alt="ebook icon" height="24" src="//www.google.com/ads/images/icons/icon-doctype-ebook.png" width="24"></span> 
+        <h4 class="doctype-ebook-title"> Featured Content </h4> 
+        <div class="download-box-copy"> 
+         <h3> Deliver high-quality product data </h3>
+         <a href="https://support.google.com/merchants/answer/188489?hl=en" target="_blank">Read More 
+          <svg class="icon-link-newtab" enable-background="new 0 0 32 32" height="16px" version="1.1" viewbox="0 0 32 32" width="16px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+           <path d="M28.4,28.4H3.6V3.6H16V0H3.6C1.6,0,0,1.6,0,3.6v24.9c0,2,1.6,3.6,3.6,3.6h24.9c2,0,3.6-1.6,3.6-3.6V16h-3.6V28.4z M19.6,0 v3.6h6.4L8.5,21l2.5,2.5L28.4,6.1v6.4H32V0H19.6z"> 
+           </path>
+          </svg> <img alt="new tab link icon" class="icon-link-newtab" height="16" src="//www.google.com/ads/images/icons/icon-link-newtab.png" width="16"></a> 
+        </div> 
+       </div> 
+      </div> 
+     </section> 
+    </section> 
+   </section> 
+  </div> 
+  <footer class="footer" id="footer" role="contentinfo"> 
+   <div class="site-width"> 
+    <div class="footer-upper cols-row"> 
+     <div class="footer-social col-6"> 
+      <dl> 
+       <dt>
+         Follow us on: 
+       </dt> 
+       <dd> 
+        <a href="https://plus.google.com/+GoogleAds/" rel="noopener nofollow" target="_blank" title="Google+">
+         <svg class="icon-footer-gplus c1" height="20px" version="1.1" viewbox="0 0 23 15" width="30px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <polygon points="23,6 21,6 21,4 19,4 19,6 17,6 17,8 19,8 19,10 21,10 21,8 23,8"> 
+          </polygon> 
+          <path d="M11.8,8.9c-0.1,1.3-1.3,3.4-4.3,3.4c-2.6,0-4.6-2.1-4.6-4.7S5,2.9,7.5,2.9c1.5,0,2.4,0.6,3,1.1 l0,0l2-2c-1.3-1.2-3-2-5-2C3.4,0.1,0,3.5,0,7.6s3.4,7.5,7.5,7.5c4.3,0,7.2-3,7.2-7.3c0-0.6-0.1-1.1-0.2-1.5h-7V9L11.8,8.9L11.8,8.9 z"> 
+          </path>
+         </svg> <img alt="Google+" class="icon-footer-gplus" height="20" src="//www.google.com/ads/images/icons/icon-footer-gplus.png" width="20"></a> 
+       </dd> 
+       <dd> 
+        <a href="https://adwords.blogspot.com/search/label/Google%20Shopping" rel="noopener" target="_blank" title="Blogger">
+         <svg class="icon-footer-blogger" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path d="M28.8,0H3.2C1.4,0,0,1.4,0,3.2l0,25.6C0,30.6,1.4,32,3.2,32h25.6c1.8,0,3.2-1.4,3.2-3.2V3.2 C32,1.4,30.6,0,28.8,0 M22.4,11.2v1.6c0,0.9,0.7,1.6,1.6,1.6c0.9,0,1.6,0.7,1.6,1.6v4.8c0,2.7-2.1,4.8-4.8,4.8h-9.6 c-2.7,0-4.8-2.1-4.8-4.8V9.6c0-2.6,2.1-4.8,4.8-4.8h6.4c2.7,0,4.8,2.2,4.8,4.8V11.2z M12.7,12.8h4.2c0.9,0,1.6-0.7,1.6-1.6 s-0.7-1.6-1.6-1.6h-4.2c-0.9,0-1.6,0.7-1.6,1.6S11.8,12.8,12.7,12.8 M19.2,17.6h-6.5c-0.9,0-1.6,0.7-1.6,1.6c0,0.9,0.7,1.6,1.6,1.6 h6.5c0.9,0,1.6-0.7,1.6-1.6C20.8,18.3,20.1,17.6,19.2,17.6"> 
+          </path>
+         </svg> <img alt="Blogger" class="icon-footer-blogger" height="20" src="//www.google.com/ads/images/icons/icon-footer-blogger.png" width="20"></a> 
+       </dd> 
+      </dl> 
+     </div> 
+    </div> 
+    <nav class="footer-nav cols-row"> 
+     <dl class="col-3"> 
+      <dt>
+        Learning &amp; Support 
+      </dt> 
+      <dd> 
+       <a href="https://support.google.com/merchants/?hl=en#topic=3404821">Merchant Center Help</a> 
+      </dd> 
+      <dd> 
+       <a href="https://support.google.com/manufacturers/#topic=6124028/?hl=en">Manufacturer Center Help</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.en.advertisercommunity.com/t5/Google-Small-Business/ct-p/Google_Small_Business" rel="nofollow">Google Small Business Community</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Developers 
+      </dt> 
+      <dd> 
+       <a href="https://developers.google.com/?hl=en">Google Developers Site</a> 
+      </dd> 
+      <dd> 
+       <a href="https://developers.google.com/shopping-content/v2/quickstart?hl=en">Content API for Shopping</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        Related Products 
+      </dt> 
+      <dd> 
+       <a href="https://www.google.com/retail/solutions/merchant-center/">Merchant Center</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/retail/solutions/manufacturer-center/">Manufacturer Center</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/retail/solutions/shopping-campaigns/">Shopping Campaigns</a> 
+      </dd> 
+      <dd> 
+       <a href="https://domains.google/intl/en/">Google Domains</a> 
+      </dd> 
+     </dl> 
+     <dl class="col-3"> 
+      <dt>
+        More Solutions from Google 
+      </dt> 
+      <dd> 
+       <a href="https://adwords.google.com/home/">Google AdWords</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/services/">Business Solutions</a> 
+      </dd> 
+      <dd> 
+       <a href="https://gsuite.google.com/intl/en/">Google Apps for Work</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.google.com/analytics/">Google Analytics</a> 
+      </dd> 
+      <dd> 
+       <a href="https://www.thinkwithgoogle.com/marketing-resources/local-retail-playbook/">Think with Google</a> 
+      </dd> 
+     </dl> 
+    </nav> 
+    <div class="footer-lower cols-row"> 
+     <div class="footer-meta-links col-9"> 
+      <ul> 
+       <li> <a href="https://support.google.com/?hl=en">
+         <svg class="icon-footer-help" enable-background="new 0 0 32 32" height="20px" version="1.1" viewbox="0 0 32 32" width="20px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"> 
+          <path clip-rule="evenodd" d="M16 0C7.2 0 0 7.2 0 16c0 3 .9 5.9 2.3 8.3L0 32l7.7-2.3C10.2 31.1 13 32 16 32c8.8 0 16-7.2 16-16S24.8 0 16 0zm1.3 24.6c-.3.3-.7.5-1.2.5s-1-.2-1.2-.5c-.3-.3-.4-.7-.4-1.1 0-.2 0-.4.1-.6.1-.2.2-.4.3-.5.1-.1.3-.3.5-.3.2-.1.4-.1.7-.1.3 0 .5 0 .7.1.2.1.4.2.5.3.1.1.3.3.3.5.1.2.1.4.1.6 0 .5-.1.8-.4 1.1zm3.8-11.4c-.2.5-.4.9-.6 1.3l-.9 1.2c-.3.4-.7.8-1 1.1-.4.4-.7.9-.9 1.4-.2.5-.2.8-.3 1.8h-2.8c0-1 0-1.2.1-1.6.1-.4.2-1 .3-1.3.2-.3.4-.7.6-1 .2-.3.6-.7.9-1 .2-.3.5-.5.7-.7.2-.2.4-.5.6-.7.2-.3.3-.5.4-.8.1-.3.1-.6.1-1 0-.8-.2-1.4-.6-1.8-.4-.4-1-.6-1.7-.6-.3 0-.6.1-.9.1-.3.1-.5.2-.8.4s-.4.6-.5.8c-.1.3-.2 1.2-.2 1.2h-3c0-2 .2-1.6.4-2.2.3-.6.7-1.2 1.1-1.6.5-.4 1-.7 1.7-.9.8-.3 1.5-.4 2.2-.4.8 0 1.6.1 2.2.3.7.2 1.2.5 1.7.9s.8.9 1 1.5c.2.6.4 1.3.4 2.1 0 .6-.1 1.1-.2 1.5z" fill-rule="evenodd"></path>
+         </svg> <img alt="Help" class="icon-footer-help" height="20" src="//www.google.com/ads/images/icons/icon-footer-help.png" width="20"> Help</a> </li> 
+       <li> <a href="//www.google.com">Google</a> </li> 
+       <li> <a href="//www.google.com/intl/en/policies/privacy/">Privacy</a> </li> 
+       <li> <a href="//www.google.com/intl/en/policies/terms/">Terms</a> </li> 
+      </ul> 
+     </div> 
+     <div class="footer-locale-switcher col-3"> 
+      <label class="visually-hidden" for="footer-locales"><span>Change language or region:</span></label> 
+      <select class="footer-locales" id="footer-locales" onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="//www.google.cz/intl/cs/retail/resources/provide-high-quality-data.html"> Čeština – Česká republika </option> <option value="//www.google.dk/intl/da/retail/resources/provide-high-quality-data.html"> Dansk – Danmark </option> <option value="//www.google.be/intl/de/retail/resources/provide-high-quality-data.html"> Deutsch – Belgien </option> <option value="//www.google.de/intl/de/retail/resources/provide-high-quality-data.html"> Deutsch – Deutschland </option> <option value="//www.google.at/intl/de/retail/resources/provide-high-quality-data.html"> Deutsch – Österreich </option> <option value="//www.google.ch/intl/de/retail/resources/provide-high-quality-data.html"> Deutsch – Schweiz </option> <option selected value="//www.google.com/intl/en/retail/resources/provide-high-quality-data.html"> English </option> <option value="//www.google.com.au/intl/en/retail/resources/provide-high-quality-data.html"> English – Australia </option> <option value="//www.google.ca/intl/en/retail/resources/provide-high-quality-data.html"> English – Canada </option> <option value="//www.google.co.in/intl/en/retail/resources/provide-high-quality-data.html"> English – India </option> <option value="//www.google.co.id/intl/en/retail/resources/provide-high-quality-data.html"> English – Indonesia </option> <option value="//www.google.ie/intl/en/retail/resources/provide-high-quality-data.html"> English – Ireland </option> <option value="//www.google.com.my/intl/en/retail/resources/provide-high-quality-data.html"> English – Malaysia </option> <option value="//www.google.co.nz/intl/en/retail/resources/provide-high-quality-data.html"> English – New Zealand </option> <option value="//www.google.com.ph/intl/en/retail/resources/provide-high-quality-data.html"> English – Philippines </option> <option value="//www.google.com.sg/intl/en/retail/resources/provide-high-quality-data.html"> English – Singapore </option> <option value="//www.google.co.za/intl/en/retail/resources/provide-high-quality-data.html"> English – South Africa </option> <option value="//www.google.ae/intl/en/retail/resources/provide-high-quality-data.html"> English – United Arab Emirates </option> <option value="//www.google.co.uk/intl/en/retail/resources/provide-high-quality-data.html"> English – United Kingdom </option> <option value="//www.google.es/intl/es/retail/resources/provide-high-quality-data.html"> Español – España </option> <option value="//www.google.be/intl/fr/retail/resources/provide-high-quality-data.html"> Français – Belgique </option> <option value="//www.google.fr/intl/fr/retail/resources/provide-high-quality-data.html"> Français – France </option> <option value="//www.google.ch/intl/fr/retail/resources/provide-high-quality-data.html"> Français – Suisse </option> <option value="//www.google.ca/intl/fr-CA/retail/resources/provide-high-quality-data.html"> Français (Canada) – Canada </option> <option value="//www.google.it/intl/it/retail/resources/provide-high-quality-data.html"> Italiano – Italia </option> <option value="//www.google.ch/intl/it/retail/resources/provide-high-quality-data.html"> Italiano – Svizzera </option> <option value="//www.google.be/intl/nl/retail/resources/provide-high-quality-data.html"> Nederlands – België </option> <option value="//www.google.nl/intl/nl/retail/resources/provide-high-quality-data.html"> Nederlands – Nederland </option> <option value="//www.google.no/intl/no/retail/resources/provide-high-quality-data.html"> Norsk – Norge </option> <option value="//www.google.pl/intl/pl/retail/resources/provide-high-quality-data.html"> Polski – Polska </option> <option value="//www.google.pt/intl/pt-PT/retail/resources/provide-high-quality-data.html"> Português (Portugal) – Portugal </option> <option value="//www.google.se/intl/sv/retail/resources/provide-high-quality-data.html"> Svenska – Sverige </option> <option value="//www.google.com.tr/intl/tr/retail/resources/provide-high-quality-data.html"> Türkçe – Türkiye </option> <option value="//www.google.ru/intl/ru/retail/resources/provide-high-quality-data.html"> Русский – Россия </option> <option value="//www.google.com.tw/intl/zh-TW/retail/resources/provide-high-quality-data.html"> 中文（繁體中文） – 台灣 </option> <option value="//www.google.com.hk/intl/zh-TW/retail/resources/provide-high-quality-data.html"> 中文（繁體中文） – 香港 </option> <option value="//www.google.co.jp/intl/ja/retail/resources/provide-high-quality-data.html"> 日本語 – 日本 </option> </select> 
+     </div> 
+    </div> 
+   </div> 
+  </footer> 
+  <script src="//www.gstatic.com/external_hosted/picturefill/picturefill.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-messages.min.js"></script> 
+  <script async data-gtmid="GTM-KCMJ66" src="https://www.google.com/ads/js/peitho2/peitho2.min.js"></script> 
+  <script src="../../../../retail/2017/js/retail.min.js"></script>  
+ </body>
+</html>

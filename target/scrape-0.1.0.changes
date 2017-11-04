@@ -1,0 +1,20 @@
+Format: 1.8
+Date: Thu, 2 Nov 2017 15:16:11 +0100
+Source: scrape
+Binary: scrape
+Architecture: all
+Version: 0.1.0
+Distribution: unknown
+Urgency: low
+Maintainer: Unspecified
+Changed-By: Unspecified
+Description:
+ scrape - (Dropwizard Application)
+Changes:
+ scrape (0.1.0) unknown; urgency=low
+Checksums-Sha1:
+ 2dd6560094d7eef0506ae3ed2489ddeed095c1e1 17977670 scrape-0.1.0.deb
+Checksums-Sha256:
+ e71e4b7a25812f0794cf9968efa03eeeba5545fde29cbc772ed8ece281011320 17977670 scrape-0.1.0.deb
+Files:
+ ff4a013fc2a2e835b0b726f0e9fc3548 17977670 misc low scrape-0.1.0.deb

@@ -1,0 +1,491 @@
+<!doctype html>
+<html class="no-js" dir="ltr" lang="ja">
+ <head> 
+  <meta charset="utf-8"> 
+  <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"> 
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"> 
+  <title>
+      Google スライド - オンラインでプレゼンテーションを作成、編集できる無料サービス
+    </title> 
+  <meta content="新しいプレゼンテーションを作成して、他のユーザーと同時に編集。インターネットに接続していなくても作業を継続でき、PowerPoint ファイルも編集できる、Google の無料サービスです。" name="description"> 
+  <script src="//www.google.com/js/google.js"></script> 
+  <script>
+    new gweb.analytics.AutoTrack({profile:"UA-48684867-1"});
+    </script> 
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600&amp;subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic" rel="stylesheet"> 
+  <link href="https://www.google.com/intl/ja/slides/about/" rel="canonical"> 
+  <link href="favicon.ico" rel="shortcut icon"> 
+  <link href="css/slides.min.css" rel="stylesheet"> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/modernizr.js"></script> 
+ </head> 
+ <body class="editors-layout nav-collapsed slides"> 
+  <header class="header" role="banner"> 
+   <div class="header-item with-site-logo"> 
+    <a class="site-logo site-logo-link" href="/"> 
+     <div class="site-logo-image icon icon-google-logo-dark">
+       Google エディタ 
+     </div></a> 
+   </div> 
+   <nav data-nav-name="mobile"> 
+    <ul class="nav-main"> 
+     <li> <a class="docs" href="../../docs/about/"><span class="icon icon-docs-icon">&nbsp;</span> ドキュメント</a> </li> 
+     <li> <a class="sheets" href="../../sheets/about/"><span class="icon icon-sheets-icon">&nbsp;</span> スプレッドシート</a> </li> 
+     <li> <a class="slides" href="../../slides/about/"><span class="icon icon-slides-icon">&nbsp;</span> スライド</a> </li> 
+     <li class="forms nav-main-last"> <a class="forms" href="../../forms/about/"><span class="icon icon-forms-icon">&nbsp;</span> フォーム</a> </li> 
+    </ul> 
+    <ul class="nav-tertiary"> 
+     <li> <a class="work" href="https://gsuite.google.com/features/?utm_source=slidesforwork&amp;utm_medium=et&amp;utm_campaign=refresh&amp;utm_content=header&amp;hl=jp"> 仕事で使う</a> </li> 
+     <li class="tertiary-last"> <a href="https://support.google.com/docs?hl=jp&amp;p=#topic=2811776">ヘルプ</a> </li> 
+     <li class="mobile-is-hidden desktop-small-is-hidden float-in"> <a class="get-google-editors js-dropdown-toggle" data-g-action="Goes to web editor" data-g-event="outboundlink-CTAs" data-g-label="Corner nav" href="https://docs.google.com/presentation/?usp=mkt_slides">Google スライドを使う</a> </li> 
+    </ul> 
+   </nav> 
+   <div class="mobile-nav-toggle js-mobilenav"> 
+    <div class="icon icon-mobile-open toggle-nav-open js-mobilenav-toggle" data-target-nav="mobile">
+      &nbsp; 
+    </div> 
+    <div class="icon icon-mobile-close toggle-nav-closed js-mobilenav-toggle-close" data-target-nav="mobile">
+      &nbsp; 
+    </div> 
+   </div> 
+  </header> 
+  <section class="section-intro section-intro-fullscreen" id="section-intro"> 
+   <div class="section-photo-intro section-photo js-parallax-image" data-origin="0" data-reverse-parallax="true"></div> 
+   <div class="section-centered section-vertical-align js-vertical-align js-parallax-image" data-origin="0" data-parallax-fade="true" data-parallax-speed="3" data-reverse-parallax="true"> 
+    <div class="one-whole"> 
+     <span class="section-headline section-headline-large section-headline-white mobile-is-visible">魅力的な <span class="type-out-beam type-out-beam-small allow-orphan"><span class="type-out-name type-out-name-small">Kim</span></span> プレゼンテーションを作ろう</span> 
+     <h1 class="section-headline section-headline-large section-headline-white allow-orphan mobile-is-hidden"> 美しいプレゼンテーションを作ろう <span class="type-out-beam allow-orphan js-beam"><span class="type-out-name js-name">Brittany</span></span> </h1> 
+     <p class="section-body section-body-white section-body-bold"> Google スライドを使用すれば、どこにいても無料で作成、編集、共同作業が可能です。 </p>
+     <a class="maia-button button-download desktop-is-hidden mobile-is-visible no-touch-tablet-is-hidden mobile-download js-mobile-download" data-g-action="Goes to Playstore" data-g-event="outboundlink-CTAs" data-g-label="Top button" data-href="https://itunes.apple.com/app/apple-store/id879478102?pt=9008&amp;ct=slides_mkt_remote&amp;mt=8" href="http://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&amp;hl=ja" target="_blank">Google スライドをダウンロード</a> 
+     <div class="dropdown-container tablet-mobile-is-hidden no-touch-tablet-is-visible"> 
+      <a class="maia-button button-download" data-g-action="Goes to web editor" data-g-event="outboundlink-CTAs" data-g-label="Top button" href="https://docs.google.com/presentation/?usp=mkt_slides">Google スライドを使う</a> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="arrow-hint"> 
+    <a class="gweb-smoothscroll-control" href="#start"> 
+     <div class="icon icon-arrow-hint animated-arrow-1"> 
+      <!----> 
+     </div> 
+     <div class="icon icon-arrow-hint animated-arrow-2"> 
+      <!----> 
+     </div></a> 
+   </div> 
+  </section> 
+  <div class="unfixed-wrapper" id="start"> 
+   <section class="section-subscribe inline js-vertical-wrapper" id="section-subscribe"> 
+    <div class="section-centered maia-cols js-vertical-panel"> 
+     <form class="newsletter-form"> 
+      <input class="newsletter-email" name="email" placeholder="Enter email for updates &amp; tips" type="text"> 
+      <input name="app-source" type="hidden" value="スライド"> 
+      <input name="language-pref" type="hidden" value="ja"> 
+      <a class="newsletter-submit button maia-button button-download templates-button" href="#" onclick="_gaq.push(['_trackEvent', 'Click', 'newsignup', 'true']);" target="_blank">Sign up</a> 
+      <div class="newsletter-spinner"></div> 
+      <p class="newsletter-error"> Please enter a valid email address </p> 
+      <p class="newsletter-success"> Thanks for signing up. You can unsubscribe at any time at the bottom of any email you receive from Google Docs. </p> 
+     </form> 
+    </div> 
+   </section> 
+   <section class="section-makegreat js-vertical-wrapper" id="section-tell"> 
+    <div class="section-centered maia-columns"> 
+     <div class="photo-crop"> 
+      <!--[if IE ]>
+          <div class="ie-image"></div>
+        <![endif]--> 
+      <!--[if !IE]>--> 
+      <div class="static-image"></div> 
+      <div class="dynamic-image"> 
+       <div class="orange"></div> 
+       <div class="outer-frame"> 
+        <div class="frame2"> 
+         <div class="name1">
+           Eddie 
+         </div> 
+        </div> 
+        <div class="text-container"> 
+         <div class="text"> 
+          <p class="bigger"> HEALTHY </p> 
+          <p class="bigger"> HONEYBEES </p> 
+          <p> Everyone needs them! </p> 
+          <p> Honeybees play a critical role in the development of our fruit, flowers, and more. </p> 
+         </div> 
+         <div class="textBlock1"></div> 
+         <div class="textBlock2"></div> 
+         <div class="textBlock3"></div> 
+         <div class="textBlock4"></div> 
+         <div class="textBlock5"></div> 
+         <div class="textBlock6"></div> 
+        </div> 
+        <div class="frame6"></div> 
+        <div class="frame5"> 
+         <div class="name3">
+           Lindsay 
+         </div> 
+        </div> 
+        <div class="frame4"></div> 
+        <div class="frame3"> 
+         <div class="name2">
+           Jono 
+         </div> 
+        </div> 
+        <div class="frame8"></div> 
+        <div class="frame7"> 
+         <div class="name4">
+           Salit 
+         </div> 
+        </div> 
+       </div> 
+      </div>
+      <!--<![endif]--> 
+     </div> 
+     <div class="maia-col-6 mobile-is-hidden"></div> 
+     <div class="maia-col-6 vertical-pad js-vertical-panel mobile-is-centered"> 
+      <h2 class="heading-headline allow-orphan"> ポイントを押さえたプレゼンテーション </h2> 
+      <p class="section-body"> Google スライドでは、さまざまなプレゼンテーション用テーマ、多数のフォント、埋め込み動画やアニメーションなどで、アイデアをわかりやすく表現できます。しかもすべて無料でご利用いただけます。 </p> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section-download position-rel" id="section-download"> 
+    <div class="photo-crop"></div> 
+    <div class="section-centered maia-cols js-vertical-wrapper"> 
+     <div class="maia-col-6 mobile-is-centered js-vertical-panel"> 
+      <h2 class="heading-headline allow-orphan"> いつでも、どこからでもプレゼンテーションにアクセス </h2> 
+      <p class="section-body"> スマートフォン、タブレット、パソコン。場所を問わずにどこからでもプレゼンテーションにアクセスして、作成や編集を行えます。オフライン中でも作業の継続が可能です。 </p> 
+      <div class="dropdown-container tablet-mobile-is-hidden no-touch-tablet-is-visible js-dropdown"> 
+       <a class="maia-button button-download js-dropdown-toggle" href="//docs.google.com" target="_blank">アプリをダウンロード <span class="icon icon-down-arrow">
+         <!-- --></span></a> 
+       <ul class="dropdown js-dropdown-menu"> 
+        <li> <a data-g-action="Goes to Playstore" data-g-event="outboundlink-CTAs" data-g-label="Mobile button" href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&amp;hl=ja" target="_blank">Android 版スライド</a> </li> 
+        <li> <a data-g-action="Goes to Appstore" data-g-event="outboundlink-CTAs" data-g-label="Mobile button" href="https://itunes.apple.com/app/apple-store/id879478102?pt=9008&amp;ct=slides_mkt_remote&amp;mt=8" target="_blank">iPhone / iPad 版スライド</a> </li> 
+       </ul> 
+      </div>
+      <a class="maia-button button-download desktop-is-hidden mobile-is-visible no-touch-tablet-is-hidden mobile-download js-mobile-download" data-g-action="Goes to Playstore" data-g-event="outboundlink-CTAs" data-g-label="Top button" data-href="https://itunes.apple.com/app/apple-store/id879478102?pt=9008&amp;ct=slides_mkt_remote&amp;mt=8" href="//play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&amp;hl=ja" target="_blank">Google スライドをダウンロード</a> 
+     </div> 
+     <div class="maia-col-6 mobile-is-hidden"></div> 
+    </div> 
+   </section> 
+   <section class="section-stuffdone light-gray" id="section-do-more"> 
+    <div class="section-centered maia-cols fix-overflow"> 
+     <div class="tabs tabs-space js-tabs" data-tab-name="get-stuff-done"> 
+      <div class="tabs-content js-tab-content-container mobile-is-hidden js-select-menu-container" data-select-first="true" data-select-populated="true"> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Get stuff done" data-tab-name="stuff-done"> 
+        <div class="tabs-detail-holder tabs-detail-worktogether js-avatar-container"> 
+         <div class="worktogether-add-button has-shadow js-together-button"></div> 
+         <div class="worktogether-avatar avatar-left has-shadow js-avatar js-together-avatar-one"> 
+          <img alt="Pam のアバター" src="images/common/add-pam.jpg"> 
+         </div> 
+         <div class="worktogether-avatar avatar-center has-shadow js-avatar js-together-avatar-two"> 
+          <img alt="Tom のアバター" src="images/common/add-tom.jpg"> 
+         </div> 
+         <div class="worktogether-avatar avatar-right has-shadow js-avatar js-together-avatar-three"> 
+          <img alt="Kim のアバター" src="images/common/add-kim.jpg"> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Share with Anyone" data-tab-name="share"> 
+        <div class="tabs-detail-holder tabs-detail-share"> 
+         <div class="share-share-button has-shadow js-share-button"> 
+          <h2 class="heading-headline"> 共有 </h2> 
+         </div> 
+         <div class="share-invite has-shadow js-share-invite"> 
+          <h2 class="heading-headline"> 招待: </h2> 
+          <div class="share-invite-box"> 
+           <p class="section-body"> 名前かメールアドレスを入力... </p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Edit in real-time" data-tab-name="edit"> 
+        <div class="tabs-detail-holder tabs-detail-edit has-shadow"> 
+         <h1 class="section-headline"> みんなにおすすめ <span class="type-out-beam type-out-beam-small allow-orphan js-beam"><span class="type-out-name type-out-name-small js-name">Brittany</span></span> </h1> 
+         <p class="section-body"> <span class="js-typeout-parent js-typeout-three"><span class="type-out teal js-typeout" data-words="ハチミツ"><span class="type-out-word js-word">
+             <!-- --></span> <span class="type-out-beam type-out-beam-small allow-orphan js-beam" data-names="Pam"><span class="type-out-name type-out-name-small js-name"> 
+              <!-- --></span></span></span></span> </p> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Chat and comment" data-tab-name="chat"> 
+        <div class="tabs-detail-holder tabs-detail-chat"> 
+         <div class="chat-message chat-message-top"> 
+          <div class="chat-message-text has-shadow js-message-one">
+            編集はいつ頃終わりますか？ 
+           <div class="chat-message-timestamp">
+             火曜日、午後 1:06 
+           </div> 
+          </div> 
+          <div class="chat-message-avatar has-shadow js-avatar-one"> 
+           <img alt="Kim のアバター" src="images/common/message-avatar-top.jpg"> 
+          </div> 
+         </div> 
+         <div class="chat-message chat-message-bottom js-message-two"> 
+          <div class="chat-message-text has-shadow">
+            2 時までには... 
+           <div class="chat-message-timestamp">
+             火曜日、午後 1:06 
+           </div> 
+          </div> 
+          <div class="chat-message-avatar js-avatar-two"> 
+           <img alt="Tom のアバター" src="images/common/message-avatar-bottom.jpg"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="maia-col-6 mobile-is-hidden"></div> 
+      <div class="maia-col-6"> 
+       <div class="tabs-list js-mobile-slides js-dynamic-slideheight"> 
+        <div class="tabs-tab tabs-tab-first mobile-slide-stuff-done js-activate-tab js-stuff-trigger js-mobile-slide js-tab-padding" data-tab-target="stuff-done"> 
+         <label class="tabs-label js-tab-text"><span class="tab-label-title">共同作業でもっと便利に</span> <span class="tabs-label-caption">Google スライドを使用すると、同じプレゼンテーションで他のユーザーと同時に作業できます。</span></label> 
+        </div> 
+        <div class="tabs-tab mobile-slide-share js-share-trigger js-activate-tab js-mobile-slide js-tab-padding" data-tab-target="share"> 
+         <label class="tabs-label js-tab-text"><span class="tab-label-title">誰とでも共有</span> <span class="tabs-label-caption">共有ボタンをクリックすると、プレゼンテーションでの閲覧、コメント、編集を許可する相手として、友だち、クラスメート、同僚、家族など、誰でも自由に指定できます。</span></label> 
+        </div> 
+        <div class="tabs-tab mobile-slide-edit js-activate-tab js-edit-trigger js-mobile-slide js-tab-padding" data-tab-target="edit"> 
+         <label class="tabs-label js-tab-text"><span class="tab-label-title">リアルタイムで編集</span> <span class="tabs-label-caption">他のユーザーがプレゼンテーションを編集していると、変更やテキストの選択に合わせて、そのユーザーのカーソルが表示されます。</span></label> 
+        </div> 
+        <div class="tabs-tab mobile-slide-chat js-activate-tab js-chat-trigger js-mobile-slide js-tab-padding" data-tab-target="chat"> 
+         <label class="tabs-label js-tab-text"><span class="tab-label-title">チャットとコメント</span> <span class="tabs-label-caption">プレゼンテーション内で直接、他のユーザーとチャットすることができます。また、メールアドレスに「+」を付けてコメントを追加すると、相手に通知を送信できます。</span></label> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section-save js-vertical-wrapper" id="section-save"> 
+    <div class="section-centered maia-cols"> 
+     <div class="maia-col-6 mobile-is-centered js-vertical-panel"> 
+      <h2 class="heading-headline"> [保存] を押す必要はありません </h2> 
+      <p class="section-body"> 入力するとすべての変更内容が自動的に保存されます。さらに、変更履歴を使用してそのプレゼンテーションの古いバージョンを確認したり、日付や変更ユーザーで並べ替えたりすることもできます。 </p> 
+     </div> 
+     <div class="maia-col-6 mobile-is-hidden"> 
+      <div class="save js-save"> 
+       <div class="line-container line-container-left"> 
+        <span class="line line-80">
+         <!-- --></span> 
+        <span class="line line-60 save-last js-spell">
+         <!-- --></span> 
+       </div> 
+       <div class="line-container line-container-right"> 
+        <span class="line line-40">
+         <!-- --></span> 
+       </div>
+       <span class="icon icon-check">
+        <!-- --></span> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section-workswith light-gray" id="section-works-with"> 
+    <div class="section-centered section-centered-text js-mobile-slides js-dynamic-slideheight"> 
+     <h2 class="heading-headline"> PowerPoint に対応 </h2> 
+     <div class="maia-col-4 js-mobile-slide"> 
+      <div class="photo-crop icon-open js-tab-padding"></div> 
+      <p class="slide-text allow-orpahn js-tab-text"> <a data-g-action="Goes to Chromecast extension" data-g-event="outboundlink-CTAs" data-g-label="" href="https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj?hl=ja" target="_blank">Chrome 拡張機能</a>やスライド アプリを使用すると、Microsoft PowerPoint ファイルを開いて編集し、保存できます。 </p> 
+     </div> 
+     <div class="maia-col-4 js-mobile-slide"> 
+      <div class="photo-crop icon-save js-tab-padding"></div> 
+      <p class="slide-text allow-orpahn js-tab-text"> PowerPoint ファイルを Google スライドに変換。PowerPoint ファイルへの変換も可能です。 </p> 
+     </div> 
+     <div class="maia-col-4 js-mobile-slide"> 
+      <div class="photo-crop icon-free js-tab-padding"></div> 
+      <p class="slide-text allow-orpahn js-tab-text"> ファイル形式を気にする必要はもうありません。 </p> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section-demo js-demo" id="section-show-up"> 
+    <div class="section-centered maia-cols"> 
+     <div class="maia-col-6 demo-slides-mobile-bg mobile-is-centered"> 
+      <h2 class="heading-headline"> プレゼンテーションを簡単に開始 </h2> 
+      <p class="section-body"> Google スライドは <a href="https://store.google.com/product/chromecast?utm_source=Chrome&amp;utm_medium=PP&amp;utm_campaign=CC&amp;utm_medium=PP" target="_blank">Chromecast</a>、ハングアウト、AirPlay に対応しているので、プレゼンテーションのために面倒な配線をする必要はありません。 </p> 
+      <div class="dropdown-container tablet-mobile-is-hidden no-touch-tablet-is-visible js-dropdown"> 
+       <a class="maia-button button-download js-dropdown-toggle" href="//docs.google.com" target="_blank">アプリをダウンロード <span class="icon icon-down-arrow">
+         <!-- --></span></a> 
+       <ul class="dropdown js-dropdown-menu"> 
+        <li> <a data-g-action="Goes to Playstore" data-g-event="outboundlink-CTAs" data-g-label="Mobile button" href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&amp;hl=ja" target="_blank">Android 版スライド</a> </li> 
+        <li> <a data-g-action="Goes to Appstore" data-g-event="outboundlink-CTAs" data-g-label="Mobile button" href="https://itunes.apple.com/app/apple-store/id879478102?pt=9008&amp;ct=slides_mkt_remote&amp;mt=8" target="_blank">iPhone / iPad 版スライド</a> </li> 
+       </ul> 
+      </div>
+      <a class="maia-button button-download desktop-is-hidden mobile-is-visible no-touch-tablet-is-hidden mobile-download js-mobile-download" data-g-action="Goes to Playstore" data-g-event="outboundlink-CTAs" data-g-label="Top button" data-href="https://itunes.apple.com/app/apple-store/id879478102?pt=9008&amp;ct=slides_mkt_remote&amp;mt=8" href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&amp;hl=ja" target="_blank">Google スライドをダウンロード</a> 
+     </div> 
+     <div class="demo-animation-wrapper"> 
+      <div class="demo-animation js-demo-animation mobile-is-hidden"> 
+       <div class="demo-gestures-wrapper"> 
+        <div class="demo-demo-arrow-wrap"> 
+         <div class="demo demo-demo-arrow js-demo-arrow"></div> 
+        </div> 
+        <div class="demo demo-demo-cursor js-demo-cursor"></div> 
+        <div class="demo demo-demo-cursor-press js-demo-cursor-press"></div> 
+        <div class="demo-demo-remote-press js-demo-remote-press"></div> 
+        <div class="demo demo-demo-timer js-demo-timer">
+          00 
+        </div> 
+       </div> 
+       <div class="demo-slides"> 
+        <div class="demo demo-demo-slide01 js-demo-slide01"></div> 
+        <div class="demo demo-demo-slide02 js-demo-slide02"></div> 
+        <div class="demo demo-demo-slide03 js-demo-slide03"></div> 
+        <div class="demo demo-demo-slide04 js-demo-slide04"></div> 
+        <div class="demo demo-demo-slide05 js-demo-slide05"></div> 
+        <div class="demo demo-demo-slide06 js-demo-slide06"></div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="section-getstarted light-gray js-vertical-wrapper" id="section-get"> 
+    <div class="section-centered maia-columns"> 
+     <div class="photo-crop"></div> 
+     <div class="maia-col-6 mobile-is-hidden"></div> 
+     <div class="maia-col-6 vertical-pad js-vertical-panel"> 
+      <h2 class="heading-headline allow-orphan"> 今すぐ使ってみる </h2> 
+      <p class="section-body"> スライドはいつでも使えます。まずは、ブラウザからプレゼンテーションを作成するか、スマートフォンやタブレットでアプリをダウンロードしてみてください。 </p> 
+      <div class="dropdown-container tablet-mobile-is-hidden no-touch-tablet-is-visible js-dropdown"> 
+       <a class="maia-button button-download js-dropdown-toggle" data-g-action="Goes to web editor" data-g-event="outboundlink-CTAs" data-g-label="Bottom button" href="//slides.google.com" target="_blank">Google スライドを使う <span class="icon icon-down-arrow">
+         <!-- --></span></a> 
+       <ul class="dropdown js-dropdown-menu"> 
+        <li> <a data-g-action="Goes to web editor" data-g-event="outboundlink-CTAs" data-g-label="Bottom button" href="//docs.google.com/presentation/?usp=mkt_slides" target="_blank">スライドに移動</a> </li> 
+        <li> <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&amp;referrer=utm_source%3Dslides_mkt%26utm_medium%3Dmobile_section%26utm_campaign%3Dslides_mkt" target="_blank">Android 版スライド</a> </li> 
+        <li> <a href="https://itunes.apple.com/app/apple-store/id879478102?pt=9008&amp;ct=slides_mkt&amp;mt=8" target="_blank">iPhone / iPad 版スライドを取得</a> </li> 
+       </ul> 
+      </div>
+      <a class="maia-button button-download desktop-is-hidden mobile-is-visible no-touch-tablet-is-hidden mobile-download js-mobile-download" data-g-action="Goes to Playstore" data-g-event="outboundlink-CTAs" data-g-label="Top button" data-href="https://itunes.apple.com/app/apple-store/id879478102?pt=9008&amp;ct=slides_mkt_remote&amp;mt=8" href="http://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&amp;hl=ja">Google スライドをダウンロード</a> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <div class="section-subscribe modal hide"> 
+   <div class="newsletter-modal"> 
+    <div class="newsletter-close"></div> 
+    <h1 class="heading-headline"> Stay in the know </h1> 
+    <p class="section-body"> Never miss out on the latest updates and handy tips for getting the most out of Google Docs. </p> 
+    <form class="newsletter-form"> 
+     <input class="newsletter-email" name="email" placeholder="Enter email for updates &amp; tips" type="text"> 
+     <input name="app-source" type="hidden" value="スライド"> 
+     <input name="language-pref" type="hidden" value="ja"> 
+     <a class="newsletter-submit button maia-button button-download" href="#" onclick="_gaq.push(['_trackEvent', 'Click', 'newsignup', 'true']);" target="_blank">Sign up</a> 
+     <div class="newsletter-spinner"></div> 
+     <div class="newsletter-results"> 
+      <p class="newsletter-error"> Please enter a valid email address </p> 
+      <p class="newsletter-success"> Thanks for signing up. You can unsubscribe at any time at the bottom of any email you receive from Google Docs. </p> 
+     </div> 
+    </form> 
+    <div class="newsletter-footer"> 
+     <p class="newsletter-terms"> <a href="https://www.google.com/intl/en/policies/privacy/">terms of use</a> </p> 
+     <p class="newsletter-privacy"> <a href="https://www.google.com/intl/en/policies/terms/">privacy policy</a> </p> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="maia-cols first"> 
+      <div class="maia-col-2 footer-top social">
+        共有: 
+       <span class="plusone-button" id="plusone-httpwwwgooglecoma"></span> 
+       <script>
+              window.___gcfg = {
+      lang: 'ja',
+      parsetags: 'explicit'
+    };
+
+    var gweb = gweb || {};  // namespace
+    gweb.plusOneButton = {};
+    gweb.plusOneButton.callbacks = {};
+    gweb.plusOneButton.onPlusOneLoad = function() {
+      for (var slug in gweb.plusOneButton.callbacks) {
+        gapi.plusone.render(slug, gweb.plusOneButton.callbacks[slug]);
+      }
+      gweb.plusOneButton.callbacks = {};
+    };
+              </script> 
+       <script src="//apis.google.com/js/platform.js"></script> 
+       <script>
+              gweb.plusOneButton.callbacks['plusone-httpwwwgooglecoma'] = {
+      'annotation': 'none',
+      'href': 'http://www.google.com/a/',
+      'size': 'standard',
+      'callback': '',
+      'recommendations': 'true'
+  };
+  gweb.plusOneButton.onPlusOneLoad();
+              </script> 
+      </div> 
+      <div class="maia-col-3 footer-top social">
+        フォロー: 
+       <span class="follow"><a href="//plus.google.com/+GoogleDocs" rel="publisher"><img alt="Google+" data-retina="16x16" src="//www.google.com/images/branding/google_plus/2x/gplus_icon_flush_30dp.png"></a> <a href="//www.facebook.com/googledocsofficial"><img alt="Facebook" data-retina="16x16" src="../../docs/about/images/footer_facebook_2x.png"></a> <a href="//twitter.com/googledocs"><img alt="YouTube" data-retina="16x16" src="../../docs/about/images/footer_twitter_2x.png"></a> <a href="http://googledocs.blogspot.com"><img alt="Blogger" data-retina="16x16" src="../../docs/about/images/footer_blogger_2x.jpg"></a> <a href="https://www.youtube.com/channel/UC-VcHhNdm1soluxzo5Fm3fQ"><img alt="YouTube" class="footer-youtube" data-retina="34x16" src="../../docs/about/images/footer_youtube_2x.png"></a></span> 
+      </div> 
+     </div> 
+     <div class="maia-cols"> 
+      <div class="footer-unit"> 
+       <h4> Google ドキュメントについて </h4> 
+       <ul> 
+        <li> <a href="../../docs/about/">Google ドキュメント</a> </li> 
+        <li> <a href="../../sheets/about/">Google スプレッドシート</a> </li> 
+        <li> <a href="../../slides/about/">Google スライド</a> </li> 
+        <li> <a href="../../forms/about/">Google フォーム</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4> ダウンロードなど </h4> 
+       <ul> 
+        <li> <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&amp;hl=ja"> Android 版ドキュメント</a> </li> 
+        <li> <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets&amp;hl=ja"> Android 版スプレッドシート</a> </li> 
+        <li> <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&amp;hl=ja"> Android 版スライド</a> </li> 
+        <li> <a href="https://itunes.apple.com/us/app/google-docs/id842842640?mt=8">iPhone / iPad 版ドキュメント</a> </li> 
+        <li> <a href="https://itunes.apple.com/us/app/google-sheets/id842849113?mt=8">iPhone / iPad 版スプレッドシート</a> </li> 
+        <li> <a href="https://itunes.apple.com/us/app/google-slides/id879478102?mt=8">iPhone / iPad 版スライド</a> </li> 
+        <li> <a href="https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj?hl=ja"> ドキュメント、スプレッドシート、スライドで Office ファイルを編集</a> </li> 
+        <li> <a href="https://docs.google.com/document/create?addon_store">ドキュメント用アドオン</a> </li> 
+        <li> <a href="https://docs.google.com/spreadsheets/create?addon_store">スプレッドシート用アドオン</a> </li> 
+        <li> <a href="https://docs.google.com/forms/create?addon_store">フォーム用アドオン</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4> サポート </h4> 
+       <ul> 
+        <li> <a href="https://support.google.com/docs?docs_site_home">ドキュメント ヘルプセンター</a> </li> 
+        <li> <a href="https://productforums.google.com/forum/#!forum/docs">Google ドキュメント ヘルプ フォーラム（英語）</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4> 関連ソリューション </h4> 
+       <ul> 
+        <li> <a href="../../drive/">Google ドライブ</a> </li> 
+        <li> <a href="https://cloud.google.com/?hl=ja">Google Cloud Platform</a> </li> 
+        <li> <a href="https://gsuite.google.com/features/?utm_source=slidesforwork&amp;utm_medium=et&amp;utm_campaign=refresh&amp;utm_content=footer&amp;hl=jp"> Google Apps for Work</a> </li> 
+        <li> <a href="../../edu/">Google Apps for Education</a> </li> 
+        <li> <a href="../../work/apps/government/">Google Apps for Government</a> </li> 
+        <li> <a href="../../services/">Google ビジネス ソリューション</a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>言語を変更:</span><select onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="//www.google.com/intl/af/slides/about/"> Afrikaans </option> <option value="//www.google.com/intl/az/slides/about/"> Azərbaycanca </option> <option value="//www.google.com/intl/id/slides/about/"> Bahasa Indonesia </option> <option value="//www.google.com/intl/ms/slides/about/"> Bahasa Melayu </option> <option value="//www.google.com/intl/ca/slides/about/"> Català </option> <option value="//www.google.com/intl/cs/slides/about/"> Čeština </option> <option value="//www.google.com/intl/da/slides/about/"> Dansk </option> <option value="//www.google.com/intl/de/slides/about/"> Deutsch </option> <option value="//www.google.com/intl/et/slides/about/"> Eesti </option> <option value="//www.google.com/intl/en/slides/about/"> English </option> <option value="//www.google.com/intl/en-GB/slides/about/"> English (United Kingdom) </option> <option value="//www.google.com/intl/es/slides/about/"> Español </option> <option value="//www.google.com/intl/es-419/slides/about/"> Español (Latinoamérica) </option> <option value="//www.google.com/intl/eu/slides/about/"> Euskara </option> <option value="//www.google.com/intl/fil/slides/about/"> Filipino </option> <option value="//www.google.com/intl/fr/slides/about/"> Français </option> <option value="//www.google.com/intl/fr-CA/slides/about/"> Français (Canada) </option> <option value="//www.google.com/intl/gl/slides/about/"> Galego </option> <option value="//www.google.com/intl/hr/slides/about/"> Hrvatski </option> <option value="//www.google.com/intl/zu/slides/about/"> Isizulu </option> <option value="//www.google.com/intl/is/slides/about/"> Íslenska </option> <option value="//www.google.com/intl/it/slides/about/"> Italiano </option> <option value="//www.google.com/intl/sw/slides/about/"> Kiswahili </option> <option value="//www.google.com/intl/lv/slides/about/"> Latviešu </option> <option value="//www.google.com/intl/lt/slides/about/"> Lietuvių </option> <option value="//www.google.com/intl/hu/slides/about/"> Magyar </option> <option value="//www.google.com/intl/nl/slides/about/"> Nederlands </option> <option value="//www.google.com/intl/no/slides/about/"> Norsk </option> <option value="//www.google.com/intl/pl/slides/about/"> Polski </option> <option value="//www.google.com/intl/pt-BR/slides/about/"> Português (Brasil) </option> <option value="//www.google.com/intl/pt-PT/slides/about/"> Português (Portugal) </option> <option value="//www.google.com/intl/ro/slides/about/"> Română </option> <option value="//www.google.com/intl/sk/slides/about/"> Slovenčina </option> <option value="//www.google.com/intl/sl/slides/about/"> Slovenščina </option> <option value="//www.google.com/intl/fi/slides/about/"> Suomi </option> <option value="//www.google.com/intl/sv/slides/about/"> Svenska </option> <option value="//www.google.com/intl/vi/slides/about/"> Tiếng Việt </option> <option value="//www.google.com/intl/tr/slides/about/"> Türkçe </option> <option value="//www.google.com/intl/zh-HK/slides/about/"> 中文 (香港) </option> <option value="//www.google.com/intl/zh-TW/slides/about/"> 中文（繁體中文） </option> <option value="//www.google.com/intl/zh-CN/slides/about/"> 中文（简体中文） </option> <option selected value="//www.google.com/intl/ja/slides/about/"> 日本語 </option> <option value="//www.google.com/intl/el/slides/about/"> Ελληνικά </option> <option value="//www.google.com/intl/bg/slides/about/"> Български </option> <option value="//www.google.com/intl/mn/slides/about/"> Монгол </option> <option value="//www.google.com/intl/ru/slides/about/"> Русский </option> <option value="//www.google.com/intl/sr/slides/about/"> Српски </option> <option value="//www.google.com/intl/uk/slides/about/"> Українська </option> <option value="//www.google.com/intl/ka/slides/about/"> ქართული </option> <option value="//www.google.com/intl/hy/slides/about/"> Հայերեն </option> <option value="//www.google.com/intl/iw/slides/about/"> ‫עברית‬ </option> <option value="//www.google.com/intl/ur/slides/about/"> ‫اردو‬ </option> <option value="//www.google.com/intl/ar/slides/about/"> ‫العربية‬ </option> <option value="//www.google.com/intl/fa/slides/about/"> ‫فارسی‬ </option> <option value="//www.google.com/intl/am/slides/about/"> አማርኛ </option> <option value="//www.google.com/intl/ne/slides/about/"> नेपाली </option> <option value="//www.google.com/intl/mr/slides/about/"> मराठी </option> <option value="//www.google.com/intl/hi/slides/about/"> हिन्दी </option> <option value="//www.google.com/intl/bn/slides/about/"> বাংলা </option> <option value="//www.google.com/intl/gu/slides/about/"> ગુજરાતી </option> <option value="//www.google.com/intl/ta/slides/about/"> தமிழ் </option> <option value="//www.google.com/intl/te/slides/about/"> తెలుగు </option> <option value="//www.google.com/intl/kn/slides/about/"> ಕನ್ನಡ </option> <option value="//www.google.com/intl/ml/slides/about/"> മലയാളം </option> <option value="//www.google.com/intl/si/slides/about/"> සිංහල </option> <option value="//www.google.com/intl/th/slides/about/"> ไทย </option> <option value="//www.google.com/intl/lo/slides/about/"> ລາວ </option> <option value="//www.google.com/intl/km/slides/about/"> ខ្មែរ </option> <option value="//www.google.com/intl/ko/slides/about/"> 한국어 </option> </select></label> 
+     </div> 
+     <ul> 
+      <li> <a href="//www.google.com">Google</a> </li> 
+      <li> <a href="/intl/ja/policies/privacy/">プライバシー</a> </li> 
+      <li> <a href="/intl/ja/policies/terms/">利用規約</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//www.gstatic.com/external_hosted/gsap/TweenMax.min.js"></script> 
+  <script src="//www.gstatic.com/external_hosted/morlock/morlock.min.js"></script> 
+  <script src="js/site.min.js"></script> 
+  <script>
+    var page = new editors.SetUp();
+    </script> 
+  <script src="//www.google.com/js/gweb/analytics/doubletrack.js"></script> 
+  <script>
+    gweb.analytics.DoubleTrack.track('floodlight', {
+      src: 2542116,
+      type: 'gdrive',
+      cat: 'googl003'
+    });
+    </script>  
+ </body>
+</html>

@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>HxScrape</title>
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.js"></script>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <style>
+        body {
+            padding-top: 70px;
+        }
+        .starter-template {
+            padding: 40px 15px;
+            text-align: center;
+        }
+
+        .form-inline .form-group {
+            padding: 0 3px;
+        }
+
+        .form-inline .form-group input {
+            width:100%;
+        }
+
+        .form-inline {
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+        }
+
+        pre { padding: 5px; margin: 5px; }
+        .json.string { color: darkolivegreen; }
+        .json.number { color: darkgoldenrod; }
+        .json.boolean { color: darkcyan; }
+        .json.null { color: darkred; }
+        .json.key { color: #464561; }
+    </style>
+</head>
+<body>
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#"><b>Hx</b>Scrape</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <!--<li class="active"><a href="#">Home</a></li>-->
+                <li><a href="/api/v1/swagger" id="api"><span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span></a></li>
+                <!--<li><a href="#about">About</a></li>-->
+            </ul>
+        </div><!--/.nav-collapse -->
+    </div>
+</nav>
+
+<div class="container">
+
+    <!--<div class="starter-template">
+        <h1>Bootstrap starter template</h1>
+        <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
+    </div>-->
+    <div class="row">
+        <div class="col-md-12">
+            <div class="panel panel-default">
+                <div class="panel-heading"><h3 class="panel-title">Scrape</h3></div>
+                <div class="panel-body">
+
+
+                    <div class="form-inline">
+                        <div class="form-group col-md-6">
+                            <label class="sr-only" for="getByMd5">Url</label>
+                            <input type="text" class="form-control" id="getByMd5" placeholder="md5">
+                        </div>
+                        <div class="checkbox form-group col-md-4">
+                        </div>
+                        <input type="button" class="btn btn-info col-md-2" id="getByMd5Btn" value="Get">
+                    </div>
+
+
+                    <div class="form-inline">
+                        <div class="form-group col-md-6">
+                            <label class="sr-only" for="addUrl">Url</label>
+                            <input type="url" class="form-control" id="addUrl" placeholder="http://www.example.com">
+                        </div>
+                        <div class="form-group col-md-2">
+                            <label class="sr-only" for="crawlLimit">Limit</label>
+                            <input type="number" class="form-control" id="crawlLimit" placeholder="crawl limit">
+                        </div>
+                        <div class="col-md-2 checkbox">
+                            <label>
+                                <input type="checkbox" id="doCrawl" checked> crawl
+                            </label>
+                        </div>
+                        <input type="button" class="btn btn-success  col-md-2" id="addUrlBtn" value="Add">
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+    <div class="alert alert-info" role="alert" id="requestInfo">Request</div>
+
+    <div class="row progress" id="requestProgress" style="display: none;">
+        <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
+            Processing request...
+        </div>
+    </div>
+
+    <div class="row" id="result">
+        <div class="col-md-12">
+            <div role="tabpanel">
+
+                <!-- Nav tabs -->
+                <ul class="nav nav-tabs" role="tablist">
+                    <li role="presentation" class="active"><a href="#resultTable" aria-controls="table" role="tab" data-toggle="tab">Table</a></li>
+                    <li role="presentation"><a href="#resultJson" aria-controls="json" role="tab" data-toggle="tab">JSON</a></li>
+                </ul>
+
+                <!-- Tab panes -->
+                <div class="tab-content" style="padding-top: 20px;">
+                    <div role="tabpanel" class="tab-pane active" id="resultTable">...</div>
+                    <div role="tabpanel" class="tab-pane" id="resultJson">...</div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                </div>
+                <div class="modal-body" id="myModalBody">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!-- /.container -->
+
+
+<script>
+    String.prototype.endsWith = function(suffix) {
+        return this.indexOf(suffix, this.length - suffix.length) !== -1;
+    };
+
+    function isNumeric(num){
+        return !isNaN(num)
+    }
+
+    function count(json){
+        if($.isArray(json)){
+            return json.length;
+        }
+        return json ? 1 : 0;
+    }
+
+    function toTable(json, colKeyClassMap, rowKeyClassMap){
+        if(typeof colKeyClassMap == 'undefined'){
+            colKeyClassMap = {};
+        }
+        if(typeof rowKeyClassMap == 'undefined'){
+            rowKeyClassMap = {};
+        }
+
+        var newTable = '<table class="table table-bordered table-condensed table-striped" />';
+        if($.isArray(json)){
+            if(json.length == 0){
+                return '[]'
+            } else {
+                var first = json[0];
+                if($.isPlainObject(first)){
+                    var tab = $(newTable);
+                    var row = $('<tr />');
+                    tab.append(row);
+                    $.each( first, function( key, value ) {
+                        row.append($('<th />').addClass(colKeyClassMap[key]).text(key))
+                    });
+
+                    $.each( json, function( key, value ) {
+                        var row = $('<tr />');
+                        if(value != null) {
+                            $.each(value, function (key, value) {
+                                row.append($('<td />').addClass(colKeyClassMap[key]).html(toTable(value, colKeyClassMap, rowKeyClassMap)))
+                            });
+                        }
+                        tab.append(row);
+                    });
+
+                    return tab;
+                } else if ($.isArray(first)) {
+                    var tab = $(newTable);
+
+                    $.each( json, function( key, value ) {
+                        var tr = $('<tr />');
+                        var td = $('<td />');
+                        tr.append(td);
+                        $.each( value, function( key, value ) {
+                            td.append(toTable(value, colKeyClassMap, rowKeyClassMap));
+                        });
+                        tab.append(tr);
+                    });
+
+                    return tab;
+                } else {
+                    return json.join(", ");
+                }
+            }
+
+        } else if($.isPlainObject(json)){
+            var tab = $(newTable);
+            $.each( json, function( key, value ) {
+                tab.append(
+                        $('<tr />')
+                                .append($('<th style="width: 20%;"/>').addClass(rowKeyClassMap[key]).text(key))
+                                .append($('<td />').addClass(rowKeyClassMap[key]).html(toTable(value, colKeyClassMap, rowKeyClassMap))));
+            });
+            return tab;
+        } else if (typeof json == 'string') {
+            if(json.slice(0, 4) == 'http'){
+                return '<a target="_blank" href="'+json+'">'+json+'</a>';
+            }
+            return json;
+        } else {
+            return ''+json;
+        }
+    }
+
+
+    function syntaxHighlight(json) {
+        if (typeof json != 'string') {
+            json = JSON.stringify(json, undefined, 2);
+        }
+        json = json.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+        return json.replace(/("(\\u[a-zA-Z0-9]{4}|\\[^u]|[^\\"])*"(\s*:)?|\b(true|false|null)\b|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?)/g, function (match) {
+            var cls = 'number';
+            if (/^"/.test(match)) {
+                if (/:$/.test(match)) {
+                    cls = 'key';
+                } else {
+                    cls = 'string';
+                }
+            } else if (/true|false/.test(match)) {
+                cls = 'boolean';
+            } else if (/null/.test(match)) {
+                cls = 'null';
+            }
+            return '<span class="json ' + cls + '">' + match + '</span>';
+        });
+    }
+
+    function clearResults(){
+        $('#requestInfo').html('');
+        $('#resultTable').html('');
+        $('#resultJson').html('');
+    }
+
+    function doRequest(method, url, data, appendResult){
+        $('#requestProgress').show();
+        if(appendResult) {
+            $('#requestInfo').append('<hr><b>Request:</b> ' + method + ' ' + url + (data ? '<p>data= ' + syntaxHighlight(data) : ''));
+        }else {
+            $('#requestInfo').html('<b>Request:</b> ' + method + ' ' + url + (data ? '<p>data= ' + syntaxHighlight(data) : ''));
+        }
+        window.setTimeout(function(){
+            var start = new Date().getTime();
+            $.ajax({
+                method: method,
+                url: url,
+                data: data ? data : false,
+                contentType : "application/json",
+                timeout: 0,
+                async: appendResult
+            }).done(function( json ) {
+
+                var end = new Date().getTime();
+                var colStyle = {};
+                var rowStyle = {score: 'success'};
+                $('#requestProgress').hide();
+                $('#requestInfo').append( '<p>' + (count(json) + ' results in ' + ((end - start)/1000).toFixed(2) +' s.'));
+                if(appendResult) {
+                    $('#resultTable').append('<hr />').append(toTable(json, colStyle, rowStyle));
+                    $('#resultJson').append('<hr />').append($('<pre />').html(syntaxHighlight(json)));
+                } else {
+                    $('#resultTable').html(toTable(json, colStyle, rowStyle));
+                    $('#resultJson').html($('<pre />').html(syntaxHighlight(json)));
+                }
+            }).fail(function( jqxhr, textStatus, error ) {
+                var err = textStatus + ", " + error;
+                $('#requestProgress').hide();
+                err = '<div class="alert alert-danger" role="alert">' +
+                        'Request Failed: ' + err + '</div>';
+                $('#resultTable').html(err);
+                $('#resultJson').html(err);
+            });
+        }, 50);
+
+    }
+
+    $(document).ready(function(){
+        $('#getByMd5Btn').click(function(){
+            var id = $('#getByMd5').val();
+            if(id) {
+                // only when not listing all docs
+                doRequest("GET", "/api/v1/doc/md5/"+id+"/text");
+            }
+        });
+        $('#addUrlBtn').click(function(){
+            var url = $('#addUrl').val();
+            var limit = $('#crawlLimit').val() * 1;
+            if(! limit){
+                limit = 2147483647;
+            }
+            var crawl = $('#doCrawl').is(':checked');
+
+            doRequest("POST", "/api/v1/doc/url", JSON.stringify({source:{url: url}, crawl:crawl, limit:limit}));
+
+        });
+
+
+        // listen to enter key in "forms"
+        $("input").keyup(function(event){
+            if(event.keyCode == 13){
+                var btn = $(this).closest(":button");
+                btn.click();
+            }
+        });
+
+    })
+</script>
+
+</body>
+</html>

@@ -1,0 +1,194 @@
+<!doctype html>
+<html>
+ <head> 
+  <meta charset="utf-8"> 
+  <title>
+      Business Solutions – Google
+    </title> 
+  <meta content="Learn about Google products that can help your business grow." name="description"> 
+  <meta content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width" name="viewport"> 
+  <link href="//www.google.com/services/css/default.css" rel="stylesheet"> 
+  <link href="css/mobile.css" rel="stylesheet"> 
+  <script src="//www.google.com/js/gweb/analytics/doubletrack.js">
+</script> 
+  <script src="//www.google.com/js/gweb/analytics/autotrack-ads.js">
+</script> 
+  <script>
+new gweb.analytics.AutoTrack({
+        cookiePath: '/business/',
+        profile: 'UA-31071700-1'
+      });
+    </script> 
+ </head> 
+ <body> 
+  <header id="masthead"> 
+   <div class="wrapper"> 
+    <div class="logo"> 
+     <a href="/business/m/index.html"><img alt="logo" src="images/logo.png"><span class="divider">&nbsp;</span> <h2> Business Solutions </h2></a> 
+    </div> 
+   </div> 
+  </header> 
+  <div id="main" role="main"> 
+   <div class="wrapper no-js"> 
+    <section> 
+     <h1> Make the web work for you </h1> 
+     <p class="subheader"> <span class="scale">Whether you’re just getting started, looking for new customers or searching for ways to run your business better, we can help.</span> </p> 
+    </section> 
+    <nav> 
+     <div class="nav-item" id="get-online"> 
+      <article> 
+       <a class="section-hit-area section-link" href="#get-online"> <h2> Get online </h2><img alt="" src="images/nav-arrow.png"></a> 
+       <div class="box"> 
+        <p> <span class="scale">Build a home for your business on the web – with a free Google+ Page. Put information about your business online and share things like photos and promotions with your customers.</span> </p> 
+        <ul> 
+         <li> <img alt="" src="images/v.png"> <p> <span class="scale">Make your contact details available online</span> </p> </li> 
+         <li> <img alt="" src="images/v.png"> <p> <span class="scale">Build a relationship with your customers</span> </p> </li> 
+         <li> <img alt="" src="images/v.png"> <p> <span class="scale">Google+ Pages are free and easy to set up</span> </p> </li> 
+        </ul>
+        <a class="button" data-g-action="signup-button" data-g-event="Get online" data-g-label="Get started - button - on 1st page - to flow (G+)" href="https://plus.google.com/pages/create?ppsrc=bumo0"><span class="inset">Get started</span></a> 
+       </div> 
+      </article> 
+     </div> 
+     <div class="nav-item" id="advertise"> 
+      <article> 
+       <a class="section-hit-area section-link" href="#advertise"> <h2> Advertise </h2><img alt="" src="images/nav-arrow.png"></a> 
+       <div class="box"> 
+        <ul class="subnav"> 
+         <li class="subnav-item active"> 
+          <article class="main"> 
+           <h3 class="subsection-hit-area"> <a class="subsection-link" href="#adwords">AdWords</a><img alt="" src="images/small-arrow.png"> </h3> 
+           <p> <span class="scale">Find new customers through online advertising. Google ads are easy to create (they're just 4 lines of text), and appear on Google Search when potential customers are actively searching for what you have to offer.</span> </p> 
+          </article> 
+          <ul class="featureList"> 
+           <li> <img alt="" src="images/v.png"> <p> <span class="scale">Advertise to an audience that's looking for your products or services</span> </p> </li> 
+           <li> <img alt="" src="images/v.png"> <p> <span class="scale">Fine-tune your ads as often as you like</span> </p> </li> 
+           <li> <img alt="" src="images/v.png"> <p> <span class="scale">Set a budget you're comfortable with</span> </p> </li> 
+          </ul><a class="button" data-g-action="signup-button" data-g-event="Advertise (AW)" data-g-label="Get started - button - on 1st page - to flow (AW)" href="https://adwords.google.com/um/StartNow?hl=en_US&amp;sourceid=awo&amp;subid=ww-en-et-aw-hub-main&amp;medium=et"><span class="inset">Get started</span></a> </li> 
+         <li class="subnav-item"> 
+          <article class="main"> 
+           <h3 class="subsection-hit-area"> <a class="subsection-link" href="#adwords-express">AdWords Express</a><img alt="" src="images/small-arrow.png"> </h3> 
+           <p> <span class="scale">Find new customers in your local area through online advertising. These Google ads are our easiest to set up, and appear on Google Search when people are actively searching your local area for what you have to offer.</span> </p> 
+          </article> 
+          <ul class="featureList"> 
+           <li> <img alt="" src="images/v.png"> <p> <span class="scale">Advertise to people searching your local area</span> </p> </li> 
+           <li> <img alt="" src="images/v.png"> <p> <span class="scale">Easy set up – then your ads are managed automatically</span> </p> </li> 
+           <li> <img alt="" src="images/v.png"> <p> <span class="scale">Set a monthly budget you're comfortable with</span> </p> </li> 
+          </ul><a class="button" data-g-action="signup-button" data-g-event="Advertise (AWX)" data-g-label="Get started - button - in lightbox - to flow (AWX)" href="https://adwords.google.com/express/Express?utm_campaign=ww-en-et-awx-hub-main&amp;utm_medium=et&amp;utm_source=ww-et-smb-hub&amp;utm_term=smb-hub"><span class="inset">Get started</span></a> </li> 
+         <li class="subnav-item"> 
+          <article class="main"> 
+           <h3 class="subsection-hit-area"> <a class="subsection-link" href="#display-mobile-and-more">Display, mobile, and more</a><img alt="" src="images/small-arrow.png"> </h3> 
+           <p> <span class="scale">If you're already using AdWords, here are some ways you can build on your existing ads and reach potential customers in more places.</span> </p> 
+          </article> 
+          <article class="cta"> 
+           <h4> Run ads on more sites </h4> 
+           <p> <span class="scale">Your ads show up when people search on Google, but you can also reach them when they’re on other sites. These can be text, image, or video ads.</span> </p> 
+          </article><a class="button" data-g-action="signin-button" data-g-event="Advertise (AW)" data-g-label="Get started - button - in lightbox - to signin (Display)" href="https://adwords.google.com/cm/CampaignMgmt#r.ONLINE.st&amp;app=cm?sourceid=awo&amp;subid=ww-en-et-aw-hub-box-display"><span class="inset">Get more details</span></a> 
+          <article class="cta"> 
+           <h4> Put your ads on phones </h4> 
+           <p> <span class="scale">Show your existing ads on mobile phones, and make it easier for potential customers to visit or contact your business, wherever they are.</span> </p> 
+          </article><a class="button" data-g-action="signin-button" data-g-event="Advertise (AW)" data-g-label="Get started - button - in lightbox - to signin (Mobile)" href="https://adwords.google.com/cm/CampaignMgmt#r.ONLINE.st&amp;app=cm?sourceid=awo&amp;subid=ww-en-et-aw-hub-box-mobile"><span class="inset">Get more details</span></a> 
+          <article class="cta"> 
+           <h4> Make your ads social </h4> 
+           <p> <span class="scale">When you turn on social extensions, you can have recommendations show up in your ads from people who like your site.</span> </p> 
+          </article><a class="button" data-g-action="signin-button" data-g-event="Advertise (AW)" data-g-label="Get started - button - in lightbox - to signin (Social)" href="https://adwords.google.com/cm/CampaignMgmt#r.ONLINE.ae&amp;app=cm?sourceid=awo&amp;subid=ww-en-et-aw-hub-box-social"><span class="inset">Get more details</span></a> </li> 
+        </ul> 
+       </div> 
+      </article> 
+     </div> 
+     <div class="nav-item" id="work-better"> 
+      <article> 
+       <a class="section-hit-area section-link" href="#work-better"> <h2> Work better </h2><img alt="" src="images/nav-arrow.png"></a> 
+       <div class="box"> 
+        <p> <span class="scale">No matter where you are – at the office, at home, or on the road – Google Apps helps you be more productive with online email, calendar, and documents.</span> </p> 
+        <ul> 
+         <li> <img alt="" src="images/v.png"> <p> <span class="scale">Share and collaborate on documents from anywhere</span> </p> </li> 
+         <li> <img alt="" src="images/v.png"> <p> <span class="scale">Your data is safe and private</span> </p> </li> 
+         <li> <img alt="" src="images/v.png"> <p> <span class="scale">Get started with a free trial</span> </p> </li> 
+        </ul>
+        <a class="button" data-g-action="signup-button" data-g-event="Work better" data-g-label="Get started - button - on 1st page - to flow (Apps)" href="http://www.google.com/a/signup?utm_source=en-smbhub&amp;utm_medium=et&amp;utm_campaign=northam--2012q2--hub%3A70160000000jbfiaao&amp;utm_content=page"><span class="inset">Get started</span></a> 
+       </div> 
+      </article> 
+     </div> 
+     <div class="nav-item" id="do-more"> 
+      <article> 
+       <a class="section-hit-area section-link" href="#do-more"> <h2> Do more </h2><img alt="" src="images/nav-arrow.png"></a> 
+       <div class="box"> 
+        <p> <span class="scale">Find out about other Google products that can help you grow your business.</span> </p> 
+        <article class="cta"> 
+         <h4> Track your site </h4> 
+         <p> <span class="scale">Analytics tells you how your website is doing. Find out how many people are visiting your site and other useful stats.</span> </p> 
+        </article>
+        <a class="button" data-g-action="signup-button" data-g-event="Do more" data-g-label="Get started - button - in lightbox - to flow (Analytics)" href="https://www.google.com/analytics/provision/signup?utm_medium=referral&amp;utm_source=bizsol&amp;utm_campaign=more_about_analytics"><span class="inset">Get more details</span></a> 
+        <article class="cta"> 
+         <h4> Make money from your site </h4> 
+         <p> <span class="scale">With AdSense you can put ads on your site that are relevant to your visitors. And you'll make money from these ads.</span> </p> 
+        </article>
+        <a class="button" data-g-action="signup-button" data-g-event="Do more" data-g-label="Get started - button - in lightbox - to flow (AS)" href="https://www.google.com/adsense/v3/signup?utm_content=nsufv1%3Fhl%3Den_US&amp;sourceid=aso&amp;subid=ww-en_US-et-bizsol_Q212&amp;medium=et"><span class="inset">Get more details</span></a> 
+        <article class="cta"> 
+         <h4> Send out discount deals </h4> 
+         <p> <span class="scale">Google Offers helps bring more customers to your business by presenting a special discount to people in your area.</span> </p> 
+        </article>
+        <a class="button" data-g-action="signup-button" data-g-event="Do more" data-g-label="Get started - button - in lightbox - to flow (Offers)" href="http://www.google.com/offers/business?utm_source=xsell&amp;utm_medium=smbhub&amp;utm_campaign=offersb2b#!details"><span class="inset">Get more details</span></a> 
+       </div> 
+      </article> 
+     </div> 
+    </nav> 
+   </div> 
+   <div id="maia-signature"></div> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div id="suez-footer-univ"> 
+      <a class="gweb-uri-ignore" href="services/sitemap.html">Looking to grow your business? We can help.</a> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <ul> 
+      <li> <a class="gweb-uri-ignore" href="http://www.google.com">Google</a> </li> 
+      <li> <a class="gweb-uri-ignore" href="http://www.google.com/intl/en/policies/">Privacy &amp; Terms</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div>
+  <script src="/business/js/sitemap.min.js">
+</script>
+  <script src="js/mobile.min.js">
+</script>
+  <script>
+var mobileScale = new b2b.smb.Mobile;
+  mobileScale.init();
+    </script>
+  <script>
+var dtSrc = 2507573;
+    var dtType = 'ads-a681';
+    var dtEventConfig = {
+      'dt-analytics': 'ads-a694',
+      'dt-apps' : 'ads-a161',
+      'dt-adsense': 'ads-a866',
+      'dt-adwords': 'tqtkq613',
+      'dt-awexpress': 'kgdiw043',
+      'dt-offers': 'ads-a263',
+      'dt-plus': 'ads-a474'
+    };
+
+    //DoubleTrack Page Load
+    gweb.analytics.DoubleTrack.track('floodlight', {
+        src: dtSrc,
+        type: dtType,
+        cat: 'ads-a460'
+    });
+
+    //DoubleTrack Events
+    for (var i in dtEventConfig) {
+      var tracker = new gweb.analytics.DoubleTrack('floodlight', {
+        src: dtSrc,
+        type: dtType,
+        cat: dtEventConfig[i]
+      });
+
+      tracker.trackClass(i, true);
+    }
+    </script>  
+ </body>
+</html>

@@ -1,0 +1,550 @@
+<!doctype html>
+<html lang="ka">
+ <head> 
+  <script>(function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)</script> 
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"> 
+  <meta charset="utf-8"> 
+  <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"> 
+  <meta property="og:url" content="www.google.com/intl/ka_ALL/drive/using-drive/"> 
+  <meta name="twitter:url" content="www.google.com/intl/ka_ALL/drive/using-drive/"> 
+  <meta name="twitter:title" content="Google Drive-ის გამოყენებით მიიღებთ Google Cloud Storage-ის ახალ, სასარგებლო ფუნქციებსა და უპირატესობებს"> 
+  <meta name="twitter:image" content="https://www.google.com/drive/static/images/drive/logo-drive.png"> 
+  <meta name="twitter:description" content="შეიტყვეთ Google Drive-ის უახლესი ფუნქციებისა და უპირატესობების, მათ შორის Gmail-თან ინტეგრაციის, ფოტოების გაადვილებული გაზიარებისა და საცავის, ახალი აპების შესახებ და სხვ."> 
+  <meta name="twitter:creator" content="google"> 
+  <!-- Open Graph --> 
+  <meta content="Google Drive-ის გამოყენებით მიიღებთ Google Cloud Storage-ის ახალ, სასარგებლო ფუნქციებსა და უპირატესობებს" property="og:title"> 
+  <meta content="https://www.google.com/drive/static/images/drive/logo-drive.png" property="og:image"> 
+  <meta content="შეიტყვეთ Google Drive-ის უახლესი ფუნქციებისა და უპირატესობების, მათ შორის Gmail-თან ინტეგრაციის, ფოტოების გაადვილებული გაზიარებისა და საცავის, ახალი აპების შესახებ და სხვ." property="og:description"> 
+  <meta property="og:type" content="website"> 
+  <!-- Doc Meta --> 
+  <title>Google Drive-ის გამოყენებით მიიღებთ Google Cloud Storage-ის ახალ, სასარგებლო ფუნქციებსა და უპირატესობებს</title> 
+  <meta content="შეიტყვეთ Google Drive-ის უახლესი ფუნქციებისა და უპირატესობების, მათ შორის Gmail-თან ინტეგრაციის, ფოტოების გაადვილებული გაზიარებისა და საცავის, ახალი აპების შესახებ და სხვ." name="description"> 
+  <link rel="prefetch" href="//www.google.com/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png"> 
+  <link rel="stylesheet" href="//www.gstatic.com/external_hosted/normalize/normalize.css"> 
+  <link rel="stylesheet" href="//www.google.com/css/maia.experimental.css"> 
+  <link rel="stylesheet" href="//www.google.com/css/gweb/lightbox.css"> 
+  <script src="//www.google.com/js/google.js"></script> 
+  <script>
+      var _gaq = _gaq || [];
+      _gaq.push(['_cookiePathCopy', '/a/']);
+      _gaq.push(['_cookiePathCopy', '/apps/']);
+      _gaq.push(['_cookiePathCopy', '/work/']);
+      _gaq.push(['_cookiePathCopy', '/work/apps/business/']);
+      _gaq.push(['_cookiePathCopy', '/intl/']);
+      _gaq.push(['_cookiePathCopy', '/intx/']);
+      _gaq.push(['_cookiePathCopy', '/work/']);
+    new gweb.analytics.AutoTrack({profile: "UA-28613865-1"});
+  </script> 
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic" rel="stylesheet"> 
+  <link href="//fonts.googleapis.com/css?family=Product+Sans" rel="stylesheet"> 
+  <!-- External Scripts --> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/modernizr.js"></script> 
+  <!-- Favicon --> 
+  <link href="/drive/static/images/drive/favicon.ico" rel="icon" type="image/png"> 
+  <!-- Stylesheet --> 
+  <link href="/drive/static/dist/css/main.min.css" rel="stylesheet"> 
+  <link rel="canonical" href="https://www.google.com/intl/ka_ALL/drive/using-drive/"> 
+ </head> 
+ <body class="using-drive nav-light"> 
+  <span itemscope itemtype="http://schema.org/LocalBusiness"> 
+   <!-- Header --> 
+   <header class="header" role="banner"> 
+    <div class="header-item with-site-logo"> 
+     <a class="site-logo site-logo-link" href="/intl/ka_ALL/drive/" data-g-event="Drive" data-g-action="Header" data-g-label="Drive logo"> 
+      <div class="lockup lockup--light js-lockup" dir="ltr"> 
+       <span class="lockup-logo js-site-logo-image"></span> 
+       <span class="lockup-text"></span> 
+       <span class="lockup-brand">Drive</span> 
+      </div> </a> 
+    </div> 
+    <nav class="nav-site" data-nav-name="mobile"> 
+     <img itemprop="image" alt="Drive logo" src="/drive/static/images/drive/logo-drive.png"> 
+     <ul> 
+      <li> <a class="meet" href="/intl/ka_ALL/drive/" data-g-event="Drive" data-g-action="Header" data-g-label="გაიცანით Drive">გაიცანით Drive</a> </li> 
+      <li> <a class="using-drive" href="/intl/ka_ALL/drive/using-drive/" data-g-event="Drive" data-g-action="Header" data-g-label="Drive-ის გამოყენება">Drive-ის გამოყენება</a> </li> 
+      <li> <a class="price" href="/intl/ka_ALL/drive/pricing/" data-g-event="Drive" data-g-action="Pricing" data-g-label="ფასწარმოქმნა">ფასწარმოქმნა</a> </li> 
+      <li class="mobile-is-hidden device-is-hidden"> <a class="download" href="/intl/ka_ALL/drive/download/" data-g-event="Drive" data-g-action="Header" data-g-label="ჩამოტვირთვა">ჩამოტვირთვა</a> </li> 
+      <li> <a class="work" href="//gsuite.google.com/intl/ka_ALL/driveforwork/?utm_medium=et&amp;utm_source=aboutdrive&amp;utm_content=consnav&amp;utm_campaign=ka" data-g-event="Drive" data-g-action="Header" data-g-label="სამსახურისთვის">სამსახურისთვის</a> </li> 
+      <li class="last-default"> <a class="help" href="//support.google.com/drive/answer/2424384?hl=ka" data-g-event="Drive" data-g-action="Header" data-g-label="დახმარება">დახმარება</a> </li> 
+      <li class="mobile-is-hidden float-in"> <a class="go-to-drive get-started" href="https://accounts.google.com/ServiceLogin?service=wise&amp;passive=true&amp;continue=http://drive.google.com/?utm_source=ka&amp;utm_medium=button&amp;utm_campaign=web&amp;utm_content=gotodrive&amp;usp=gtd&amp;ltmpl=drive" data-g-event="Drive" data-g-action="Header" data-g-label="Google Drive-ზე გადასვლა">Google Drive-ზე გადასვლა</a> </li> 
+      <li class="download-app mobile-is-visible crushed-is-visible"> <a class="download-mobile-android boxed-in" href="//play.google.com/store/apps/details?id=com.google.android.apps.docs&amp;hl=ka" data-g-event="Drive" data-g-action="Header" data-g-label="Android-ისთვის ჩამოტვირთვა">Android-ისთვის ჩამოტვირთვა</a> <a class="download-mobile-ios boxed-in" href="//itunes.apple.com/en/app/google-drive/id507874739" data-g-event="Drive" data-g-action="Header" data-g-label="iOS-ისთვის ჩამოტვირთვა">iOS-ისთვის ჩამოტვირთვა</a> <a class="download-mobile boxed-in get-started" href="" data-g-event="Drive" data-g-action="Header" data-g-label="შესვლა">შესვლა</a> </li> 
+     </ul> 
+    </nav> 
+    <div class="mobile-nav-toggle js-mobilenav"> 
+     <div class="icon icon-mobile-open toggle-nav-open js-mobilenav-toggle" data-target-nav="mobile"></div> 
+     <div class="icon icon-mobile-close toggle-nav-closed js-mobilenav-toggle-close" data-target-nav="mobile"></div> 
+    </div> 
+   </header> </span> 
+  <!-- End Header --> 
+  <!-- Intro section with photo background --> 
+  <section class="section-intro section-panel-fullscreen js-fullscreen"> 
+   <div class="section-photo-fullscreen section-photo js-parallax-image js-responsive-image" data-breakpoints="320,768,1024,1200,1600" data-known-dimensions="false" data-origin="0" data-preserve-aspect-ratio="false" data-reverse-parallax="true" data-src="/drive/static/images/features/intro.jpg"></div> 
+   <div class="section-centered section-vertical-align js-vertical-align js-parallax-image" data-origin="0" data-parallax-speed="3" data-reverse-parallax="true" data-parallax-fade="true"> 
+    <div class="one-whole"> 
+     <img alt="Drive logo" src="/drive/static/images/drive/logo-drive.png"> 
+     <h1 class="section-headline section-headline-large section-headline-white">შეისწავლეთ Drive-ის საცავის ფუნქციები</h1> 
+    </div> 
+   </div> 
+   <div class="arrow-hint"> 
+    <a href="#start" class="gweb-smoothscroll-control"> 
+     <div class="icon icon-arrow-hint animated-arrow-1"></div> 
+     <div class="icon icon-arrow-hint animated-arrow-2"></div> </a> 
+   </div> 
+  </section> 
+  <!-- scrollable wrapper --> 
+  <div class="unfixed-wrapper" id="start"> 
+   <!-- Space --> 
+   <section class="section-space section-divider js-hinted-fullscreen"> 
+    <div class="section-centered section-centered-text"> 
+     <h2 class="heading-headline">თქვენი მონაცემები, თქვენი ინდივიდუალურობა — Drive-ის ფუნქციები</h2> 
+     <div class="tabs tabs-space js-tabs" data-tab-name="space-to-play"> 
+      <div class="tabs-list mobile-is-hidden"> 
+       <div class="tabs-tab one-quarter tabs-tab-first js-activate-tab" data-tab-target="space"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="15 გბაიტიანი სივრცე">15 გბაიტიანი სივრცე</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter js-activate-tab" data-tab-target="file"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="შეინარჩუნეთ ნებისმიერი ფაილი">შეინარჩუნეთ ნებისმიერი ფაილი</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter js-activate-tab" data-tab-target="share"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="გააზიარეთ სასურველი მეთოდით">გააზიარეთ სასურველი მეთოდით</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter one-quarter tabs-tab-last js-activate-tab" data-tab-target="disaster"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="უსაფრთხო და დაცული">უსაფრთხო და დაცული</label> 
+       </div> 
+      </div> 
+      <div class="tabs-content with-select js-tab-content-container js-select-menu-container" data-select-first="true" data-select-populated="true"> 
+       <!-- Mobile select menu --> 
+       <div class="select-menu-wrapper select-menu-wrapper-devices"> 
+        <div class="icon icon-toggle_is-active">
+         &nbsp;
+        </div> 
+        <select class="select-menu js-select-menu"> <option class="js-select-menu-option select-menu-option" value="15 გბაიტიანი სივრცე">15 გბაიტიანი სივრცე</option> <option class="js-select-menu-option select-menu-option" value="შეინარჩუნეთ ნებისმიერი ფაილი">შეინარჩუნეთ ნებისმიერი ფაილი</option> <option class="js-select-menu-option select-menu-option" value="გააზიარეთ სასურველი მეთოდით">გააზიარეთ სასურველი მეთოდით</option> <option class="js-select-menu-option select-menu-option" value="უსაფრთხო და დაცული">უსაფრთხო და დაცული</option> </select> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="15 გბაიტიანი სივრცე" data-tab-name="space"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>თქვენი საცავი თავსებადია Drive-თან, Gmail-თან და Google Photos-თან, ამიტომ, შეგიძლიათ შეინახოთ ფაილები, ელფოსტის დანართები და ფოტოების სარეზერვო ასლები პირდაპირ Drive-ში. ასევე, შეგიძლიათ <a href="https://www.google.com/settings/storage?hl=ka">შეიძინოთ უფრო დიდი ღრუბლოვანი საცავის სატარიფო გეგმა</a>, როდესაც დაგჭირდებათ.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-1-1.png" alt="Google Drive-ის 15 გბაიტიანი თავისუფალი საცავის ლოგო"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="შეინარჩუნეთ ნებისმიერი ფაილი" data-tab-name="file"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>ფოტოები, ვიდეოები, პრეზენტაციები, PDF-ები — თვით Microsoft Office-ის ფაილები. ფაილის ტიპს მნიშვნელობა არ აქვს, Drive-ში ყველაფერი უსაფრთხოდ ინახება.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-1-2.png" alt="Google Drive-ის ფაილის ტიპების ჩამონათვალი, სურათების, დოკუმენტებისა და მუსიკის ჩათვლით"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="გააზიარეთ სასურველი მეთოდით" data-tab-name="share"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Drive-ში ფაილები პირადია მანამ, სანამ მათ გაზიარებას გადაწყვეტთ. შეგიძლიათ სწრაფად მოიწვიოთ სხვები ნებისმიერი, თქვენ მიერ არჩეული ფაილის ან საქაღალდის სანახავად, მასზე კომენტარის დასატოვებლად და რედაქტირებისთვის. ეს გამარტივებული ონლაინ კოლაბორაციაა.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-1-3.png" alt="Google Drive-ის კონფიდენციალურობისა და გაზიარების ვარიანტები"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="უსაფრთხო და დაცული" data-tab-name="disaster"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>თქვენი ფაილების უსაფრთხოება კრიტიკულად მნიშვნელოვანია. სწორედ ამიტომ, ყოველი ფაილი უსაფრთხოდ რჩება Drive-ში, მიუხედავად იმისა, რა დაემართება თქვენს სმარტფონს, ტაბლეტს ან კომპიუტერს. Drive დაშიფრულია SSL-ის გამოყენებით, უსაფრთხოების იმავე პროტოკოლით, რომელიც გამოიყენება Gmail-ში და Google-ის სხვა სერვისებში.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-1-4.png" alt="Google Drive-ის უსაფრთხოების საკეტი"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- With Google --> 
+   <section class="section-with-google section-divider js-hinted-fullscreen"> 
+    <div class="section-centered section-centered-text"> 
+     <h2 class="heading-headline">აგებულია Google-თან თავსებადობისთვის</h2> 
+     <div class="tabs tabs-space js-tabs" data-tab-name="space-to-play"> 
+      <div class="tabs-list mobile-is-hidden"> 
+       <div class="tabs-tab one-quarter tabs-tab-first js-activate-tab" data-tab-target="attachments"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Gmail-ის დანართების შენახვა">Gmail-ის დანართების შენახვა</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter js-activate-tab" data-tab-target="search"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="მძლავრი ძიება">მძლავრი ძიება</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter js-activate-tab" data-tab-target="photos"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Google Photos">Google Photos</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter one-quarter tabs-tab-last js-activate-tab" data-tab-target="chromebooks"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Chromebooks">Chromebooks</label> 
+       </div> 
+      </div> 
+      <div class="tabs-content with-select js-tab-content-container js-select-menu-container" data-select-first="true" data-select-populated="true"> 
+       <!-- Mobile select menu --> 
+       <div class="select-menu-wrapper select-menu-wrapper-devices"> 
+        <div class="icon icon-toggle_is-active">
+         &nbsp;
+        </div> 
+        <select class="select-menu js-select-menu"> <option class="js-select-menu-option select-menu-option" value="Gmail-ის დანართების შენახვა">Gmail-ის დანართების შენახვა</option> <option class="js-select-menu-option select-menu-option" value="მძლავრი ძიება">მძლავრი ძიება</option> <option class="js-select-menu-option select-menu-option" value="Google Photos">Google Photos</option> <option class="js-select-menu-option select-menu-option" value="Chromebooks">Chromebooks</option> </select> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Gmail-ის დანართების შენახვა" data-tab-name="attachments"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-2-1.jpg" alt="Gmail ფოტოს დანართის ერთი დაწკაპუნებით შენახვა დრაივზე"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>დაიჭირეთ მაუსი დანართზე Gmail-ში და მოძებნეთ Drive-ის ლოგო. აქ შეგიძლიათ Drive-ში შეინახოთ ნებისმიერი დანართი, რათა მოახდინოთ მათი ორგანიზება და გაზიარება ერთ, უსაფრთხო წერტილში.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="მძლავრი ძიება" data-tab-name="search"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-2-2.png" alt="Gmail ფოტოს დანართის ერთი დაწკაპუნებით შენახვა დრაივზე"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Drive-ს შეუძლია ამოიცნოს ობიექტები თქვენს სურათებსა და ტექსტში, სკანირებულ დოკუმენტებში. ასე რომ, შეგიძლიათ მოიძიოთ სიტყვა, როგორიც არის „ეიფელის კოშკი“, და მიიღოთ ტექსტური დოკუმენტები ამ სიტყვით, ასევე, ნამდვილი ეიფელის კოშკის სურათები.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Google Photos" data-tab-name="photos"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-2-3.jpg" alt="ორეგონის სანაპიროს ფოტო შენახულია Google Drive-ზე და გაზიარებულია Google+'ში"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>შეინახეთ თქვენი ფოტოები Drive-ით და დაინახეთ, როგორ ცოცხლდებიან ისინი Google Photos-ში. მიიღეთ ფოტოების ექსპერტის ხარისხით რედაქტირებული იერსახე ძალისხმევის გარეშე, გარდა ამისა — ანიმაციები, ფილმები და სხვა...</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Chromebooks" data-tab-name="chromebooks"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-2-4.jpg" alt="Google Drive-ის მონაცემები Chromebooks-ზე"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>Google Drive ჩაშენებულია Chromebooks-ში, ასე რომ, თქვენი ფაილებისა და ფოტოების სარეზერვო ასლები ავტომატურად იქმნება. თქვენ მიიღებთ 100 გბაიტიან თავისუფალ საცავს ორი წლით, უახლესი Chromebooks-ით.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- Apps --> 
+   <p id="google-apps">&nbsp;</p> 
+   <section class="section-apps section-divider js-hinted-fullscreen"> 
+    <div class="section-centered section-centered-text"> 
+     <h2 class="heading-headline">აპებთან მოხერხებული ინტეგრაცია</h2> 
+     <div class="tabs tabs-space js-tabs" data-tab-name="space-to-play"> 
+      <div class="tabs-list mobile-is-hidden"> 
+       <div class="tabs-tab one-quarter tabs-tab-first js-activate-tab" data-tab-target="docs"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Docs, Sheets, Slides">Docs, Sheets, Slides</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter js-activate-tab" data-tab-target="forms"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Google Forms">Google Forms</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter js-activate-tab" data-tab-target="office"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Google Drawings">Google Drawings</label> 
+       </div> 
+       <div class="tabs-tab one-quarter tabs-tab-first one-quarter one-quarter one-quarter tabs-tab-last js-activate-tab" data-tab-target="more"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="Drive-ის სხვა აპები">Drive-ის სხვა აპები</label> 
+       </div> 
+      </div> 
+      <div class="tabs-content with-select js-tab-content-container js-select-menu-container" data-select-first="true" data-select-populated="true"> 
+       <!-- Mobile select menu --> 
+       <div class="select-menu-wrapper select-menu-wrapper-devices"> 
+        <div class="icon icon-toggle_is-active">
+         &nbsp;
+        </div> 
+        <select class="select-menu js-select-menu"> <option class="js-select-menu-option select-menu-option" value="Docs, Sheets, Slides">Docs, Sheets, Slides</option> <option class="js-select-menu-option select-menu-option" value="Google Forms">Google Forms</option> <option class="js-select-menu-option select-menu-option" value="Google Drawings">Google Drawings</option> <option class="js-select-menu-option select-menu-option" value="Drive-ის სხვა აპები">Drive-ის სხვა აპები</option> </select> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Docs, Sheets, Slides" data-tab-name="docs"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>შექმენით და კოლაბორაციულად იმუშავეთ სხვებთან ერთად. გააზიარეთ დოკუმენტები და ფაილები, ააგეთ ელცხრილები და შექმენით პრეზენტაციები სახელდახელოდ, ჩვენი <a href="//www.google.com/docs/about/" target="_blank">Docs</a>, <a href="//www.google.com/sheets/about/" target="_blank">Sheets</a> და <a href="//www.google.com/slides/about/" target="_blank">Slides</a>&nbsp;აპებით.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-3-1.png" alt="Google Drive Docs, Sheets და Slides გასაზიარებლად ხელმისაწვდომია"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Google Forms" data-tab-name="forms"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p><a href="//www.google.com/forms/about/?usp=mkt_formsdrive">Google Forms</a> გაძლევთ საშუალებას, გაუშვათ გამოკითხვა ან სწრაფად შექმნათ გუნდის სია მარტივი ონლაინ ფორმით. შემდეგ კი შეამოწმეთ შედეგები, აკურატულად ორგანიზებული ელცხრილში.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-3-3.png" alt="Google Forms Google Drive-ის მაგალითი"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Google Drawings" data-tab-name="office"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>შექმენით დიაგრამები, ბლოკ-სქემები და შემდეგ მარტივად დაამატეთ სხვა დოკუმენტებში ან ჩააშენეთ ვებგვერდში <a href="https://docs.google.com/drawings/?usp=mkt_drawings">Google Drawings</a>-ის მეშვეობით.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-3-2.png" alt="Google Drawings-ის ხატულა"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="Drive-ის სხვა აპები" data-tab-name="more"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>დაარედაქტირეთ პროფილის ფოტო, შექმენით ლანდშაფტის დიზაინი, ინტელექტ-რუკა და სხვ. Drive-ის 100-ზე მეტი აპი დამატებით ფუნქციებს გთავაზობთ. სცადეთ ეს აპები <a href="https://chrome.google.com/webstore/category/collection/drive_apps?hl=ka">Chrome Web-ის კოლექციიდან</a> (Chrome Web&nbsp;Store) დაინსტალირებით.</p> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-3-4.jpg" alt="ხელმისაწვდომია 100-ზე მეტი Google Drive აპი"> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- Take it further --> 
+   <section class="section-further js-hinted-fullscreen"> 
+    <div class="section-centered section-centered-text"> 
+     <h2 class="heading-headline">Drive კიდევ უფრო მეტ ფუნქციონალობას გთავაზობთ</h2> 
+     <div class="tabs tabs-space js-tabs" data-tab-name="space-to-play"> 
+      <div class="tabs-list mobile-is-hidden"> 
+       <div class="tabs-tab one-third tabs-tab-first js-activate-tab" data-tab-target="paperless"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="დოკუმენტების სკანირება">დოკუმენტების სკანირება</label> 
+       </div> 
+       <div class="tabs-tab one-third tabs-tab-first one-third js-activate-tab" data-tab-target="offline"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="ხაზგარეშე რეჟიმში მუშაობა">ხაზგარეშე რეჟიმში მუშაობა</label> 
+       </div> 
+       <div class="tabs-tab one-third tabs-tab-first one-third one-third tabs-tab-last js-activate-tab" data-tab-target="versions"> 
+        <label class="tabs-label" data-g-event="Drive" data-g-action="Tabs" data-g-label="ძველი ვერსიების ნახვა">ძველი ვერსიების ნახვა</label> 
+       </div> 
+      </div> 
+      <div class="tabs-content with-select js-tab-content-container js-select-menu-container" data-select-first="true" data-select-populated="true"> 
+       <!-- Mobile select menu --> 
+       <div class="select-menu-wrapper select-menu-wrapper-devices"> 
+        <div class="icon icon-toggle_is-active">
+         &nbsp;
+        </div> 
+        <select class="select-menu js-select-menu"> <option class="js-select-menu-option select-menu-option" value="დოკუმენტების სკანირება">დოკუმენტების სკანირება</option> <option class="js-select-menu-option select-menu-option" value="ხაზგარეშე რეჟიმში მუშაობა">ხაზგარეშე რეჟიმში მუშაობა</option> <option class="js-select-menu-option select-menu-option" value="ძველი ვერსიების ნახვა">ძველი ვერსიების ნახვა</option> </select> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="დოკუმენტების სკანირება" data-tab-name="paperless"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-4-1.jpg" alt="Android ტელეფონით ფოტოს გადაღებით Drive-ზე დოკუმენტების შენახვის მაგალითი"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>დაასკანირეთ თქვენი ყველა ქაღალდის დოკუმენტი Drive-ით Android-ისთვის. უბრალოდ, აღბეჭდეთ დოკუმენტების ფოტოები, მათ შორის, ქვითრები, წერილები და ამონაწერები და Drive მყისიერად შეინახავს მათ PDF-ებად.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="ხაზგარეშე რეჟიმში მუშაობა" data-tab-name="offline"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-4-2.png" alt="Google Drive-ის ხაზგარეშე ან ონლაინ გადამრთველი"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>გახადეთ ფაილები ხელმისაწვდომი ხაზგარეშე რეჟიმში. ამით შეძლებთ ფაილები მაშინაც დაათვალიეროთ, როდესაც თქვენს ტელეფონს ან ტაბლეტს ინტერნეტთან კავშირი არ ექნება, მაგ. თვითმფრინავში ან ცუდი კავშირის მქონე შენობაში.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="tabs-detail js-tabs-content js-select-menu-item" data-select-item="ძველი ვერსიების ნახვა" data-tab-name="versions"> 
+        <div class="maia-cols tablizer"> 
+         <div class="maia-col-6 table-bottom"> 
+          <div class="img-wrapper"> 
+           <img src="/drive/static/images/features/tabs-4-3.png" alt="Google Drive-ის ფაილის ცვლილებების ისტორიის მაგალითი"> 
+          </div> 
+         </div> 
+         <div class="maia-col-6 table-top"> 
+          <div class="copy-wrapper"> 
+           <p>ფაილების ტიპების უმრავლესობაზე წვდომა ბოლო 30 დღის მანძილზე გექნებათ. ამით მარტივად ნახავთ, თუ ვინ განახორციელა ცვლილებები და ასევე გადახვალთ ძველ ვერსიებზე. ეს ფაილების ვერსიების გამარტივებული მართვაა.</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <!-- Footer --> 
+  <div class="signature-wrapper">
+   <div id="maia-signature"></div>
+  </div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="maia-cols first"> 
+      <div class="maia-col-3 footer-top social">
+        Google Apps საიტის გაზიარება: 
+       <span class="plusone-button" id="plusone-httpwwwgooglecoma"></span> 
+       <script>
+    window.___gcfg = {
+      lang: 'ka',
+      parsetags: 'explicit'
+    };
+
+    var gweb = gweb || {};  // namespace
+    gweb.plusOneButton = {};
+    gweb.plusOneButton.callbacks = {};
+    gweb.plusOneButton.onPlusOneLoad = function() {
+      for (var slug in gweb.plusOneButton.callbacks) {
+        gapi.plusone.render(slug, gweb.plusOneButton.callbacks[slug]);
+      }
+      gweb.plusOneButton.callbacks = {};
+    };
+              </script> 
+       <script src="//apis.google.com/js/platform.js">
+              </script> 
+       <script>
+              gweb.plusOneButton.callbacks['plusone-httpwwwgooglecoma'] = {
+      'annotation': 'none',
+      'href': 'http://www.google.com/a/',
+      'size': 'standard',
+      'callback': '',
+      'recommendations': 'true'
+    };
+    gweb.plusOneButton.onPlusOneLoad();
+  </script> 
+      </div> 
+      <div class="maia-col-3 footer-top social">
+        თვალის დევნება: 
+       <span class="follow"> <a href="//plus.google.com/+GoogleDrive" rel="publisher"><img alt="Google+" src="//www.google.com/images/branding/google_plus/2x/gplus_icon_flush_30dp.png" height="16" width="16" data-retina="16x16"></a> <a href="//twitter.com/googledrive/"><img alt="YouTube" src="/drive/static/images/drive/footer_twitter.png" data-retina="16x16"></a> <a href="//googledrive.blogspot.com/"><img alt="Blogger" src="/drive/static/images/drive/footer_blogger.jpg" data-retina="16x16"></a> </span> 
+      </div> 
+     </div> 
+     <div class="maia-cols"> 
+      <div class="footer-unit"> 
+       <h4>Drive-ის შესახებ</h4> 
+       <ul> 
+        <li> <a href="/intl/ka_ALL/drive/">Google Drive-ის შესახებ</a> </li> 
+        <li> <a href="/intl/ka_ALL/drive/using-drive/">Drive-ის გამოყენება</a> </li> 
+        <li> <a href="//support.google.com/drive/answer/2424384?hl=ka">დაიწყეთ Drive-ის გამოყენება</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>სატარიფო გეგმები და ფასები</h4> 
+       <ul> 
+        <li> <a href="//www.google.com/settings/storage">საცავის სატარიფო გეგმის ნახვა/განახლება</a> </li> 
+        <li> <a href="//support.google.com/drive/answer/2375123?hl=ka">საცავის ფასები</a> </li> 
+        <li> <a href="//support.google.com/drive/topic/2375005?hl=ka">საცავის შესახებ ხშირად დასმული კითხვები</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>ჩამოტვირთვები</h4> 
+       <ul> 
+        <li> <a href="https://www.google.com/intl/ka_ALL/drive/download/">Drive Mac/PC-სთვის</a> </li> 
+        <li> <a href="//play.google.com/store/apps/details?id=com.google.android.apps.docs">Drive Android-ისთვის</a> </li> 
+        <li> <a href="//itunes.apple.com/app/google-drive/id507874739">Drive iOS-ისთვის</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>მხარდაჭერა</h4> 
+       <ul> 
+        <li> <a href="//support.google.com/drive/answer/2424384?hl=ka">Drive-ის მხარდაჭერის ცენტრი</a> </li> 
+        <li> <a href="//productforums.google.com/forum/#!forum/drive">Google Drive-ის დახმარების ფორუმი</a> </li> 
+        <li> <a href="//support.google.com/drive/?hl=ka#topic=14940&amp;contact=1">დაგვიკავშირდით</a> </li> 
+       </ul> 
+      </div> 
+      <div class="footer-unit"> 
+       <h4>შესაბამისი გადაწყვეტა</h4> 
+       <ul> 
+        <li> <a href="/intl/ka_ALL/docs/about/">Google Docs</a> </li> 
+        <li> <a href="/intl/ka_ALL/sheets/about/">Google Sheets</a> </li> 
+        <li> <a href="/intl/ka_ALL/slides/about/">Google Slides</a> </li> 
+        <li> <a href="/intl/ka_ALL/forms/about/">Google Forms</a> </li> 
+        <li> <a href="//gsuite.google.com/intl/ka_ALL/driveforwork/?utm_medium=et&amp;utm_source=aboutdrive&amp;utm_content=footer&amp;utm_campaign=ka">Google Drive for Work</a> </li> 
+        <li> <a href="//cloud.google.com/?utm_medium=et&amp;utm_source=aboutdrive&amp;utm_content=footer&amp;utm_campaign=ka">Google Cloud Platform</a> </li> 
+        <li> <a href="/intl/ka_ALL/edu/">Google Apps for Education</a> </li> 
+        <li> <a href="/intl/ka_ALL/work/apps/government/">Google Apps for Government</a> </li> 
+        <li> <a href="/intl/ka_ALL/services/">Google Business Solutions</a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>ენის შეცვლა:</span> <select onchange="var href=this[this.selectedIndex].value;if(href!=''){window.location.href=href};"> <option value="/intl/af_ALL/drive/using-drive/"> Afrikaans </option> <option value="/intl/ar_ALL/drive/using-drive/"> العربية </option> <option value="/intl/az_ALL/drive/using-drive/"> azərbaycan dili </option> <option value="/intl/bg_ALL/drive/using-drive/"> български </option> <option value="/intl/bn_ALL/drive/using-drive/"> বাংলা </option> <option value="/intl/ca_ALL/drive/using-drive/"> català </option> <option value="/intl/cs_ALL/drive/using-drive/"> čeština </option> <option value="/intl/da_ALL/drive/using-drive/"> dansk </option> <option value="/intl/de_ALL/drive/using-drive/"> Deutsch </option> <option value="/intl/el_ALL/drive/using-drive/"> Ελληνικά </option> <option value="/drive/using-drive/"> English (United States) </option> <option value="/intl/en-GB_ALL/drive/using-drive/"> English (United Kingdom) </option> <option value="/intl/es-419_ALL/drive/using-drive/"> español (Latinoamérica) </option> <option value="/intl/es_ALL/drive/using-drive/"> español </option> <option value="/intl/et_ALL/drive/using-drive/"> eesti </option> <option value="/intl/eu_ALL/drive/using-drive/"> euskara </option> <option value="/intl/fa_ALL/drive/using-drive/"> فارسی </option> <option value="/intl/fi_ALL/drive/using-drive/"> suomi </option> <option value="/intl/fil_ALL/drive/using-drive/"> Filipino </option> <option value="/intl/fr_ALL/drive/using-drive/"> français </option> <option value="/intl/fr-CA_ALL/drive/using-drive/"> français (Canada) </option> <option value="/intl/gl_ALL/drive/using-drive/"> galego </option> <option value="/intl/gu_ALL/drive/using-drive/"> ગુજરાતી </option> <option value="/intl/hi_ALL/drive/using-drive/"> हिन्दी </option> <option value="/intl/iw_ALL/drive/using-drive/"> עברית </option> <option value="/intl/hr_ALL/drive/using-drive/"> hrvatski </option> <option value="/intl/hu_ALL/drive/using-drive/"> magyar </option> <option value="/intl/hy_ALL/drive/using-drive/"> հայերեն </option> <option value="/intl/id_ALL/drive/using-drive/"> Indonesia </option> <option value="/intl/is_ALL/drive/using-drive/"> íslenska </option> <option value="/intl/it_ALL/drive/using-drive/"> italiano </option> <option value="/intl/ja_ALL/drive/using-drive/"> 日本語 </option> <option value="/intl/ka_ALL/drive/using-drive/" selected> ქართული </option> <option value="/intl/km_ALL/drive/using-drive/"> ខ្មែរ </option> <option value="/intl/kn_ALL/drive/using-drive/"> ಕನ್ನಡ </option> <option value="/intl/ko_ALL/drive/using-drive/"> 한국어 </option> <option value="/intl/lo_ALL/drive/using-drive/"> ລາວ </option> <option value="/intl/lt_ALL/drive/using-drive/"> lietuvių </option> <option value="/intl/lv_ALL/drive/using-drive/"> latviešu </option> <option value="/intl/ml_ALL/drive/using-drive/"> മലയാളം </option> <option value="/intl/mn_ALL/drive/using-drive/"> монгол </option> <option value="/intl/mr_ALL/drive/using-drive/"> मराठी </option> <option value="/intl/ms_ALL/drive/using-drive/"> Bahasa Melayu </option> <option value="/intl/ne_ALL/drive/using-drive/"> नेपाली </option> <option value="/intl/nl_ALL/drive/using-drive/"> Nederlands </option> <option value="/intl/no_ALL/drive/using-drive/"> norsk bokmål </option> <option value="/intl/pa_ALL/drive/using-drive/"> ਪੰਜਾਬੀ </option> <option value="/intl/pl_ALL/drive/using-drive/"> polski </option> <option value="/intl/pt-BR_ALL/drive/using-drive/"> português (Brasil) </option> <option value="/intl/pt-PT_ALL/drive/using-drive/"> português (Portugal) </option> <option value="/intl/ro_ALL/drive/using-drive/"> română </option> <option value="/intl/ru_ALL/drive/using-drive/"> русский </option> <option value="/intl/si_ALL/drive/using-drive/"> සිංහල </option> <option value="/intl/sk_ALL/drive/using-drive/"> slovenčina </option> <option value="/intl/sl_ALL/drive/using-drive/"> slovenščina </option> <option value="/intl/sr_ALL/drive/using-drive/"> српски </option> <option value="/intl/sv_ALL/drive/using-drive/"> svenska </option> <option value="/intl/sw_ALL/drive/using-drive/"> Kiswahili </option> <option value="/intl/ta_ALL/drive/using-drive/"> தமிழ் </option> <option value="/intl/te_ALL/drive/using-drive/"> తెలుగు </option> <option value="/intl/th_ALL/drive/using-drive/"> ไทย </option> <option value="/intl/tr_ALL/drive/using-drive/"> Türkçe </option> <option value="/intl/uk_ALL/drive/using-drive/"> українська </option> <option value="/intl/ur_ALL/drive/using-drive/"> اردو </option> <option value="/intl/vi_ALL/drive/using-drive/"> Tiếng Việt </option> <option value="/intl/zh-CN_ALL/drive/using-drive/"> 中文 (简体, 中国) </option> <option value="/intl/zh-HK_ALL/drive/using-drive/"> 中文 (繁體字, 中華人民共和國香港特別行政區) </option> <option value="/intl/zh-TW_ALL/drive/using-drive/"> 中文 (繁體, 台灣) </option> <option value="/intl/zu_ALL/drive/using-drive/"> isiZulu </option> </select></label> 
+     </div> 
+     <ul> 
+      <li> <a href="//www.google.com">Google</a> </li> 
+      <li> <a href="//www.google.com/about/">About Google</a> </li> 
+      <li> <a href="//www.google.com/intl/ka/policies/privacy/">Privacy</a> </li> 
+      <li> <a href="//www.google.com/policies/terms/?hl=ka">Terms</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Scripts --> 
+  <script src="//www.google.com/js/gweb/uri/updatelinks.js"></script> 
+  <script src="//www.gstatic.com/external_hosted/gsap/TweenMax.min.js"></script> 
+  <script src="//www.gstatic.com/external_hosted/morlock/morlock.min.js"></script> 
+  <script src="/drive/static/dist/js/drive-site.min.js"></script> 
+  <script>
+      var manageParams = new drive.QueryParamManager();
+    </script> 
+  <script>
+  var usingDrive = new drive.SetUp('usingDrive');
+</script>  
+ </body>
+</html>

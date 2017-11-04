@@ -1,0 +1,879 @@
+<!doctype html>
+<html class="google mmfb" lang="ja" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/ja/products/productivity-tools/classroom/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="G Suite for Education: A suite of free productivity tools for classroom collaboration" name="description"> 
+  <title>
+    Google for Education: 時間をかけずに最新情報を入手
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/classroom.min.css" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/ja/products/productivity-tools/classroom/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: 時間をかけずに最新情報を入手" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/ja/products/productivity-tools/classroom/" property="og:url"> 
+  <meta content="" property="og:image"> 
+  <meta content="G Suite for Education: A suite of free productivity tools for classroom collaboration" property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/ja/products/productivity-tools/classroom/" name="twitter:url"> 
+  <meta content="Google for Education: 時間をかけずに最新情報を入手" name="twitter:title"> 
+  <meta content="" name="twitter:image"> 
+  <meta content="G Suite for Education: A suite of free productivity tools for classroom collaboration" name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: 時間をかけずに最新情報を入手" itemprop="name"> 
+  <meta content="G Suite for Education: A suite of free productivity tools for classroom collaboration" itemprop="description"> 
+  <meta content="" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: 時間をかけずに最新情報を入手",
+    "description": "G Suite for Education: A suite of free productivity tools for classroom collaboration",
+    "url": "https://edu.google.com/intl/ja/products/productivity-tools/classroom/",
+    "logo": "",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+ </head> 
+ <body> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/ja/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Google のサービスにアクセス</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">ご希望のサービスをお選びください。</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>生産性向上ツールを入手する</h5> 
+        <p>Classroom、Google ドキュメント、ドライブ、ハングアウト、メールなどの Google の生産性向上ツールを無料でご利用いただけます。広告は表示されません。</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=ja#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">G Suite のお申し込み</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>端末を入手する</h5> 
+        <p>学校に Chromebooks や Android の端末を導入しませんか？Google のチームが導入をお手伝いします。</p> 
+        <a class="maia-button overlay-button" href="/intl/ja/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">お問い合わせ</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>教育者同士で話し合う</h5> 
+        <p>Google に移行したユーザーと話をすることもできます。教育者のコミュニティにご参加ください。</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">他の教育者を探す</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/" target="_self">ホーム</a> </li> 
+     <li class=" active  global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">サービス</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/devices/" target="_self">端末 <br><span class="dropdown-item-description">Chromebooks and Tablets</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/productivity-tools/" target="_self">生産性向上ツール <br><span class="dropdown-item-description">Docs, Gmail and More</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/productivity-tools/classroom/" target="_self">Classroom <br><span class="dropdown-item-description">Mission control for teachers and students</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtual reality field trips</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/more-products/" target="_self">その他のサービス <br><span class="dropdown-item-description">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">トレーニング</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=ja" target="_self">教育者トレーニング <br><span class="dropdown-item-description">Google for Education ツール</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT 管理者トレーニング <br><span class="dropdown-item-description">G Suite 管理者向け</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">パートナー ディレクトリ <br><span class="dropdown-item-description">to help your school go Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/communities/" target="_self">コミュニティ <br><span class="dropdown-item-description">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">リソース</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/programs/" target="_self">プログラム <br><span class="dropdown-item-description">for students and teachers</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/case-studies/" target="_self">導入事例 </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/computerscience/" target="_self">コンピュータ サイエンス教育 <br><span class="dropdown-item-description">Programs, Funding, and Research</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/global-education/" target="_self">グローバル教育 </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/ja/it/" target="_self">IT ガイド</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/ja/higher-education/" target="_self">高等教育</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">サービス</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/devices/" target="_self">端末 <span class="nav-subtext">Chromebooks and Tablets</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/productivity-tools/" target="_self">生産性向上ツール <span class="nav-subtext">Docs, Gmail and More</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/productivity-tools/classroom/" target="_self">Classroom <span class="nav-subtext">Mission control for teachers and students</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtual reality field trips</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/more-products/" target="_self">その他のサービス <span class="nav-subtext">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">トレーニング</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=ja" target="_self">教育者トレーニング <span class="nav-subtext">Google for Education ツール</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT 管理者トレーニング <span class="nav-subtext">G Suite 管理者向け</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">パートナー ディレクトリ <span class="nav-subtext">to help your school go Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/communities/" target="_self">コミュニティ <span class="nav-subtext">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">リソース</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/programs/" target="_self">プログラム <span class="nav-subtext">for students and teachers</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/case-studies/" target="_self">導入事例 </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/computerscience/" target="_self">コンピュータ サイエンス教育 <span class="nav-subtext">Programs, Funding, and Research</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/global-education/" target="_self">グローバル教育 </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">IT ガイド</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/it/" target="_self">IT </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/trust/" target="_self">プライバシー ページ </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">高等教育</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/higher-education/" target="_self">高等教育 </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Google のサービスにアクセス</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">ご希望のサービスをお選びください。</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>生産性向上ツールを入手する</h5> 
+         <p>Classroom、Google ドキュメント、ドライブ、ハングアウト、メールなどの Google の生産性向上ツールを無料でご利用いただけます。広告は表示されません。</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=ja#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">G Suite のお申し込み</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>端末を入手する</h5> 
+         <p>学校に Chromebooks や Android の端末を導入しませんか？Google のチームが導入をお手伝いします。</p> 
+         <a class="maia-button overlay-button" href="/intl/ja/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">お問い合わせ</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>教育者同士で話し合う</h5> 
+         <p>Google に移行したユーザーと話をすることもできます。教育者のコミュニティにご参加ください。</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">他の教育者を探す</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="classroom-maximum"> 
+    <div class="main"> 
+     <header class="main-header" style="display: none;"> 
+      <div class="menu-btn"></div> 
+     </header> 
+     <nav style="display: none;"> 
+     </nav> 
+     <div class="load-launcher"></div> 
+     <div class="load-bar active"> 
+      <div class="load-bar-container"> 
+       <div class="load-bar-base"> 
+        <div class="load-bar-content"> 
+         <div class="green"></div> 
+         <div class="red"></div> 
+         <div class="blue"></div> 
+         <div class="yellow"></div> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="load-bar-container"> 
+       <div class="load-bar-base"> 
+        <div class="load-bar-content"> 
+         <div class="green"></div> 
+         <div class="yellow"></div> 
+         <div class="blue"></div> 
+         <div class="red"></div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="container"> 
+      <div class="scroller"> 
+       <div class="scroller-inner"> 
+        <section id="education-hero-new" class="active" data-classroom-slide="1" data-name="Make Time to Teach"> 
+         <div id="education-hero" style="display: none;">
+          <h1>Classroom</h1>
+         </div> 
+         <div class="centered-container"> 
+          <img class="logo" src="/images/classroom/classroom-icon/hero_logo.png" alt=""> 
+          <h1 class="title white-text intl-hero-title">Google Classroom:</h1> 
+          <h1 class="title white-text intl-hero-title">ペーパーワークを減らして、授業をより充実したものに</h1> 
+          <p class="subtitle white-text border-top intl-hero-subtitle">Google Classroom は、クラスのコミュニケーションの改善、課題や学習状況の管理、学習目標の達成のために、教師や生徒の方々の協力を得て設計されました。</p> 
+          <a class="classroom-button intl-hero-button" href="https://classroom.google.com?emr=0" data-g-action="Classroom Sign In" data-g-event="Edu: Hero" data-g-label="Hero">ログイン</a> 
+         </div> 
+        </section> 
+        <section id="what-is-classroom" data-classroom-slide="2" data-name="What is Classroom"> 
+         <div class="centered-container"> 
+          <div class="left"> 
+           <img src="/images/classroom/classroom-product/what-is-classroom-image.png" alt=""> 
+          </div> 
+          <div class="right"> 
+           <h1 class="title-thin white-text">Classroom とは</h1> 
+           <p class="subtitle white-text">Google Classroom は、クラスの管制センター。クラスの作成、課題の配布、フィードバックの提供、クラスのあらゆることの管理、これらすべてを 1 か所で行えます。ペーパーレス化を実現しながら、必要なことをその場でできる、使いやすいツールです。</p> 
+          </div> 
+          <p class="top-text white-text"> Classroom アカウントをお持ちでない方は<a href="#/ready-to-go" class="top-nav" id="alink">こちら</a>をクリックしてください </p> 
+         </div> 
+        </section> 
+        <section id="hear-from-teachers" data-classroom-slide="3" data-name="Classroom Video"> 
+         <div class="top-white-space"></div> 
+         <div class="classroom-video"> 
+          <div class="classroom-video-wrapper"> 
+           <a data-lightbox="lb-classroom-video" data-lightbox-height="394" data-lightbox-width="700" href="https://www.youtube.com/watch?v=-apCIbV9YKA?autohide=1&amp;cc_load_policy=0&amp;hl=en&amp;cc_lang_pref=en&amp;autoplay=1"> <img alt="Watch the video" src="/images/play-btn_2x.png" height="62" width="62"> <span>動画を見る</span> </a> 
+          </div> 
+         </div> 
+         <div class="bottom-white-space"> 
+          <div class="title"> 
+           <p>Google Classroom の導入事例をご覧ください。</p> 
+          </div> 
+         </div> 
+        </section> 
+        <section id="simple-starts-here" data-classroom-slide="4" data-name="For Teachers Simple Starts Here"> 
+         <div class="center-container"> 
+          <div class="aside message">
+           <h1 class="title"> <span>教師の方々の</span><br>作業をシンプルに </h1>
+          </div> 
+          <div class="main image"> 
+           <img loop="infinite" alt="Computer" src="/images/classroom/classroom-product/teacher-background.png"> 
+           <img loop="infinite" alt="Image 3" data-image="third" src="/images/classroom/classroom-product/teacher-animation-3.gif"> 
+           <img loop="infinite" alt="Image 2" data-image="second" src="/images/classroom/classroom-product/teacher-animation-2.gif"> 
+           <img loop="infinite" alt="Image 1" data-image="first" src="/images/classroom/classroom-product/teacher-animation-1.gif"> 
+          </div> 
+          <div class="aside bullets"> 
+           <ul> 
+            <li> 
+             <div class="number">
+              1
+             </div> 
+             <div class="text"> 
+              <span>クラスを作成</span> - 数回のクリックで完了します。 
+             </div> </li> 
+            <li> 
+             <div class="number">
+              2
+             </div> 
+             <div class="text"> 
+              <span>生徒を追加</span> - 生徒にクラスコードを送信するか、直接生徒を追加できます。Google グループからグループを読み込むこともできます。 
+             </div> </li> 
+            <li> 
+             <div class="number">
+              3
+             </div> 
+             <div class="text"> 
+              <span>最初の課題を作成</span> - 課題のコピーを各生徒に送信できます。課題が完了した生徒、まだ取り組み中の生徒を確認することもできます。 
+             </div> </li> 
+           </ul> 
+          </div> 
+         </div> 
+        </section> 
+        <section id="stay-organized" data-classroom-slide="5" data-name="So Students Can Stay Organized"> 
+         <div class="center-container"> 
+          <div class="aside message">
+           <h1 class="title"> <span>生徒の</span>効果的な<br>学習を支援 </h1>
+          </div> 
+          <div class="main image"> 
+           <img src="/images/classroom/classroom-product/student-background.png"> 
+           <img src="/images/classroom/classroom-product/student-animation-3.gif" alt="Image 1" data-image="first"> 
+           <img src="/images/classroom/classroom-product/student-animation-2.gif" alt="Image 2" data-image="second"> 
+           <img src="/images/classroom/classroom-product/student-animation-1.gif" alt="Image 3" data-image="third"> 
+          </div> 
+          <div class="aside bullets"> 
+           <ul> 
+            <li> 
+             <div class="number">
+              1
+             </div> 
+             <div class="text"> 
+              <span>すべてを 1 か所に。</span>ワンクリックでクラスに参加し、必要なすべての教材に簡単にアクセスできます。 
+             </div> </li> 
+            <li> 
+             <div class="number">
+              2
+             </div> 
+             <div class="text"> 
+              <span>コミュニケーションの促進。</span>教師と個人的にやり取りすることも、クラスの全員に質問することもできます。すべてがリアルタイムで更新されます。 
+             </div> </li> 
+            <li> 
+             <div class="number">
+              3
+             </div> 
+             <div class="text"> 
+              <span>課題の提出。</span>Google ドキュメントやドライブのファイル、リンクなどを自由に課題に添付できます。撮影した写真を課題に添付することもできます。 
+             </div> </li> 
+           </ul> 
+          </div> 
+         </div> 
+        </section> 
+        <section id="ready-to-go" data-classroom-slide="6" data-name="Ready to Go?"> 
+         <div class="centered-container"> 
+          <h1 class="title">準備はいいですか？</h1> 
+          <div class="middle-block"> 
+           <div class="inner-card"> 
+            <div class="inner-card-title"> 
+             <h2 class="title-thin">教師の方</h2> 
+            </div> 
+            <div class="inner-card-content"> 
+             <p> 学校ですでに <a href="/intl/ja/products/productivity-tools/">G Suite for Education</a> をご利用の場合は、Classroom をすぐにお使いいただけます。ご利用でない場合は、<a href="/pdfs/get-started-apps.pdf">こちらの詳しい情報</a>を学校でご検討ください。</p> 
+            </div> 
+            <div class="inner-card-link"> 
+             <a class="maia-button" href="https://classroom.google.com?emr=0" data-g-event="Edu: Canvas" data-g-action="Start Lead" data-g-label="Ready to Go">使ってみる</a> 
+            </div> 
+           </div> 
+           <div class="inner-card"> 
+            <div class="inner-card-title"> 
+             <h2 class="title-thin">管理者の方</h2> 
+            </div> 
+            <div class="inner-card-content"> 
+             <p>G Suite for Education に申し込まれると、付属の Classroom を無料でご利用いただけます。</p> 
+            </div> 
+            <div class="inner-card-link"> 
+             <a class="maia-button" href="https://www.google.com/a/signup/u/0/?enterprise_product=GOOGLE.EDU&amp;hl=ja" data-g-event="Edu: Canvas" data-g-action="Start Lead" data-g-label="Ready to Go">申し込む</a> 
+            </div> 
+           </div> 
+           <div class="inner-card"> 
+            <div class="inner-card-title"> 
+             <h2 class="title-thin">生徒と保護者の方</h2> 
+            </div> 
+            <div class="inner-card-content"> 
+             <p>Google for Education の月刊ニュースレターに登録されると、最新情報やヒント、興味深い活用事例など、Google for Education ツールに関する詳しい情報をお受け取りいただけます。</p> 
+            </div> 
+            <div class="inner-card-link"> 
+             <a class="maia-button" href="/intl/ja/email-signup/" data-g-event="Edu: Canvas" data-g-action="Start Lead" data-g-label="Ready to Go">申し込む</a> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </section> 
+        <section id="a-collaborative-solution" data-classroom-slide="7" data-name="A Collaborate Solution"> 
+         <div class="template"> 
+          <div class="content a-collaborative-solution"> 
+           <div class="content-inner"> 
+            <div class="inner-template"> 
+             <div class="maia-cols inner-wrapper"> 
+              <div class="maia-col-12"> 
+               <h1>教師と生徒のためのコラボレーション ツール</h1> 
+               <h4>Classroom は G Suite for Education ツールの 1 つです</h4> 
+              </div> 
+              <div class="maia-col-12"> 
+               <div class="maia-col-4 icon">
+                <img alt="" src="/images/classroom/classroom-icon/icons_time_2x.png"> 
+                <h5>コストを節約</h5> 
+                <p>Google Classroom は教師と生徒向けの無料のサービスです。</p> 
+               </div> 
+               <div class="maia-col-4 icon">
+                <img alt="" src="/images/classroom/classroom-icon/icons_configure_2x.png"> 
+                <h5>シンプルな設定</h5> 
+                <p>Classroom は、数分の設定ですぐに使い始めることができます。</p> 
+               </div> 
+               <div class="maia-col-4 icon">
+                <img alt="" src="/images/classroom/classroom-icon/icons_megaphone_2x.png"> 
+                <h5>その場でコラボレーション</h5> 
+                <p>生徒や教師は、必要なときにその場でメッセージをやり取りしたり、課題に一緒に取り組んだりすることができます。</p> 
+               </div> 
+              </div> 
+              <div class="quote-benefits only-mobile"> 
+               <div class="quote-container"> 
+                <div class="quote">
+                  「生徒の課題のコピーにどれほどの時間を費やしていたか、また、どれほどの紙を使っていたかに気が付いていたのか、自分でもよくわかりません。」 
+                 <div class="author">
+                  フォントボーン ホール アカデミー、数学担当教師 Cathy Barton 氏
+                 </div> 
+                </div> 
+               </div> 
+              </div> 
+              <div id="classroom-slider" class="only-desktop"> 
+               <div id="classroom-slider-wrapper"> 
+                <div class="edu-slide background-img-one"> 
+                 <div class="quote-desktop slider-panel-one">
+                   「生徒の課題のコピーにどれほどの時間を費やしていたか、また、どれほどの紙を使っていたかに気が付いていたのか、自分でもよくわかりません。」 
+                  <div class="author-desktop">
+                   フォントボーン ホール アカデミー、数学担当教師 Cathy Barton 氏
+                  </div> 
+                 </div> 
+                </div> 
+                <div class="edu-slide background-img-two"> 
+                 <div class="quote-desktop slider-panel-two">
+                   「生徒たちが Classroom を使って課題を提出できるようにしたところ、自分の担当クラスについて把握しやすくなりました。成績を簡単にチェックしたり、空き時間を使って課題を採点したりできるだけでなく、分厚い紙の束を持ち歩く必要もありません。Classroom のおかげで、たいへん作業がしやすく便利になりました。」 
+                  <div class="author-desktop">
+                   フォントボーン ホール アカデミー、科学担当教師 Laura Barton 氏
+                  </div> 
+                 </div> 
+                </div> 
+                <div class="edu-slide background-img-three"> 
+                 <div class="quote-desktop slider-panel-three">
+                   教師は短時間で生徒に課題を出すことができ、教室での学習効果が高まります。 
+                  <div class="author-desktop">
+                   フェリックス フェスタ中学校 8 年社会科担当、Paul Lepore 氏
+                  </div> 
+                 </div> 
+                </div> 
+               </div> 
+               <div id="classroom-slider-nav"> 
+                <a type="radio" data-slide-edu="0"></a> 
+                <a type="radio" data-slide-edu="1"></a> 
+                <a type="radio" data-slide-edu="2"></a> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </section> 
+        <section id="getting-started" data-classroom-slide="8" data-name="Resources for Getting Started"> 
+         <div class="template"> 
+          <div class="content getting-started"> 
+           <div class="content-inner"> 
+            <div class="inner-template"> 
+             <div class="inner-wrapper"> 
+              <div class="left-content"> 
+               <h1>Classroom 向けリソース</h1> 
+              </div> 
+              <div class="right-content"> 
+               <div class="card"> 
+                <div class="learn-more">
+                 詳細
+                </div> 
+                <div class="title">
+                 Google Classroom ヘルプセンター
+                </div> 
+                <a class="bottom-link" href="https://support.google.com/edu/classroom/?hl=ja#topic=6020277" data-g-action="Help Center" data-g-event="Edu: Products: Productivity Tools: Classroom" data-g-label="Classroom">HELP CENTER<img src="/images/classroom/classroom-icon/icon-hyperlink.png"></a> 
+               </div> 
+               <div class="card"> 
+                <div class="learn-more">
+                 お問い合わせ
+                </div> 
+                <div class="title">
+                 ご質問にお答えいたします
+                </div> 
+                <a class="bottom-link" href="https://productforums.google.com/forum/#!categories/google-education/classroom" data-g-action="Product Forums" data-g-event="Edu: Products: Productivity Tools: Classroom" data-g-label="Classroom">PRODUCT FORUMS<img src="/images/classroom/classroom-icon/icon-hyperlink.png"></a> 
+               </div> 
+               <div class="card"> 
+                <div class="learn-more">
+                 リソース
+                </div> 
+                <div class="title">
+                 さまざまなリソースをご用意しています
+                </div> 
+                <div class="green-card-links"> 
+                 <a class="bottom-link yellow-bottom-link" href="https://www.google.com/landing/geg/" data-g-action="Google Educator Groups" data-g-event="Edu: Products: Productivity Tools: Classroom" data-g-label="Classroom">Google Educator Groups</a> 
+                 <a class="bottom-link yellow-bottom-link" href="https://plus.google.com/+GoogleforEducation" data-g-action="Google+" data-g-event="Edu: Products: Productivity Tools: Classroom" data-g-label="Classroom">Google+</a> 
+                 <a class="bottom-link yellow-bottom-link" href="https://blog.google/topics/education/" data-g-action="Blog" data-g-event="Edu: Products: Productivity Tools: Classroom" data-g-label="Classroom">ブログ</a> 
+                </div> 
+               </div> 
+               <div class="card"> 
+                <div class="learn-more">
+                 導入事例
+                </div> 
+                <div class="title">
+                 他の学校がどのように Google に移行したかをご覧ください
+                </div> 
+                <a class="bottom-link" href="/intl/ja/case-studies/" data-g-action="Case Studies" data-g-event="Edu: Products: Productivity Tools: Classroom" data-g-label="Classroom">導入事例<img src="/images/classroom/classroom-icon/icon-hyperlink.png"></a> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </section> 
+        <section id="getting-better" data-classroom-slide="9" data-name="Classroom Keeps Getting Better"> 
+         <div class="template"> 
+          <div class="content getting-better "> 
+           <div class="content-inner"> 
+            <div class="inner-template"> 
+             <div class="inner-wrapper"> 
+              <div class="maia-cols inner-wrapper"> 
+               <h1>Classroom は今後も進化し続けます。</h1> 
+               <p>Google では、教師や生徒の方々からお送りいただいたフィードバックをもとに、新しい機能やアップデートの開発に常に取り組んでいます。</p> 
+               <button class="maia-button white-button"> <span class="blue-text"><a href="https://support.google.com/edu/classroom/answer/6149237?hl=ja" data-g-action="Whats New" data-g-event="Edu: Products: Productivity Tools: Classroom" data-g-label="Classroom">最新情報</a></span> </button> 
+               <a href="/intl/ja/products/productivity-tools/classroom/partners/" class="classroom-partners"> 
+                <div class="icon"> 
+                 <img src="/images/classroom/gears.png" alt=""> 
+                </div> 
+                <div class="copy-container"> 
+                 <div class="title">
+                   Classroom パートナーを見る 
+                 </div> 
+                </div> </a> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </section> 
+        <section id="education-products" data-classroom-slide="10" data-name="Google for Education Products"> 
+         <div class="template"> 
+          <div class="content education-products"> 
+           <div class="content-inner"> 
+            <div class="inner-template"> 
+             <div class="inner-wrapper maia-cols"> 
+              <div class="maia-col-12 text-centered"> 
+               <h1 class="title">Google for Education のサービス</h1> 
+               <p class="tagline">学校の規模や予算は関係ありません。<br>Google は、学生がいつでも、どこでも、どの端末でも簡単に利用できるツールを提供します。</p> 
+              </div> 
+              <div class="maia-col-4"> 
+               <div class="green box"> 
+                <a href="/intl/ja/products/productivity-tools/" data-g-action="FREE PRODUCTIVITY TOOLS" data-g-event="Edu: Products: Productivity Tools: Classroom" data-g-label="Classroom"> <img alt="" src="/images/classroom/classroom-background/class-content.jpg"> <p>無料の生産性ツール</p> <h5>時間をかけずに最新情報を入手</h5> </a> 
+               </div> 
+              </div> 
+              <div class="maia-col-4"> 
+               <div class="yellow box"> 
+                <a href="/intl/ja/products/class-content/" data-g-action="CLASS CONTENT" data-g-event="Edu: Products: Productivity Tools: Classroom" data-g-label="Classroom"> <img alt="" src="/images/classroom/classroom-background/devices.jpg"> <p>クラス用コンテンツ</p> <h5>さまざまなクラス用コンテンツが見つかります</h5> </a> 
+               </div> 
+              </div> 
+              <div class="maia-col-4"> 
+               <div class="blue box"> 
+                <a href="/intl/ja/products/devices/" data-g-action="DEVICES" data-g-event="Edu: Products: Productivity Tools: Classroom" data-g-label="Classroom"> <img alt="" src="/images/classroom/classroom-background/productivity-tools.jpg"> <p>端末</p> <h5>箱から出してすぐに学習を開始</h5> </a> 
+               </div> 
+              </div> 
+              <div class="btn-arrow-up"> 
+               <a href="#education-hero-new"> <img alt="" src="/images/classroom/classroom-icon/icon-black-arrow-down.png"> </a> 
+              </div> 
+             </div> 
+            </div> 
+            <div class="maia-footer" id="maia-footer"> 
+             <div id="maia-signature"></div> 
+             <div id="maia-footer-local"> 
+              <div class="maia-aux"> 
+               <div class="ent-footer-links"> 
+                <div class="ent-footer-unit products-group first"> 
+                 <div class="ent-footer-unit-break-wrapper"> 
+                  <h4 class="section-header"><span class="product-name-desktop">サービス</span><span class="arrow-icon">&nbsp;</span></h4> 
+                  <ul> 
+                   <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/products/devices/">端末</a></li> 
+                   <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/products/productivity-tools/">生産性向上ツール</a></li> 
+                   <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/products/productivity-tools/classroom/">Classroom</a></li> 
+                   <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/expeditions/">Expeditions</a></li> 
+                   <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/products/more-products/">その他のサービス</a></li> 
+                  </ul> 
+                 </div> 
+                </div> 
+                <div class="ent-footer-unit training-group "> 
+                 <div class="ent-footer-unit-break-wrapper"> 
+                  <h4 class="section-header"><span class="product-name-desktop">トレーニング</span><span class="arrow-icon">&nbsp;</span></h4> 
+                  <ul> 
+                   <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=ja" target="_blank">教育者トレーニング</a></li> 
+                   <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">IT 管理者トレーニング</a></li> 
+                   <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">パートナー ディレクトリ</a></li> 
+                   <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/resources/communities/">コミュニティ</a></li> 
+                  </ul> 
+                 </div> 
+                </div> 
+                <div class="ent-footer-unit resources-group "> 
+                 <div class="ent-footer-unit-break-wrapper"> 
+                  <h4 class="section-header"><span class="product-name-desktop">リソース</span><span class="arrow-icon">&nbsp;</span></h4> 
+                  <ul> 
+                   <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/resources/programs/">プログラム</a></li> 
+                   <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/resources/computerscience/">コンピュータ サイエンス教育</a></li> 
+                   <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/resources/global-education/">グローバル教育</a></li> 
+                   <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+                  </ul> 
+                 </div> 
+                </div> 
+                <div class="ent-footer-unit guides-group "> 
+                 <div class="ent-footer-unit-break-wrapper"> 
+                  <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+                  <ul> 
+                   <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/it/">IT</a></li> 
+                   <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">デベロッパー向けリソース</a></li> 
+                   <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/trust/">Privacy &amp; Security</a></li> 
+                   <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/access/">アクセス</a></li> 
+                  </ul> 
+                 </div> 
+                </div> 
+                <div class="ent-footer-unit contact-group "> 
+                 <div class="ent-footer-unit-break-wrapper"> 
+                  <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+                  <ul> 
+                   <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/contact/">営業担当</a></li> 
+                   <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">サポート</a></li> 
+                   <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/partners/">パートナー プログラム</a></li> 
+                  </ul> 
+                 </div> 
+                </div> 
+                <div class="ent-footer-unit stories-group last"> 
+                 <div class="ent-footer-unit-break-wrapper"> 
+                  <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+                  <ul> 
+                   <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/case-studies/">導入事例</a></li> 
+                   <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">学校での Chromebooks 導入例</a></li> 
+                   <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">ブログ</a></li> 
+                  </ul> 
+                 </div> 
+                </div> 
+               </div> 
+               <div class="maia-cols search-social"> 
+                <div class="maia-col-5 footer-top"> 
+                 <div class="search"> 
+                  <form class="maia-search" id="global-search-form"> 
+                   <input name="q" placeholder="このサイトを検索" type="text" id="global-search-term" autocomplete="off"> 
+                   <div id="global-search-suggest"></div> 
+                   <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+                  </form> 
+                 </div> 
+                </div> 
+                <div class="maia-col-4 social"> 
+                 <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+                </div> 
+               </div> 
+              </div> 
+             </div>
+             <div id="maia-footer-global"> 
+              <div class="maia-aux"> 
+               <div class="maia-locales"> 
+                <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/products/productivity-tools/classroom/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/products/productivity-tools/classroom/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/da/products/productivity-tools/classroom/"> dansk (Danmark) </option><option value="/intl/en_au/products/productivity-tools/classroom/"> English (Australia) </option><option value="/intl/en_ca/products/productivity-tools/classroom/"> English (Canada) </option><option value="/intl/en_in/products/productivity-tools/classroom/"> English (India) </option><option value="/intl/en_nz/products/productivity-tools/classroom/"> English (New Zealand) </option><option value="/intl/en_uk/products/productivity-tools/classroom/"> English (United Kingdom) </option><option value="/products/productivity-tools/classroom/"> English (United States) </option><option value="/intl/es-419_mx/products/productivity-tools/classroom/"> español (México) </option><option value="/intl/es-419/products/productivity-tools/classroom/"> español (Latinoamérica) </option><option value="/intl/fi/products/productivity-tools/classroom/"> suomi (Suomi) </option><option value="/intl/fr_be/products/productivity-tools/classroom/"> français (Belgique) </option><option value="/intl/id/products/productivity-tools/classroom/"> Indonesia (Indonesia) </option><option selected value="/intl/ja/products/productivity-tools/classroom/"> 日本語 (日本) </option><option value="/intl/ms/products/productivity-tools/classroom/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/products/productivity-tools/classroom/"> Nederlands (Nederland) </option><option value="/intl/no/products/productivity-tools/classroom/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/products/productivity-tools/classroom/"> português (Brasil) </option><option value="/intl/sv/products/productivity-tools/classroom/"> svenska (Sverige) </option><option value="/intl/th/products/productivity-tools/classroom/"> ไทย (ไทย) </option><option value="/intl/tr/products/productivity-tools/classroom/"> Türkçe (Türkiye) </option></select> </label> 
+               </div> 
+               <ul> 
+                <li> <a href="https://www.google.com/">Google</a> </li> 
+                <li> <a href="https://www.google.com/intl/ja/about/">About Google</a> </li> 
+                <li> <a href="https://www.google.com/intl/ja/policies/privacy/">プライバシー</a> </li> 
+                <li> <a href="https://www.google.com/intl/ja/policies/terms/">利用規約</a> </li> 
+               </ul> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </section> 
+       </div> 
+      </div> 
+      <div class="btn-arrow" data-g-action="Next Arrow" data-g-event="Edu: Products: Productivity Tools: Classroom" data-g-label="Classroom">
+       <img alt="" src="/images/classroom/classroom-icon/icon-black-arrow-down.png">
+      </div> 
+     </div> 
+    </div> 
+    <div class="rotate-screen"> 
+     <div class="rotate-screen-inner"> 
+      <div class="icon-rotate"> 
+       <div class="icon"></div> 
+      </div> 
+      <h5>端末を回転させてください。</h5> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">サービス</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/products/devices/">端末</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/products/productivity-tools/">生産性向上ツール</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/products/more-products/">その他のサービス</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">トレーニング</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=ja" target="_blank">教育者トレーニング</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">IT 管理者トレーニング</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">パートナー ディレクトリ</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/resources/communities/">コミュニティ</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">リソース</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/resources/programs/">プログラム</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/resources/computerscience/">コンピュータ サイエンス教育</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/resources/global-education/">グローバル教育</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/it/">IT</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">デベロッパー向けリソース</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/access/">アクセス</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/contact/">営業担当</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">サポート</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/partners/">パートナー プログラム</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/case-studies/">導入事例</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">学校での Chromebooks 導入例</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">ブログ</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="このサイトを検索" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/products/productivity-tools/classroom/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/products/productivity-tools/classroom/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/da/products/productivity-tools/classroom/"> dansk (Danmark) </option><option value="/intl/en_au/products/productivity-tools/classroom/"> English (Australia) </option><option value="/intl/en_ca/products/productivity-tools/classroom/"> English (Canada) </option><option value="/intl/en_in/products/productivity-tools/classroom/"> English (India) </option><option value="/intl/en_nz/products/productivity-tools/classroom/"> English (New Zealand) </option><option value="/intl/en_uk/products/productivity-tools/classroom/"> English (United Kingdom) </option><option value="/products/productivity-tools/classroom/"> English (United States) </option><option value="/intl/es-419_mx/products/productivity-tools/classroom/"> español (México) </option><option value="/intl/es-419/products/productivity-tools/classroom/"> español (Latinoamérica) </option><option value="/intl/fi/products/productivity-tools/classroom/"> suomi (Suomi) </option><option value="/intl/fr_be/products/productivity-tools/classroom/"> français (Belgique) </option><option value="/intl/id/products/productivity-tools/classroom/"> Indonesia (Indonesia) </option><option selected value="/intl/ja/products/productivity-tools/classroom/"> 日本語 (日本) </option><option value="/intl/ms/products/productivity-tools/classroom/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/products/productivity-tools/classroom/"> Nederlands (Nederland) </option><option value="/intl/no/products/productivity-tools/classroom/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/products/productivity-tools/classroom/"> português (Brasil) </option><option value="/intl/sv/products/productivity-tools/classroom/"> svenska (Sverige) </option><option value="/intl/th/products/productivity-tools/classroom/"> ไทย (ไทย) </option><option value="/intl/tr/products/productivity-tools/classroom/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/ja/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/ja/policies/privacy/">プライバシー</a> </li> 
+      <li> <a href="https://www.google.com/intl/ja/policies/terms/">利用規約</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script> 
+  <script src="//www.gstatic.com/external_hosted/modernizr/modernizr.js"></script> 
+  <script id="classroom-script" src="/js/classroom.min.js"></script>  
+ </body>
+</html>

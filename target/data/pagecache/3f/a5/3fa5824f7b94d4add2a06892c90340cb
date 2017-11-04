@@ -1,0 +1,220 @@
+<!doctype html>
+<html class="google mmfb" dir="rtl" lang="ar">
+ <head> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+    </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="حقق زيادة في عمليات الشراء داخل التطبيق واعرف كيف يمكنك الاستفادة من AdMob لإجراء ترويج متبادل لتطبيقاتك مجانًا من أجل تحقيق المزيد من التنزيلات من خلال نظام AdMob الأساسي." name="description"> 
+  <title>
+      عمليات الشراء داخل التطبيق وترويج التطبيقات – Google AdMob
+    </title> 
+  <script src="//www.google.com/js/google.js"></script> 
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Product+Sans:400&amp;lang=ar" rel="stylesheet"> 
+  <link href="/admob/css/default.css" rel="stylesheet"> 
+  <link href="/admob/images/admob-favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://www.google.ae/admob/promote.html" rel="canonical"> 
+  <link href="https://www.google.ae/admob/promote.html" hreflang="ae" rel="alternate"> 
+  <link href="https://www.google.com.br/admob/promote.html" hreflang="pt-BR" rel="alternate"> 
+  <link href="https://www.google.de/admob/promote.html" hreflang="de" rel="alternate"> 
+  <link href="https://www.google.es/admob/promote.html" hreflang="es" rel="alternate"> 
+  <link href="https://www.google.fr/admob/promote.html" hreflang="fr" rel="alternate"> 
+  <link href="https://www.google.co.id/admob/promote.html" hreflang="id" rel="alternate"> 
+  <link href="https://www.google.it/admob/promote.html" hreflang="it" rel="alternate"> 
+  <link href="https://www.google.co.jp/admob/promote.html" hreflang="ja" rel="alternate"> 
+  <link href="https://www.google.co.kr/admob/promote.html" hreflang="ko" rel="alternate"> 
+  <link href="https://www.google.pl/admob/promote.html" hreflang="pl" rel="alternate"> 
+  <link href="https://www.google.ru/admob/promote.html" hreflang="ru" rel="alternate"> 
+  <link href="https://www.google.co.th/admob/promote.html" hreflang="th" rel="alternate"> 
+  <link href="https://www.google.com.tw/admob/promote.html" hreflang="zh-TW" rel="alternate"> 
+  <link href="https://www.google.co.uk/admob/promote.html" hreflang="en-GB" rel="alternate"> 
+  <link href="https://www.google.com.vn/admob/promote.html" hreflang="vi" rel="alternate"> 
+  <link href="https://www.google.com/admob/promote.html" hreflang="en-US" rel="alternate"> 
+  <link href="https://www.google.com/admob/promote.html" hreflang="en" rel="alternate"> 
+ </head> 
+ <body class="page-promote"> 
+  <noscript>
+   <iframe class="gtm-iframe" height="0" src="//www.googletagmanager.com/ns.html?id=GTM-WLDTKH" width="0"></iframe>
+  </noscript> 
+  <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WLDTKH');
+    </script> 
+  <div class="maia-nav" id="maia-nav-root" role="navigation"> 
+   <div class="maia-aux"> 
+    <a href="../services/sitemap.html">هل تتطلع إلى تحقيق الازدهار لنشاطك التجاري؟ يمكننا مساعدتك.</a> 
+   </div> 
+  </div> 
+  <div class="maia-header" id="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <h1> <a href="../admob/"><img alt="AdMob من Google" class="logo" height="48" src="/admob/images/admob_logo_2x.png"></a> </h1> 
+    <div id="sign-in-link-container"> 
+     <a class="pass-params" href="https://apps.admob.com">تسجيل الدخول إلى AdMob‏</a> أو 
+     <a class="maia-button doubletrack pass-params" href="https://apps.admob.com/signup" id="sign-in-link">الاشتراك</a> 
+    </div>
+    <a class="maia-teleport" href="#content">تخطى إلى المحتوى</a> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <ul id="menu-list"> 
+     <li> <a class="pass-params" href="../admob/index.html">نظرة عامة</a> </li> 
+     <li class="active"> <a class="pass-params" href="../admob/platform.html">لماذا ينبغي استخدام AdMob؟</a> 
+      <ul class="sub-nav"> 
+       <li> <a class="pass-params" href="../admob/platform.html">مزايا النظام الأساسي</a> </li> 
+       <li> <a class="pass-params" href="../admob/monetize.html">تحقيق الدخل</a> </li> 
+       <li>الترويج </li> 
+       <li> <a class="pass-params" href="../admob/analyze.html">التحليل</a> </li> 
+      </ul> </li> 
+     <li> <a class="pass-params" href="../admob/success.html">قصص النجاح</a> </li> 
+     <li> <a class="pass-params" href="../admob/resources.html">الموارد</a> </li> 
+    </ul>
+    <a class="maia-button doubletrack pass-params" href="https://apps.admob.com/signup" id="sign-in-link-fixed">اشتراك</a> 
+   </div> 
+  </div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="monetize-page" data-ng-app="admob.app"> 
+    <div class="site-width" data-ng-controller="TabsetCtrl as tabsetCtrl"> 
+     <div class="intro"> 
+      <h1> زيادة عمليات التثبيت </h1> 
+      <p> يقدم AdMob أدوات منقطعة النظير للمساعدة في الترويج التبادلي لتطبيقاتك الأخرى باستخدام الإعلانات لنفس الشركة في AdMob. ويتم عرض الإعلانات لنفس الشركة مجانًا؛ مما يلغي الحاجة إلى إنشاء حل مخصص منك أو دمج أداة إضافية. </p> 
+     </div> 
+     <div class="glue-tabset2 glue-tabset-style" data-glue-tabset2-enable-arrow-nav="" data-glue-tabset2-model="tabsetCtrl.tabsetModel" data-glue-tabset2-state="['activeEl']" data-ng-cloak="" glue-state-id="promote-tabset"> 
+      <ul> 
+       <li data-glue-label="Opens tab 1" id="overview"> <h3 class="tab-header"> نظرة عامة </h3> 
+        <div class="material-card"> 
+         <div class="card-section feature-blurb"> 
+          <div class="maia-cols inverse-cols"> 
+           <div class="maia-col-5 img-cross-promote"> 
+            <div class="gweb-picture" data-alt=""> 
+             <div data-src="/admob/images/cross-promote.png"></div> 
+             <div data-media="(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)" data-src="/admob/images/cross-promote_2x.png"></div>
+             <noscript>
+              <img alt="" src="/admob/images/cross-promote.png">
+             </noscript> 
+            </div> 
+           </div> 
+           <div class="maia-col-7"> 
+            <h2> الترويج التبادلي لتطبيقاتك الأخرى الخاصة بك </h2> 
+            <p> حقق زيادة في التنزيلات عن طريق الترويج التبادلي لتطبيقاتك الأخرى مجانًا باستخدام <a href="https://support.google.com/admob/answer/3210452" target="_blank">الإعلانات لنفس الشركة</a> في AdMob. استخدم إعلانات نصية أو صورية لتخصيص رسالتك، واحتفظ بتحكم كامل في أوقات ومواضع عرض الإعلانات داخل تطبيقك. وباستخدام <a href="https://support.google.com/admob/answer/3064142" target="_blank">حملات هدف الظهور</a>، يمكنك ترويج تطبيقات أصدقائك أو تنفيذ صفقة إعلانية مباشرة. وتتوفر هذه الميزة للتطبيقات التي تعمل بنظامي التشغيل Android وiOS. </p> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="card-section feature-blurb"> 
+          <div class="maia-cols"> 
+           <div class="maia-col-5 img-roi"> 
+            <div class="gweb-picture" data-alt=""> 
+             <div data-src="/admob/images/roi.png"></div> 
+             <div data-media="(-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi)" data-src="/admob/images/roi_2x.png"></div>
+             <noscript>
+              <img alt="" src="/admob/images/roi.png">
+             </noscript> 
+            </div> 
+           </div> 
+           <div class="maia-col-7"> 
+            <h2> التجريب والتتبع لتحقيق أقصى قدر من عائد الاستثمار </h2> 
+            <p> يمكنك التجريب باستخدام تركيبات مختلفة من استهداف المستخدمين. كما يمكنك استخدام <a href="https://support.google.com/admob/answer/3111064" target="_blank">تتبع التحويل</a> في AdMob لنسبة الأرباح مرة أخرى إلى حملاتك وتحديد أيها يجلب لك أعلى الأرباح. </p> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="admob-stats single-stat"> 
+         <div class="stats-content"> 
+          <div class="stats-image"> 
+           <img alt="" src="/admob/images/adwords-square.gif"> 
+          </div> 
+          <h3> استخدم AdWords للترويج لتطبيقك أمام جمهور يضم مليارات الأشخاص من خلال <a href="https://support.google.com/adwords/answer/6247380" target="_blank">حملات التطبيقات العامة</a> التي تتميّز بالبساطة والفاعلية. </h3> 
+         </div> 
+        </div> </li> 
+      </ul> 
+     </div> 
+    </div> 
+    <div class="admob-features"> 
+     <div class="site-width"> 
+      <div class="maia-cols"> 
+       <div class="maia-col-3"> 
+        <h3> AdMob هو النظام الأساسي الأول لتنمية نشاطك التجاري في مجال التطبيقات </h3> 
+       </div> 
+       <div class="maia-col-6"> 
+        <ul class="check-list"> 
+         <li>أكثر من مليون تطبيق يستخدم AdMob </li> 
+         <li>أكثر من مليار دولار أمريكي تم دفعه للمطوّرين </li> 
+         <li>دفع سريع وموثوق به بالعملات المحلية </li> 
+         <li>نسب عالية للتكلفة لكل ألف ظهور وأفضل معدلات التعبئة </li> 
+         <li>نظام أساسي رائد في المجال لتوسط الإعلانات </li> 
+        </ul> 
+       </div> 
+       <div class="maia-col-3"> 
+        <p> <a class="maia-button doubletrack pass-params" href="https://apps.admob.com/signup">الاشتراك في AdMob</a> </p> 
+        <div class="platforms"> 
+         <p> متوفر لهذه الأنظمة الأساسية: </p> 
+         <p> <img alt="Android" src="/admob/images/logos/android.png"> <img alt="iOS" src="/admob/images/logos/ios.png"> <img alt="unity" src="/admob/images/logos/unity.png"> <img alt="cocos" src="/admob/images/logos/cocos.png"> </p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div id="footer-follow"> 
+      <h3> تابع أخبارنا على: <a href="https://plus.google.com/+AdMob?hl=ar" rel="publisher" target="_blank"><img alt="Google+" src="../images/icons/product/gplus-16.png"></a> <a href="https://admob.blogspot.com/" target="_blank"><img alt="Blog" src="../images/icons/about_blogger.gif"></a> <a href="https://twitter.com/admob" target="_blank"><img alt="Twitter" src="../images/icons/thirdparty/twitter-16.png"></a> </h3> 
+     </div> 
+     <div class="suez-sitemap suez-sitemap-compact"> 
+      <h3> موارد AdMob </h3> 
+      <ul> 
+       <li> <a href="https://developers.google.com/mobile-ads-sdk/?hl=ar">حزمة SDK</a> </li> 
+       <li> <a href="https://groups.google.com/forum/#!forum/google-admob-ads-sdk">منتدى AdMob</a> </li> 
+       <li> <a href="https://support.google.com/admob">مركز المساعدة</a> </li> 
+       <li> <a href="https://services.google.com/fb/forms/requestadmobconsultar/">طلب استشارة أولية</a> </li> 
+      </ul> 
+     </div> 
+     <div id="suez-footer-univ"> 
+      <a href="../services/sitemap.html">Looking to grow your business? We can help.</a> 
+     </div> 
+     <script src="../services/js/sitemap-compact.min.js"></script> 
+    </div> 
+   </div> 
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <ul> 
+      <li> <a href="/">Google</a> </li> 
+      <li> <a href="/intl/ar/about/">معلومات عن Google</a> </li> 
+      <li> <a href="/intl/ar/policies/privacy/">الخصوصية</a> </li> 
+      <li> <a href="/intl/ar/policies/terms/">بنود</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-messages.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.min.js"></script> 
+  <script src="/admob/js/view.min.js"></script> 
+  <script src="//www.google.com/js/gweb/analytics/doubletrack.js"></script> 
+  <script>
+    var tracker = new gweb.analytics.DoubleTrack('floodlight', {
+          src: 2507573,
+          type: 'admob328',
+          cat: 'Admob001'
+      });
+      tracker.trackClass('doubletrack');
+    </script> 
+  <script>
+    gweb.analytics.DoubleTrack.track('floodlight', {
+          src: 2507573,
+          type: 'admob328',
+          cat: 'Admob002'
+      });
+    </script> 
+  <script src="//www.google.com/js/maia.js"></script>  
+ </body>
+</html>

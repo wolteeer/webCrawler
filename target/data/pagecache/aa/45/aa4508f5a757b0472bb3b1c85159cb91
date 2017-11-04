@@ -1,0 +1,670 @@
+<!doctype html>
+<html class="google mmfb" lang="ja" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/ja/trust/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="This webpage explains Google's privacy and security commitments for the tools we provide for schools." name="description"> 
+  <title>
+    Google for Education: Bringing Learning Online
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/ja/trust/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education: Bringing Learning Online" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/ja/trust/" property="og:url"> 
+  <meta content="" property="og:image"> 
+  <meta content="This webpage explains Google's privacy and security commitments for the tools we provide for schools." property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/ja/trust/" name="twitter:url"> 
+  <meta content="Google for Education: Bringing Learning Online" name="twitter:title"> 
+  <meta content="" name="twitter:image"> 
+  <meta content="This webpage explains Google's privacy and security commitments for the tools we provide for schools." name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Bringing Learning Online" itemprop="name"> 
+  <meta content="This webpage explains Google's privacy and security commitments for the tools we provide for schools." itemprop="description"> 
+  <meta content="" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Bringing Learning Online",
+    "description": "This webpage explains Google's privacy and security commitments for the tools we provide for schools.",
+    "url": "https://edu.google.com/intl/ja/trust/",
+    "logo": "",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="trust" ng-cloak> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/ja/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Google のサービスにアクセス</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">ご希望のサービスをお選びください。</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>生産性向上ツールを入手する</h5> 
+        <p>Classroom、Google ドキュメント、ドライブ、ハングアウト、メールなどの Google の生産性向上ツールを無料でご利用いただけます。広告は表示されません。</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=ja#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">G Suite のお申し込み</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>端末を入手する</h5> 
+        <p>学校に Chromebooks や Android の端末を導入しませんか？Google のチームが導入をお手伝いします。</p> 
+        <a class="maia-button overlay-button" href="/intl/ja/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">お問い合わせ</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>教育者同士で話し合う</h5> 
+        <p>Google に移行したユーザーと話をすることもできます。教育者のコミュニティにご参加ください。</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">他の教育者を探す</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li class="active"> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/" target="_self">ホーム</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">サービス</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/devices/" target="_self">端末 <br><span class="dropdown-item-description">Chromebooks and Tablets</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/productivity-tools/" target="_self">生産性向上ツール <br><span class="dropdown-item-description">Docs, Gmail and More</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/productivity-tools/classroom/" target="_self">Classroom <br><span class="dropdown-item-description">Mission control for teachers and students</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtual reality field trips</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/more-products/" target="_self">その他のサービス <br><span class="dropdown-item-description">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">トレーニング</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=ja" target="_self">教育者トレーニング <br><span class="dropdown-item-description">Google for Education ツール</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT 管理者トレーニング <br><span class="dropdown-item-description">G Suite 管理者向け</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">パートナー ディレクトリ <br><span class="dropdown-item-description">to help your school go Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/communities/" target="_self">コミュニティ <br><span class="dropdown-item-description">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">リソース</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/programs/" target="_self">プログラム <br><span class="dropdown-item-description">for students and teachers</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/case-studies/" target="_self">導入事例 </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/computerscience/" target="_self">コンピュータ サイエンス教育 <br><span class="dropdown-item-description">Programs, Funding, and Research</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/global-education/" target="_self">グローバル教育 </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/ja/it/" target="_self">IT ガイド</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/ja/higher-education/" target="_self">高等教育</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">サービス</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/devices/" target="_self">端末 <span class="nav-subtext">Chromebooks and Tablets</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/productivity-tools/" target="_self">生産性向上ツール <span class="nav-subtext">Docs, Gmail and More</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/productivity-tools/classroom/" target="_self">Classroom <span class="nav-subtext">Mission control for teachers and students</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtual reality field trips</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/products/more-products/" target="_self">その他のサービス <span class="nav-subtext">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">トレーニング</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=ja" target="_self">教育者トレーニング <span class="nav-subtext">Google for Education ツール</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">IT 管理者トレーニング <span class="nav-subtext">G Suite 管理者向け</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">パートナー ディレクトリ <span class="nav-subtext">to help your school go Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/communities/" target="_self">コミュニティ <span class="nav-subtext">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">リソース</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/programs/" target="_self">プログラム <span class="nav-subtext">for students and teachers</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/case-studies/" target="_self">導入事例 </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/computerscience/" target="_self">コンピュータ サイエンス教育 <span class="nav-subtext">Programs, Funding, and Research</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/resources/global-education/" target="_self">グローバル教育 </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">IT ガイド</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/it/" target="_self">IT </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/trust/" target="_self">プライバシー ページ </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">高等教育</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/ja/higher-education/" target="_self">高等教育 </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Google のサービスにアクセス</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">ご希望のサービスをお選びください。</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>生産性向上ツールを入手する</h5> 
+         <p>Classroom、Google ドキュメント、ドライブ、ハングアウト、メールなどの Google の生産性向上ツールを無料でご利用いただけます。広告は表示されません。</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=ja#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">G Suite のお申し込み</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>端末を入手する</h5> 
+         <p>学校に Chromebooks や Android の端末を導入しませんか？Google のチームが導入をお手伝いします。</p> 
+         <a class="maia-button overlay-button" href="/intl/ja/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">お問い合わせ</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>教育者同士で話し合う</h5> 
+         <p>Google に移行したユーザーと話をすることもできます。教育者のコミュニティにご参加ください。</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">他の教育者を探す</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <div class="main-wrapper maia-max"> 
+    <section class="section hero section--full-bg-img section--full text--center ja_JP"> 
+     <div class="maia-aux"> 
+      <h2 class="text--center text--white text--hairline text__headline">プライバシーとセキュリティについての情報</h2> 
+     </div> 
+    </section> 
+    <section class="section intro maia-aux"> 
+     <div class="maia-cols section--center"> 
+      <div class="maia-col-10 section__content"> 
+       <h3 class="text__header">Google の使命は、世界中の情報を整理し、すべての人々がアクセスして使えるようにすることです。この使命を全うするため、教師や生徒がどこからでもテクノロジーにアクセスし、学習や共同作業に活用できる環境づくりが重要だと考えています。</h3> 
+       <p>こうした理由から、Google では、使いやすく充実したソリューションを教育機関向けに手頃な価格で提供しています。ただ、皆様の信頼を得るためには、教師と生徒のプライバシーを保護し、セキュリティ対策を万全にする必要があります。このページでは、プライバシーとセキュリティに対する Google の取り組みについて、わかりやすくご説明します。</p> 
+      </div> 
+     </div> 
+    </section> 
+    <nav class="section page-nav"> 
+     <div class="maia-aux section__content"> 
+      <h3 class="text__header">よくある質問への回答をご覧ください</h3> 
+      <ul class="wrapper"> 
+       <li class="cat None"> <input type="checkbox"> <h4 class="m-icon-pseudo"><strong><a class="gewb-smoothscroll-control" href="#google-apps-for-edu">G Suite for Education core services</a></strong></h4> 
+        <ul class="taller reduce-most"> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#what-are-google-apps-for-edu">G Suite for Education のコアサービスにはどのようなものがありますか？</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#does-google-own-school-or-student-data">学校や生徒のデータは Google が所有するのですか？</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#does-google-sell-school-or-student-data-to-third-parties">Does Google sell school or student data to third parties?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#are-there-ads-in-google-apps-of-education">G Suite for Education には広告が表示されますか？</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#how-does-google-keep-data-secure">Google はどのようにしてデータを安全に保護しているのですか？</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#how-does-google-ensure-its-tools-are-reliable">Google のツールの信頼性はどのように保証されますか？</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#which-third-parties-have-reviewed-Googles-security-practices">Google のセキュリティ対策はどの第三者機関の審査を受けていますか？</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#how-do-i-know-that-other-customers-sharing-the-same-servers-cant-access-my-data">同じサーバーを共有している他のユーザーが私のデータにアクセスできないのは確かですか？</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#how-do-you-know-were-keeping-our-word">透明性に関してどのような取り組みを行っていますか？</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#has-google-signed-the-student-privacy-ledge">Google は「Student Privacy Pledge」（生徒のプライバシーに関する誓約）に署名しましたか？</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#does-google-encrypt-my-data">Google ではデータは暗号化されますか？</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#how-do-google-services-collect-and-use-information-with-g-suite-for-education-accounts">How do Google services collect and use information with G Suite for Education accounts?</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#what-kind-of-scanning-or-indexing-of-user-data-is-done">G Suite for Education アカウントで行われるユーザーデータのスキャンやインデックス登録にはどのようなものがありますか？</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#does-google-apps-for-education-comply-with-ferpa">G Suite for Education は、EFRPA（Family Educational Rights and Privacy Act: 家庭教育の権利とプライバシーに関する法）に準拠した形で使用できますか？</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#is-my-school-still-compliant-us-eu-safe-harbor-agreement">米国および EU のセーフハーバー協定をめぐる変化を踏まえて、EU データ保護指令に準拠するために G Suite for Education ではどのような手段を設けていますか？</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#can-google-apps-for-edu-be-used-in-compliance-with-coppa">G Suite for Education は、COPPA（Children's Online Privacy Protection Act: 児童オンライン プライバシー保護法、1998 年）に準拠した形で使用できますか？</a> </li> 
+        </ul> </li> 
+       <li class="cat None"> <input type="checkbox"> <h4 class="m-icon-pseudo"><strong><a class="gewb-smoothscroll-control" href="#chromebooks-for-edu">Chromebooks for Education</a></strong></h4> 
+        <ul class="reduce-most"> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#who-uses-chromebooks-for-edu">Chromebooks for Education を使用しているのはどのような人たちですか？</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#are-chromebooks-safe-secure-for-my-students">Chromebooks は生徒が安全に使用できますか？</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#are-chromebooks-compatible-with-online-testing">Chromebooks はオンライン試験に対応していますか？</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#how-is-data-used-and-protected-for-students-on-chromebooks-for-edu">Chromebooks for Education の生徒のデータはどのように使用され、保護されているのですか？</a> </li> 
+        </ul> </li> 
+       <li class="cat None"> <input type="checkbox"> <h4 class="m-icon-pseudo"><strong><a class="gewb-smoothscroll-control" href="#additional-services">追加サービス</a></strong></h4> 
+        <ul class="reduce-most"> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#additional-services">G Suite for Education アカウントで使用できる Google のその他の一般ユーザー向けサービスにはどのようなものがありますか？</a> </li> 
+         <li> <a class="gweb-smoothscroll-control" target="_self" href="#how-can-families-keep-their-kids-safe-online-at-home-too">オンライン上の子どもの安全を守るにはどうすればよいですか？</a> </li> 
+        </ul> </li> 
+      </ul> 
+     </div> 
+    </nav> 
+    <aside id="google-apps-for-edu" class="section section--full-bg-img section--full text--center google-apps-for-edu ja_JP"> 
+     <div class="maia-aux text--center"> 
+      <h2 class="text--center text--white text--light text__header">G Suite for Education</h2> 
+     </div> 
+    </aside> 
+    <section class="section maia-aux"> 
+     <div id="what-are-google-apps-for-edu" class="maia-cols section--center"> 
+      <div class="maia-col-10 section__content"> 
+       <h3 class="text--center text__header">G Suite for Education のコアサービスにはどのようなものがありますか？</h3> 
+       <p> G Suite for Education の<a href="https://www.google.com/apps/intl/en/terms/user_features.html">コアサービス</a>は、Google が学校向けに提供している教育サービスの中核を成すものです。このコアサービスには、Gmail、カレンダー、Classroom、コンタクト、ドライブ、ドキュメント、フォーム、Google グループ、スプレッドシート、サイト、スライド、トークとハングアウト、Vault が含まれています。これらのサービスは、<a href="https://www.google.com/apps/intl/en/terms/education_terms.html">G Suite for Education 契約</a>のもとに提供されています。 </p> 
+       <p> Schools can use G Suite core services in compliance with COPPA and FERPA. G Suite core services contain no advertising and do not use information in those services for advertising purposes. </p> 
+       <p> 世界のほぼすべての国で、5,000 万人以上にのぼる生徒や教師が G Suite を学習や共同作業に採り入れています。Google では、生徒を含むすべてのユーザーのプライバシーとセキュリティの保護に取り組んでいます。 </p> 
+       <p> Please note that there are additional services outside of the G Suite core services that G Suite users can access. These services are not governed by the Student Privacy Pledge or the G Suite agreement, so we may use information in these services in ways we would not for G Suite core services. For example, additional services may serve ads, and Google may use information in these additional services to improve them. For G Suite users in primary/secondary (K-12) schools, Google does not use any user personal information (or any information associated with a Google Account) to target ads. Please review the <a href="https://www.google.com/work/apps/terms/education_privacy.html">G Suite Privacy Notice</a>, <a href="https://www.google.com/policies/terms">Google Terms of Service</a> and <a href="https://www.google.com/policies/privacy/">Google Privacy Policy</a>. Learn more about the differences between core services and additional services below. </p> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/a/answer/6356441?hl=en&amp;ref_topic=6047382">Learn more about G Suite core and additional services</a> 
+       <a class="cta m-icon-pseudo" href="https://www.google.com/apps/intl/ja/terms/education_terms.html">Read our G Suite agreement (Google's contract with schools covering G Suite core services)</a> 
+      </div> 
+     </div> 
+     <hr> 
+     <div class="maia-cols "> 
+      <div id="does-google-own-school-or-student-data" class="maia-col-4"> 
+       <figure class="icon">
+        <img src="/images/trust/does-google-own-school-or-student-data.svg" alt="School">
+       </figure> 
+       <h3 class="text__header">学校や生徒のデータは Google が所有するのですか？</h3> 
+       <p> いいえ。Google は G Suite の<a href="https://www.google.com/apps/intl/en/terms/user_features.html">コアサービス</a>におけるお客様のデータのいずれの所有者でもありません。このことは、<a href="https://www.google.com/apps/intl/en/terms/education_terms.html">契約</a>（「知的財産権」のセクション）にも明記されています。 </p> 
+       <p> 管理者向けに、充実した使いやすい管理ツールとダッシュボードをご用意しています。これらは、組織で使用するサービス、その使用状況、データを管理するのにお役立ていただけます。Google がお客様の個人情報を保持するのは、お客様からのご要望があった場合のみです。教育部門、学校、大学で Google の利用を中止される場合は、簡単に<a href="https://support.google.com/a/answer/100458?hl=ja">データを移行</a>していただけます。 </p> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/a/answer/100458?hl=en">Learn how to take data out of Google</a> 
+       <a class="cta m-icon-pseudo" href="http://www.google.com/apps/intl/en/terms/education_terms.html">Read the contract (section on "intellectual property")</a> 
+      </div> 
+      <div id="does-google-sell-school-or-student-data-to-third-parties" class="maia-col-4"> 
+       <figure class="icon">
+        <img src="/images/trust/does-doogle-sell-school-data-to-third-parties.svg" alt="Information Sharing">
+       </figure> 
+       <h3 class="text__header">Does Google sell school or student data to third parties?</h3> 
+       <p> いいえ。Google が G Suite のデータを第三者に売り渡したり、システムに保存された個人情報を第三者と共有したりすることはありません。ただし、お客様ご自身から共有の依頼を受けた場合や、法律により共有する義務がある場合など、<a href="https://www.google.com/apps/intl/ja/terms/education_terms.html">G Suite 契約</a>および Google の<a href="https://www.google.com/intl/ja/policies/privacy/">プライバシー ポリシー</a>で規定されているいくつかの例外的な状況は除きます。 </p> 
+       <a class="cta m-icon-pseudo" href="https://www.google.com/intl/ja/policies/privacy/#nosharing">情報の共有についての詳細</a> 
+      </div> 
+      <div id="are-there-ads-in-google-apps-of-education" class="maia-col-4"> 
+       <figure class="icon">
+        <img src="/images/trust/are-there-ads-in-google-apps-for-edu.svg" alt="No Ads">
+       </figure> 
+       <h3 class="text__header">G Suite には広告が表示されますか？</h3> 
+       <p> いいえ。G Suite の<a href="https://www.google.com/apps/intl/ja/terms/user_features.html">コアサービス</a>には広告が表示されません。ただし、G Suite の<a href="https://www.google.com/apps/intl/ja/terms/user_features.html">コアサービス</a>以外の Google の追加サービスには、<a href="https://www.google.com/work/apps/terms/education_privacy.html">G Suite のプライバシーに関するお知らせ</a>に記載のとおり、広告が表示される場合があります。幼稚園から高等学校までの G Suite ユーザーについては、ユーザーの個人情報（あるいは Google アカウントに関連付けられているすべての情報）を Google が広告を表示するために使用することはありません。 </p> 
+       <a class="cta m-icon-pseudo" href="https://www.google.com/apps/intl/ja/terms/education_terms.html">Read our G Suite agreement (Google's contract with schools covering G Suite core services)</a> 
+       <a class="cta m-icon-pseudo" href="https://www.google.com/work/apps/terms/education_privacy.html">「G Suite のプライバシーに関するお知らせ」を読む</a> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/work/answer/6056650?hl=ja">More about Privacy</a> 
+      </div> 
+     </div> 
+    </section> 
+    <aside class="section quote section--full-bg-img"> 
+     <div class="maia-aux text--center"> 
+      <blockquote> 
+       <q class="text__header">"「Google はしっかりとセキュリティ保護された企業でした。Google と同じレベルのセキュリティ テストに合格している学区というのは聞いたことがありません。」"</q> 
+       <footer class="cite"> 
+        <cite class="author"><strong>Henry Thiele</strong></cite> 
+        <p class="title">（イリノイ州メイン タウンシップ高等学校学区 207</p> 
+        <p class="title">テクノロジーおよび学習管理補佐）</p> 
+       </footer> 
+      </blockquote> 
+     </div> 
+    </aside> 
+    <section class="section maia-aux"> 
+     <div class="maia-cols questions"> 
+      <div id="how-does-google-keep-data-secure" class="maia-col-12"> 
+       <h3 class="text__header">Google はどのようにしてデータを安全に保護しているのですか？</h3> 
+       <p> お客様のデータのセキュリティとプライバシーは Google にとっても非常に重要であり、お客様とその学校をデータ侵害から守ることに全力を尽くしています。Google のシステムは、業界でも最高レベルの高い安全性を誇っています。Google はお客様のデータにアクセスしようとする違法な試みに対して断固として対抗します。 </p> 
+       <p> Google の<a href="https://www.youtube.com/watch?v=avP5d16wEp0">データセンター</a>では、独自の堅牢なオペレーティング システムとファイル システムを搭載したカスタム ハードウェアを使用しています。これらのシステムはすべて、高いセキュリティとパフォーマンスが得られるよう最適化されています。また、Google ではこうしたハードウェアをすべて自社で管理しているため、あらゆる脅威や脆弱性に迅速に対応できます。 </p> 
+       <p> Gmail（添付ファイルも含む）やドライブのデータは<a href="http://googleblog.blogspot.nl/2014/03/staying-at-forefront-of-email-security.html">暗号化</a>されて転送されるため、お客様と Google のサーバーの間での転送時も、Google のデータセンター間での転送時も、データの安全が確保されています。 </p> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/work/answer/6056693?hl=ja">セキュリティについての詳細</a> 
+      </div> 
+      <div id="how-does-google-ensure-its-tools-are-reliable" class="maia-col-4 questions-widget"> 
+       <figure class="icon">
+        <img src="/images/trust/how-does-google-ensure-its-tools-are-reliable.svg" alt="Reliable tools">
+       </figure> 
+       <h3 class="text__header">Google のツールの信頼性はどのように保証されますか？</h3> 
+       <p> Google のインフラストラクチャには実績があります。検索クエリの処理件数は毎月 1,000 億件を超えており、Gmail などのサービスは、稼働率 99.978% を維持しながら何億人ものユーザーに対応することが可能です。また、計画的ダウンタイムもありません。さらに、450 人を超えるコンピュータ セキュリティを専門とするエンジニアが、フルタイムでお客様の情報保護に取り組んでいます。 </p> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/work/answer/6056635?hl=ja">信頼性についての詳細</a> 
+      </div> 
+      <div id="which-third-parties-have-reviewed-Googles-security-practices" class="maia-col-4 questions-widget"> 
+       <figure class="icon">
+        <img src="/images/trust/which-third-parties-have-reviewed-googles-security-practices.svg" alt="Security practices">
+       </figure> 
+       <h3 class="text__header">Google のセキュリティ対策はどの第三者機関の審査を受けていますか？</h3> 
+       <p> Google では、独立監査法人にデータ保護体制の審査を依頼しています。Ernst &amp; Young による監査では、G Suite における当社のデータの取り扱い方と契約責任が ISO/IEC 27018:2014 に準拠しているとの検証結果が示されました。また、G Suite と Google のデータセンターも、SSAE 16 / ISAE 3402 Type II SOC 2 の監査を受け、ISO 27001 認証を取得しています。 </p> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/work/answer/6056694">More about Compliance</a> 
+       <a class="cta m-icon-pseudo" href="https://services.google.com/fh/files/blogs/btd-sec-op-2014-grey.pdf">See our security audit certifications</a> 
+       <a class="cta m-icon-pseudo" href="https://cert.webtrust.org/soc3_google.html">Details of SOC3</a> 
+      </div> 
+      <div id="how-do-i-know-that-other-customers-sharing-the-same-servers-cant-access-my-data" class="maia-col-4 questions-widget"> 
+       <figure class="icon">
+        <img src="/images/trust/how-does-google-keep-data-secure.svg" alt="Keep Data Secure">
+       </figure> 
+       <h3 class="text__header">同じサーバーを共有している他のユーザーが私のデータにアクセスできないのは確かですか？</h3> 
+       <p> 論理的には、お客様のデータは専用サーバーに保存されているのと同じように保護されています。そのため、許可のないユーザーがお客様のデータにアクセスすることはできず、お客様も他のユーザーのデータにアクセスすることはできません。さらに、ユーザー アカウントはすべて Google の安全なアーキテクチャで保護されており、各ユーザーが他人のデータを閲覧できないようになっています。これは、顧客データが共有システム内で分割されているオンライン バンキングのアプリケーションなどと同様の仕組みです。 </p> 
+      </div> 
+      <hr> 
+      <div id="how-do-you-know-were-keeping-our-word" class="maia-col-4 questions-widget"> 
+       <figure class="icon">
+        <img src="/images/trust/how-do-you-know-were-keeping-our-word.svg" alt="Keeping our words">
+       </figure> 
+       <h3 class="text__header">透明性に関してどのような取り組みを行っていますか？</h3> 
+       <p> Google は、<a href="https://www.google.com/apps/intl/ja/terms/education_terms.html">G Suite 契約</a>の中で契約上の義務を定めており、<a href="https://www.google.com/work/apps/terms/dpa_terms.html">こちらのページ</a>に規定するプライバシーとセキュリティ基準への遵守に取り組んでいます。また、システム パフォーマンスをリアルタイムで確認できるダッシュボードをご用意しているほか、データの取り扱い方に対する継続的な監査実施やデータセンターの場所情報の公開など、Google ではすべてのユーザーに対して透明性を提供するべく最善を尽くしています。データはお客様のものであり、お客様自身にデータの状況を把握していただき、十分な情報を得た上でご判断いただけるようにしたいというのが Google の考えです。 </p> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/work/answer/6056758?hl=ja">透明性についての詳細</a> 
+      </div> 
+      <div id="has-google-signed-the-student-privacy-ledge" class="maia-col-4 questions-widget"> 
+       <figure class="icon">
+        <img src="/images/trust/has-google-signed-the-student-privacy-pledge.svg" alt="Student Privacy Pledge">
+       </figure> 
+       <h3 class="text__header">Google は「Student Privacy Pledge」（生徒のプライバシーに関する誓約）に署名しましたか？</h3> 
+       <p> はい。Google は、学校との誓いを再確認するために「Student Privacy Pledge」に署名しました。この誓約は、FPF（Future of Privacy Forum: プライバシーの未来フォーラム）とSIIA（Software &amp; Information Industry Association: 米国ソフトウェアおよび情報産業協会）から提供されているもので、生徒の個人情報を保護するという Google の誓いを当社の学校向けサービスに反映させることを目的としています。 </p> 
+       <a class="cta m-icon-pseudo" href="https://studentprivacypledge.org/">Read the Student Privacy Pledge</a> 
+       <a class="spp-badge" href="http://studentprivacypledge.org/"><img src="/images/trust/student-privacy-pledge-signatory-badge.png" alt="Student privacy pledge signatory"></a> 
+      </div> 
+      <div id="does-google-encrypt-my-data" class="maia-col-4 questions-widget"> 
+       <figure class="icon">
+        <img src="/images/trust/which-third-parties-have-reviewed-googles-security-practices.svg" alt="Security practices">
+       </figure> 
+       <h3 class="text__header">Google ではデータは暗号化されますか？</h3> 
+       <p> はい、データは複数のレベルで暗号化されます。Google は、ユーザーと G Suite のサービス間で行われるすべての送受信に対して HTTPS（Hypertext Transfer Protocol Secure）を適用し、そのすべてのサービスで前方秘匿性（PFS）を使用しています。また、外部のメールサーバーとの間でのメール送受信は 256 ビット TLS（Transport Layer Security）で暗号化し、検証と鍵交換のフェーズでは 2048 RSA 暗号化鍵を使用しています。これにより、同じく TLS を使用している社外ユーザーとの間でメールの送受信を行うときに、メール通信が保護されます。 </p> 
+      </div> 
+      <hr> 
+      <div id="how-do-google-services-collect-and-use-information-with-g-suite-for-education-accounts" class="maia-col-4 questions-widget"> 
+       <h3 class="text__header">How do Google services collect and use information with G Suite for Education accounts?</h3> 
+       <p> The G Suite for Education Privacy Notice can help schools, students, and parents understand what information Google services collect when used with G Suite for Education accounts, and what they do with that information. </p> 
+       <a class="cta m-icon-pseudo" href="https://gsuite.google.com/terms/education_privacy.html">「G Suite のプライバシーに関するお知らせ」を読む</a> 
+      </div> 
+      <div id="what-kind-of-scanning-or-indexing-of-user-data-is-done" class="maia-col-4 questions-widget"> 
+       <h3 class="text__header">G Suite for Education アカウントで行われるユーザーデータのスキャンやインデックス登録にはどのようなものがありますか？</h3> 
+       <p> G Suite <a href="http://www.google.com/apps/intl/en/terms/user_features.html">services</a> don't collect or use information in those services for advertising purposes or to create ads profiles. </p> 
+       <p> 一般向けの Gmail のユーザーと G Suite のユーザーは同じインフラストラクチャを利用しており、Google ではすべてのユーザーに高度なパフォーマンス、信頼性、セキュリティを提供しています。ただし、G Suite は、教育機関、企業、政府機関のお客様向けにより高度な<a href="http://googleenterprise.blogspot.com/2013/12/keeping-you-safe-in-2013.html">セキュリティ</a>、<a href="https://support.google.com/a/topic/2413312">管理機能</a>、<a href="http://googleappsupdates.blogspot.com/2015/01/google-apps-vault-added-to-all-google.html">アーカイブ機能</a>を提供している別のサービスです。 </p> 
+       <p> Google では多くのメール プロバイダと同様、セキュリティを確保し、サービスを改善するために Gmail のスキャンを行っています。G Suite の Gmail の場合、ウィルス対策、迷惑メール対策、スペルチェック、関連性の高い検索結果、優先トレイやカレンダーの予定の自動検出などの機能がこれに該当します。サービス機能を提供するためのスキャンは、すべての受信メールに対して行われており、完全に自動化されています。G Suite のメールを広告目的でスキャンすることはありません。 </p> 
+       <a class="cta m-icon-pseudo" href="https://www.google.com/work/apps/terms/education_privacy.html">「G Suite のプライバシーに関するお知らせ」を読む</a> 
+      </div> 
+     </div> 
+    </section> 
+    <section class="section background--grey"> 
+     <div class="maia-aux"> 
+      <div class="maia-cols "> 
+       <div id="does-google-apps-for-education-comply-with-ferpa" class="maia-col-4"> 
+        <h3 class="text__header">G Suite for Education は、EFRPA（Family Educational Rights and Privacy Act: 家庭教育の権利とプライバシーに関する法）に準拠した形で使用できますか？</h3> 
+        <p> はい。G Suite の<a href="https://www.google.com/apps/intl/en/terms/user_features.html">コアサービス</a>は FERPA に準拠しており、FERPA への準拠を保証する旨は<a href="http://www.google.com/apps/intl/en/terms/education_terms.html">契約</a>にも明記されています。 </p> 
+        <a class="cta m-icon-pseudo" href="https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html">FERPA についての詳細（英語）</a> 
+       </div> 
+       <div id="is-my-school-still-compliant-us-eu-safe-harbor-agreement" class="maia-col-4"> 
+        <h3 class="text__header">米国および EU のセーフハーバー協定をめぐる変化を踏まえて、EU データ保護指令に準拠するために G Suite for Education ではどのような手段を設けていますか？</h3> 
+        <p> Google では学校向けに<a href="https://www.google.com/work/apps/terms/dpa_terms.html">データ処理に関する追加契約</a>と<a href="https://www.google.com/intx/ja/work/apps/terms/mcc_terms.html">モデル契約条項</a>もご用意しています。これらは、EU データ保護指令の妥当性および安全性の要件を満たすための追加措置として設けられています。モデル契約条項は、ヨーロッパからの個人データの移転を許可するために欧州委員会が作成したものです。 </p> 
+        <p> この 2 つの契約をまだ締結されていない場合は、ご検討いただくことをおすすめします。 </p> 
+        <a class="cta m-icon-pseudo" href="https://support.google.com/a/answer/2888485?hl=ja">See opt-in instructions</a> 
+        <a class="cta m-icon-pseudo" href="https://www.google.com/work/apps/terms/mcc_terms.html">More about model contract clauses</a> 
+       </div> 
+       <div id="can-google-apps-for-edu-be-used-in-compliance-with-coppa" class="maia-col-4"> 
+        <h3 class="text__header">G Suite for Education は、COPPA（Children's Online Privacy Protection Act: 児童オンライン プライバシー保護法、1998 年）に準拠した形で使用できますか？</h3> 
+        <p> はい。Google では、G Suite を使用する学校に対して、COPPA の求める保護者の同意を得ることを契約上義務付けています。学校が保護者の同意を得ていれば、COPPA に準拠した形で Google のサービスを使用することができます。 </p> 
+        <a class="cta m-icon-pseudo" href="https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule">COPPA（英語）を読む</a> 
+        <a class="cta m-icon-pseudo" href="https://support.google.com/a/answer/6356509?hl=en&amp;ref_topic=6047382">Read our help center article “Getting consent for G Suite”</a> 
+       </div> 
+      </div> 
+     </div> 
+    </section> 
+    <aside id="chromebooks-for-edu" class="section section--full-bg-img chromebooks-for-edu ja_JP"> 
+     <div class="maia-aux text--center"> 
+      <h2 class="text--center text--white text--light text__header">Chromebooks for Education</h2> 
+     </div> 
+    </aside> 
+    <section class="section maia-aux"> 
+     <div id="who-uses-chromebooks-for-edu" class="maia-cols section--center"> 
+      <div class="maia-col-10 section__content"> 
+       <h3 class="text--center text__header">Chromebooks for Education を使用しているのはどのような人たちですか？</h3> 
+       <p> Chromebooks は何百万人もの生徒によって活用されている学習ツールで、主にそのプライバシー保護機能とセキュリティ機能のために、米国の幼稚園から高等学校における過去 2 年間のベストセラー端末となっています。管理者向けの設定を使用することで、学校の方針に合わせて生徒のアクセスを自由に調整することができます。 </p> 
+       <p> Chromebooks は G Suite のコアサービスではありませんが、「Student Privacy Pledge」（生徒のプライバシーに関する誓約）への準拠が保証されているため、学校は COPPA（児童オンライン プライバシー保護法）と FERPA（家庭教育の権利とプライバシーに関する法）に準拠する形でこれらのサービスを使用することができます。具体的には、Chromebook に入力されたデータが生徒に広告を表示する目的で使用されることはありません。詳細については下記をご覧ください。 </p> 
+      </div> 
+     </div> 
+     <hr> 
+     <div class="maia-cols "> 
+      <div id="are-chromebooks-safe-secure-for-my-students" class="maia-col-4"> 
+       <figure class="icon">
+        <img src="/images/trust/are-chromebooks-safe-secure-for-my-students.svg" alt="Chromebooks safety">
+       </figure> 
+       <h3 class="text__header">Chromebooks は生徒が安全に使用できますか？</h3> 
+       <p> はい。Chromebooks には多層セキュリティが搭載されており、セキュリティ ソフトウェアを追加せずにウィルスや不正なソフトウェアなどによる攻撃から生徒を守ることができます。起動時間の 10% は端末が改ざんされていないことの再確認に割り当てられており、Chromebook の電源を入れるたびに安全性がチェックされます。さらに、ウェブでの管理が可能なので、安全なウェブ閲覧を有効にしたり悪質なサイトをブロックしたりするなど、学校管理者が簡単に<a href="https://support.google.com/chrome/a/answer/2657289?hl=ja">ポリシーや設定を調整</a>できます。 </p> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/chromebook/answer/3438631?hl=ja&amp;source=genius-rts">More about Chromebook security</a> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/chromebook/topic/2586066?hl=ja&amp;ref_topic=3399710&amp;vid=1-635767239467175381-97505593&amp;source=genius-rts">More about Chromebook privacy</a> 
+       <a class="cta m-icon-pseudo" href="https://www.google.com/chrome/browser/privacy/whitepaper.html">Read the Chrome privacy whitepaper</a> 
+      </div> 
+      <div id="are-chromebooks-compatible-with-online-testing" class="maia-col-4"> 
+       <figure class="icon">
+        <img src="/images/trust/are-chromebooks-compatible-with-online-testing.svg" alt="Online testing">
+       </figure> 
+       <h3 class="text__header">Chromebooks はオンライン試験に対応していますか？</h3> 
+       <p> Chromebooks は、学力テストの実施に適した安全なプラットフォームです。適切に設定すれば、幼稚園から高等学校までのあらゆる学力段階のテスト規格に対応することができます。また、試験中のウェブ閲覧や、外部ストレージ、スクリーンショット、印刷機能の利用を無効にすることもできます。Chromebooks は、PARCC（TestNav を参照）と Smarter Balanced Assessment Consortium により、ハードウェアおよびオペレーティング システムのオンライン試験要件を満たしていることが確認されています。 </p> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/chrome/a/answer/3273084?hl=ja">Chromebooks をテスト用に設定する方法</a> 
+      </div> 
+      <div id="how-is-data-used-and-protected-for-students-on-chromebooks-for-edu" class="maia-col-4"> 
+       <figure class="icon">
+        <img src="/images/trust/how-is-data-used-and-protected-when-students-use-chromebooks-for-edu.svg" alt="Chrome Sync">
+       </figure> 
+       <h3 class="text__header">Chromebooks for Education の生徒のデータはどのように使用され、保護されているのですか？</h3> 
+       <p> <a href="https://support.google.com/chromebook/answer/2914794?hl=ja">Chrome 同期機能</a>により、Google アカウントの所有者が Chromebook や Chrome ブラウザにログインすると、自分のアプリ、拡張機能、ブックマーク、頻繁に訪れるウェブページにアクセスできるようになります。つまり、生徒が課題への取り組みをすぐに開始できるのです。これは Chromebooks の教室での採用率が高い主な理由でもあり、各生徒に端末を 1 台ずつ提供できない学校では特に大きなメリットとなります。Chromebooks と Chrome 同期機能を使えば、生徒はクラスメートとの共有端末でも自分向けの環境を利用できるのです。 </p> 
+       <p> G Suite アカウントの個人の特定に結び付く Chrome 同期データは、そのアカウントの所有者の Chrome の機能を向上させるためだけに使用されます。たとえば、これにより、生徒はどの端末でも自分の閲覧データや設定に安全にアクセスできるようになります。また、Google のシステムでは Chrome 同期機能を使用している何百万人ものユーザーからデータを集計、蓄積しており、この蓄積データから個別のユーザーに関する情報を完全に削除したものを、Google サービスの全体的な改善に役立てています。たとえば、何百万人ものユーザーが破損したウェブページにアクセスしていることがデータから判明した場合、そのサイトは検索結果の下位に移動されます。このデータが特定のユーザーに関連付けられることはなく、生徒の行動分析に使用されることもありません。管理者は必要であれば <a href="https://support.google.com/chrome/a/answer/6309115">Chrome 同期を無効にする</a>ことができ、ユーザーも<a href="https://support.google.com/chromebook/answer/2914794?hl=ja">同期対象の情報を選択</a>することができます。G Suite ユーザーの Chrome 同期データが、それぞれの生徒に広告を表示する目的で使用されることはありません。 </p> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/chromebook/answer/2914794?hl=ja">Learn more about Chrome Sync</a> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/chrome/a/answer/1289314?hl=ja">Learn how to manage Chrome devices</a> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/chrome/answer/1181035?hl=ja">See how to encrypt your synced data</a> 
+      </div> 
+     </div> 
+    </section> 
+    <section class="section background--grey"> 
+     <div class="maia-aux text--center additional-services section--center"> 
+      <div id="additional-services" class="maia-cols section--center"> 
+       <div class="maia-col-10 section__content"> 
+        <h3 class="text--center text__header">追加サービス</h3> 
+        <p> 学校は、G Suite アカウントでの Google のその他の一般ユーザー向けサービスの使用を生徒や教師に許可するかどうかを決めることができます。Google は、幼稚園から高等学校までの生徒の個人情報をこれらの追加サービスで広告を表示するために使用しないことをお約束します。また、場合によっては広告がまったく表示されないこともあります。 </p> 
+        <p> 追加サービスの大部分には <a href="https://www.google.com/intl/ja/policies/terms/">Google 利用規約</a>と<a href="https://www.google.com/intl/ja/policies/privacy/">プライバシー ポリシー</a>が適用され、<a href="https://support.google.com/a/answer/181865?hl=ja">サービス固有の利用規約</a>が設けられている場合もあります。 </p> 
+        <p> 学校の管理者は、特定の教師や生徒のグループを対象に、これらのサービスを有効にするか無効にするかを決めることができます。組織や地域によって状況はさまざまに異なるため、生徒や教師のニーズに合わせて学校でツールを設定していただけるようにしているのです。 </p> 
+        <a class="cta m-icon-pseudo" href="https://support.google.com/a/answer/6356441?hl=en&amp;ref_topic=6047382">Learn more about G Suite core and additional services</a> 
+        <a class="cta m-icon-pseudo" href="https://support.google.com/a/answer/181865?hl=en">Learn more about additional services that can be used with G Suite accounts, and see any service-specific terms that apply to them</a> 
+        <a class="cta m-icon-pseudo" href="https://www.google.com/intl/ja/policies/terms/">Read the Google Terms of Service</a> 
+        <a class="cta m-icon-pseudo" href="https://www.google.com/intl/ja/policies/privacy/">Read the Google Privacy Policy that governs many additional services</a> 
+       </div> 
+      </div> 
+     </div> 
+    </section> 
+    <section class="section maia-aux more-details"> 
+     <div class="maia-cols "> 
+      <div id="how-can-families-keep-their-kids-safe-online-at-home-too" class="maia-col-4"> 
+       <h3 class="text__header">オンライン上の子どもの安全を守るにはどうすればよいですか？</h3> 
+       <p> こちらのページでは学校向けの Google サービスについて詳しくご紹介していますが、Google では、学校外における子どもたちのオンライン上の安全対策に関するアドバイスも提供しています。さまざまなパートナーの協力を得て作成した「Google セーフティ センター」のページをご覧ください。 </p> 
+       <a class="cta m-icon-pseudo" href="https://www.google.com/intl/ja/safetycenter/families/start/">Google セーフティ センターを見る</a> 
+      </div> 
+      <div id="" class="maia-col-4"> 
+       <h3 class="text__header">その他の詳細情報</h3> 
+       <a class="cta m-icon-pseudo" href="https://www.google.com/apps/intl/ja/terms/education_terms.html">Read our G Suite agreement (Google's contract with schools covering G Suite core services)</a> 
+       <a class="cta m-icon-pseudo" href="https://www.g4w.co/data-security-transparency-privacy-google-apps-for-education-sept-2014-google-drive">Read our G Suite security summary</a> 
+       <a class="cta m-icon-pseudo" href="https://support.google.com/work/answer/6057301?hl=ja">Visit the Trust help center</a> 
+      </div> 
+     </div> 
+    </section> 
+    <a class="back gweb-smoothscroll-control m-icon"></a> 
+   </div> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">サービス</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/products/devices/">端末</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/products/productivity-tools/">生産性向上ツール</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/products/more-products/">その他のサービス</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">トレーニング</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=ja" target="_blank">教育者トレーニング</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">IT 管理者トレーニング</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">パートナー ディレクトリ</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/resources/communities/">コミュニティ</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">リソース</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/resources/programs/">プログラム</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/resources/computerscience/">コンピュータ サイエンス教育</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/resources/global-education/">グローバル教育</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/it/">IT</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">デベロッパー向けリソース</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/access/">アクセス</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/contact/">営業担当</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">サポート</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/partners/">パートナー プログラム</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/ja/case-studies/">導入事例</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">学校での Chromebooks 導入例</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">ブログ</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="このサイトを検索" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/trust/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/trust/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/da/trust/"> dansk (Danmark) </option><option value="/intl/en_au/trust/"> English (Australia) </option><option value="/intl/en_ca/trust/"> English (Canada) </option><option value="/intl/en_in/trust/"> English (India) </option><option value="/intl/en_nz/trust/"> English (New Zealand) </option><option value="/intl/en_uk/trust/"> English (United Kingdom) </option><option value="/trust/"> English (United States) </option><option value="/intl/es-419_mx/trust/"> español (México) </option><option value="/intl/es-419/trust/"> español (Latinoamérica) </option><option value="/intl/fi/trust/"> suomi (Suomi) </option><option value="/intl/fr_be/trust/"> français (Belgique) </option><option value="/intl/id/trust/"> Indonesia (Indonesia) </option><option selected value="/intl/ja/trust/"> 日本語 (日本) </option><option value="/intl/ms/trust/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/trust/"> Nederlands (Nederland) </option><option value="/intl/no/trust/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/trust/"> português (Brasil) </option><option value="/intl/sv/trust/"> svenska (Sverige) </option><option value="/intl/th/trust/"> ไทย (ไทย) </option><option value="/intl/tr/trust/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/ja/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/ja/policies/privacy/">プライバシー</a> </li> 
+      <li> <a href="https://www.google.com/intl/ja/policies/terms/">利用規約</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script>  
+ </body>
+</html>

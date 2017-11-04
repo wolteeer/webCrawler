@@ -1,0 +1,960 @@
+<!doctype html>
+<html class="google mmfb" lang="sv" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <base href="/intl/sv/resources/computerscience/research/"> 
+  <meta charset="utf-8"> 
+  <script>
+    (function(H){H.className=H.className.replace(/\bgoogle\b/,'google-js')})(document.documentElement)
+  </script> 
+  <meta content="initial-scale=1, minimum-scale=1, width=device-width" name="viewport"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." name="description"> 
+  <title>
+    Google for Education   : Computer Science Research
+  </title> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto:500,400italic,700italic,300,100,700,500italic,400%7CMaterial+Icons+Extended%7COpen+Sans:300,400,600,700%7CProduct+Sans:400&amp;lang=en" rel="stylesheet"> 
+  <link href="/css/maia.min.css" rel="stylesheet"> 
+  <style>
+  .m-icon,.m-icon-pseudo:after{font-family:'Material Icons Extended';text-rendering:optimizeLegibility;font-feature-settings:"liga" 1;-webkit-font-feature-settings:"liga" 1;-moz-font-feature-settings:"liga" 1;-ms-font-feature-settings:"liga" 1;-o-font-feature-settings:"liga" 1;font-style:normal;text-transform:none;line-height:1;font-size:24px}
+  </style> 
+  <link href="https://www.google.com/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link href="https://edu.google.com/intl/sv/resources/computerscience/research/" rel="canonical"> 
+  <meta content="NOODP,NOYDIR" name="robots"> 
+  <link href="https://plus.google.com/+GoogleforEducation" rel="publisher"> 
+  <meta content="Google for Education   : Computer Science Research" property="og:title"> 
+  <meta content="website" property="og:type"> 
+  <meta content="https://edu.google.com/intl/sv/resources/computerscience/research/" property="og:url"> 
+  <meta content="" property="og:image"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." property="og:description"> 
+  <meta content="summary" name="twitter:card"> 
+  <meta content="https://edu.google.com/intl/sv/resources/computerscience/research/" name="twitter:url"> 
+  <meta content="Google for Education   : Computer Science Research" name="twitter:title"> 
+  <meta content="" name="twitter:image"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." name="twitter:description"> 
+  <meta content="@googleforedu" name="twitter:creator"> 
+  <meta content="Google for Education: Computer Science Research" itemprop="name"> 
+  <meta content="Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu." itemprop="description"> 
+  <meta content="" itemprop="image"> 
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "Google Inc.",
+    "name": "Google for Education: Computer Science Research",
+    "description": "Find all of Google’s Computer Science Education resources in one place. For resources, programs, and funding opportunities visit g.co/csedu.",
+    "url": "https://edu.google.com/intl/sv/resources/computerscience/research/",
+    "logo": "",
+    "sameAs": [
+      "https://twitter.com/googleforedu",
+      "https://plus.google.com/+GoogleforEducation",
+      "https://blog.google/topics/education/",
+      "https://www.youtube.com/user/eduatgoogle"
+    ]
+  }
+  </script> 
+  <script>
+  var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+    return cp;
+  };
+  var uaRef = function(){
+    var dr = document.referrer;
+    //internal paths
+    var internalPaths = /\/(enterprise|work|edu|a\/signup)\//;
+    //referrer path
+    var refPathMatch = dr.match(/\..+?\/([^\?#]*)/);
+    var refPath = refPathMatch && refPathMatch.length>1?'/'+refPathMatch[1]: '';
+    //referrer host
+    var refHostMatch = dr.match(/\/\/(.+?)\//);
+    var refHost = refHostMatch && refHostMatch.length>1?refHostMatch[1]: '';
+
+    var newRef = '';
+    if(!(refPath.match(internalPaths) && refHost.match(/\.google(?:goro)?\./))){
+                newRef = dr.split('?')[0]
+    }
+    return newRef;
+  };
+  dataLayer = [{
+    'uaReferrer':uaRef(),
+    'country': 'us',
+    'region': 'noram',
+    'propertyIndex': '36',
+    'language': 'en',
+    'host': location.host,
+    'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+    'path': location.pathname,
+    'cookiePath': cookiepathValue(),
+    'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+    'file': 'index.html',
+    'fileNoSuffix': 'index'
+  }];
+</script> 
+  <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');
+</script> 
+  <link href="/css/all.min.css" rel="stylesheet"> 
+ </head> 
+ <body class="computerscience-research"> 
+  <div id="maia-header" class="maia-header" role="banner"> 
+   <div class="maia-aux"> 
+    <div class="logo"> 
+     <a href="/intl/sv/"> <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google"> for Education </a> 
+    </div> 
+    <a href="#content" class="maia-teleport">Skip to content</a> 
+    <div class="header-side-nav" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+     <div class="maia-aux"> 
+      <a id="get-help-desktop" class="maia-button expert-desktop get-help-blue" data-g-event="Edu: Global Header" data-g-action="Talk to an Expert" data-g-label="Header" href="/intl/sv/contact/">Kontakta en expert</a>
+      <a id="get-google-desktop" class="maia-button expert-desktop " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Skaffa Google-produkter</a> 
+     </div> 
+     <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+     <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+      <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+      <h2 class="headline">Hur kan vi hjälpa dig?</h2> 
+      <div class="expert-info-container"> 
+       <div class="info-section"> 
+        <h5>Skaffa produktivitetsverktyg</h5> 
+        <p>Skaffa Googles produktivitetsverktyg med Classroom, Google Dokument, Drive, Hangouts, e-post och mycket mer kostnadsfritt, utan annonser.</p> 
+        <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=sv#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Registrera dig för G Suite</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Skaffa enheter</h5> 
+        <p>Vill du skaffa Chromebooks eller Android-enheter till din skola? Vårt team kan hjälpa dig att hitta rätt.</p> 
+        <a class="maia-button overlay-button" href="/intl/sv/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Kontakta en expert</a> 
+       </div> 
+       <div class="info-section"> 
+        <h5>Prata med andra pedagoger</h5> 
+        <p>Vill du prata med personer som har gått över till Google precis som du? Dra nytta av kunskapen i vår lärargrupp.</p> 
+        <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Hitta andra pedagoger</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="maia-nav maia-complex" id="maia-nav-x" role="navigation"> 
+   <div class="maia-aux"> 
+    <div class="toggle-nav"></div> 
+    <ul class="desktop-nav"> 
+     <li> <a class="nav nav-home" data-g-action="Home" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/" target="_self">Startsida</a> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-products">Produkter</a> 
+      <div class="dropdown dropdown-products"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/products/devices/" target="_self">Enheter <br><span class="dropdown-item-description">Chromebooks and Tablets</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/products/productivity-tools/" target="_self">Produktivitetsverktyg <br><span class="dropdown-item-description">Docs, Gmail and More</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/products/productivity-tools/classroom/" target="_self">Classroom <br><span class="dropdown-item-description">Mission control for teachers and students</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/expeditions/" target="_self">Expeditions <br><span class="dropdown-item-description">Virtual reality field trips</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Products:More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/products/more-products/" target="_self">Fler produkter <br><span class="dropdown-item-description">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" global-nav-dropdown" edu-nav-item=""> <a class="nav nav-training">Utbildning</a> 
+      <div class="dropdown dropdown-training"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=sv" target="_self">Utbildning för pedagoger <br><span class="dropdown-item-description">om Google for Education-verktyg</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">Utbildning för IT-admin <br><span class="dropdown-item-description">för G Suite administratörer</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Partnerregister <br><span class="dropdown-item-description">to help your school go Google</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Training:Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/resources/communities/" target="_self">Grupper <br><span class="dropdown-item-description">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" active  global-nav-dropdown" edu-nav-item=""> <a class="nav nav-resources">Resurser</a> 
+      <div class="dropdown dropdown-resources"> 
+       <ul class="dropdown-list"> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:News &amp;amp; Events" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/resources/news-and-events/" target="_self">Nyheter och event </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/resources/programs/" target="_self">Program <br><span class="dropdown-item-description">for students and teachers</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/case-studies/" target="_self">Fallstudier </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/resources/computerscience/" target="_self">Utbildning inom datavetenskap <br><span class="dropdown-item-description">Programs, Funding, and Research</span> </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/resources/global-education/" target="_self">Global utbildning </a> </li> 
+        <li class="dropdown-item"> <a class="link-list" data-g-action="Resources:Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <br><span class="dropdown-item-description">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="IT Guides" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/sv/it/" target="_self">IT-guide</a> </li> 
+     <li class=" right" edu-nav-item=""> <a class="nav" data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" event="autotrack-data-g" href="/intl/sv/higher-education/" target="_self">Vidareutbildning</a> </li> 
+    </ul> 
+   </div>
+   <div class="mobile-nav ng-scope" style="height: 0px;"> 
+    <div class="ent-links maia-cols"> 
+     <div class="ent-unit products-group first"> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Produkter</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Devices" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/products/devices/" target="_self">Enheter <span class="nav-subtext">Chromebooks and Tablets</span> </a> </li> 
+        <li> <a data-g-action="Productivity Tools" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/products/productivity-tools/" target="_self">Produktivitetsverktyg <span class="nav-subtext">Docs, Gmail and More</span> </a> </li> 
+        <li> <a data-g-action="Classroom" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/products/productivity-tools/classroom/" target="_self">Classroom <span class="nav-subtext">Mission control for teachers and students</span> </a> </li> 
+        <li> <a data-g-action="Expeditions" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/expeditions/" target="_self">Expeditions <span class="nav-subtext">Virtual reality field trips</span> </a> </li> 
+        <li> <a data-g-action="More Products" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/products/more-products/" target="_self">Fler produkter <span class="nav-subtext">Cloud, Chrome Browser and More</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit training-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Utbildning</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Educator Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutrainingcenter.withgoogle.com/?hl=sv" target="_self">Utbildning för pedagoger <span class="nav-subtext">om Google for Education-verktyg</span> </a> </li> 
+        <li> <a data-g-action="IT Admin Training" data-g-event="Edu: Global Nav" data-g-label="Nav" href="http://certification.googleapps.com/admin" target="_self">Utbildning för IT-admin <span class="nav-subtext">för G Suite administratörer</span> </a> </li> 
+        <li> <a data-g-action="Directory of Partners" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edudirectory.withgoogle.com" target="_self">Partnerregister <span class="nav-subtext">to help your school go Google</span> </a> </li> 
+        <li> <a data-g-action="Communities" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/resources/communities/" target="_self">Grupper <span class="nav-subtext">for educators using Google</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit resources-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Resurser</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="News &amp;amp; Events" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/resources/news-and-events/" target="_self">Nyheter och event </a> </li> 
+        <li> <a data-g-action="Programs" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/resources/programs/" target="_self">Program <span class="nav-subtext">for students and teachers</span> </a> </li> 
+        <li> <a data-g-action="Case Studies" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/case-studies/" target="_self">Fallstudier </a> </li> 
+        <li> <a data-g-action="Computer Science Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/resources/computerscience/" target="_self">Utbildning inom datavetenskap <span class="nav-subtext">Programs, Funding, and Research</span> </a> </li> 
+        <li> <a data-g-action="Global Education" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/resources/global-education/" target="_self">Global utbildning </a> </li> 
+        <li> <a data-g-action="Transformation Center" data-g-event="Edu: Global Nav" data-g-label="Nav" href="https://edutransformationcenter.withgoogle.com/" target="_self">Transformation Center <span class="nav-subtext">For education leaders</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit it guides-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">IT-guide</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="IT" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/it/" target="_self">IT </a> </li> 
+        <li> <a data-g-action="Privacy Pages" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/trust/" target="_self">Sekretessidor </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit higher ed-group "> 
+      <div class="ent-unit-break-wrapper"> 
+       <h4 class="section-header"> <span class="product-name-mobile">Vidareutbildning</span><span class="arrow-icon">&nbsp;</span> </h4> 
+       <ul> 
+        <li> <a data-g-action="Higher Ed" data-g-event="Edu: Global Nav" data-g-label="Nav" href="/intl/sv/higher-education/" target="_self">Vidareutbildning </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <div class="ent-unit talk-to-an-expert-group last" data-ng-controller="OverlayController as ctrl" data-ng-cloak> 
+      <h4 class="section-header"> <a id="get-help-desktop" class="gray-btn talk-to-an-expert-mobile get-help-blue" data-g-event="Edu: Global Header" data-g-action="Talk to an Expert" data-g-label="Header" href="/intl/sv/contact/">Kontakta en expert</a> </h4>
+      <h4 class="section-header"> <a id="get-google-desktop" class="gray-btn talk-to-an-expert-mobile " data-g-event="Edu: Global Header" data-g-action="Get Google Products" data-g-label="Header" ng-click="ctrl.talkToAnExpert();">Skaffa Google-produkter</a> </h4> 
+      <div class="page-overlay" ng-hide="ctrl.pageOverlayHidden" ng-cloak></div> 
+      <div class="overlay talk-to-an-expert-overlay get-help" ng-show="ctrl.pageOverlayHidden === false &amp;&amp; ctrl.talkToAnExpertShow" ng-cloak> 
+       <div class="return-overlay" ng-click="ctrl.removeOverlay();" data-g-event="Edu: Get Google Products" data-g-action="Exit" data-g-label="Home"></div> 
+       <h2 class="headline">Hur kan vi hjälpa dig?</h2> 
+       <div class="expert-info-container"> 
+        <div class="info-section"> 
+         <h5>Skaffa produktivitetsverktyg</h5> 
+         <p>Skaffa Googles produktivitetsverktyg med Classroom, Google Dokument, Drive, Hangouts, e-post och mycket mer kostnadsfritt, utan annonser.</p> 
+         <a class="maia-button overlay-button" href="https://www.google.com/a/signup/?enterprise_product=GOOGLE.EDU&amp;hl=sv#0" target="_blank" data-g-event="Edu: Get Productivity Tools" data-g-action="Get Productivity Tools" data-g-label="Home">Registrera dig för G Suite</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Skaffa enheter</h5> 
+         <p>Vill du skaffa Chromebooks eller Android-enheter till din skola? Vårt team kan hjälpa dig att hitta rätt.</p> 
+         <a class="maia-button overlay-button" href="/intl/sv/contact/" data-g-event="Edu: Get Google Products" data-g-action="Contact An Expert" data-g-label="Home">Kontakta en expert</a> 
+        </div> 
+        <div class="info-section"> 
+         <h5>Prata med andra pedagoger</h5> 
+         <p>Vill du prata med personer som har gått över till Google precis som du? Dra nytta av kunskapen i vår lärargrupp.</p> 
+         <a class="maia-button overlay-button" href="https://edudirectory.withgoogle.com" target="_blank" data-g-event="Edu: Get Google Products" data-g-action="Find Other Educators" data-g-label="Home">Hitta andra pedagoger</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!--[if lt IE 8]>
+<div class="maia-aux">
+  <div class="maia-notification">
+    <p><strong>This site is not fully compatible with your browser.</strong></p>
+    <p>To experience the site as intended, we recommend using the latest version of <a href="http://www.microsoft.com/IE9" target="_blank">Internet Explorer</a> or upgrading to <a href="//www.google.com/chrome/" target="_blank">Google Chrome</a>.</p>
+  </div>
+</div>
+<![endif]--> 
+  <div class="centered" data-no-results="No results found. Please try searching for a different term." data-results-string="results" data-seconds-string="seconds" id="global-search-results"></div> 
+  <div id="maia-main" role="main"> 
+   <div class="maia-teleport" id="content"></div> 
+   <!-- Headline --> 
+   <section class="stage headline research"> 
+    <div class="cols-864"> 
+     <div class="col-12"> 
+      <h1>Forskning inom datavetenskapsutbildning</h1> 
+      <p class="body1"> Datavetenskap är avgörande för vår framtid, inte bara på grund av antalet datorrelaterade arbetstillfällen som skapas varje år, men också på grund av att datavetenskap utvecklar färdigheter i kritiskt tänkande som behövs för att lösa komplexa problem, utvecklar kreativitet som främjar nya idéer och utvecklar kunskaper som driver innovationen inom teknik och andra områden. </p> 
+     </div> 
+    </div> 
+    <menuitem> <a href="/intl/sv/resources/computerscience/"><img src="/images/resources/computerscience/header_nav_back.png">Google Computer Science</a> </menuitem> 
+   </section> 
+   <!-- Subheadline --> 
+   <section class="stage subheadline research"> 
+    <div class="cols-864"> 
+     <div class="col-12"> 
+      <h3>Vår forskning identifierar strategier som kan förbättra synen på datavetenskap och bredda utbildningsmöjligheterna för alla elever.</h3> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- Reports --> 
+   <section class="reports research"> 
+    <a class="anchor-link" id="community-college-pathways"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="reports-c-c-img" src="/images/resources/computerscience/research-hero-reports-community-college.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-12"> 
+         <p class="subheadlineSemiBold">Community College Pathways to Computer Science Bachelor's Degrees</p> 
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">We partnered with the Community College Research Center (CCRC) and ETR on two complementary research reports that explore ways to encourage community college students to pursue bachelor’s degrees in computer science and related fields.</p> 
+        </div> 
+       </div> 
+       <div class="row "> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Students who transferred and earned CS bachelor’s degrees were particularly focused and fortunate</strong> among the 1.8M students who entered U.S. community colleges in 2007 (CCRC).</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Community college students are confused about computer science transfer pathways</strong> from their community college to their target four-year institution, yet 60% of participants intended to transfer (ETR).</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>CS bachelor's degree earners in the dataset followed 1,213 distinct paths to graduation</strong> when accounting for lengths of enrollment, switches between schools, and numbers and durations of leaves (CCRC).</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Community college students have limited knowledge of CS careers</strong> and how to prepare for jobs in CS-related fields (ETR).</p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">Read the reports, <a href="https://goo.gl/Eiz33G" target="_blank">A Longitudinal Analysis of Community College Pathways to Computer Science Bachelor`s Degrees</a> with CCRC and <a href="https://goo.gl/Q0wJJv" target="_blank">Student Perspectives of Community College Pathways to Computer Science Bachelor`s Degrees</a> with ETR. Share the <a href="https://goo.gl/r7kEB5" target="_blank">infographic.</a></p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="anchor-link" id="diversity-gaps-in-cs"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="firstImg" src="/images/resources/computerscience/research-hero-diversity-gaps-in-cs.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-8"> 
+         <p class="subheadlineSemiBold">Brist på mångfald inom datavetenskap: Underrepresentationen av flickor, afroamerikaner och latinamerikaner</p> 
+        </div> 
+        <div class="col-4">
+         <a data-g-event="Edu: Canvas" data-g-action="Read Report" data-g-label="Brist på mångfald inom datavetenskap: Underrepresentationen av flickor, afroamerikaner och latinamerikaner" href="http://goo.gl/PG34aH" class="cta2 blue" target="_blank">LÄS RAPPORTEN</a>
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">This special report from Year 2 of our Google-Gallup study explores the structural and social barriers underrepresented groups face at home, in schools, and in society that could influence their likelihood to enter the computer science field. We found:</p> 
+        </div> 
+       </div> 
+       <div class="row "> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Flickor är mindre benägna än pojkar</strong> att känna till undervisning inom datavetenskap utanför skolan, att bli uppmuntrade av lärare och föräldrar och att vara intresserade av att lära sig datavetenskap.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Elever med afroamerikanskt eller latinamerikanskt ursprung är mer intresserade av att lära sig datavetenskap och det är mer sannolikt att deras föräldrar uppmuntrar dem till detta</strong> jämfört med vita elever och deras föräldrar.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Elever med afroamerikanskt och latinamerikanskt ursprung har ofta sämre tillgång till</strong> undervisning inom datavetenskap och möjlighet att använda datorer i hemmet och skolan.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Elever ser sällan datavetare som liknar dem själva i media</strong>, detta gäller framförallt flickor och latinamerikaner.</p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">Share the <a href="http://goo.gl/2Kbfmz" target="_blank">infographic</a> and read our focus briefs on <a href="https://goo.gl/dF7shN" target="_blank">girls</a>, <a href="https://goo.gl/FIhXKp" target="_blank">Black students</a>, and <a href="http://goo.gl/i662yI" target="_blank">Hispanic students</a></p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="anchor-link" id="trends-in-cs"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="firstImg" src="/images/resources/computerscience/research-hero-trends-in-cs.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-8"> 
+         <p class="subheadlineSemiBold">Trender inom datavetenskapens status på grund- och gymnasieskolor i USA</p> 
+        </div> 
+        <div class="col-4">
+         <a data-g-event="Edu: Canvas" data-g-action="Read Report" data-g-label="Trender inom datavetenskapens status på grund- och gymnasieskolor i USA" href="http://goo.gl/j291E0" class="cta2 blue" target="_blank">LÄS RAPPORTEN</a>
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">Under det andra året av vår Google-Gallup-undersökning tog vi en titt på vilka viktiga åtgärder som har genomförts sedan första året och fick nytt statistiskt underlag. 1&nbsp;600 elever, 1&nbsp;600 föräldrar, 1&nbsp;000 lärare, 9&nbsp;800 rektorer och 2&nbsp;300 skolinspektörer har deltagit i undersökningen. Vi upptäckte följande:</p> 
+        </div> 
+       </div> 
+       <div class="row "> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>40&nbsp;% av rektorerna uppger att de har erbjudit undervisning inom datavetenskap med programmering och/eller kodning</strong>, vilket är en ökning från 25&nbsp;% det första året.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Den positiva synen på utbildning och karriär inom datavetenskap</strong> kvarstår inom alla grupper.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Endast ett fåtal föräldrar och lärare har uttryckt sitt stöd för utbildning inom datavetenskap</strong> till skoltjänstemän, trots att de värderar detta högt.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Det finns möjlighet</strong> att införliva datavetenskap i andra ämnen och utbilda entusiastiska lärare.</p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">Share the <a href="http://goo.gl/hp4KKV" target="_blank">infographic</a>.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="anchor-link" id="cs-edu-in-spain"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="cs-in-span-img" src="/images/resources/computerscience/research-hero-cs-in-spain-2015.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-8"> 
+         <p class="subheadlineSemiBold">Utbildning inom datavetenskap i Spanien 2015</p> 
+        </div> 
+        <div class="col-4">
+         <a data-g-event="Edu: Canvas" data-g-action="Read Report" data-g-label="Utbildning inom datavetenskap i Spanien 2015" href="http://goo.gl/aFP5yC" class="cta2 blue" target="_blank">LÄS RAPPORTEN</a>
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">In collaboration with Spanish Foundation for Science and Technology (FECYT) and everis, we conducted a landscape study to understand the current state of CS education in primary and secondary schools in Spain, examining the awareness of computer science by key stakeholders, and identifying existing barriers and opportunities to making CS education available to all Spanish students. Some findings include:</p> 
+        </div> 
+       </div> 
+       <div class="row "> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Att öka förståelsen och medvetenhet</strong> för vad datavetenskap är och hur den kan tillämpas praktiskt bland elever och föräldrar är några av de viktigaste faktorerna när det kommer till att göra framsteg inom undervisning inom datavetenskap.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Föräldrarnas oro är ett hinder</strong> som leder till att elever inte uppmuntras att lära sig datavetenskap. Deras oro rör bland annat svårighetsgrad, överdriven användning av digitala enheter och säkerhet på internet.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Föräldrar har en aktiv roll</strong> när det kommer till elevers beslut att ta del av undervisning inom datavetenskap. Detta gäller framförallt flickor, vilka ibland upplever att deras föräldrar inte uppmuntrar dem tillräckligt att lära sig datavetenskap.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Det är nödvändigt att uppmuntra och stötta lärares professionella utveckling</strong> i syfte att underlätta en utbredd införlivning av datavetenskap i läroplanen.</p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">Read the <a href="http://goo.gl/3nVGM1" target="_blank">report</a> in Spanish and share the <a href="http://goo.gl/yLyF9Z" target="_blank">infographic</a> in Spanish.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="anchor-link" id="state-reports"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="firstImg" src="/images/resources/computerscience/research_hero_04.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-12"> 
+         <p class="subheadlineSemiBold">K-12 Computer Science Education: U.S. State Reports</p> 
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">The following reports summarize the status of computer science education for 11 U.S. states from our 2014- 15 Google-Gallup survey of 9,693 K-12 school principals and offer recommendations for each state to broaden access to and participation in computer science learning.</p> 
+        </div> 
+       </div> 
+       <div class="row bullet-list"> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="California" href="http://goo.gl/khfJds">California</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Florida" href="http://goo.gl/JbNyWa">Florida</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Georgia" href="http://goo.gl/tIajv8">Georgia</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Illinois" href="http://goo.gl/MNihyr">Illinois</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Michigan" href="http://goo.gl/wXLpgt">Michigan</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="North Carolina" href="http://goo.gl/JlmXWf">North Carolina</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="New York" href="http://goo.gl/b5HfMH">New York</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Ohio" href="http://goo.gl/ByA6oV">Ohio</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Pennsylvania" href="http://goo.gl/PS2w7t">Pennsylvania</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Texas" href="http://goo.gl/ReNrSP">Texas</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="Wisconsin" href="http://goo.gl/0V0alH">Wisconsin</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-4 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong><a data-g-event="Edu: Canvas" data-g-action="K-12 US State Reports" data-g-label="All reports" href="http://goo.gl/zwd31q">All reports</a></strong></p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">See <a href="http://goo.gl/h89gwL" target="_blank">full methodology</a>.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="anchor-link" id="images-of-cs"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="firstImg" src="/images/resources/computerscience/research_hero_03.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-8"> 
+         <p class="subheadlineSemiBold">Bilder av datavetenskap: Uppfattningar bland elever, föräldrar och lärare i USA</p> 
+        </div> 
+        <div class="col-4">
+         <a data-g-event="Edu: Canvas" data-g-action="Read Report" data-g-label="Bilder av datavetenskap: Uppfattningar bland elever, föräldrar och lärare i USA" href="https://goo.gl/F3SSWH" class="cta2 blue" target="_blank">LÄS RAPPORTEN</a>
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">Den andra rapporten från vår forskningsstudie med Gallup, Inc. tittar på vår data från nästan 16 000 respondenter och undersöker delaktighet och uppfattningar om datavetenskap och relaterade yrken samt tillhörande demografiska skillnader. Vi upptäckte följande:</p> 
+        </div> 
+       </div> 
+       <div class="row "> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Missuppfattningar kring datavetenskapliga aktiviteter och allmän datakunskap är utbredda</strong> bland elever, föräldrar och lärare.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Stereotyper om vilka som håller med på datavetenskap finns kvar</strong> i medieskildringar samt i elevernas, föräldrarnas och lärarnas personliga uppfattningar.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Karriärer inom datavetenskap uppfattas positivt</strong>. Föräldrar i låginkomsthushåll och lärare med fler sämre bemedlade elever är mer sannolikt positivt inställda till datavetenskap.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Elever som har spanskamerikanskt ursprung, är kvinnor eller låginkomsttagare har mindre sannolikt lärt sig datavetenskap</strong> jämfört med sina motparter.</p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">Read our <a href="https://goo.gl/D5JEk5" target="_blank">recommendations</a> based on the research and share our <a href="https://goo.gl/CBTqUX" target="_blank">infographic</a>.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="anchor-link" id="searching-for-cs"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="" src="/images/resources/computerscience/research_hero_01.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-8"> 
+         <p class="subheadlineSemiBold">På jakt efter datavetenskap: Åtkomst och hinder i amerikansk K12-utbildning</p> 
+        </div> 
+        <div class="col-4">
+         <a data-g-event="Edu: Canvas" data-g-action="Read Report" data-g-label="På jakt efter datavetenskap: Åtkomst och hinder i amerikansk K12-utbildning" href="https://goo.gl/oX311J" class="cta2 blue" target="_blank">LÄS RAPPORTEN</a>
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">To understand perceptions of computer science and associated opportunities, participation, and barriers, we worked with Gallup, Inc. to survey over 1,600 students, 1,600 parents, 1,000 teachers, 9,600 principals, and 1,800 superintendents. We found:</p> 
+        </div> 
+       </div> 
+       <div class="row "> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Exponering för datateknik är viktigt för att studenter ska bygga upp ett självförtroende</strong> inom datavetenskapen.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Många studenter har inte tillgång till datavetenskapsutbildning i skolan, </strong> och när det trots allt finns utbildning är den inte särskilt omfattande.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Studenter och föräldrar efterfrågar datavetenskap i skolan</strong>, men intresset underskattas av skolor och administratörer.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Skolorna menar att</strong> testkraven i andra ämnen samt begränsad tillgänglighet och budget för behöriga lärare utgör ett hinder för datavetenskapsutbildningen.</p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">Read our <a href="https://goo.gl/AzFfwn" target="_blank">recommendations</a> based on the research and share our <a href="https://goo.gl/eIQf6f" target="_blank">infographic</a>.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <a class="anchor-link" id="women-who-choose"></a> 
+    <div class="cols-864 report"> 
+     <div class="row"> 
+      <div class="col-3 mobileHide"> 
+       <img class="firstImg" src="/images/resources/computerscience/research_hero_02.jpg"> 
+      </div> 
+      <div class="col-9"> 
+       <div class="row"> 
+        <!-- headline --> 
+        <div class="col-8"> 
+         <p class="subheadlineSemiBold">Kvinnor som väljer datavetenskap – vad som verkligen har betydelse</p> 
+        </div> 
+        <div class="col-4">
+         <a data-g-event="Edu: Canvas" data-g-action="Read Report" data-g-label="Kvinnor som väljer datavetenskap – vad som verkligen har betydelse" href="https://goo.gl/rLX6ax" class="cta2 blue" target="_blank">LÄS RAPPORTEN</a>
+        </div> 
+       </div> 
+       <div class="row"> 
+        <!-- subheadline --> 
+        <div class="col-12"> 
+         <p class="body1">Andelen kandidatexamen i datavetenskap som tas ut av kvinnor har sjunkit från 37 % 1984 till 18 % 2014. Vi ville förstå hur man kan vända denna trend så vi studerade drygt 1 700 studenter i USA för att identifiera vilka drivkrafter som främst motiverar unga kvinnor att ägna sig åt datavetenskap. Vi upptäckte följande:</p> 
+        </div> 
+       </div> 
+       <div class="row "> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Social uppmuntran</strong> från föräldrar, lärare, familj, vänner och media är en viktig faktor som bidrar till flickors intresse att ägna sig åt datavetenskap.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Uppfattningen om karriärmöjligheter</strong> är ofta ofullständig, så vi måste diversifiera bilden av datavetare och visa hur datavetenskap kan tillämpas inom många olika ämnen.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Akademisk exponering</strong> skapar intresse och kompetens; vem som helst kan förespråka datavetenskap i skolorna och identifiera möjligheter i samhället och på webben.</p> 
+         </div> 
+        </div> 
+        <div class="col-6 bullet"> 
+         <div> 
+          <div class="bull"></div> 
+         </div> 
+         <div> 
+          <p class="body2"><strong>Självuppfattning</strong> spelar en viktig roll och den bör stärkas i en mer fördomsfri kultur.</p> 
+         </div> 
+        </div> 
+        <div class="col-12"> 
+         <p class="body2">Read the report in <a href="https://goo.gl/Sh63Oa" target="_blank">Spanish</a> or <a href="https://goo.gl/vaeAUk" target="_blank">Japanese</a>.</p> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <div id="maia-signature"></div> 
+  <div class="maia-footer" id="maia-footer"> 
+   <div id="maia-footer-local"> 
+    <div class="maia-aux"> 
+     <div class="ent-footer-links"> 
+      <div class="ent-footer-unit products-group first"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Produkter</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Products:Devices" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/products/devices/">Enheter</a></li> 
+         <li><a data-g-action="Products:Productivity Tools" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/products/productivity-tools/">Produktivitetsverktyg</a></li> 
+         <li><a data-g-action="Products:Classroom" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/products/productivity-tools/classroom/">Classroom</a></li> 
+         <li><a data-g-action="Products:Expeditions" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/expeditions/">Expeditions</a></li> 
+         <li><a data-g-action="Products:More Products" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/products/more-products/">Fler produkter</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit training-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Utbildning</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Training:Educator Training" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutrainingcenter.withgoogle.com/?hl=sv" target="_blank">Utbildning för pedagoger</a></li> 
+         <li><a data-g-action="Training:IT Admin Training" data-g-event="Edu: Footer" data-g-label="Footer" href="http://certification.googleapps.com/admin" target="_blank">Utbildning för IT-admin</a></li> 
+         <li><a data-g-action="Training:Directory of Partners" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edudirectory.withgoogle.com" target="_blank">Partnerregister</a></li> 
+         <li><a data-g-action="Training:Communities" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/resources/communities/">Grupper</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit resources-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Resurser</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Resources:News &amp;amp; Events" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/resources/news-and-events/">Nyheter och event</a></li> 
+         <li><a data-g-action="Resources:Programs" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/resources/programs/">Program</a></li> 
+         <li><a data-g-action="Resources:Computer Science Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/resources/computerscience/">Utbildning inom datavetenskap</a></li> 
+         <li><a data-g-action="Resources:Global Education" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/resources/global-education/">Global utbildning</a></li> 
+         <li><a data-g-action="Resources:Transformation Center" data-g-event="Edu: Footer" data-g-label="Footer" href="https://edutransformationcenter.withgoogle.com/" target="_blank">Transformation Center</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit guides-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Guides</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Guides:IT" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/it/">IT</a></li> 
+         <li><a data-g-action="Guides:Developer Resources" data-g-event="Edu: Footer" data-g-label="Footer" href="https://developers.google.com/edu/" target="_blank">Resurser för utvecklare</a></li> 
+         <li><a data-g-action="Guides:Privacy &amp; Security" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/trust/">Privacy &amp; Security</a></li> 
+         <li><a data-g-action="Guides:Access" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/access/">Åtkomst</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit contact-group "> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Contact</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Contact:Sales" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/contact/">Försäljning</a></li> 
+         <li><a data-g-action="Contact:Support" data-g-event="Edu: Footer" data-g-label="Footer" href="https://support.google.com/edu/?hl=en" target="_blank">Support</a></li> 
+         <li><a data-g-action="Contact:Partner Program" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/partners/">Partnerprogram</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="ent-footer-unit stories-group last"> 
+       <div class="ent-footer-unit-break-wrapper"> 
+        <h4 class="section-header"><span class="product-name-desktop">Stories</span><span class="arrow-icon">&nbsp;</span></h4> 
+        <ul> 
+         <li><a data-g-action="Stories:Case Studies" data-g-event="Edu: Footer" data-g-label="Footer" href="/intl/sv/case-studies/">Fallstudier</a></li> 
+         <li><a data-g-action="Stories:See Chromebooks Schools" data-g-event="Edu: Footer" data-g-label="Footer" href="https://www.google.com/chrome/education/devices/casestudies.html#casestudy-astoria" target="_blank">Visa skolor som använder Chromebooks</a></li> 
+         <li><a data-g-action="Stories:Blog" data-g-event="Edu: Footer" data-g-label="Footer" href="https://blog.google/topics/education/" target="_blank">Blogg</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="maia-cols search-social"> 
+      <div class="maia-col-5 footer-top"> 
+       <div class="search"> 
+        <form class="maia-search" id="global-search-form"> 
+         <input name="q" placeholder="Sök på den här webbplatsen" type="text" id="global-search-term" autocomplete="off"> 
+         <div id="global-search-suggest"></div> 
+         <button class="maia-button blue" id="global-search-submit" onclick="return false;"> <span class="maia-search-icon">Search</span> </button> 
+        </form> 
+       </div> 
+      </div> 
+      <div class="maia-col-4 social"> 
+       <span class="follow"> <a href="https://plus.google.com/103266364845729488839" rel="publisher" class="gplus" target="_blank" data-g-event="Edu: Canvas" data-g-action="Google+" data-g-label="Social"> <img alt="Google+" src="/images/plus.png" data-retina="34x30"></a> <a href="https://twitter.com/googleforedu" target="_blank" data-g-event="Edu: Canvas" data-g-action="Twitter" data-g-label="Social"> <img alt="Twitter" src="/images/twitter.png" data-retina="38x31"></a> <a href="https://www.youtube.com/user/eduatgoogle" class="youtube" target="_blank" data-g-event="Edu: Canvas" data-g-action="Youtube" data-g-label="Social"> <img alt="YouTube" src="/images/youtube.png" data-retina="61x25"></a> <a href="https://blog.google/topics/education/" target="_blank" data-g-event="Edu: Canvas" data-g-action="Blogger" data-g-label="Social"> <img alt="Blogger" src="/images/blogger.png" data-retina="33x32"></a> </span> 
+      </div> 
+     </div> 
+    </div> 
+   </div>
+   <div id="maia-footer-global"> 
+    <div class="maia-aux"> 
+     <div class="maia-locales"> 
+      <label><span>Change language or region:</span> <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/resources/computerscience/research/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/resources/computerscience/research/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/da/resources/computerscience/research/"> dansk (Danmark) </option><option value="/intl/en_au/resources/computerscience/research/"> English (Australia) </option><option value="/intl/en_ca/resources/computerscience/research/"> English (Canada) </option><option value="/intl/en_in/resources/computerscience/research/"> English (India) </option><option value="/intl/en_nz/resources/computerscience/research/"> English (New Zealand) </option><option value="/intl/en_uk/resources/computerscience/research/"> English (United Kingdom) </option><option value="/resources/computerscience/research/"> English (United States) </option><option value="/intl/es-419_mx/resources/computerscience/research/"> español (México) </option><option value="/intl/es-419/resources/computerscience/research/"> español (Latinoamérica) </option><option value="/intl/fi/resources/computerscience/research/"> suomi (Suomi) </option><option value="/intl/fr_be/resources/computerscience/research/"> français (Belgique) </option><option value="/intl/id/resources/computerscience/research/"> Indonesia (Indonesia) </option><option value="/intl/ja/resources/computerscience/research/"> 日本語 (日本) </option><option value="/intl/ms/resources/computerscience/research/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/resources/computerscience/research/"> Nederlands (Nederland) </option><option value="/intl/no/resources/computerscience/research/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/resources/computerscience/research/"> português (Brasil) </option><option selected value="/intl/sv/resources/computerscience/research/"> svenska (Sverige) </option><option value="/intl/th/resources/computerscience/research/"> ไทย (ไทย) </option><option value="/intl/tr/resources/computerscience/research/"> Türkçe (Türkiye) </option></select> </label> 
+     </div> 
+     <ul> 
+      <li> <a href="https://www.google.com/">Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/sv/about/">About Google</a> </li> 
+      <li> <a href="https://www.google.com/intl/sv/policies/privacy/">Sekretess</a> </li> 
+      <li> <a href="https://www.google.com/intl/sv/policies/terms/">Villkor</a> </li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-cookies.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-animate.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-route.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.9/angular-touch.js"></script> 
+  <script id="app-script" src="/js/all.min.js"></script>  
+ </body>
+</html>

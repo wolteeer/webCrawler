@@ -1,0 +1,167 @@
+<!doctype html>
+<html class="google nb_NO" itemscope itemtype="http://schema.org/WebPage">
+ <head> 
+  <title>Google Expeditions | Partnere</title> 
+  <meta charset="utf-8"> 
+  <meta content="initial-scale=1, minimum-scale=1, maximum-scale=1, width=device-width" name="viewport"> 
+  <meta itemprop="name" content="Google Expeditions | Partnere"> 
+  <meta name="description" content="La oss for eksempel si at dere vil bruke ettermiddagen på å utforske korallrev eller overflaten på Mars. Med Expeditions kan lærerne ta med elevene på fantastiske virtuelle reiser."> 
+  <meta itemprop="description" content="La oss for eksempel si at dere vil bruke ettermiddagen på å utforske korallrev eller overflaten på Mars. Med Expeditions kan lærerne ta med elevene på fantastiske virtuelle reiser."> 
+  <meta itemprop="image" content="/images/expeditions/icons/expeditions-icon.png"> 
+  <meta property="og:title" content="Google Expeditions | Partnere"> 
+  <meta property="og:image" content="/images/expeditions/icons/expeditions-icon.png"> 
+  <meta property="og:description" content="La oss for eksempel si at dere vil bruke ettermiddagen på å utforske korallrev eller overflaten på Mars. Med Expeditions kan lærerne ta med elevene på fantastiske virtuelle reiser."> 
+  <meta property="og:url" content="https://www.google.com/expeditions/"> 
+  <meta property="og:type" content="website"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:title" content="Google Expeditions | Partnere"> 
+  <meta name="twitter:description" content="La oss for eksempel si at dere vil bruke ettermiddagen på å utforske korallrev eller overflaten på Mars. Med Expeditions kan lærerne ta med elevene på fantastiske virtuelle reiser."> 
+  <meta name="twitter:image" content="/images/expeditions/icons/expeditions-icon.png"> 
+  <meta name="twitter:url" content="http://twitter.com/googleforedu"> 
+  <meta name="twitter:creator" content="@googleforedu"> 
+  <link rel="stylesheet" href="/css/expeditions.min.css"> 
+  <link rel="icon" href="/videos/expeditions/favicon.ico" type="image/x-icon"> 
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:700|Roboto:100,300,500,700" rel="stylesheet" type="text/css"> 
+  <script src="https://www.gstatic.com/external_hosted/modernizr/modernizr.js"></script> 
+ </head> 
+ <body> 
+  <!-- Google Tag Manager --> 
+  <script>
+var cookiepathValue = function (){
+  var pna = location.pathname.split('/');
+  var cp = '/';
+    if(pna.length > 2) {
+      cp='/' + pna[1] + '/';
+    }
+  return cp;
+};
+
+dataLayer = [{
+  'country': 'no',
+  'region': 'emea',
+  'propertyIndex': '36',
+  'language': 'nb',
+  'host': location.host,
+  'hostNoSub': location.host.replace(/^(.+\.)google/g, "google"),
+  'path': location.pathname,
+  'cookiePath': cookiepathValue(),
+  'cookiePathCopy': ['/work/apps/business/', 'intl', '/edu/'],
+  'file': 'index.html',
+  'fileNoSuffix': 'index'
+}];
+</script> 
+  <noscript>
+   <iframe src="//www.googletagmanager.com/ns.html?id=GTM-T7366R" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7366R');</script> 
+  <!-- End Google Tag Manager -->
+  <header class="header"> 
+   <div class="lockup header__lockup"> 
+    <a href="/expeditions/"> <img class="lockup__image" srcset="
+      /images/expeditions/lockup/google-expeditions.png,
+      /images/expeditions/lockup/google-expeditions_2x.png 2x" width="172" alt="Google Expeditions"> </a> 
+   </div> 
+   <div class="header__nav-toggle" aria-controls="nav" title="Vis/skjul navigeringsfeltet"> 
+    <div class="header__hamburger"></div> 
+   </div> 
+   <nav class="nav header__nav" id="nav" role="navigation" aria-hidden="true"> 
+    <ul class="nav__menu" role="menubar"> 
+     <li data-section="about" class="nav__item js-scroll-to" role="menuitem"> <a class="nav__link" href="/intl/no/expeditions/#about">Info</a> </li> 
+     <li data-section="how-it-works" class="nav__item js-scroll-to" role="menuitem"> <a class="nav__link" href="/intl/no/expeditions/#how-it-works">Sånn fungerer det</a> </li> 
+     <li data-section="explore" class="nav__item js-scroll-to" role="menuitem"> <a class="nav__link" href="/intl/no/expeditions/#explore">Utforsk</a> </li> 
+     <li data-section="get-started" class="nav__item js-scroll-to" role="menuitem"> <a class="nav__link" href="/intl/no/expeditions/#get-started">Kom i gang</a> </li> 
+    </ul> 
+   </nav> 
+   <a class="button header__get-app js-scroll-to" href="/expeditions/#get-started">Skaff deg appen</a> 
+  </header> 
+  <main role="main" class="partners"> 
+   <section id="partners" class="section section-partners"> 
+    <div class="partners-content"> 
+     <h1>Expeditions-partnere</h1> 
+     <p>Google har samarbeidet med disse og hundrevis av andre partnere om å utvikle virtuelle ekskursjoner til steder og emner verden rundt og i hele universet.</p> 
+     <div class="partners-container"> 
+      <a href="http://airpano.com" target="_blank"><img src="/images/expeditions/partners/logo-airpano.png" alt="AirPano" title="AirPano"></a> 
+      <a href="http://www.alchemyvr.com/" target="_blank"><img src="/images/expeditions/partners/logo-alchemy-vr.png" alt="Alchemy VR" title="Alchemy VR"></a> 
+      <a href="http://www.amnh.org/" target="_blank"><img src="/images/expeditions/partners/logo-american-museum-of-natural-history.jpg" alt="American Museum of Natural History" title="American Museum of Natural History"></a> 
+      <a href="http://www.ap.org/" target="_blank"><img src="/images/expeditions/partners/logo-ap.png" alt="AP" title="AP"></a> 
+      <a href="http://asi.nic.in/" target="_blank"><img src="/images/expeditions/partners/logo-archaeological-survey-of-India.jpg" alt="Archaelogical Survey of India" title="Archaelogical Survey of India"></a> 
+      <a href="http://www.asia.si.edu/" target="_blank"><img src="/images/expeditions/partners/logo-freer-and-sackler-galleries.png" alt="Freer Slacker Galleries" title="Freer Slacker Galleries"></a> 
+      <a href="http://www.flightmuseum.com" target="_blank"><img src="/images/expeditions/partners/logo-frontiers-of-flight.jpg" alt="Frontiers of Flight Museum" title="Frontiers of Flight Museum"></a> 
+      <a href="http://www.gettyimages.com/" target="_blank"><img src="/images/expeditions/partners/logo-getty-images.png" alt="Getty Images" title="Getty Images"></a> 
+      <a href="http://www.xprize.org" target="_blank"><img src="/images/expeditions/partners/logo-glxp-app.jpg" alt="Google Lunar XPRIZE" title="Google Lunar XPRIZE"></a> 
+      <a href="http://www.guggenheim.org/" target="_blank"><img src="/images/expeditions/partners/logo-guggenheim.png" alt="The Guggenheim Museum" title="The Guggenheim Museum"></a> 
+      <a href="http://semiticmuseum.fas.harvard.edu/" target="_blank"><img src="/images/expeditions/partners/logo-harvard-semitic-museum.jpg" alt="Harvard Semitic Museum" title="Harvard Semitic Museum"></a> 
+      <a href="http://www.hokulea.com/" target="_blank"><img src="/images/expeditions/partners/logo-hokulea.png" alt="Hokule'a" title="Hokule'a"></a> 
+      <a href="http://www.hmhco.com/fieldtrips" target="_blank"><img src="/images/expeditions/partners/logo-hmh.png" alt="Houghton Mifflin Harcourt" title="Houghton Mifflin Harcourt"></a> 
+      <a href="http://www.ilce.edu.mx/" target="_blank"><img src="/images/expeditions/partners/logo-ilce.png" alt="Instituto Latinoamericano de la Comunicación Educativa" title="Instituto Latinoamericano de la Comunicación Educativa"></a> 
+      <a href="http://www.mediacombo.net/" target="_blank"><img src="/images/expeditions/partners/logo-media-combo.png" alt="Media Combo" title="Media Combo"></a> 
+      <a href="http://www.mncn.csic.es/" target="_blank"><img src="/images/expeditions/partners/logo-mncn.png" alt="Museo Nacional de Ciencias Naturales" title="Museo Nacional de Ciencias Naturales"></a> 
+      <a href="http://www.nathanielhowe.com/" target="_blank"><img src="/images/expeditions/partners/logo-nhs.jpg" alt="Nathaniel Howe Studio" title="Nathaniel Howe Studio"></a> 
+      <a href="http://www.nationalgeographic.com/" target="_blank"><img src="/images/expeditions/partners/logo-national-geographic.png" alt="National Geographic" title="National Geographic"></a> 
+      <a href="https://www.museum.go.kr/site/eng/exhiSpecialTheme/list/specialGallery" target="_blank"><img src="/images/expeditions/partners/logo-national-museum-of-korea.jpg" alt="National Museum of Korea" title="National Museum of Korea"></a> 
+      <a href="http://nps.org" target="_blank"><img src="/images/expeditions/partners/logo-national-park-service.jpg" alt="National Parks Service" title="National Parks Service"></a> 
+      <a href="http://nsccreative.com/" target="_blank"><img src="/images/expeditions/partners/logo-nsc-creative.png" alt="NSC Creative" title="NSC Creative"></a> 
+      <a href="http://en.chateauversailles.fr/" target="_blank"><img src="/images/expeditions/partners/logo-palace-of-versailles.png" alt="Palace of Versailles" title="Palace of Versailles"></a> 
+      <a href="http://www.polarbearsinternational.org/" target="_blank"><img src="/images/expeditions/partners/logo-polar-bears-International.jpg" alt="Polar Bears Internaitonal" title="Polar Bears Internaitonal"></a> 
+      <a href="http://raiznewmedia.com/" target="_blank"><img src="/images/expeditions/partners/logo-raiz.png" alt="Raiz Media" title="Raiz Media"></a> 
+      <a href="http://www.recordplant.com/" target="_blank"><img src="/images/expeditions/partners/logo-recordplant.png" alt="Record Plant" title="Record Plant"></a> 
+      <a href="https://www.royalcollection.org.uk/" target="_blank"><img src="/images/expeditions/partners/logo-royal-collection-trust.jpg" alt="Royal Collection Trust" title="Royal Collection Trust"></a> 
+      <a href="http://www.springbokentertainment.com/" target="_blank"><img src="/images/expeditions/partners/logo-springbok.jpg" alt="Springbok Entertainment" title="Springbok Entertainment"></a> 
+      <a href="http://subaru.com" target="_blank"><img src="/images/expeditions/partners/logo-subaru.jpg" alt="Subaru" title="Subaru"></a> 
+      <a href="http://www.thehenryford.org" target="_blank"><img src="/images/expeditions/partners/logo-the-henry-ford.jpg" alt="The Henry Ford Museum" title="The Henry Ford Museum"></a> 
+      <a href="http://planetary.org" target="_blank"><img src="/images/expeditions/partners/logo-tps.png" alt="The Planetary Society" title="The Planetary Society"></a> 
+      <a href="http://www.kosmo-museum.ru/?locale=en" target="_blank"><img src="/images/expeditions/partners/logo-kosmo-museum.jpg" alt="The Museum of Cosmonautics" title="The Museum of Cosmonautics"></a> 
+      <a href="http://www.thespacestationca.org/" target="_blank"><img src="/images/expeditions/partners/logo-space-station-museum.jpg" alt="The Space Station Museum" title="The Space Station Museum"></a> 
+      <a href="http://timelooper.com" target="_blank"><img src="/images/expeditions/partners/logo-timelooper.jpg" alt="Timelooper" title="Timelooper"></a> 
+      <a href="https://www.twig-world.com/" target="_blank"><img src="/images/expeditions/partners/logo-twig.jpg" alt="Twig" title="Twig"></a> 
+      <a href="http://www.midway.org/" target="_blank"><img src="/images/expeditions/partners/logo-uss-midway.png" alt="USS Midway" title="USS Midway"></a> 
+      <a href="http://vidasystems.com/" target="_blank"><img src="/images/expeditions/partners/logo-vida-systems.png" alt="Vida Systems" title="Vida Systems"></a> 
+      <a href="https://vhil.stanford.edu/" target="_blank"><img src="/images/expeditions/partners/logo-vhil.png" alt="Virtual Human Interaction Lab" title="Virtual Human Interaction Lab"></a> 
+      <a href="http://www.vrtul.io/" target="_blank"><img src="/images/expeditions/partners/logo-vrtul.png" alt="Vrtul" title="Vrtul"></a> 
+      <a href="http://wnet.org" target="_blank"><img src="/images/expeditions/partners/logo-wnet.png" alt="WNET" title="WNET"></a> 
+      <a href="http://wwf.org" target="_blank"><img src="/images/expeditions/partners/logo-wwf.jpg" alt="World Wildlife Fund" title="World Wildlife Fund"></a> 
+      <a href="http://catlinseaviewsurvey.com/" target="_blank"><img src="/images/expeditions/partners/logo-xl-catlin-seaview-survey.jpg" alt="XL CAtlin Seaview Survey" title="XL CAtlin Seaview Survey"></a> 
+     </div> 
+    </div> 
+   </section> 
+  </main> 
+  <div class="partner"> 
+   <div class="container"> 
+    <div class="partner__content"> 
+     <a href="/intl/no/expeditions/partners/" class="link section__cta" style="display: inline-block">Se partnerne våre</a> 
+     <div class="partner-signup-wrapper"> 
+      <p class="" style="display: inline-block">Er du interessert i å bli partner?</p> 
+      <a href="https://docs.google.com/a/google.com/forms/d/1nSvlxxcMySja_K88jUtMqjiEUP2Da2OkSF3cYm9_BoU/viewform" class="link section__cta" style="display: inline-block">Gi oss beskjed</a> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <footer class="footer"> 
+   <div class="container"> 
+    <div class="social footer__social">
+      Følg oss på: 
+     <a href="https://plus.google.com/+GoogleforEducation" class="footer__social-link footer__social-link--plus" target="_blank"></a> 
+     <a href="https://twitter.com/GoogleForEdu" class="footer__social-link footer__social-link--twitter" target="_blank"></a> 
+    </div> 
+    <nav class="footer__nav"> 
+     <img class="footer__logo" srcset="https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_74x24dp.png, https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_74x24dp.png 2x" alt="Google logo" width="74"> 
+     <a class="link footer__link" target="_blank" title="Hjelp" href="https://support.google.com/edu/expeditions"> Hjelp </a> 
+     <a class="link footer__link" target="_blank" title="Personvern" href="https://www.google.com/intl/nb/policies/"> Personvern </a> 
+     <a class="link footer__link" target="_blank" title="Vilkår" href="https://www.google.com/intl/nb/policies/terms/"> Vilkår </a> 
+     <div class="footer__selector"> 
+      <select onchange="window.location.href = this.value" class="language"> <option value="/intl/af_za/expeditions/partners/"> Afrikaans (Suid-Afrika) </option><option value="/intl/ar/expeditions/partners/"> العربية (الإمارات العربية المتحدة) </option><option value="/intl/da/expeditions/partners/"> dansk (Danmark) </option><option value="/intl/en_au/expeditions/partners/"> English (Australia) </option><option value="/intl/en_ca/expeditions/partners/"> English (Canada) </option><option value="/intl/en_in/expeditions/partners/"> English (India) </option><option value="/intl/en_nz/expeditions/partners/"> English (New Zealand) </option><option value="/intl/en_uk/expeditions/partners/"> English (United Kingdom) </option><option value="/expeditions/partners/"> English (United States) </option><option value="/intl/es-419_mx/expeditions/partners/"> español (México) </option><option value="/intl/es-419/expeditions/partners/"> español (Latinoamérica) </option><option value="/intl/fi/expeditions/partners/"> suomi (Suomi) </option><option value="/intl/fr_be/expeditions/partners/"> français (Belgique) </option><option value="/intl/id/expeditions/partners/"> Indonesia (Indonesia) </option><option value="/intl/ja/expeditions/partners/"> 日本語 (日本) </option><option value="/intl/ms/expeditions/partners/"> Bahasa Melayu (Malaysia) </option><option value="/intl/nl/expeditions/partners/"> Nederlands (Nederland) </option><option selected value="/intl/no/expeditions/partners/"> norsk bokmål (Norge) </option><option value="/intl/pt-BR/expeditions/partners/"> português (Brasil) </option><option value="/intl/sv/expeditions/partners/"> svenska (Sverige) </option><option value="/intl/th/expeditions/partners/"> ไทย (ไทย) </option><option value="/intl/tr/expeditions/partners/"> Türkçe (Türkiye) </option></select> 
+     </div> 
+    </nav> 
+   </div> 
+  </footer> 
+  <script src="https://www.gstatic.com/external_hosted/matchMedia/matchMedia.js"></script> 
+  <script src="https://www.gstatic.com/external_hosted/matchMedia/matchMedia.addListener.js"></script> 
+  <script src="https://www.gstatic.com/external_hosted/picturefill/picturefill.min.js"></script> 
+  <script src="https://ajax.googleapis.com/ajax/libs/hammerjs/2.0.8/hammer.min.js"></script> 
+  <script src="/js/expeditions.min.js" async></script>  
+ </body>
+</html>
