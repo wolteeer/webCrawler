@@ -1,6 +1,6 @@
 # webCrawler
 
-** Crawel which allows you to crawl any site**
+** Crawler which allows you to crawl any site**
 
 Fixes 11-4-2017: 
   Sitemap issues:
