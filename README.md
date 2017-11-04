@@ -14,6 +14,6 @@ Humanity-x.org - Centre for Innovation - Leiden University
 
 
 ## Fixes ##
-* Sitemap issues 11-04-2017 Since it is the first commit changes per function will be notated: function crawlDocumentsForSiteMapStrings() in crawler.java, changed forloop so it will recursivly call itself when a deeper sitemap(sitemap.xml?page=1) it will treat it as sitemap not as webpage. In line 461 in crawler.java there is added an extra requirement, not all sitemaps end with xml.  
+* Sitemap issues 11-04-2017 Since it is the first commit changes per function will be notated: function crawlDocumentsForSiteMapStrings() in crawler.java, changed forloop so it will recursively call itself when a deeper sitemap(sitemap.xml?page=1) it will treat it as sitemap not as webpage. In line 461 in crawler.java there is added an extra requirement, not all sitemaps end with xml.  
 
 
