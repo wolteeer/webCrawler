@@ -1,5 +1,7 @@
 # webCrawler
 
+** Crawel which allows you to crawl any site**
+
 Fixes 11-4-2017: 
   Sitemap issues:
      if the sitemap contained redirections to deeper sitemaps, e.g. sitemap.xml?page=1 the crawler recognized the deeper sitemap as normal
